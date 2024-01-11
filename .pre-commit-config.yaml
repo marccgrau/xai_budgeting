@@ -18,3 +18,4 @@ repos:
     rev: v1.7.1  # Use the latest revision
     hooks:
       - id: mypy
+        additional_dependencies: ['types-requests']

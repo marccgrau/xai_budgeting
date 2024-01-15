@@ -1,0 +1,101 @@
+kst_bisher,kst_neu,abk,kst_bezeichnung,id,nr
+1,,BB,Bürgerschaft und Behörden,3a73602e24f4e9f6bc49d5a7732de09c9be6dba8,1
+11,1100,,Stadtparlament und parlamentarische Kommissionen,337ac5335af5c15cc0b2b32a078dd66b0a992052,3
+12,1200,,Stadtrat,e6ab826cacfdae8944f6f75f7652d127488b49e2,6
+15,1500,,Ombudsstelle,e30e49a0c4dea4bd005a3a1ae7617a80f726c1c1,9
+19,190,KOM,Kommunikation,29a496727a625b8082f192147ba9dc52054fbb7d,28
+22,220,BD,Bevölkerungsdienste,87e3605b21874cbd7660c2216560e88b4c9e643b,53
+291,2300,,Kulturförderung,6ae6f2cb7c7bafa4d297d35bc5557c65c4cda2eb,61
+25,250,STA,Steueramt,7a607bafb697494950f610f4595d60a0d6c3e36e,118
+26,260,FIN,Finanzen,a6ad8d56cffdbebbc3e263c2b22967295cde976b,123
+,2600,,Verwaltung der Dienststelle,8957b1de330bdee03b25f70d8e786d566420cfbd,124
+269,2604,,Verlustscheinbewirtschaftung,421eaf7e48c52d3d3d6b3acbc6faaedd8209d285,137
+27,270,PD,Personaldienste,2d7c3f8a878c69562d732e199d9310e4f3ef77f4,148
+28,280,IDS,Informatikdienste,f6a61f279386b70ec51ab7fc77786bbb7c6e4951,161
+280,2800,,Verwaltung der Dienststelle,2ae2f9e7962ee69bccdb5fba572ea058b5805dad,162
+282,2802,,Output,6f6c5a5d36804e7a79db5a0dd6021fe1e1e5d722,166
+290,2900,,Organisationsentwicklung,fdc25bc05f5bfbf208730988268b9916b9050a9c,175
+3,,DBF,Direktion Bildung und Freizeit,9453ad13b35b76428dd0ed9260116f50bcaff08b,177
+314,3103,,Musikschule,eb1cf2abcaef71da8af2ce5011e72bef1bf1d001,208
+318,3105,,Tagesbetreuung,c07c79c5f4789cdb490d13e9aa08e4627da8fdcf,217
+33,330,SG,Schulgesundheit,c593d8725c92e9b566697b64d382c789327b6d76,221
+359,3509,,Ausgehende laufende Beiträge,640396a9254c62a6643beb662040a994f228444b,244
+43,430,STAPO,Stadtpolizei,6e36c1c8a4bbfe6d920e7f0539dd1ce9368c2c10,331
+43,4300,,Polizeidienst,c7c965e48d42579814db1c601c4149c8f29687c5,332
+440,4400,,Verwaltung der Dienststelle FW und Sicherheitsleistungen,7c3db4a835434fac64ed439913dcb35890f1d6de,351
+45,450,GF,Gesellschaftsfragen,34d954e3cb9496681003b60c5789f5a88a707d9e,367
+502,5001,,Ergebnisse der verwaltungseigenen Unternehmungen,8c68e6170c07edd827a87ff4edefe10e14e567e4,430
+509,5009,,Ausgehende laufende Beiträge,3611f105d0045a9497bcddd7f029faa06ffa806d,433
+52,520,UE,Umwelt und Energie,37b691877d2c8d5cae735368072c100d12cab81a,649
+624,6204,,Schulgebäude,2d5c001f271e5f7366649822293fa8c9018fbbbe,839
+63,630,SGR,Stadtgrün,6ce7bebcfb59d8f7199c4ceed8f8ec31e53da554,998
+,6304,,Öffentliche Anlagen,e785d4474799c809b253a127c95ab1a6e9cc7aef,1007
+,6305,,Friedhöfe,ad668b86efbc0206043cc4d4f71494721ae291bf,1013
+64,640,LIE,Liegenschaften,15e879827ac1236074774062acc786615515575a,1021
+,6500,,Amt für Baubewilligungen,58503c10b106112940060055fcd432b69995c44f,1357
+660,6600,,Verwaltung der Dienststelle,cf15ebd718ab84eabf851b1f92eaaee4ee6f49e5,1362
+,670,GBA,Grundbuchamt,a893f83f32883a163b144b2e7b20ada7ea6afe29,1372
+,6800,,Stadtplanung,2bbd3283a8220b9903774230c1780c4f581a678a,1376
+56,856,VBSG,Verkehrsbetriebe,466337501c20fb7ee077daa33ff40097785cf6c8,1385
+,931,SUM,IR Investitionen SUM,931e7f7b7862faba0852592a8cba769b70599c4b,1399
+,943,STAPO,IR Investitionen STAPO,f87b3b593779094e6aa8e2dc340eb5d76f46d8d8,1401
+,965,ABB,IR Investitionen ABB,2c09158e4a5721c43d11543e287935803a602d9a,1407
+11,110,,Stadtparlament,dba17f5e0551c305ba96d04db065796bd02d97a4,2
+291,230,KF,Kulturförderung,cdfb34a0b14532cd82280f2ca995873abd3a9326,60
+209,2309,,Ausgehende laufende Beiträge,eaf8aee3c86ce54c727740ba52346f259de08d2b,63
+25,2500,,Steueramt,adadbe9765b1fb859aea3d26bfe4156c0e527d15,119
+281,2801,,Informatik und Geräte der Büroautomation,e7773dbeba1dd67a0cfd713f7587d9251d595d1b,164
+283,2803,,Netzwerke,9c85bee9f68ffc136149e11128737719622e64bb,168
+30,300,SBF,Stab Bildung und Freizeit,30bf62ec9db754bbb0caca072bfe1086b126b997,178
+31,310,SUM,Schule und Musik,ef52b7651bbc145079aa7792b5a6bdac545d3660,189
+312,3102,,Oberstufe,f310dee12247f53fd32e266fd900f1a24331a420,201
+34,340,KJF,Kinder Jugend Familie,21213b98610d374aa3667f7603fde3654f00ab3a,229
+341,3401,,Stadtbibliothek,707478aee0086d2963f4ae95f067e1c6044830b6,238
+35,350,SPO,Sport,84c266d11fdcd142dd5d9701d338c8c82b72786a,240
+393,3903,,Anlagenbetrieb Bad,644e41b33f7abbf5edcbbd441568fc389b020e59,279
+394,3904,,Anlagenbetrieb Eis,0048cfed4bcafea24dff5d7d6681b1d8efda2418,285
+,4009,,Ausgehende laufende Beiträge,fdef494c5fa9cd97da031f064e9a55dad03dbeff,292
+,4100,,Verwaltung der Dienststelle,df1b5f3d9b10ed897b03f6bad2b0f8aded9c83ea,296
+,4101,,Krankenkassenprämien,0c0514f3202e9cd2387ee1536b713f454e4fbcb7,302
+,4105,,Betreutes Wohnen,87175175e19f04677ab76b75a53074026710d35a,325
+431,4301,,Marktpolizei,37c8bd2e6b4f8f0acdce6714567f2a2a9b4b3727,339
+442,4402,,Zvilschutz Stadt St.Gallen,a2f83880747f34a75e4cfa6c479f9a36989874b2,363
+,5000,,Stab Technische Betriebe,26929948e1d912703924a0aa0b0051405d08f470,427
+,5200,,Umwelt und Energie,76d56c9666cc1c3eb7df8af05a81aeb1c0dfaaf6,650
+609,6009,,Ausgehende laufende Beiträge,39b7fa018925147d00a753ed08ba7381cb45014e,662
+62,620,HBA,Hochbauamt,28052c682f5b91492eb30e42c49c91d96b40dec4,771
+625,6205,,Sportgebäude,d9162d69ead08dc08f4813a0c1e3cafac729216e,977
+643,6403,,Bauplätze,127be4dfb82dcf0d92ade9d8f0aeaf63e31c0961,1350
+645,6405,,Bodenabschnitte,af237b161b9988ebd916de0040b446bf68bc1629,1354
+65,650,ABB,Amt für Baubewilligungen,7406766815a0612c5e19c7614a21b3478306beea,1356
+55,855,SGSW,Stadtwerke,434953466e74596738bb7362b09ca9aef210e5be,1382
+,8550,,Stadtwerke,9230982a5724af72098b8dbb4bde48a95a3baf15,1383
+,916,SK,IR Investitionen SK,e813ae69a8f4cf0d2de360e0e80225641f5e02df,1393
+,927,PD,IR Investitionen PD,c343a3e72ed3d2b9b7503f4ad59b79a6fe352728,1396
+160,1600,,Stadtkanzlei,2e6092b903d3ae4b24113ed3872b6bb4c544330d,12
+17,170,RL,Recht und Legistik,11688de35b880f9e47f2f98520a5352b92132a52,22
+18,1800,,Finanzkontrolle,5eeaa8e86422ac0b256f090585ae65b7247a03f8,26
+19,1900,,Kommunikation,f8d9ded6849a7cacae58a6fd9d94aeaab3becb90,29
+220,2200,,Bevölkerungsdienste,ad8aacdebb952c5ff95ad86d5dc8e88b22bb33ff,54
+24,240,BA,Betreibungsamt,e691814e9e464682ba7c5c25c2793a31c7dea606,115
+268,2602,,Abschreibungen auf VV (bestehende Buchwerte bis 31.12.2021),c3807f8d287791e4e156c138e55d1730e234822f,128
+263,2603,,Treasury,3ddfabcf6be77eb106136261ddbdbca585fe4b41,132
+,2606,,Beschaffungskoordination,57012bb469eb2dfd2cbbc6a29c6f1de3d9878ada,141
+273,2703,,Nicht aufteilbarer Personalaufwand/-ertrag,e81b08836712d80643c4e8e395fb74d0e20f6661,155
+274,2704,,Caféteria Rathaus und Amtshaus,9e63a5689a08d066edf1871f59c267b9e233d7b7,159
+319,3104,,Schulgelder und Zusatzangebote,69f3db7e7b159e216bfdfc2963ce9fd16096ddd2,210
+350,3500,,Sekretariat und Dienste,82e2ebb5c530d3bc0cd0f7a81b3b55cfe6de5f50,241
+390,3900,,Sekretariat und Dienste,afe038d075ee949031c0880ad5dacd0e46af961e,258
+401,4000,,Sekretariat und Dienste,8589aa6f124c6b1f77fde9f0df1df8526eced167,290
+,4103,,Asyl- und Flüchtlingswesen,6b8f32cdc17c24560e778895a72522e045e492df,309
+42,4200,,KESB,61fc877beb2c625f4665f304ba990feffef0dfe0,328
+44,440,FWZSSG,Feuerwehr und Zivilschutz,f44988045f181512c9b3220f58aff39e634a9c5b,350
+441,4401,,Feuerwehr,8de46d188b23fe41997ffda00dfb5307d679010d,357
+450,4500,,Verwaltung der Dienststelle,6267baac33c0b4e349c2a2ce404cd7e5838ed790,368
+512,5102,,Deponie,86f39ec57fbabf6e592af27e17408c4d7453239a,479
+6,,DPB,Direktion Planung und Bau,9ecbcfed2370bb263ee669a66416ebc1d1088976,658
+61,610,TBA,Tiefbauamt,1ac63d8d6b656d20b437796ee962490b67842087,691
+610,6100,,Tiefbauamt,260649ebc47c8e2ba3bc01a4c0c01c4e05076aaa,692
+621,6201,,Öffentliche Gebäude,a85a97d58c11426a1c4d5a37f172a2d9e81179d8,774
+,6301,,"Fahrzeuge, Maschinen und Werkstätten",7978c190b6eb5d6b0101e7207a06b5fe5dd037c3,1001
+,6302,,Bauten und Objekte,96a607d559cee6db3ff3884dcf654869b6433696,1003

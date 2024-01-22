@@ -1,0 +1,505 @@
+HRM2-ID,HRM2-Bezeichnung,Rechnung 2010,Budget 2011,Rechnung 2011,Budget 2012,Source,Kanton,Year
+30,Personalaufwand,4605152.0,4736464.0,7369400.9,4663153.945,ZH HRM2,ZH,2011
+31,Sach- und übriger Betriebsaufwand,2608960.0,2627790.0,2693614.8,2515883.068,ZH HRM2,ZH,2011
+33,Abschreibungen Verwaltungsvermögen,545973.0,439101.0,501069.37,462796.042,ZH HRM2,ZH,2011
+35,Einlagen in Fonds und Spezialfinanzierungen,85972.0,25385.0,71126.1,20483.2,ZH HRM2,ZH,2011
+36,Transferaufwand,4099009.0,4303978.0,4197364.68,6783695.865,ZH HRM2,ZH,2011
+37,Durchlaufende Beiträge,606276.0,617662.0,628148.3,627812.0,ZH HRM2,ZH,2011
+39,Interne Verrechungen,0.0,0.0,0.0,0.0,ZH HRM2,ZH,2011
+40,Fiskaleinnahmen,6090808.0,6012225.0,6471376.4,6035748.0,ZH HRM2,ZH,2011
+41,Regalien und Konzessionen,373622.0,372180.0,373468.06,81778.0,ZH HRM2,ZH,2011
+42,Entgelte,2482491.0,2527698.0,2614914.8,2687466.602,ZH HRM2,ZH,2011
+43,Verschiedene Erträge,266523.0,233154.0,294132.0,256947.3,ZH HRM2,ZH,2011
+45,Entnahmen aus Fonds und Spezialfinanzierungen,417.0,56403.376,2557.4,191987.363,ZH HRM2,ZH,2011
+46,Transferertrag,3013904.0,2883931.0,3022311.99,4837160.612,ZH HRM2,ZH,2011
+47,Durchlaufende Beiträge,606276.0,617630.0,628099.29,627812.0,ZH HRM2,ZH,2011
+49,Interne Verrechnungen,0.0,0.0,0.0,0.0,ZH HRM2,ZH,2011
+34,Finanzaufwand,164869.0,152156.0,212614.19,157223.746,ZH HRM2,ZH,2011
+440,Zinsertrag,62399.0,58187.0,58520.28,61854.0,ZH HRM2,ZH,2011
+441,Realisierte Gewinne FV,28156.0,186.0,37984.7,131.2,ZH HRM2,ZH,2011
+442,Beteiligungsertrag FV,164.0,17.0,217.8,17.0,ZH HRM2,ZH,2011
+443,Liegenschaftenertrag FV,19729.0,18593.0,20872.5,21213.2,ZH HRM2,ZH,2011
+444,Wertberichtigungen Anlagen FV,5456.0,2200.0,77765.3,2000.0,ZH HRM2,ZH,2011
+445,Finanzertrag aus Darlehen und Beteiligungen VV,17246.0,12087.0,16288.3,35257.0,ZH HRM2,ZH,2011
+446,Finanzertrag von öffentlichen Unternehmungen,303474.0,271204.0,285482.6,276735.0,ZH HRM2,ZH,2011
+447,Liegenschaftenertrag VV,30423.0,27256.0,31397.1,25750.4,ZH HRM2,ZH,2011
+448,Erträge von gemieteten Liegenschaften,2874.0,1557.0,3687.1,2701.6,ZH HRM2,ZH,2011
+449,übriger Finanzertrag,10122.0,200.0,10969.0,200.0,ZH HRM2,ZH,2011
+38,Ausserordentlicher Aufwand,0.0,0.0,0.0,0.0,ZH HRM2,ZH,2011
+48,Ausserordentlicher Ertrag,0.0,0.0,0.0,0.0,ZH HRM2,ZH,2011
+3,Aufwand,12716211.0,12902536.0,15673338.339999998,15231047.866,ZH HRM2,ZH,2011
+4,Ertrag,13314084.0,13094708.376,13950044.620000001,15144759.276999999,ZH HRM2,ZH,2011
+57,Durchlaufende Investitionsbeiträge,16977.158,12524.0,34695.4,13816.0,ZH HRM2,ZH,2011
+58,a.o Investitionsausgaben,0.0,0.0,0.0,0.0,ZH HRM2,ZH,2011
+5,Investitionsausgaben gesamt,985825.0,897925.0,983091.9,1045594.47,ZH HRM2,ZH,2011
+67,Durchlaufende Investitionsbeiträge,16977.158,12524.0,34695.4,13816.0,ZH HRM2,ZH,2011
+68,a.o Investitionseinnahmen,0.0,0.0,0.0,0.0,ZH HRM2,ZH,2011
+6,Investitionseinnahmen gesamt,214119.0,133925.0,306082.3,98422.0,ZH HRM2,ZH,2011
+10,Finanzvermögen,5613828.0,0.0,6242170.2,0.0,ZH HRM2,ZH,2011
+14,Verwaltungsvermögen,14337099.0,0.0,14362143.3,0.0,ZH HRM2,ZH,2011
+1,Aktiven,19950927.0,0.0,20604313.5,0.0,ZH HRM2,ZH,2011
+20,Fremdkapital,9935836.0,0.0,12295727.6,0.0,ZH HRM2,ZH,2011
+29,Eigenkapital,10015091.0,0.0,8308585.8,0.0,ZH HRM2,ZH,2011
+2,Passiven,19950927.0,0.0,20604313.4,0.0,ZH HRM2,ZH,2011
+39,Selbstfinanzierung,1259685.42829,838072.3760000002,-1061799.6100699974,511238.07499999925,ZH HRM2,ZH,2011
+40,Selbstfinanzierungsanteil,0.10302196586618782,0.06966990423626268,-0.0831076016319635,0.03678209784043578,ZH HRM2,ZH,2011
+31,Bruttoschulden,5740602.0,0.0,5118556.908,0.0,ZH HRM2,ZH,2011
+32,Bruttoverschuldungsanteil,0.46948872314748874,0.0,0.4006320819919642,0.0,ZH HRM2,ZH,2011
+33,Nettoschuld I,4322008.0,0.0,6053557.399999999,0.0,ZH HRM2,ZH,2011
+34,Nettoschuld II,904018.0,0.0,2665493.000000001,0.0,ZH HRM2,ZH,2011
+36,Nettoverschuldungsquotient,0.5927405690673553,0.0,0.8257234890555892,0.0,ZH HRM2,ZH,2011
+37,Eigenkapital (in 1000 Fr.),10015091.0,0.0,8308585.8,0.0,ZH HRM2,ZH,2011
+38,Eigenkapitaldeckungsgrad,0.6625764713022819,0.0,0.40717607977785314,0.0,ZH HRM2,ZH,2011
+42,Kapitaldienstanteil,0.05132110413476414,0.043687986254766324,0.04551198651289459,0.0395357733722768,ZH HRM2,ZH,2011
+43,Saldo der Finanzerträge,315174.0,239331.0,330570.48999999993,268635.654,ZH HRM2,ZH,2011
+44,Bruttorendite des Finanzvermögens,0.020646161585285476,,0.031296900555515136,,ZH HRM2,ZH,2011
+45,Zinsbelastungsanteil,0.00666931210267345,0.007185023627529971,0.006293029190812222,0.006238939412853001,ZH HRM2,ZH,2011
+47,Investitionsanteil,0.07783887396128575,0.06968484995304108,0.061498764650678175,0.06809639051890355,ZH HRM2,ZH,2011
+30,Personalaufwand,,,,620155.19101,LU HRM2,LU,2011
+31,Sach- und übriger Betriebsaufwand,,,,223471.6151,LU HRM2,LU,2011
+33,Abschreibungen Verwaltungsvermögen,,,,121442.671,LU HRM2,LU,2011
+35,Einlagen in Fonds und Spezialfinanzierungen,,,,0.0,LU HRM2,LU,2011
+36,Transferaufwand,,,,1631953.334,LU HRM2,LU,2011
+37,Durchlaufende Beiträge,,,,436322.55,LU HRM2,LU,2011
+39,Interne Verrechungen,,,,403009.064,LU HRM2,LU,2011
+40,Fiskaleinnahmen,,,,1060509.0,LU HRM2,LU,2011
+41,Regalien und Konzessionen,,,,51519.0,LU HRM2,LU,2011
+42,Entgelte,,,,203043.787,LU HRM2,LU,2011
+43,Verschiedene Erträge,,,,250.0,LU HRM2,LU,2011
+45,Entnahmen aus Fonds und Spezialfinanzierungen,,,,2492.522,LU HRM2,LU,2011
+46,Transferertrag,,,,1189788.112,LU HRM2,LU,2011
+47,Durchlaufende Beiträge,,,,436322.55,LU HRM2,LU,2011
+49,Interne Verrechnungen,,,,403009.06407,LU HRM2,LU,2011
+34,Finanzaufwand,,,,42153.319,LU HRM2,LU,2011
+440,Zinsertrag,,,,5139.2,LU HRM2,LU,2011
+441,Realisierte Gewinne FV,,,,0.0,LU HRM2,LU,2011
+442,Beteiligungsertrag FV,,,,15187.0,LU HRM2,LU,2011
+443,Liegenschaftenertrag FV,,,,7310.0,LU HRM2,LU,2011
+444,Wertberichtigungen Anlagen FV,,,,0.0,LU HRM2,LU,2011
+445,Finanzertrag aus Darlehen und Beteiligungen VV,,,,74808.166,LU HRM2,LU,2011
+446,Finanzertrag von öffentlichen Unternehmungen,,,,0.0,LU HRM2,LU,2011
+447,Liegenschaftenertrag VV,,,,22425.621,LU HRM2,LU,2011
+448,Erträge von gemieteten Liegenschaften,,,,0.0,LU HRM2,LU,2011
+449,übriger Finanzertrag,,,,0.0,LU HRM2,LU,2011
+38,Ausserordentlicher Aufwand,,,,0.0,LU HRM2,LU,2011
+48,Ausserordentlicher Ertrag,,,,0.0,LU HRM2,LU,2011
+3,Aufwand,0.0,0.0,0.0,3478507.7441100003,LU HRM2,LU,2011
+4,Ertrag,0.0,0.0,0.0,3471804.02207,LU HRM2,LU,2011
+57,Durchlaufende Investitionsbeiträge,,,,12675.0,LU HRM2,LU,2011
+58,a.o Investitionsausgaben,,,,0.0,LU HRM2,LU,2011
+5,Investitionsausgaben gesamt,0.0,0.0,0.0,230180.77905,LU HRM2,LU,2011
+67,Durchlaufende Investitionsbeiträge,,,,12675.0,LU HRM2,LU,2011
+68,a.o Investitionseinnahmen,,,,0.0,LU HRM2,LU,2011
+6,Investitionseinnahmen gesamt,0.0,0.0,0.0,84314.615,LU HRM2,LU,2011
+10,Finanzvermögen,,,,,LU HRM2,LU,2011
+14,Verwaltungsvermögen,,,,,LU HRM2,LU,2011
+1,Aktiven,0.0,0.0,0.0,0.0,LU HRM2,LU,2011
+20,Fremdkapital,,,,,LU HRM2,LU,2011
+29,Eigenkapital,,,,,LU HRM2,LU,2011
+2,Passiven,0.0,0.0,0.0,0.0,LU HRM2,LU,2011
+39,Selbstfinanzierung,0.0,0.0,0.0,121240.20695999954,LU HRM2,LU,2011
+40,Selbstfinanzierungsanteil,0.0,0.0,0.0,0.0483971609422791,LU HRM2,LU,2011
+31,Bruttoschulden,0.0,0.0,0.0,0.0,LU HRM2,LU,2011
+32,Bruttoverschuldungsanteil,0.0,0.0,0.0,0.0,LU HRM2,LU,2011
+33,Nettoschuld I,0.0,0.0,0.0,0.0,LU HRM2,LU,2011
+34,Nettoschuld II,0.0,0.0,0.0,0.0,LU HRM2,LU,2011
+36,Nettoverschuldungsquotient,0.0,0.0,0.0,0.0,LU HRM2,LU,2011
+37,Eigenkapital,0.0,0.0,0.0,0.0,LU HRM2,LU,2011
+38,Eigenkapitaldeckungsgrad,0.0,0.0,0.0,0.0,LU HRM2,LU,2011
+42,Kapitaldienstanteil,0.0,0.0,0.0,0.0592694440508456,LU HRM2,LU,2011
+43,Saldo der Finanzerträge,0.0,0.0,0.0,82716.66799999999,LU HRM2,LU,2011
+44,Bruttorendite des Finanzvermögens,,,,,LU HRM2,LU,2011
+45,Zinsbelastungsanteil,0.0,0.0,0.0,0.010791462686244408,LU HRM2,LU,2011
+47,Investitionsanteil,0.0,0.0,0.0,0.07951983724696655,LU HRM2,LU,2011
+30,Personalaufwand,,,,100828.0,UR HRM2,UR,2011
+31,Sach- und übriger Betriebsaufwand,,,,54768.0,UR HRM2,UR,2011
+33,Abschreibungen Verwaltungsvermögen,,,,9159.0,UR HRM2,UR,2011
+35,Einlagen in Fonds und Spezialfinanzierungen,,,,765.0,UR HRM2,UR,2011
+36,Transferaufwand,,,,172285.0,UR HRM2,UR,2011
+37,Durchlaufende Beiträge,,,,27470.0,UR HRM2,UR,2011
+39,Interne Verrechungen,,,,15042.0,UR HRM2,UR,2011
+40,Fiskaleinnahmen,,,,79136.0,UR HRM2,UR,2011
+41,Regalien und Konzessionen,,,,31701.0,UR HRM2,UR,2011
+42,Entgelte,,,,21219.0,UR HRM2,UR,2011
+43,Verschiedene Erträge,,,,1544.0,UR HRM2,UR,2011
+45,Entnahmen aus Fonds und Spezialfinanzierungen,,,,1292.0,UR HRM2,UR,2011
+46,Transferertrag,,,,193528.0,UR HRM2,UR,2011
+47,Durchlaufende Beiträge,,,,27470.0,UR HRM2,UR,2011
+49,Interne Verrechnungen,,,,15042.0,UR HRM2,UR,2011
+34,Finanzaufwand,,,,2921.0,UR HRM2,UR,2011
+440,Zinsertrag,,,,306.0,UR HRM2,UR,2011
+441,Realisierte Gewinne FV,,,,2565.0,UR HRM2,UR,2011
+442,Beteiligungsertrag FV,,,,265.0,UR HRM2,UR,2011
+443,Liegenschaftenertrag FV,,,,274.0,UR HRM2,UR,2011
+444,Wertberichtigungen Anlagen FV,,,,0.0,UR HRM2,UR,2011
+445,Finanzertrag aus Darlehen und Beteiligungen VV,,,,12.0,UR HRM2,UR,2011
+446,Finanzertrag von öffentlichen Unternehmungen,,,,8900.0,UR HRM2,UR,2011
+447,Liegenschaftenertrag VV,,,,2883.0,UR HRM2,UR,2011
+448,Erträge von gemieteten Liegenschaften,,,,17.0,UR HRM2,UR,2011
+449,übriger Finanzertrag,,,,0.0,UR HRM2,UR,2011
+38,Ausserordentlicher Aufwand,,,,0.0,UR HRM2,UR,2011
+48,Ausserordentlicher Ertrag,,,,0.0,UR HRM2,UR,2011
+3,Aufwand,0.0,0.0,0.0,383238.0,UR HRM2,UR,2011
+4,Ertrag,0.0,0.0,0.0,386154.0,UR HRM2,UR,2011
+57,Durchlaufende Investitionsbeiträge,,,,1971.0,UR HRM2,UR,2011
+58,a.o Investitionsausgaben,,,,0.0,UR HRM2,UR,2011
+5,Investitionsausgaben gesamt,0.0,0.0,0.0,67649.0,UR HRM2,UR,2011
+67,Durchlaufende Investitionsbeiträge,,,,1971.0,UR HRM2,UR,2011
+68,a.o Investitionseinnahmen,,,,0.0,UR HRM2,UR,2011
+6,Investitionseinnahmen gesamt,0.0,0.0,0.0,41295.0,UR HRM2,UR,2011
+10,Finanzvermögen,,,,,UR HRM2,UR,2011
+14,Verwaltungsvermögen,,,,,UR HRM2,UR,2011
+1,Aktiven,0.0,0.0,0.0,0.0,UR HRM2,UR,2011
+20,Fremdkapital,,,,,UR HRM2,UR,2011
+29,Eigenkapital,,,,,UR HRM2,UR,2011
+2,Passiven,0.0,0.0,0.0,0.0,UR HRM2,UR,2011
+39,Selbstfinanzierung,0.0,0.0,0.0,14042.0,UR HRM2,UR,2011
+40,Selbstfinanzierungsanteil,0.0,0.0,0.0,0.04292509354136607,UR HRM2,UR,2011
+31,Bruttoschulden,0.0,0.0,0.0,0.0,UR HRM2,UR,2011
+32,Bruttoverschuldungsanteil,0.0,0.0,0.0,0.0,UR HRM2,UR,2011
+33,Nettoschuld I,0.0,0.0,0.0,0.0,UR HRM2,UR,2011
+34,Nettoschuld II,0.0,0.0,0.0,0.0,UR HRM2,UR,2011
+36,Nettoverschuldungsquotient,0.0,0.0,0.0,0.0,UR HRM2,UR,2011
+37,Eigenkapital,0.0,0.0,0.0,0.0,UR HRM2,UR,2011
+38,Eigenkapitaldeckungsgrad,0.0,0.0,0.0,0.0,UR HRM2,UR,2011
+42,Kapitaldienstanteil,0.0,0.0,0.0,0.035454011885255925,UR HRM2,UR,2011
+43,Saldo der Finanzerträge,0.0,0.0,0.0,12301.0,UR HRM2,UR,2011
+44,Bruttorendite des Finanzvermögens,,,,,UR HRM2,UR,2011
+45,Zinsbelastungsanteil,0.0,0.0,0.0,0.007455797119170477,UR HRM2,UR,2011
+47,Investitionsanteil,0.0,0.0,0.0,0.16565274414850686,UR HRM2,UR,2011
+30,Personalaufwand,67588.39622,72313.6,71127.0,73551.0,NW HRM2,NW,2011
+31,Sach- und übriger Betriebsaufwand,28009.43572,26277.9,25939.1,25308.0,NW HRM2,NW,2011
+33,Abschreibungen Verwaltungsvermögen,11873.88795,11809.0,12246.5,9303.0,NW HRM2,NW,2011
+35,Einlagen in Fonds und Spezialfinanzierungen,702.48385,251.9,1134.7,244.0,NW HRM2,NW,2011
+36,Transferaufwand,175643.30011,183976.7,192488.0,191226.0,NW HRM2,NW,2011
+37,Durchlaufende Beiträge,21988.05175,22169.0,22038.5,22356.0,NW HRM2,NW,2011
+39,Interne Verrechungen,27048.68979,28059.2,28204.3,27979.0,NW HRM2,NW,2011
+40,Fiskaleinnahmen,160583.62425,157235.0,160292.5,169565.0,NW HRM2,NW,2011
+41,Regalien und Konzessionen,17134.0654,17639.0,17288.0,8962.0,NW HRM2,NW,2011
+42,Entgelte,23145.06314,21148.6,22944.2,20699.0,NW HRM2,NW,2011
+43,Verschiedene Erträge,15.15765,81.0,75.2,31.0,NW HRM2,NW,2011
+45,Entnahmen aus Fonds und Spezialfinanzierungen,217.68115,517.8,565.3,383.0,NW HRM2,NW,2011
+46,Transferertrag,78671.27186,78503.1,78341.9,80773.0,NW HRM2,NW,2011
+47,Durchlaufende Beiträge,21988.05175,22169.0,22038.5,22356.0,NW HRM2,NW,2011
+49,Interne Verrechnungen,27048.68979,28059.2,28204.3,27979.0,NW HRM2,NW,2011
+34,Finanzaufwand,4324.929,3308.5,4081.8,3048.0,NW HRM2,NW,2011
+440,Zinsertrag,3552.75932,1135.9,2753.7,2486.0,NW HRM2,NW,2011
+441,Realisierte Gewinne FV,518.8,0.0,12.5,0.0,NW HRM2,NW,2011
+442,Beteiligungsertrag FV,3.7158,3.0,5.4,4.0,NW HRM2,NW,2011
+443,Liegenschaftenertrag FV,138.0996,166.0,178.7,136.0,NW HRM2,NW,2011
+444,Wertberichtigungen Anlagen FV,18.535,0.0,165.1,0.0,NW HRM2,NW,2011
+445,Finanzertrag aus Darlehen und Beteiligungen VV,244.164,1520.0,79.5,90.0,NW HRM2,NW,2011
+446,Finanzertrag von öffentlichen Unternehmungen,11629.153,13593.5,14180.1,12818.0,NW HRM2,NW,2011
+447,Liegenschaftenertrag VV,5933.50275,6093.0,6191.9,1985.0,NW HRM2,NW,2011
+448,Erträge von gemieteten Liegenschaften,0.0,0.0,0.0,0.0,NW HRM2,NW,2011
+449,übriger Finanzertrag,0.0,0.0,0.0,0.0,NW HRM2,NW,2011
+38,Ausserordentlicher Aufwand,13386.85497,0.0,-1263.4,3709.0,NW HRM2,NW,2011
+48,Ausserordentlicher Ertrag,0.0,0.0,3288.0,8977.0,NW HRM2,NW,2011
+3,Aufwand,350566.02936,348165.8,355996.49999999994,356724.0,NW HRM2,NW,2011
+4,Ertrag,350842.3344599999,347864.10000000003,356604.8,357244.0,NW HRM2,NW,2011
+57,Durchlaufende Investitionsbeiträge,1451.714,1870.0,1074.5,1180.0,NW HRM2,NW,2011
+58,a.o Investitionsausgaben,0.0,0.0,0.0,0.0,NW HRM2,NW,2011
+5,Investitionsausgaben gesamt,57246.73297,55314.0,99735.4,38410.0,NW HRM2,NW,2011
+67,Durchlaufende Investitionsbeiträge,1451.714,1870.0,1074.5,1180.0,NW HRM2,NW,2011
+68,a.o Investitionseinnahmen,0.0,0.0,0.0,0.0,NW HRM2,NW,2011
+6,Investitionseinnahmen gesamt,23746.8513,19335.0,61296.5,12121.0,NW HRM2,NW,2011
+10,Finanzvermögen,284433.0,,254641.0,,NW HRM2,NW,2011
+14,Verwaltungsvermögen,106101.0,,142056.0,,NW HRM2,NW,2011
+1,Aktiven,390534.0,0.0,396697.0,0.0,NW HRM2,NW,2011
+20,Fremdkapital,270652.0,,266323.0,,NW HRM2,NW,2011
+29,Eigenkapital,119882.0,,130374.0,,NW HRM2,NW,2011
+2,Passiven,390534.0,0.0,396697.0,0.0,NW HRM2,NW,2011
+39,Selbstfinanzierung,30065.849019999965,23475.300000000025,18171.49999999999,11905.0,NW HRM2,NW,2011
+40,Selbstfinanzierungsanteil,0.10755119643932497,0.08548698921038717,0.06514441363754012,0.04251330214619862,NW HRM2,NW,2011
+31,Bruttoschulden,245322.0,0.0,240593.0,0.0,NW HRM2,NW,2011
+32,Bruttoverschuldungsanteil,0.8775629317947035,0.0,0.8625204254077372,0.0,NW HRM2,NW,2011
+33,Nettoschuld I,-13781.0,0.0,11682.0,0.0,NW HRM2,NW,2011
+34,Nettoschuld II,-111877.0,0.0,-130033.0,0.0,NW HRM2,NW,2011
+36,Nettoverschuldungsquotient,-0.08581821505376816,0.0,0.07287926758893896,0.0,NW HRM2,NW,2011
+37,Eigenkapital,119882.0,0.0,130374.0,0.0,NW HRM2,NW,2011
+38,Eigenkapitaldeckungsgrad,0.20191403058739044,0.0,0.19148119111280773,0.0,NW HRM2,NW,2011
+42,Kapitaldienstanteil,0.0439471002165761,0.050834884946361465,0.04743856962276718,0.035156947469913935,NW HRM2,NW,2011
+43,Saldo der Finanzerträge,17713.80047,19202.9,19485.100000000002,14471.0,NW HRM2,NW,2011
+44,Bruttorendite des Finanzvermögens,0.01487840623275077,0.0,0.012234479129441055,0.0,NW HRM2,NW,2011
+45,Zinsbelastungsanteil,0.0014719698931489234,0.007831564197086232,0.003535146041217201,0.0019355069099739313,NW HRM2,NW,2011
+47,Investitionsanteil,0.1683813288109526,0.15750291685712073,0.2514955513274643,0.11269421817818581,NW HRM2,NW,2011
+30,Personalaufwand,0.0,71142.0,71379.2,67758.5,GL HRM2,GL,2011
+31,Sach- und übriger Betriebsaufwand,0.0,29846.0,31330.8,29880.5,GL HRM2,GL,2011
+33,Abschreibungen Verwaltungsvermögen,0.0,14266.0,9019.0,13896.2,GL HRM2,GL,2011
+35,Einlagen in Fonds und Spezialfinanzierungen,0.0,2980.0,3306.2,3575.1,GL HRM2,GL,2011
+36,Transferaufwand,0.0,190917.0,189993.0,160896.0,GL HRM2,GL,2011
+37,Durchlaufende Beiträge,0.0,25716.0,28430.6,24177.5,GL HRM2,GL,2011
+39,Interne Verrechungen,0.0,10661.0,10680.1,12372.6,GL HRM2,GL,2011
+40,Fiskaleinnahmen,0.0,109634.0,110076.0,100769.0,GL HRM2,GL,2011
+41,Regalien und Konzessionen,0.0,15591.3,16143.6,7413.1,GL HRM2,GL,2011
+42,Entgelte,0.0,54263.8,58263.1,29382.9,GL HRM2,GL,2011
+43,Verschiedene Erträge,0.0,217.0,135.6,234.5,GL HRM2,GL,2011
+45,Entnahmen aus Fonds und Spezialfinanzierungen,0.0,5804.0,14928.6,1360.9,GL HRM2,GL,2011
+46,Transferertrag,0.0,115336.0,118667.8,122864.9,GL HRM2,GL,2011
+47,Durchlaufende Beiträge,0.0,25716.0,28430.6,24177.5,GL HRM2,GL,2011
+49,Interne Verrechnungen,0.0,10661.0,10680.1,12372.6,GL HRM2,GL,2011
+34,Finanzaufwand,0.0,4755.0,5543.6,4371.5,GL HRM2,GL,2011
+440,Zinsertrag,0.0,6480.0,6678.3,6425.1,GL HRM2,GL,2011
+441,Realisierte Gewinne FV,0.0,0.0,0.0,0.0,GL HRM2,GL,2011
+442,Beteiligungsertrag FV,0.0,4227.0,1733.7,2281.0,GL HRM2,GL,2011
+443,Liegenschaftenertrag FV,0.0,1202.0,1131.9,1063.2,GL HRM2,GL,2011
+444,Wertberichtigungen Anlagen FV,0.0,0.0,1067.0,0.0,GL HRM2,GL,2011
+445,Finanzertrag aus Darlehen und Beteiligungen VV,0.0,0.0,9.0,20.0,GL HRM2,GL,2011
+446,Finanzertrag von öffentlichen Unternehmungen,0.0,1750.0,2304.4,1880.0,GL HRM2,GL,2011
+447,Liegenschaftenertrag VV,0.0,135.0,301.8,135.5,GL HRM2,GL,2011
+448,Erträge von gemieteten Liegenschaften,0.0,0.0,0.0,0.0,GL HRM2,GL,2011
+449,übriger Finanzertrag,0.0,0.0,0.0,0.0,GL HRM2,GL,2011
+38,Ausserordentlicher Aufwand,0.0,200.0,12901.1,200.0,GL HRM2,GL,2011
+48,Ausserordentlicher Ertrag,0.0,8270.0,134.4,3587.6,GL HRM2,GL,2011
+3,Aufwand,0.0,350483.0,362583.5999999999,317127.89999999997,GL HRM2,GL,2011
+4,Ertrag,0.0,359287.1,370685.9,313967.79999999993,GL HRM2,GL,2011
+57,Durchlaufende Investitionsbeiträge,0.0,2661.0,3607.3,1970.0,GL HRM2,GL,2011
+58,a.o Investitionsausgaben,0.0,0.0,0.0,0.0,GL HRM2,GL,2011
+5,Investitionsausgaben gesamt,0.0,29993.0,30140.1,28418.4,GL HRM2,GL,2011
+67,Durchlaufende Investitionsbeiträge,0.0,2661.0,3607.3,1970.0,GL HRM2,GL,2011
+68,a.o Investitionseinnahmen,0.0,0.0,0.0,0.0,GL HRM2,GL,2011
+6,Investitionseinnahmen gesamt,0.0,10016.0,12454.400000000001,10951.5,GL HRM2,GL,2011
+10,Finanzvermögen,0.0,,373965.0,,GL HRM2,GL,2011
+14,Verwaltungsvermögen,0.0,,199272.0,,GL HRM2,GL,2011
+1,Aktiven,0.0,0.0,573237.0,0.0,GL HRM2,GL,2011
+20,Fremdkapital,0.0,,194722.0,,GL HRM2,GL,2011
+29,Eigenkapital,0.0,,378514.9,,GL HRM2,GL,2011
+2,Passiven,0.0,0.0,573236.9,0.0,GL HRM2,GL,2011
+39,Selbstfinanzierung,0.0,16586.099999999977,20670.8,13427.400000000003,GL HRM2,GL,2011
+40,Selbstfinanzierungsanteil,0.0,0.056216045100004296,0.06815610738507302,0.051512212638166174,GL HRM2,GL,2011
+31,Bruttoschulden,0.0,0.0,162165.3,0.0,GL HRM2,GL,2011
+32,Bruttoverschuldungsanteil,0.0,0.0,0.5346941386367524,0.0,GL HRM2,GL,2011
+33,Nettoschuld I,0.0,0.0,-179243.0,0.0,GL HRM2,GL,2011
+34,Nettoschuld II,0.0,0.0,-287424.2,0.0,GL HRM2,GL,2011
+36,Nettoverschuldungsquotient,0.0,0.0,-1.6283567716850176,0.0,GL HRM2,GL,2011
+37,Eigenkapital,0.0,0.0,378514.9,0.0,GL HRM2,GL,2011
+38,Eigenkapitaldeckungsgrad,0.0,0.0,0.16533857871191138,0.0,GL HRM2,GL,2011
+42,Kapitaldienstanteil,0.0,0.035771166216617904,0.016994514420542187,0.03775966338326216,GL HRM2,GL,2011
+43,Saldo der Finanzerträge,0.0,9039.0,7682.499999999998,7433.300000000001,GL HRM2,GL,2011
+44,Bruttorendite des Finanzvermögens,,,0.028374045699463852,,GL HRM2,GL,2011
+45,Zinsbelastungsanteil,0.0,-0.012581255353049617,-0.012743083181194258,-0.01555103036701598,GL HRM2,GL,2011
+47,Investitionsanteil,0.0,0.08436010765697918,0.08169483655675207,0.09140470750624924,GL HRM2,GL,2011
+30,Personalaufwand,,,,305417.09,ZG HRM2,ZG,2011
+31,Sach- und übriger Betriebsaufwand,,,,112700.4556,ZG HRM2,ZG,2011
+33,Abschreibungen Verwaltungsvermögen,,,,64301.0,ZG HRM2,ZG,2011
+35,Einlagen in Fonds und Spezialfinanzierungen,,,,8170.5,ZG HRM2,ZG,2011
+36,Transferaufwand,,,,776025.224,ZG HRM2,ZG,2011
+37,Durchlaufende Beiträge,,,,79002.8,ZG HRM2,ZG,2011
+39,Interne Verrechungen,,,,4977.583,ZG HRM2,ZG,2011
+40,Fiskaleinnahmen,,,,694800.0,ZG HRM2,ZG,2011
+41,Regalien und Konzessionen,,,,11757.0,ZG HRM2,ZG,2011
+42,Entgelte,,,,65493.4,ZG HRM2,ZG,2011
+43,Verschiedene Erträge,,,,6453.0,ZG HRM2,ZG,2011
+45,Entnahmen aus Fonds und Spezialfinanzierungen,,,,42.412,ZG HRM2,ZG,2011
+46,Transferertrag,,,,444405.574,ZG HRM2,ZG,2011
+47,Durchlaufende Beiträge,,,,79002.8,ZG HRM2,ZG,2011
+49,Interne Verrechnungen,,,,4977.583,ZG HRM2,ZG,2011
+34,Finanzaufwand,,,,11737.38,ZG HRM2,ZG,2011
+440,Zinsertrag,,,,11417.8,ZG HRM2,ZG,2011
+441,Realisierte Gewinne FV,,,,0.0,ZG HRM2,ZG,2011
+442,Beteiligungsertrag FV,,,,726.0,ZG HRM2,ZG,2011
+443,Liegenschaftenertrag FV,,,,1439.0,ZG HRM2,ZG,2011
+444,Wertberichtigungen Anlagen FV,,,,0.0,ZG HRM2,ZG,2011
+445,Finanzertrag aus Darlehen und Beteiligungen VV,,,,28666.8,ZG HRM2,ZG,2011
+446,Finanzertrag von öffentlichen Unternehmungen,,,,0.0,ZG HRM2,ZG,2011
+447,Liegenschaftenertrag VV,,,,8546.448,ZG HRM2,ZG,2011
+448,Erträge von gemieteten Liegenschaften,,,,581.766,ZG HRM2,ZG,2011
+449,übriger Finanzertrag,,,,0.0,ZG HRM2,ZG,2011
+38,Ausserordentlicher Aufwand,,,,3572.9,ZG HRM2,ZG,2011
+48,Ausserordentlicher Ertrag,,,,3796.0,ZG HRM2,ZG,2011
+3,Aufwand,0.0,0.0,0.0,1365904.9326,ZG HRM2,ZG,2011
+4,Ertrag,0.0,0.0,0.0,1362105.5830000003,ZG HRM2,ZG,2011
+57,Durchlaufende Investitionsbeiträge,,,,2424.0,ZG HRM2,ZG,2011
+58,a.o Investitionsausgaben,,,,0.0,ZG HRM2,ZG,2011
+5,Investitionsausgaben gesamt,0.0,0.0,0.0,113594.7,ZG HRM2,ZG,2011
+67,Durchlaufende Investitionsbeiträge,,,,2424.0,ZG HRM2,ZG,2011
+68,a.o Investitionseinnahmen,,,,0.0,ZG HRM2,ZG,2011
+6,Investitionseinnahmen gesamt,0.0,0.0,0.0,19617.0,ZG HRM2,ZG,2011
+10,Finanzvermögen,,,,,ZG HRM2,ZG,2011
+14,Verwaltungsvermögen,,,,,ZG HRM2,ZG,2011
+1,Aktiven,0.0,0.0,0.0,0.0,ZG HRM2,ZG,2011
+20,Fremdkapital,,,,,ZG HRM2,ZG,2011
+29,Eigenkapital,,,,,ZG HRM2,ZG,2011
+2,Passiven,0.0,0.0,0.0,0.0,ZG HRM2,ZG,2011
+39,Selbstfinanzierung,0.0,0.0,0.0,80048.63839999994,ZG HRM2,ZG,2011
+40,Selbstfinanzierungsanteil,0.0,0.0,0.0,0.06545756070312388,ZG HRM2,ZG,2011
+31,Bruttoschulden,0.0,0.0,0.0,0.0,ZG HRM2,ZG,2011
+32,Bruttoverschuldungsanteil,0.0,0.0,0.0,0.0,ZG HRM2,ZG,2011
+33,Nettoschuld I,0.0,0.0,0.0,0.0,ZG HRM2,ZG,2011
+34,Nettoschuld II,0.0,0.0,0.0,0.0,ZG HRM2,ZG,2011
+36,Nettoverschuldungsquotient,0.0,0.0,0.0,0.0,ZG HRM2,ZG,2011
+37,Eigenkapital,0.0,0.0,0.0,0.0,ZG HRM2,ZG,2011
+38,Eigenkapitaldeckungsgrad,0.0,0.0,0.0,0.0,ZG HRM2,ZG,2011
+42,Kapitaldienstanteil,0.0,0.0,0.0,0.04327648347112383,ZG HRM2,ZG,2011
+43,Saldo der Finanzerträge,0.0,0.0,0.0,39640.434,ZG HRM2,ZG,2011
+44,Bruttorendite des Finanzvermögens,,,,,ZG HRM2,ZG,2011
+45,Zinsbelastungsanteil,0.0,0.0,0.0,-0.009303881353314855,ZG HRM2,ZG,2011
+47,Investitionsanteil,0.0,0.0,0.0,0.08440881385389451,ZG HRM2,ZG,2011
+30,Personalaufwand,,,,423924.64,SO HRM2,SO,2011
+31,Sach- und übriger Betriebsaufwand,,,,174985.48,SO HRM2,SO,2011
+33,Abschreibungen Verwaltungsvermögen,,,,52004.9,SO HRM2,SO,2011
+35,Einlagen in Fonds und Spezialfinanzierungen,,,,29300.7,SO HRM2,SO,2011
+36,Transferaufwand,,,,1173429.3,SO HRM2,SO,2011
+37,Durchlaufende Beiträge,,,,77400.0,SO HRM2,SO,2011
+39,Interne Verrechungen,,,,0.0,SO HRM2,SO,2011
+40,Fiskaleinnahmen,,,,920970.0,SO HRM2,SO,2011
+41,Regalien und Konzessionen,,,,9026.0,SO HRM2,SO,2011
+42,Entgelte,,,,154268.65,SO HRM2,SO,2011
+43,Verschiedene Erträge,,,,3180.1,SO HRM2,SO,2011
+45,Entnahmen aus Fonds und Spezialfinanzierungen,,,,9573.5,SO HRM2,SO,2011
+46,Transferertrag,,,,604072.4,SO HRM2,SO,2011
+47,Durchlaufende Beiträge,,,,77400.0,SO HRM2,SO,2011
+49,Interne Verrechnungen,,,,0.0,SO HRM2,SO,2011
+34,Finanzaufwand,,,,19446.5,SO HRM2,SO,2011
+440,Zinsertrag,,,,9664.0,SO HRM2,SO,2011
+441,Realisierte Gewinne FV,,,,4500.0,SO HRM2,SO,2011
+442,Beteiligungsertrag FV,,,,0.0,SO HRM2,SO,2011
+443,Liegenschaftenertrag FV,,,,3650.0,SO HRM2,SO,2011
+444,Wertberichtigungen Anlagen FV,,,,0.0,SO HRM2,SO,2011
+445,Finanzertrag aus Darlehen und Beteiligungen VV,,,,13444.0,SO HRM2,SO,2011
+446,Finanzertrag von öffentlichen Unternehmungen,,,,460.2,SO HRM2,SO,2011
+447,Liegenschaftenertrag VV,,,,26008.0,SO HRM2,SO,2011
+448,Erträge von gemieteten Liegenschaften,,,,0.0,SO HRM2,SO,2011
+449,übriger Finanzertrag,,,,0.0,SO HRM2,SO,2011
+38,Ausserordentlicher Aufwand,,,,-3700.0,SO HRM2,SO,2011
+48,Ausserordentlicher Ertrag,,,,0.0,SO HRM2,SO,2011
+3,Aufwand,0.0,0.0,0.0,1946791.52,SO HRM2,SO,2011
+4,Ertrag,0.0,0.0,0.0,1836216.8499999999,SO HRM2,SO,2011
+57,Durchlaufende Investitionsbeiträge,,,,6580.0,SO HRM2,SO,2011
+58,a.o Investitionsausgaben,,,,0.0,SO HRM2,SO,2011
+5,Investitionsausgaben gesamt,0.0,0.0,0.0,188329.0,SO HRM2,SO,2011
+67,Durchlaufende Investitionsbeiträge,,,,6580.0,SO HRM2,SO,2011
+68,a.o Investitionseinnahmen,,,,0.0,SO HRM2,SO,2011
+6,Investitionseinnahmen gesamt,0.0,0.0,0.0,59707.0,SO HRM2,SO,2011
+10,Finanzvermögen,,,,,SO HRM2,SO,2011
+14,Verwaltungsvermögen,,,,,SO HRM2,SO,2011
+1,Aktiven,0.0,0.0,0.0,0.0,SO HRM2,SO,2011
+20,Fremdkapital,,,,,SO HRM2,SO,2011
+29,Eigenkapital,,,,,SO HRM2,SO,2011
+2,Passiven,0.0,0.0,0.0,0.0,SO HRM2,SO,2011
+39,Selbstfinanzierung,0.0,0.0,0.0,-51031.87000000011,SO HRM2,SO,2011
+40,Selbstfinanzierungsanteil,0.0,0.0,0.0,-0.03016928914968442,SO HRM2,SO,2011
+31,Bruttoschulden,0.0,0.0,0.0,0.0,SO HRM2,SO,2011
+32,Bruttoverschuldungsanteil,0.0,0.0,0.0,0.0,SO HRM2,SO,2011
+33,Nettoschuld I,0.0,0.0,0.0,0.0,SO HRM2,SO,2011
+34,Nettoschuld II,0.0,0.0,0.0,0.0,SO HRM2,SO,2011
+36,Nettoverschuldungsquotient,0.0,0.0,0.0,0.0,SO HRM2,SO,2011
+37,Eigenkapital,0.0,0.0,0.0,0.0,SO HRM2,SO,2011
+38,Eigenkapitaldeckungsgrad,0.0,0.0,0.0,0.0,SO HRM2,SO,2011
+42,Kapitaldienstanteil,0.0,0.0,0.0,0.03258666339859457,SO HRM2,SO,2011
+43,Saldo der Finanzerträge,0.0,0.0,0.0,38279.7,SO HRM2,SO,2011
+44,Bruttorendite des Finanzvermögens,,,,,SO HRM2,SO,2011
+45,Zinsbelastungsanteil,0.0,0.0,0.0,0.001842133258891286,SO HRM2,SO,2011
+47,Investitionsanteil,0.0,0.0,0.0,0.09209312597316494,SO HRM2,SO,2011
+30,Personalaufwand,1021966.892,1019015.016,1047746.1,638694.7,BL HRM2,BL,2011
+31,Sach- und übriger Betriebsaufwand,392431.191,386387.6,407193.4,260648.3,BL HRM2,BL,2011
+33,Abschreibungen Verwaltungsvermögen,67580.021,77340.591,73237.8,69090.1,BL HRM2,BL,2011
+35,Einlagen in Fonds und Spezialfinanzierungen,22789.0,21431.0,24292.4,22110.0,BL HRM2,BL,2011
+36,Transferaufwand,1119681.728,1145061.2,1167975.4,1395654.4,BL HRM2,BL,2011
+37,Durchlaufende Beiträge,89566.85,81694.975,92134.8,87611.9,BL HRM2,BL,2011
+39,Interne Verrechungen,15466.837,16280.379,15672.5,276.0,BL HRM2,BL,2011
+40,Fiskaleinnahmen,1476893.01,1468315.0,1514324.7,1504160.0,BL HRM2,BL,2011
+41,Regalien und Konzessionen,65047.0,65156.91,65525.3,30569.9,BL HRM2,BL,2011
+42,Entgelte,454589.136,471479.171,456341.5,153044.4,BL HRM2,BL,2011
+43,Verschiedene Erträge,43787.551,33753.08,44170.7,1727.48,BL HRM2,BL,2011
+45,Entnahmen aus Fonds und Spezialfinanzierungen,11632.043,8563.234,18378.0,19908.4,BL HRM2,BL,2011
+46,Transferertrag,450135.331,448265.734,455875.1,456279.0,BL HRM2,BL,2011
+47,Durchlaufende Beiträge,89566.85,81694.975,92134.8,87611.9,BL HRM2,BL,2011
+49,Interne Verrechnungen,15466.837,16051.285,15681.8,276.0,BL HRM2,BL,2011
+34,Finanzaufwand,47731.171,26708.443,39206.5,32708.8,BL HRM2,BL,2011
+440,Zinsertrag,20831.547,21470.939,22256.9,24170.1,BL HRM2,BL,2011
+441,Realisierte Gewinne FV,4232.449,3326.837,11368.5,1000.0,BL HRM2,BL,2011
+442,Beteiligungsertrag FV,4.368,3.0,4.4,3.0,BL HRM2,BL,2011
+443,Liegenschaftenertrag FV,9413.074,11430.0,9951.1,8960.0,BL HRM2,BL,2011
+444,Wertberichtigungen Anlagen FV,70.699,0.0,80.0,0.0,BL HRM2,BL,2011
+445,Finanzertrag aus Darlehen und Beteiligungen VV,2737.138,1360.0,1500.7,1595.0,BL HRM2,BL,2011
+446,Finanzertrag von öffentlichen Unternehmungen,47854.513,49022.0,48346.7,55120.0,BL HRM2,BL,2011
+447,Liegenschaftenertrag VV,13717.632,16100.58,15028.8,18231.0,BL HRM2,BL,2011
+448,Erträge von gemieteten Liegenschaften,0.0,0.0,0.0,0.0,BL HRM2,BL,2011
+449,übriger Finanzertrag,7.057,7.0,1.8,0.0,BL HRM2,BL,2011
+38,Ausserordentlicher Aufwand,22246.551,0.0,4097.4,0.0,BL HRM2,BL,2011
+48,Ausserordentlicher Ertrag,64389.82,60000.0,81677.3,127000.0,BL HRM2,BL,2011
+3,Aufwand,2799460.241,2773919.204,2871556.2999999993,2506794.1999999997,BL HRM2,BL,2011
+4,Ertrag,2770376.0549999992,2755999.7449999996,2852648.0999999996,2489656.1799999997,BL HRM2,BL,2011
+57,Durchlaufende Investitionsbeiträge,0.0,0.0,0.0,0.0,BL HRM2,BL,2011
+58,a.o Investitionsausgaben,0.0,0.0,0.0,0.0,BL HRM2,BL,2011
+5,Investitionsausgaben gesamt,197936.253,468015.0,419458.8,246150.0,BL HRM2,BL,2011
+67,Durchlaufende Investitionsbeiträge,0.0,0.0,0.0,0.0,BL HRM2,BL,2011
+68,a.o Investitionseinnahmen,0.0,0.0,0.0,0.0,BL HRM2,BL,2011
+6,Investitionseinnahmen gesamt,81277.627,93580.0,71886.5,42240.0,BL HRM2,BL,2011
+10,Finanzvermögen,1478521.125,,1505607.0,,BL HRM2,BL,2011
+14,Verwaltungsvermögen,1197318.984,,1698411.3,,BL HRM2,BL,2011
+1,Aktiven,2675840.109,0.0,3204018.3,0.0,BL HRM2,BL,2011
+20,Fremdkapital,2498056.155,,2835227.4,,BL HRM2,BL,2011
+29,Eigenkapital,177783.955,,368790.8,,BL HRM2,BL,2011
+2,Passiven,2675840.11,0.0,3204018.1999999997,0.0,BL HRM2,BL,2011
+39,Selbstfinanzierung,25493.92700000004,58690.89800000003,37176.70000000046,-13274.410000000309,BL HRM2,BL,2011
+40,Selbstfinanzierungsanteil,0.010236666562284025,0.02359936005578388,0.014658210412724576,-0.0061862843230426874,BL HRM2,BL,2011
+31,Bruttoschulden,1876564.212,0.0,2151817.0,0.0,BL HRM2,BL,2011
+32,Bruttoverschuldungsanteil,0.7535034567628299,0.0,0.848428891097848,0.0,BL HRM2,BL,2011
+33,Nettoschuld I,1019535.0299999998,0.0,1329620.4,0.0,BL HRM2,BL,2011
+34,Nettoschuld II,818864.9940000001,0.0,1124569.8,0.0,BL HRM2,BL,2011
+36,Nettoverschuldungsquotient,0.6903242300537396,0.0,0.878028602452301,0.0,BL HRM2,BL,2011
+37,Eigenkapital,177783.955,0.0,368790.8,0.0,BL HRM2,BL,2011
+38,Eigenkapitaldeckungsgrad,0.057778143623058914,0.0,0.13303904014550244,0.0,BL HRM2,BL,2011
+42,Kapitaldienstanteil,0.029140344477255675,0.03195380537567786,0.03179931152341305,0.03460954664716496,BL HRM2,BL,2011
+43,Saldo der Finanzerträge,51137.306,76011.913,69332.4,76370.3,BL HRM2,BL,2011
+44,Bruttorendite des Finanzvermögens,0.023369390139758736,,0.028998868894738135,,BL HRM2,BL,2011
+45,Zinsbelastungsanteil,0.0020046999275105093,0.0008554832144439776,0.0029227549015228187,0.0024114299318125135,BL HRM2,BL,2011
+47,Investitionsanteil,0.07120656529765376,0.15369005587974582,0.13611808642851483,0.09563471339230219,BL HRM2,BL,2011
+30,Personalaufwand,,,,363937.0,TG HRM2,TG,2011
+31,Sach- und übriger Betriebsaufwand,,,,139427.0,TG HRM2,TG,2011
+33,Abschreibungen Verwaltungsvermögen,,,,74018.0,TG HRM2,TG,2011
+35,Einlagen in Fonds und Spezialfinanzierungen,,,,3358.5,TG HRM2,TG,2011
+36,Transferaufwand,,,,879566.0,TG HRM2,TG,2011
+37,Durchlaufende Beiträge,,,,276686.0,TG HRM2,TG,2011
+39,Interne Verrechungen,,,,144400.0,TG HRM2,TG,2011
+40,Fiskaleinnahmen,,,,737249.0,TG HRM2,TG,2011
+41,Regalien und Konzessionen,,,,13016.0,TG HRM2,TG,2011
+42,Entgelte,,,,134436.0,TG HRM2,TG,2011
+43,Verschiedene Erträge,,,,3945.0,TG HRM2,TG,2011
+45,Entnahmen aus Fonds und Spezialfinanzierungen,,,,26495.0,TG HRM2,TG,2011
+46,Transferertrag,,,,432993.0,TG HRM2,TG,2011
+47,Durchlaufende Beiträge,,,,276686.0,TG HRM2,TG,2011
+49,Interne Verrechnungen,,,,144400.0,TG HRM2,TG,2011
+34,Finanzaufwand,,,,14549.6,TG HRM2,TG,2011
+440,Zinsertrag,,,,12588.9,TG HRM2,TG,2011
+441,Realisierte Gewinne FV,,,,0.0,TG HRM2,TG,2011
+442,Beteiligungsertrag FV,,,,36756.6,TG HRM2,TG,2011
+443,Liegenschaftenertrag FV,,,,18895.3,TG HRM2,TG,2011
+444,Wertberichtigungen Anlagen FV,,,,1200.0,TG HRM2,TG,2011
+445,Finanzertrag aus Darlehen und Beteiligungen VV,,,,0.0,TG HRM2,TG,2011
+446,Finanzertrag von öffentlichen Unternehmungen,,,,0.0,TG HRM2,TG,2011
+447,Liegenschaftenertrag VV,,,,771.0,TG HRM2,TG,2011
+448,Erträge von gemieteten Liegenschaften,,,,0.0,TG HRM2,TG,2011
+449,übriger Finanzertrag,,,,0.0,TG HRM2,TG,2011
+38,Ausserordentlicher Aufwand,,,,0.0,TG HRM2,TG,2011
+48,Ausserordentlicher Ertrag,,,,43000.0,TG HRM2,TG,2011
+3,Aufwand,0.0,0.0,0.0,1895942.1,TG HRM2,TG,2011
+4,Ertrag,0.0,0.0,0.0,1882431.8,TG HRM2,TG,2011
+57,Durchlaufende Investitionsbeiträge,,,,3220.0,TG HRM2,TG,2011
+58,a.o Investitionsausgaben,,,,,TG HRM2,TG,2011
+5,Investitionsausgaben gesamt,0.0,0.0,0.0,166595.0,TG HRM2,TG,2011
+67,Durchlaufende Investitionsbeiträge,,,,3220.0,TG HRM2,TG,2011
+68,a.o Investitionseinnahmen,,,,22130.0,TG HRM2,TG,2011
+6,Investitionseinnahmen gesamt,0.0,0.0,0.0,69464.0,TG HRM2,TG,2011
+10,Finanzvermögen,,,,,TG HRM2,TG,2011
+14,Verwaltungsvermögen,,,,,TG HRM2,TG,2011
+1,Aktiven,0.0,0.0,0.0,0.0,TG HRM2,TG,2011
+20,Fremdkapital,,,,,TG HRM2,TG,2011
+29,Eigenkapital,,,,,TG HRM2,TG,2011
+2,Passiven,0.0,0.0,0.0,0.0,TG HRM2,TG,2011
+39,Selbstfinanzierung,0.0,0.0,0.0,17671.700000000004,TG HRM2,TG,2011
+40,Selbstfinanzierungsanteil,0.0,0.0,0.0,0.013371049129149491,TG HRM2,TG,2011
+31,Bruttoschulden,0.0,0.0,0.0,0.0,TG HRM2,TG,2011
+32,Bruttoverschuldungsanteil,0.0,0.0,0.0,0.0,TG HRM2,TG,2011
+33,Nettoschuld I,0.0,0.0,0.0,0.0,TG HRM2,TG,2011
+34,Nettoschuld II,0.0,0.0,0.0,0.0,TG HRM2,TG,2011
+36,Nettoverschuldungsquotient,0.0,0.0,0.0,0.0,TG HRM2,TG,2011
+37,Eigenkapital,0.0,0.0,0.0,0.0,TG HRM2,TG,2011
+38,Eigenkapitaldeckungsgrad,0.0,0.0,0.0,0.0,TG HRM2,TG,2011
+42,Kapitaldienstanteil,0.0,0.0,0.0,0.05457526601439577,TG HRM2,TG,2011
+43,Saldo der Finanzerträge,0.0,0.0,0.0,55662.200000000004,TG HRM2,TG,2011
+44,Bruttorendite des Finanzvermögens,,,,,TG HRM2,TG,2011
+45,Zinsbelastungsanteil,0.0,0.0,0.0,-0.0014294372366432883,TG HRM2,TG,2011
+47,Investitionsanteil,0.0,0.0,0.0,0.10467022360699067,TG HRM2,TG,2011

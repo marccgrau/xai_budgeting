@@ -1,1041 +1,1041 @@
-Ref-ID,Acc-ID,Name,Name,Realized,Budget y+1,Region,Year
-HRM2_ER0030,30,Personalaufwand,Personalaufwand,1769407.06614,1913008.922,AG,2022
-HRM2_ER0031,31,Sach- und übriger Betriebsaufwand,Sach- und übriger Betriebsaufwand,471235.72459,540895.2865,AG,2022
-HRM2_neu_ER0033,33,Abschreibungen VV,Abschreibungen VV,176835.45829,162266.45182,AG,2022
-HRM2_neu_ER0035,35,Einlagen in Fonds und Spezialfinanzierungen,Einlagen in Fonds und Spezialfinanzierungen,140826.08142,71658.66665,AG,2022
-HRM2_ER0036,36,Transferaufwand,Transferaufwand,3067152.26254,2930677.5,AG,2022
-HRM2_ER0037,37,Durchlaufende Beiträge,Durchlaufende Beiträge,316264.69522,379636.5,AG,2022
-HRM2_ER0039,39,Interne Verrechungen,Interne Verrechungen,269427.09054,281225.641,AG,2022
-HRM2_neu_ER0040,40,Fiskalertrag,Fiskalertrag,2692885.1047,2597138.0,AG,2022
-HRM2_ER0041,41,Regalien und Konzessionen,Regalien und Konzessionen,391628.14474,71760.6,AG,2022
-HRM2_ER0042,42,Entgelte,Entgelte,328542.18477,319770.575,AG,2022
-HRM2_neu_ER0043,43,Verschiedene Erträge,Verschiedene Erträge,574.45606,944.25,AG,2022
-HRM2_neu_ER0045,45,Entnahmen aus Fonds und Spezialfinanzierungen,Entnahmen aus Fonds und Spezialfinanzierungen,17880.85735,6377.9,AG,2022
-HRM2_ER0046,46,Transferertrag,Transferertrag,2083501.6064,2165878.984,AG,2022
-HRM2_ER0047,47,Durchlaufende Beiträge,Durchlaufende Beiträge,316264.69522,379636.5,AG,2022
-HRM2_ER0049,49,Interne Verrechnungen,Interne Verrechnungen,269427.09054,281225.641,AG,2022
-HRM2_neu_ER0034,34,Finanzaufwand,Finanzaufwand,15865.61211,10349.0,AG,2022
-HRM2_neu_ER0044,44,Finanzertrag,Finanzertrag,251912.01292,164283.552,AG,2022
-HRM2_neu_ER0038,38,Ausserordentlicher Aufwand,Ausserordentlicher Aufwand,176417.15957,24945.46,AG,2022
-HRM2_neu_ER0048,48,Ausserordentlicher Ertrag,Ausserordentlicher Ertrag,47136.39842,345756.6425,AG,2022
-HRM2_IR0050,50,Sachanlagen,Sachanlagen,242845.32471,255864.03635,AG,2022
-HRM2_IR0051,51,Investitionen auf Rechnung Dritter,Investitionen auf Rechnung Dritter,0.0,0.0,AG,2022
-HRM2_IR0052,52,Immaterielle Anlagen,Immaterielle Anlagen,0.0,0.0,AG,2022
-HRM2_IR0054,54,Darlehen,Darlehen,0.0,0.0,AG,2022
-HRM2_IR0055,55,Beteiligungen und Grundkapitalien,Beteiligungen und Grundkapitalien,0.0,0.0,AG,2022
-HRM2_IR0056,56,Eigene Investitionsbeiträge,Eigene Investitionsbeiträge,46836.9488,49195.0,AG,2022
-HRM2_IR0057,57,Durchlaufende Investitionsbeiträge,Durchlaufende Investitionsbeiträge,2133.33315,3499.6,AG,2022
-HRM2_neu_IR0058,58,Ausserordentliche Investitionen,Ausserordentliche Investitionen,0.0,0.0,AG,2022
-HRM2_IR0060,60,Übertragung von Sachanlagen in das FV,Übertragung von Sachanlagen in das FV,655.85072,0.0,AG,2022
-HRM2_IR0061,61,Rückerstattungen Dritter für Investitionen,Rückerstattungen Dritter für Investitionen,0.0,0.0,AG,2022
-HRM2_IR0062,62,Abgang immaterielle Anlagen,Abgang immaterielle Anlagen,0.0,0.0,AG,2022
-HRM2_IR0063,63,Investitionsbeiträge für eigene Rechnung,Investitionsbeiträge für eigene Rechnung,78308.76562,69769.118,AG,2022
-HRM2_IR0064,64,Rückzahlung von Darlehen,Rückzahlung von Darlehen,0.0,0.0,AG,2022
-HRM2_IR0065,65,Übertragung von Beteiligungen,Übertragung von Beteiligungen,0.0,0.0,AG,2022
-HRM2_IR0066,66,Rückzahlung eigener Investitionsbeiträge,Rückzahlung eigener Investitionsbeiträge,6.2409,0.0,AG,2022
-HRM2_IR0067,67,Durchlaufende Investitionsbeiträge,Durchlaufende Investitionsbeiträge,2133.33315,3499.6,AG,2022
-HRM2_neu_IR0068,68,Ausserordentliche Investitionseinnahmen,Ausserordentliche Investitionseinnahmen,0.0,0.0,AG,2022
-HRM2_BI0010,10,Finanzvermögen,Finanzvermögen,3146953.79339,0.0,AG,2022
-HRM2_BI0014,14,Verwaltungsvermögen,Verwaltungsvermögen,1718887.78718,0.0,AG,2022
-HRM2_BI0020,20,Fremdkapital,Fremdkapital,2923783.61877,0.0,AG,2022
-HRM2_BI0029,29,Eigenkapital,Eigenkapital,1942057.9618,0.0,AG,2022
-HRM2_ER0030,30,Personalaufwand,Personalaufwand,28922.5,31232.5,AI,2022
-HRM2_ER0031,31,Sach- und übriger Betriebsaufwand,Sach- und übriger Betriebsaufwand,16025.4,20217.0,AI,2022
-HRM2_neu_ER0033,33,Abschreibungen VV,Abschreibungen VV,8391.8,8860.0,AI,2022
-HRM2_neu_ER0035,35,Einlagen in Fonds und Spezialfinanzierungen,Einlagen in Fonds und Spezialfinanzierungen,963.5,325.0,AI,2022
-HRM2_ER0036,36,Transferaufwand,Transferaufwand,89230.0,88381.9,AI,2022
-HRM2_ER0037,37,Durchlaufende Beiträge,Durchlaufende Beiträge,23010.1,23745.0,AI,2022
-HRM2_ER0039,39,Interne Verrechungen,Interne Verrechungen,10029.7,9574.0,AI,2022
-HRM2_neu_ER0040,40,Fiskalertrag,Fiskalertrag,70550.7,63059.0,AI,2022
-HRM2_ER0041,41,Regalien und Konzessionen,Regalien und Konzessionen,8716.6,6221.0,AI,2022
-HRM2_ER0042,42,Entgelte,Entgelte,14166.7,13476.5,AI,2022
-HRM2_neu_ER0043,43,Verschiedene Erträge,Verschiedene Erträge,296.5,239.0,AI,2022
-HRM2_neu_ER0045,45,Entnahmen aus Fonds und Spezialfinanzierungen,Entnahmen aus Fonds und Spezialfinanzierungen,6439.1,3443.8,AI,2022
-HRM2_ER0046,46,Transferertrag,Transferertrag,45417.2,42820.2,AI,2022
-HRM2_ER0047,47,Durchlaufende Beiträge,Durchlaufende Beiträge,23010.1,23745.0,AI,2022
-HRM2_ER0049,49,Interne Verrechnungen,Interne Verrechnungen,10029.7,9574.0,AI,2022
-HRM2_neu_ER0034,34,Finanzaufwand,Finanzaufwand,3111.7,38.0,AI,2022
-HRM2_neu_ER0044,44,Finanzertrag,Finanzertrag,11743.6,11220.0,AI,2022
-HRM2_neu_ER0038,38,Ausserordentlicher Aufwand,Ausserordentlicher Aufwand,8995.0,-274.0,AI,2022
-HRM2_neu_ER0048,48,Ausserordentlicher Ertrag,Ausserordentlicher Ertrag,3935.2,3326.0,AI,2022
-HRM2_IR0050,50,Sachanlagen,Sachanlagen,15390.2,15349.0,AI,2022
-HRM2_IR0051,51,Investitionen auf Rechnung Dritter,Investitionen auf Rechnung Dritter,0.0,0.0,AI,2022
-HRM2_IR0052,52,Immaterielle Anlagen,Immaterielle Anlagen,756.3,556.0,AI,2022
-HRM2_IR0054,54,Darlehen,Darlehen,311.5,699.0,AI,2022
-HRM2_IR0055,55,Beteiligungen und Grundkapitalien,Beteiligungen und Grundkapitalien,0.0,0.0,AI,2022
-HRM2_IR0056,56,Eigene Investitionsbeiträge,Eigene Investitionsbeiträge,3425.8,1930.0,AI,2022
-HRM2_IR0057,57,Durchlaufende Investitionsbeiträge,Durchlaufende Investitionsbeiträge,0.0,0.0,AI,2022
-HRM2_neu_IR0058,58,Ausserordentliche Investitionen,Ausserordentliche Investitionen,0.0,0.0,AI,2022
-HRM2_IR0060,60,Übertragung von Sachanlagen in das FV,Übertragung von Sachanlagen in das FV,0.0,0.0,AI,2022
-HRM2_IR0061,61,Rückerstattungen Dritter für Investitionen,Rückerstattungen Dritter für Investitionen,0.0,167.0,AI,2022
-HRM2_IR0062,62,Abgang immaterielle Anlagen,Abgang immaterielle Anlagen,0.0,0.0,AI,2022
-HRM2_IR0063,63,Investitionsbeiträge für eigene Rechnung,Investitionsbeiträge für eigene Rechnung,1445.2,650.0,AI,2022
-HRM2_IR0064,64,Rückzahlung von Darlehen,Rückzahlung von Darlehen,43.4,0.0,AI,2022
-HRM2_IR0065,65,Übertragung von Beteiligungen,Übertragung von Beteiligungen,0.0,0.0,AI,2022
-HRM2_IR0066,66,Rückzahlung eigener Investitionsbeiträge,Rückzahlung eigener Investitionsbeiträge,654.5,1020.0,AI,2022
-HRM2_IR0067,67,Durchlaufende Investitionsbeiträge,Durchlaufende Investitionsbeiträge,0.0,0.0,AI,2022
-HRM2_neu_IR0068,68,Ausserordentliche Investitionseinnahmen,Ausserordentliche Investitionseinnahmen,0.0,0.0,AI,2022
-HRM2_BI0010,10,Finanzvermögen,Finanzvermögen,152061.5,0.0,AI,2022
-HRM2_BI0014,14,Verwaltungsvermögen,Verwaltungsvermögen,92606.3,0.0,AI,2022
-HRM2_BI0020,20,Fremdkapital,Fremdkapital,66121.6,0.0,AI,2022
-HRM2_BI0029,29,Eigenkapital,Eigenkapital,178546.3,0.0,AI,2022
-HRM2_ER0030,30,Personalaufwand,Personalaufwand,103788.1,106851.2,AR,2022
-HRM2_ER0031,31,Sach- und übriger Betriebsaufwand,Sach- und übriger Betriebsaufwand,50874.8,54571.5,AR,2022
-HRM2_neu_ER0033,33,Abschreibungen VV,Abschreibungen VV,16210.7,17342.7,AR,2022
-HRM2_neu_ER0035,35,Einlagen in Fonds und Spezialfinanzierungen,Einlagen in Fonds und Spezialfinanzierungen,793.7,285.3,AR,2022
-HRM2_ER0036,36,Transferaufwand,Transferaufwand,266396.3,293579.2,AR,2022
-HRM2_ER0037,37,Durchlaufende Beiträge,Durchlaufende Beiträge,40849.4,40954.8,AR,2022
-HRM2_ER0039,39,Interne Verrechungen,Interne Verrechungen,37175.8,39399.5,AR,2022
-HRM2_neu_ER0040,40,Fiskalertrag,Fiskalertrag,222642.0,222390.0,AR,2022
-HRM2_ER0041,41,Regalien und Konzessionen,Regalien und Konzessionen,29611.8,3460.5,AR,2022
-HRM2_ER0042,42,Entgelte,Entgelte,28238.5,28425.3,AR,2022
-HRM2_neu_ER0043,43,Verschiedene Erträge,Verschiedene Erträge,5763.3,3990.8,AR,2022
-HRM2_neu_ER0045,45,Entnahmen aus Fonds und Spezialfinanzierungen,Entnahmen aus Fonds und Spezialfinanzierungen,428.4,655.8,AR,2022
-HRM2_ER0046,46,Transferertrag,Transferertrag,180421.7,197659.2,AR,2022
-HRM2_ER0047,47,Durchlaufende Beiträge,Durchlaufende Beiträge,40849.4,40954.8,AR,2022
-HRM2_ER0049,49,Interne Verrechnungen,Interne Verrechnungen,37175.8,39399.5,AR,2022
-HRM2_neu_ER0034,34,Finanzaufwand,Finanzaufwand,1333.2,1406.8,AR,2022
-HRM2_neu_ER0044,44,Finanzertrag,Finanzertrag,10047.2,9835.3,AR,2022
-HRM2_neu_ER0038,38,Ausserordentlicher Aufwand,Ausserordentlicher Aufwand,0.0,0.0,AR,2022
-HRM2_neu_ER0048,48,Ausserordentlicher Ertrag,Ausserordentlicher Ertrag,10732.8,10378.7,AR,2022
-HRM2_IR0050,50,Sachanlagen,Sachanlagen,19819.6,30089.5,AR,2022
-HRM2_IR0051,51,Investitionen auf Rechnung Dritter,Investitionen auf Rechnung Dritter,0.0,0.0,AR,2022
-HRM2_IR0052,52,Immaterielle Anlagen,Immaterielle Anlagen,2440.1,3614.0,AR,2022
-HRM2_IR0054,54,Darlehen,Darlehen,3329.1,28796.5,AR,2022
-HRM2_IR0055,55,Beteiligungen und Grundkapitalien,Beteiligungen und Grundkapitalien,135.9,232.0,AR,2022
-HRM2_IR0056,56,Eigene Investitionsbeiträge,Eigene Investitionsbeiträge,5309.9,6090.0,AR,2022
-HRM2_IR0057,57,Durchlaufende Investitionsbeiträge,Durchlaufende Investitionsbeiträge,3978.1,3886.0,AR,2022
-HRM2_neu_IR0058,58,Ausserordentliche Investitionen,Ausserordentliche Investitionen,0.0,0.0,AR,2022
-HRM2_IR0060,60,Übertragung von Sachanlagen in das FV,Übertragung von Sachanlagen in das FV,0.0,0.0,AR,2022
-HRM2_IR0061,61,Rückerstattungen Dritter für Investitionen,Rückerstattungen Dritter für Investitionen,0.0,0.0,AR,2022
-HRM2_IR0062,62,Abgang immaterielle Anlagen,Abgang immaterielle Anlagen,0.0,0.0,AR,2022
-HRM2_IR0063,63,Investitionsbeiträge für eigene Rechnung,Investitionsbeiträge für eigene Rechnung,3585.3,7800.0,AR,2022
-HRM2_IR0064,64,Rückzahlung von Darlehen,Rückzahlung von Darlehen,3197.2,839.2,AR,2022
-HRM2_IR0065,65,Übertragung von Beteiligungen,Übertragung von Beteiligungen,0.0,0.0,AR,2022
-HRM2_IR0066,66,Rückzahlung eigener Investitionsbeiträge,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,AR,2022
-HRM2_IR0067,67,Durchlaufende Investitionsbeiträge,Durchlaufende Investitionsbeiträge,3978.1,3886.0,AR,2022
-HRM2_neu_IR0068,68,Ausserordentliche Investitionseinnahmen,Ausserordentliche Investitionseinnahmen,0.0,0.0,AR,2022
-HRM2_BI0010,10,Finanzvermögen,Finanzvermögen,241493.09999999998,159032.5,AR,2022
-HRM2_BI0014,14,Verwaltungsvermögen,Verwaltungsvermögen,189769.09999999998,224205.8,AR,2022
-HRM2_BI0020,20,Fremdkapital,Fremdkapital,216589.5,190709.10000000003,AR,2022
-HRM2_BI0029,29,Eigenkapital,Eigenkapital,214672.5,192529.3,AR,2022
-HRM2_ER0030,30,Personalaufwand,Personalaufwand,3150201.2,3305027.9,BE,2022
-HRM2_ER0031,31,Sach- und übriger Betriebsaufwand,Sach- und übriger Betriebsaufwand,906239.3,956747.2,BE,2022
-HRM2_neu_ER0033,33,Abschreibungen VV,Abschreibungen VV,282257.7,284574.6,BE,2022
-HRM2_neu_ER0035,35,Einlagen in Fonds und Spezialfinanzierungen,Einlagen in Fonds und Spezialfinanzierungen,95074.8,72212.2,BE,2022
-HRM2_ER0036,36,Transferaufwand,Transferaufwand,6606185.5,7046237.4,BE,2022
-HRM2_ER0037,37,Durchlaufende Beiträge,Durchlaufende Beiträge,591595.5,584980.0,BE,2022
-HRM2_ER0039,39,Interne Verrechungen,Interne Verrechungen,158505.1,195763.6,BE,2022
-HRM2_neu_ER0040,40,Fiskalertrag,Fiskalertrag,5845854.9,5830110.0,BE,2022
-HRM2_ER0041,41,Regalien und Konzessionen,Regalien und Konzessionen,539156.6,379316.5,BE,2022
-HRM2_ER0042,42,Entgelte,Entgelte,578319.8,547914.7,BE,2022
-HRM2_neu_ER0043,43,Verschiedene Erträge,Verschiedene Erträge,3215.0,2668.2,BE,2022
-HRM2_neu_ER0045,45,Entnahmen aus Fonds und Spezialfinanzierungen,Entnahmen aus Fonds und Spezialfinanzierungen,92298.6,71586.3,BE,2022
-HRM2_ER0046,46,Transferertrag,Transferertrag,4102341.8,4484283.0,BE,2022
-HRM2_ER0047,47,Durchlaufende Beiträge,Durchlaufende Beiträge,591595.5,584980.0,BE,2022
-HRM2_ER0049,49,Interne Verrechnungen,Interne Verrechnungen,158505.1,195763.6,BE,2022
-HRM2_neu_ER0034,34,Finanzaufwand,Finanzaufwand,64178.4,62991.4,BE,2022
-HRM2_neu_ER0044,44,Finanzertrag,Finanzertrag,311879.5,317307.6,BE,2022
-HRM2_neu_ER0038,38,Ausserordentlicher Aufwand,Ausserordentlicher Aufwand,14527.9,41500.2,BE,2022
-HRM2_neu_ER0048,48,Ausserordentlicher Ertrag,Ausserordentlicher Ertrag,3414.3,136206.6,BE,2022
-HRM2_IR0050,50,Sachanlagen,Sachanlagen,308417.7,344422.5,BE,2022
-HRM2_IR0051,51,Investitionen auf Rechnung Dritter,Investitionen auf Rechnung Dritter,181.8,0.0,BE,2022
-HRM2_IR0052,52,Immaterielle Anlagen,Immaterielle Anlagen,28990.6,67375.0,BE,2022
-HRM2_IR0054,54,Darlehen,Darlehen,27279.9,33273.5,BE,2022
-HRM2_IR0055,55,Beteiligungen und Grundkapitalien,Beteiligungen und Grundkapitalien,0.0,0.0,BE,2022
-HRM2_IR0056,56,Eigene Investitionsbeiträge,Eigene Investitionsbeiträge,337145.0,100452.4,BE,2022
-HRM2_IR0057,57,Durchlaufende Investitionsbeiträge,Durchlaufende Investitionsbeiträge,11045.3,10850.0,BE,2022
-HRM2_neu_IR0058,58,Ausserordentliche Investitionen,Ausserordentliche Investitionen,0.0,0.0,BE,2022
-HRM2_IR0060,60,Übertragung von Sachanlagen in das FV,Übertragung von Sachanlagen in das FV,4023.4,100.0,BE,2022
-HRM2_IR0061,61,Rückerstattungen Dritter für Investitionen,Rückerstattungen Dritter für Investitionen,9170.6,3469.0,BE,2022
-HRM2_IR0062,62,Abgang immaterielle Anlagen,Abgang immaterielle Anlagen,3723.7,0.0,BE,2022
-HRM2_IR0063,63,Investitionsbeiträge für eigene Rechnung,Investitionsbeiträge für eigene Rechnung,90759.0,46588.4,BE,2022
-HRM2_IR0064,64,Rückzahlung von Darlehen,Rückzahlung von Darlehen,28695.4,24266.5,BE,2022
-HRM2_IR0065,65,Übertragung von Beteiligungen,Übertragung von Beteiligungen,0.0,0.0,BE,2022
-HRM2_IR0066,66,Rückzahlung eigener Investitionsbeiträge,Rückzahlung eigener Investitionsbeiträge,211477.3,0.0,BE,2022
-HRM2_IR0067,67,Durchlaufende Investitionsbeiträge,Durchlaufende Investitionsbeiträge,11045.3,10850.0,BE,2022
-HRM2_neu_IR0068,68,Ausserordentliche Investitionseinnahmen,Ausserordentliche Investitionseinnahmen,0.0,0.0,BE,2022
-HRM2_BI0010,10,Finanzvermögen,Finanzvermögen,5274422.8,5684177.9,BE,2022
-HRM2_BI0014,14,Verwaltungsvermögen,Verwaltungsvermögen,6950599.8,6732753.3,BE,2022
-HRM2_BI0020,20,Fremdkapital,Fremdkapital,11204820.6,11894950.0,BE,2022
-HRM2_BI0029,29,Eigenkapital,Eigenkapital,1020202.0,521981.1,BE,2022
-HRM2_ER0030,30,Personalaufwand,Personalaufwand,659707.8139,715320.687,BL,2022
-HRM2_ER0031,31,Sach- und übriger Betriebsaufwand,Sach- und übriger Betriebsaufwand,331092.60915,288328.731,BL,2022
-HRM2_neu_ER0033,33,Abschreibungen VV,Abschreibungen VV,93750.75877,87050.12,BL,2022
-HRM2_neu_ER0035,35,Einlagen in Fonds und Spezialfinanzierungen,Einlagen in Fonds und Spezialfinanzierungen,7036.68315,4500.0,BL,2022
-HRM2_ER0036,36,Transferaufwand,Transferaufwand,1748034.18893,1794389.17828,BL,2022
-HRM2_ER0037,37,Durchlaufende Beiträge,Durchlaufende Beiträge,76207.3548,77193.8,BL,2022
-HRM2_ER0039,39,Interne Verrechungen,Interne Verrechungen,14992.78301,18502.7102,BL,2022
-HRM2_neu_ER0040,40,Fiskalertrag,Fiskalertrag,2051344.2522,1951910.937,BL,2022
-HRM2_ER0041,41,Regalien und Konzessionen,Regalien und Konzessionen,160513.91811,90216.0,BL,2022
-HRM2_ER0042,42,Entgelte,Entgelte,155902.66739,123973.675,BL,2022
-HRM2_neu_ER0043,43,Verschiedene Erträge,Verschiedene Erträge,5051.60669,3987.701,BL,2022
-HRM2_neu_ER0045,45,Entnahmen aus Fonds und Spezialfinanzierungen,Entnahmen aus Fonds und Spezialfinanzierungen,7329.83697,12317.244,BL,2022
-HRM2_ER0046,46,Transferertrag,Transferertrag,647919.14614,670723.08059,BL,2022
-HRM2_ER0047,47,Durchlaufende Beiträge,Durchlaufende Beiträge,76207.3548,77193.8,BL,2022
-HRM2_ER0049,49,Interne Verrechnungen,Interne Verrechnungen,14992.78301,18502.7102,BL,2022
-HRM2_neu_ER0034,34,Finanzaufwand,Finanzaufwand,33967.48163,37886.315,BL,2022
-HRM2_neu_ER0044,44,Finanzertrag,Finanzertrag,135641.78122,120324.063,BL,2022
-HRM2_neu_ER0038,38,Ausserordentlicher Aufwand,Ausserordentlicher Aufwand,195144.0,55548.0,BL,2022
-HRM2_neu_ER0048,48,Ausserordentlicher Ertrag,Ausserordentlicher Ertrag,0.0,0.0,BL,2022
-HRM2_IR0050,50,Sachanlagen,Sachanlagen,161742.906,207218.0,BL,2022
-HRM2_IR0051,51,Investitionen auf Rechnung Dritter,Investitionen auf Rechnung Dritter,0.0,0.0,BL,2022
-HRM2_IR0052,52,Immaterielle Anlagen,Immaterielle Anlagen,0.0,0.0,BL,2022
-HRM2_IR0054,54,Darlehen,Darlehen,0.0,3000.0,BL,2022
-HRM2_IR0055,55,Beteiligungen und Grundkapitalien,Beteiligungen und Grundkapitalien,0.0,0.0,BL,2022
-HRM2_IR0056,56,Eigene Investitionsbeiträge,Eigene Investitionsbeiträge,14708.948,7250.0,BL,2022
-HRM2_IR0057,57,Durchlaufende Investitionsbeiträge,Durchlaufende Investitionsbeiträge,5000.0,0.0,BL,2022
-HRM2_neu_IR0058,58,Ausserordentliche Investitionen,Ausserordentliche Investitionen,0.0,0.0,BL,2022
-HRM2_IR0060,60,Übertragung von Sachanlagen in das FV,Übertragung von Sachanlagen in das FV,1400.8,0.0,BL,2022
-HRM2_IR0061,61,Rückerstattungen Dritter für Investitionen,Rückerstattungen Dritter für Investitionen,81.808,0.0,BL,2022
-HRM2_IR0062,62,Abgang immaterielle Anlagen,Abgang immaterielle Anlagen,0.0,0.0,BL,2022
-HRM2_IR0063,63,Investitionsbeiträge für eigene Rechnung,Investitionsbeiträge für eigene Rechnung,16293.805,15180.0,BL,2022
-HRM2_IR0064,64,Rückzahlung von Darlehen,Rückzahlung von Darlehen,4991.2,7989.0,BL,2022
-HRM2_IR0065,65,Übertragung von Beteiligungen,Übertragung von Beteiligungen,0.0,0.0,BL,2022
-HRM2_IR0066,66,Rückzahlung eigener Investitionsbeiträge,Rückzahlung eigener Investitionsbeiträge,0.0,1200.0,BL,2022
-HRM2_IR0067,67,Durchlaufende Investitionsbeiträge,Durchlaufende Investitionsbeiträge,5000.0,0.0,BL,2022
-HRM2_neu_IR0068,68,Ausserordentliche Investitionseinnahmen,Ausserordentliche Investitionseinnahmen,0.0,0.0,BL,2022
-HRM2_BI0010,10,Finanzvermögen,Finanzvermögen,2548466.8395300005,0.0,BL,2022
-HRM2_BI0014,14,Verwaltungsvermögen,Verwaltungsvermögen,2656121.1720000003,0.0,BL,2022
-HRM2_BI0020,20,Fremdkapital,Fremdkapital,4839590.841,0.0,BL,2022
-HRM2_BI0029,29,Eigenkapital,Eigenkapital,364997.17,0.0,BL,2022
-HRM2_ER0030,30,Personalaufwand,Personalaufwand,1379150.261,1488762.0,BS,2022
-HRM2_ER0031,31,Sach- und übriger Betriebsaufwand,Sach- und übriger Betriebsaufwand,477806.942,494401.0,BS,2022
-HRM2_neu_ER0033,33,Abschreibungen VV,Abschreibungen VV,210994.73676,227779.46,BS,2022
-HRM2_neu_ER0035,35,Einlagen in Fonds und Spezialfinanzierungen,Einlagen in Fonds und Spezialfinanzierungen,0.0,0.0,BS,2022
-HRM2_ER0036,36,Transferaufwand,Transferaufwand,2307990.41172,2281046.809,BS,2022
-HRM2_ER0037,37,Durchlaufende Beiträge,Durchlaufende Beiträge,0.0,0.0,BS,2022
-HRM2_ER0039,39,Interne Verrechungen,Interne Verrechungen,344708.331,361239.463,BS,2022
-HRM2_neu_ER0040,40,Fiskalertrag,Fiskalertrag,2999740.727,2957260.0,BS,2022
-HRM2_ER0041,41,Regalien und Konzessionen,Regalien und Konzessionen,119462.891,74266.744,BS,2022
-HRM2_ER0042,42,Entgelte,Entgelte,333965.413,352152.387,BS,2022
-HRM2_neu_ER0043,43,Verschiedene Erträge,Verschiedene Erträge,35733.243,38217.393,BS,2022
-HRM2_neu_ER0045,45,Entnahmen aus Fonds und Spezialfinanzierungen,Entnahmen aus Fonds und Spezialfinanzierungen,0.0,0.0,BS,2022
-HRM2_ER0046,46,Transferertrag,Transferertrag,866210.13531,851585.274,BS,2022
-HRM2_ER0047,47,Durchlaufende Beiträge,Durchlaufende Beiträge,0.0,0.0,BS,2022
-HRM2_ER0049,49,Interne Verrechnungen,Interne Verrechnungen,344708.331,361239.463,BS,2022
-HRM2_neu_ER0034,34,Finanzaufwand,Finanzaufwand,233557.474,99735.689,BS,2022
-HRM2_neu_ER0044,44,Finanzertrag,Finanzertrag,471728.114,360509.497,BS,2022
-HRM2_neu_ER0038,38,Ausserordentlicher Aufwand,Ausserordentlicher Aufwand,0.0,0.0,BS,2022
-HRM2_neu_ER0048,48,Ausserordentlicher Ertrag,Ausserordentlicher Ertrag,0.0,0.0,BS,2022
-HRM2_IR0050,50,Sachanlagen,Sachanlagen,285425.755,343080.282,BS,2022
-HRM2_IR0051,51,Investitionen auf Rechnung Dritter,Investitionen auf Rechnung Dritter,658.991,0.0,BS,2022
-HRM2_IR0052,52,Immaterielle Anlagen,Immaterielle Anlagen,12542.57,120.0,BS,2022
-HRM2_IR0054,54,Darlehen,Darlehen,55516.929,94710.0,BS,2022
-HRM2_IR0055,55,Beteiligungen und Grundkapitalien,Beteiligungen und Grundkapitalien,75028.815,3000.0,BS,2022
-HRM2_IR0056,56,Eigene Investitionsbeiträge,Eigene Investitionsbeiträge,17598.706,0.0,BS,2022
-HRM2_IR0057,57,Durchlaufende Investitionsbeiträge,Durchlaufende Investitionsbeiträge,0.0,0.0,BS,2022
-HRM2_neu_IR0058,58,Ausserordentliche Investitionen,Ausserordentliche Investitionen,0.0,0.0,BS,2022
-HRM2_IR0060,60,Übertragung von Sachanlagen in das FV,Übertragung von Sachanlagen in das FV,726.371,645.809,BS,2022
-HRM2_IR0061,61,Rückerstattungen Dritter für Investitionen,Rückerstattungen Dritter für Investitionen,658.991,0.0,BS,2022
-HRM2_IR0062,62,Abgang immaterielle Anlagen,Abgang immaterielle Anlagen,0.0,0.0,BS,2022
-HRM2_IR0063,63,Investitionsbeiträge für eigene Rechnung,Investitionsbeiträge für eigene Rechnung,10705.936,651.0,BS,2022
-HRM2_IR0064,64,Rückzahlung von Darlehen,Rückzahlung von Darlehen,17755.802,19904.55,BS,2022
-HRM2_IR0065,65,Übertragung von Beteiligungen,Übertragung von Beteiligungen,0.0,0.0,BS,2022
-HRM2_IR0066,66,Rückzahlung eigener Investitionsbeiträge,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,BS,2022
-HRM2_IR0067,67,Durchlaufende Investitionsbeiträge,Durchlaufende Investitionsbeiträge,0.0,0.0,BS,2022
-HRM2_neu_IR0068,68,Ausserordentliche Investitionseinnahmen,Ausserordentliche Investitionseinnahmen,0.0,0.0,BS,2022
-HRM2_BI0010,10,Finanzvermögen,Finanzvermögen,7153870.448899999,0.0,BS,2022
-HRM2_BI0014,14,Verwaltungsvermögen,Verwaltungsvermögen,6134358.28381,0.0,BS,2022
-HRM2_BI0020,20,Fremdkapital,Fremdkapital,6952528.95623,0.0,BS,2022
-HRM2_BI0029,29,Eigenkapital,Eigenkapital,6335699.77648,0.0,BS,2022
-HRM2_ER0030,30,Charges de personnel,Charges de personnel,1697890.0,1455267.0,FR,2022
-HRM2_ER0031,31,Charges de biens et services et autres charges d'exploitation,Charges de biens et services et autres charges d'exploitation,418249.0,407579.0,FR,2022
-HRM2_neu_ER0033,33,Amortissements du patrimoine administratif,Amortissements du patrimoine administratif,78184.0,89854.0,FR,2022
-HRM2_neu_ER0035,35,Attributions aux fonds et financements spéciaux,Attributions aux fonds et financements spéciaux,234916.0,63277.0,FR,2022
-HRM2_ER0036,36,Charges de transfert,Charges de transfert,1762112.0,1762288.0,FR,2022
-HRM2_ER0037,37,Subventions à redistribuer,Subventions à redistribuer,220107.0,221800.0,FR,2022
-HRM2_ER0039,39,Imputations internes,Imputations internes,49063.0,46181.0,FR,2022
-HRM2_neu_ER0040,40,Revenus fiscaux,Revenus fiscaux,1447526.0,1367541.0,FR,2022
-HRM2_ER0041,41,Patentes et concessions,Patentes et concessions,170599.0,20427.0,FR,2022
-HRM2_ER0042,42,Taxes,Taxes,268533.0,257801.0,FR,2022
-HRM2_neu_ER0043,43,Revenus divers,Revenus divers,2269.0,2077.0,FR,2022
-HRM2_neu_ER0045,45,Prélèvements sur les fonds et financements spéciaux,Prélèvements sur les fonds et financements spéciaux,470268.0,200075.0,FR,2022
-HRM2_ER0046,46,Revenus de transferts,Revenus de transferts,1740328.0,1827143.0,FR,2022
-HRM2_ER0047,47,Subventions à redistribuer,Subventions à redistribuer,219769.0,221800.0,FR,2022
-HRM2_ER0049,49,Imputations internes,Imputations internes,49063.0,46181.0,FR,2022
-HRM2_neu_ER0034,34,Charges financières,Charges financières,6322.0,5292.0,FR,2022
-HRM2_neu_ER0044,44,Revenus financiers,Revenus financiers,148982.0,108596.0,FR,2022
-HRM2_neu_ER0038,38,Charges extraordinaires,Charges extraordinaires,50000.0,0.0,FR,2022
-HRM2_neu_ER0048,48,Revenus extraordinaires,Revenus extraordinaires,0.0,0.0,FR,2022
-HRM2_IR0050,50,Immobilisations corporelles,Immobilisations corporelles,86837.0,154125.0,FR,2022
-HRM2_IR0051,51,Investissements pour le compte de tiers,Investissements pour le compte de tiers,0.0,0.0,FR,2022
-HRM2_IR0052,52,Immobilisations incorporelles,Immobilisations incorporelles,0.0,0.0,FR,2022
-HRM2_IR0054,54,Prêts,Prêts,8528.0,20200.0,FR,2022
-HRM2_IR0055,55,Participations et capital social,Participations et capital social,52102.0,6600.0,FR,2022
-HRM2_IR0056,56,Propres subventions d'investissement,Propres subventions d'investissement,66298.0,77521.0,FR,2022
-HRM2_IR0057,57,Subventions d'investissements à redistribuer,Subventions d'investissements à redistribuer,14973.0,25401.0,FR,2022
-HRM2_neu_IR0058,58,Investissements extraordinaires,Investissements extraordinaires,0.0,0.0,FR,2022
-HRM2_IR0060,60,Transfert d'immobilisations corporelles dans le patrimoine financier,Transfert d'immobilisations corporelles dans le patrimoine financier,0.0,0.0,FR,2022
-HRM2_IR0061,61,Remboursements pour les investissements sur le compte des tiers,Remboursements pour les investissements sur le compte des tiers,0.0,0.0,FR,2022
-HRM2_IR0062,62,Vente d'immobilisations incorporelles,Vente d'immobilisations incorporelles,0.0,0.0,FR,2022
-HRM2_IR0063,63,Subventions d'investissements acquises,Subventions d'investissements acquises,7583.0,14458.0,FR,2022
-HRM2_IR0064,64,Remboursement de prêts,Remboursement de prêts,16263.0,11283.0,FR,2022
-HRM2_IR0065,65,Transfert de participations,Transfert de participations,0.0,0.0,FR,2022
-HRM2_IR0066,66,Remboursement de propres subventions d'investissement,Remboursement de propres subventions d'investissement,0.0,50.0,FR,2022
-HRM2_IR0067,67,Subventions d'investissements à redistribuer,Subventions d'investissements à redistribuer,17543.0,25401.0,FR,2022
-HRM2_neu_IR0068,68,Recettes d'investissement extraordinaires,Recettes d'investissement extraordinaires,0.0,0.0,FR,2022
-HRM2_BI0010,10,Patrimoine Financier,Patrimoine Financier,2416925.0,0.0,FR,2022
-HRM2_BI0014,14,Patrimoine administratif,Patrimoine administratif,917499.0,0.0,FR,2022
-HRM2_BI0020,20,Capitaux de tiers,Capitaux de tiers,1989326.0,0.0,FR,2022
-HRM2_BI0029,29,Capital propre,Capital propre,1345098.0,0.0,FR,2022
-HRM2_ER0030,30,Charges de personnel,Charges de personnel,2684696.7,2854563.2,GE,2022
-HRM2_ER0031,31,Charges de biens et services et autres charges d'exploitation,Charges de biens et services et autres charges d'exploitation,959861.9,646101.2,GE,2022
-HRM2_neu_ER0033,33,Amortissements du patrimoine administratif,Amortissements du patrimoine administratif,357848.2,360793.2,GE,2022
-HRM2_neu_ER0035,35,Attributions aux fonds et financements spéciaux,Attributions aux fonds et financements spéciaux,0.0,0.0,GE,2022
-HRM2_ER0036,36,Charges de transfert,Charges de transfert,5531373.9,5784110.9,GE,2022
-HRM2_ER0037,37,Subventions à redistribuer,Subventions à redistribuer,82861.6,51947.4,GE,2022
-HRM2_ER0039,39,Imputations internes,Imputations internes,14519.2,14786.8,GE,2022
-HRM2_neu_ER0040,40,Revenus fiscaux,Revenus fiscaux,8429021.8,7226267.1,GE,2022
-HRM2_ER0041,41,Patentes et concessions,Patentes et concessions,260338.0,27784.4,GE,2022
-HRM2_ER0042,42,Taxes,Taxes,437567.5,424377.4,GE,2022
-HRM2_neu_ER0043,43,Revenus divers,Revenus divers,173592.7,97537.9,GE,2022
-HRM2_neu_ER0045,45,Prélèvements sur les fonds et financements spéciaux,Prélèvements sur les fonds et financements spéciaux,0.0,0.0,GE,2022
-HRM2_ER0046,46,Revenus de transferts,Revenus de transferts,1614240.4,1481614.2,GE,2022
-HRM2_ER0047,47,Subventions à redistribuer,Subventions à redistribuer,82861.6,51947.4,GE,2022
-HRM2_ER0049,49,Imputations internes,Imputations internes,14519.2,14786.8,GE,2022
-HRM2_neu_ER0034,34,Charges financières,Charges financières,201562.8,220682.5,GE,2022
-HRM2_neu_ER0044,44,Revenus financiers,Revenus financiers,271674.6,250579.1,GE,2022
-HRM2_neu_ER0038,38,Charges extraordinaires,Charges extraordinaires,724213.9,118344.4,GE,2022
-HRM2_neu_ER0048,48,Revenus extraordinaires,Revenus extraordinaires,0.0,0.0,GE,2022
-HRM2_IR0050,50,Immobilisations corporelles,Immobilisations corporelles,339398.3,436265.72125,GE,2022
-HRM2_IR0051,51,Investissements pour le compte de tiers,Investissements pour le compte de tiers,0.0,0.0,GE,2022
-HRM2_IR0052,52,Immobilisations incorporelles,Immobilisations incorporelles,42249.097,63543.26275,GE,2022
-HRM2_IR0054,54,Prêts,Prêts,43853.588,22390.232,GE,2022
-HRM2_IR0055,55,Participations et capital social,Participations et capital social,14011.604,17000.0,GE,2022
-HRM2_IR0056,56,Propres subventions d'investissement,Propres subventions d'investissement,131805.901,184402.755,GE,2022
-HRM2_IR0057,57,Subventions d'investissements à redistribuer,Subventions d'investissements à redistribuer,0.0,0.0,GE,2022
-HRM2_neu_IR0058,58,Investissements extraordinaires,Investissements extraordinaires,0.0,0.0,GE,2022
-HRM2_IR0060,60,Transfert d'immobilisations corporelles dans le patrimoine financier,Transfert d'immobilisations corporelles dans le patrimoine financier,12509.589,0.0,GE,2022
-HRM2_IR0061,61,Remboursements pour les investissements sur le compte des tiers,Remboursements pour les investissements sur le compte des tiers,0.0,0.0,GE,2022
-HRM2_IR0062,62,Vente d'immobilisations incorporelles,Vente d'immobilisations incorporelles,0.0,0.0,GE,2022
-HRM2_IR0063,63,Subventions d'investissements acquises,Subventions d'investissements acquises,65671.283,34705.892,GE,2022
-HRM2_IR0064,64,Remboursement de prêts,Remboursement de prêts,9387.361,5072.137,GE,2022
-HRM2_IR0065,65,Transfert de participations,Transfert de participations,510.0,0.0,GE,2022
-HRM2_IR0066,66,Remboursement de propres subventions d'investissement,Remboursement de propres subventions d'investissement,292.997,0.0,GE,2022
-HRM2_IR0067,67,Subventions d'investissements à redistribuer,Subventions d'investissements à redistribuer,0.0,0.0,GE,2022
-HRM2_neu_IR0068,68,Recettes d'investissement extraordinaires,Recettes d'investissement extraordinaires,0.0,0.0,GE,2022
-HRM2_BI0010,10,Patrimoine Financier,Patrimoine Financier,4020632.34294,0.0,GE,2022
-HRM2_BI0014,14,Patrimoine administratif,Patrimoine administratif,16350680.740220001,0.0,GE,2022
-HRM2_BI0020,20,Capitaux de tiers,Capitaux de tiers,20762137.08533,0.0,GE,2022
-HRM2_BI0029,29,Capital propre,Capital propre,-390824.0021700006,0.0,GE,2022
-HRM2_ER0030,30,Personalaufwand,Personalaufwand,82146.505,88723.8,GL,2022
-HRM2_ER0031,31,Sach- und übriger Betriebsaufwand,Sach- und übriger Betriebsaufwand,33650.825,38707.8,GL,2022
-HRM2_neu_ER0033,33,Abschreibungen VV,Abschreibungen VV,5599.362,3826.8,GL,2022
-HRM2_neu_ER0035,35,Einlagen in Fonds und Spezialfinanzierungen,Einlagen in Fonds und Spezialfinanzierungen,8836.994,23001.2,GL,2022
-HRM2_ER0036,36,Transferaufwand,Transferaufwand,201766.781,213947.1,GL,2022
-HRM2_ER0037,37,Durchlaufende Beiträge,Durchlaufende Beiträge,26925.044,26552.0,GL,2022
-HRM2_ER0039,39,Interne Verrechungen,Interne Verrechungen,34740.68,27991.0,GL,2022
-HRM2_neu_ER0040,40,Fiskalertrag,Fiskalertrag,120503.33,120986.0,GL,2022
-HRM2_ER0041,41,Regalien und Konzessionen,Regalien und Konzessionen,27650.105,10401.0,GL,2022
-HRM2_ER0042,42,Entgelte,Entgelte,25662.409,31873.6,GL,2022
-HRM2_neu_ER0043,43,Verschiedene Erträge,Verschiedene Erträge,393.806,258.0,GL,2022
-HRM2_neu_ER0045,45,Entnahmen aus Fonds und Spezialfinanzierungen,Entnahmen aus Fonds und Spezialfinanzierungen,9650.376,5722.8,GL,2022
-HRM2_ER0046,46,Transferertrag,Transferertrag,143209.948,146310.6,GL,2022
-HRM2_ER0047,47,Durchlaufende Beiträge,Durchlaufende Beiträge,26925.045,26552.0,GL,2022
-HRM2_ER0049,49,Interne Verrechnungen,Interne Verrechnungen,34740.68,27991.0,GL,2022
-HRM2_neu_ER0034,34,Finanzaufwand,Finanzaufwand,29970.451,7278.4,GL,2022
-HRM2_neu_ER0044,44,Finanzertrag,Finanzertrag,58157.712,28201.3,GL,2022
-HRM2_neu_ER0038,38,Ausserordentlicher Aufwand,Ausserordentlicher Aufwand,20191.072,0.0,GL,2022
-HRM2_neu_ER0048,48,Ausserordentlicher Ertrag,Ausserordentlicher Ertrag,543.5,17250.0,GL,2022
-HRM2_IR0050,50,Sachanlagen,Sachanlagen,19472.0,24815.0,GL,2022
-HRM2_IR0051,51,Investitionen auf Rechnung Dritter,Investitionen auf Rechnung Dritter,0.0,0.0,GL,2022
-HRM2_IR0052,52,Immaterielle Anlagen,Immaterielle Anlagen,1064.3,2212.0,GL,2022
-HRM2_IR0054,54,Darlehen,Darlehen,815.9,1940.0,GL,2022
-HRM2_IR0055,55,Beteiligungen und Grundkapitalien,Beteiligungen und Grundkapitalien,0.0,1600.0,GL,2022
-HRM2_IR0056,56,Eigene Investitionsbeiträge,Eigene Investitionsbeiträge,13530.7,15099.0,GL,2022
-HRM2_IR0057,57,Durchlaufende Investitionsbeiträge,Durchlaufende Investitionsbeiträge,8066.4,17635.0,GL,2022
-HRM2_neu_IR0058,58,Ausserordentliche Investitionen,Ausserordentliche Investitionen,0.0,0.0,GL,2022
-HRM2_IR0060,60,Übertragung von Sachanlagen in das FV,Übertragung von Sachanlagen in das FV,0.0,0.0,GL,2022
-HRM2_IR0061,61,Rückerstattungen Dritter für Investitionen,Rückerstattungen Dritter für Investitionen,0.0,0.0,GL,2022
-HRM2_IR0062,62,Abgang immaterielle Anlagen,Abgang immaterielle Anlagen,0.0,0.0,GL,2022
-HRM2_IR0063,63,Investitionsbeiträge für eigene Rechnung,Investitionsbeiträge für eigene Rechnung,4990.2,4057.0,GL,2022
-HRM2_IR0064,64,Rückzahlung von Darlehen,Rückzahlung von Darlehen,3216.2,1613.0,GL,2022
-HRM2_IR0065,65,Übertragung von Beteiligungen,Übertragung von Beteiligungen,0.0,0.0,GL,2022
-HRM2_IR0066,66,Rückzahlung eigener Investitionsbeiträge,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,GL,2022
-HRM2_IR0067,67,Durchlaufende Investitionsbeiträge,Durchlaufende Investitionsbeiträge,8066.4,17635.0,GL,2022
-HRM2_neu_IR0068,68,Ausserordentliche Investitionseinnahmen,Ausserordentliche Investitionseinnahmen,0.0,0.0,GL,2022
-HRM2_BI0010,10,Finanzvermögen,Finanzvermögen,357841.75753,0.0,GL,2022
-HRM2_BI0014,14,Verwaltungsvermögen,Verwaltungsvermögen,219717.14116,0.0,GL,2022
-HRM2_BI0020,20,Fremdkapital,Fremdkapital,212987.68063999998,0.0,GL,2022
-HRM2_BI0029,29,Eigenkapital,Eigenkapital,364571.21805,0.0,GL,2022
-HRM2_ER0030,30,Personalaufwand,Personalaufwand,409456.8,447200.0,GR,2022
-HRM2_ER0031,31,Sach- und übriger Betriebsaufwand,Sach- und übriger Betriebsaufwand,308094.7,363633.0,GR,2022
-HRM2_neu_ER0033,33,Abschreibungen VV,Abschreibungen VV,87546.6,114753.0,GR,2022
-HRM2_neu_ER0035,35,Einlagen in Fonds und Spezialfinanzierungen,Einlagen in Fonds und Spezialfinanzierungen,2681.8,376.0,GR,2022
-HRM2_ER0036,36,Transferaufwand,Transferaufwand,1127514.5,1293718.0,GR,2022
-HRM2_ER0037,37,Durchlaufende Beiträge,Durchlaufende Beiträge,370419.3,387322.0,GR,2022
-HRM2_ER0039,39,Interne Verrechungen,Interne Verrechungen,178115.5,204118.0,GR,2022
-HRM2_neu_ER0040,40,Fiskalertrag,Fiskalertrag,910475.3,879190.0,GR,2022
-HRM2_ER0041,41,Regalien und Konzessionen,Regalien und Konzessionen,141658.7,129115.0,GR,2022
-HRM2_ER0042,42,Entgelte,Entgelte,203743.5,192976.0,GR,2022
-HRM2_neu_ER0043,43,Verschiedene Erträge,Verschiedene Erträge,8616.9,6048.0,GR,2022
-HRM2_neu_ER0045,45,Entnahmen aus Fonds und Spezialfinanzierungen,Entnahmen aus Fonds und Spezialfinanzierungen,1768.4,30645.0,GR,2022
-HRM2_ER0046,46,Transferertrag,Transferertrag,772087.9,823361.0,GR,2022
-HRM2_ER0047,47,Durchlaufende Beiträge,Durchlaufende Beiträge,370419.3,387322.0,GR,2022
-HRM2_ER0049,49,Interne Verrechnungen,Interne Verrechnungen,178115.5,204118.0,GR,2022
-HRM2_neu_ER0034,34,Finanzaufwand,Finanzaufwand,30498.3,3203.0,GR,2022
-HRM2_neu_ER0044,44,Finanzertrag,Finanzertrag,143316.3,122485.0,GR,2022
-HRM2_neu_ER0038,38,Ausserordentlicher Aufwand,Ausserordentlicher Aufwand,79712.0,0.0,GR,2022
-HRM2_neu_ER0048,48,Ausserordentlicher Ertrag,Ausserordentlicher Ertrag,69422.7,27858.0,GR,2022
-HRM2_IR0050,50,Sachanlagen,Sachanlagen,134522.2,179396.0,GR,2022
-HRM2_IR0051,51,Investitionen auf Rechnung Dritter,Investitionen auf Rechnung Dritter,0.0,0.0,GR,2022
-HRM2_IR0052,52,Immaterielle Anlagen,Immaterielle Anlagen,6972.6,12579.0,GR,2022
-HRM2_IR0054,54,Darlehen,Darlehen,2452.3,10360.0,GR,2022
-HRM2_IR0055,55,Beteiligungen und Grundkapitalien,Beteiligungen und Grundkapitalien,0.0,0.0,GR,2022
-HRM2_IR0056,56,Eigene Investitionsbeiträge,Eigene Investitionsbeiträge,176438.3,227054.0,GR,2022
-HRM2_IR0057,57,Durchlaufende Investitionsbeiträge,Durchlaufende Investitionsbeiträge,18032.2,21765.0,GR,2022
-HRM2_neu_IR0058,58,Ausserordentliche Investitionen,Ausserordentliche Investitionen,0.0,0.0,GR,2022
-HRM2_IR0060,60,Übertragung von Sachanlagen in das FV,Übertragung von Sachanlagen in das FV,2327.1,0.0,GR,2022
-HRM2_IR0061,61,Rückerstattungen Dritter für Investitionen,Rückerstattungen Dritter für Investitionen,3620.7,3920.0,GR,2022
-HRM2_IR0062,62,Abgang immaterielle Anlagen,Abgang immaterielle Anlagen,25.0,0.0,GR,2022
-HRM2_IR0063,63,Investitionsbeiträge für eigene Rechnung,Investitionsbeiträge für eigene Rechnung,112067.8,119552.0,GR,2022
-HRM2_IR0064,64,Rückzahlung von Darlehen,Rückzahlung von Darlehen,5954.8,4845.0,GR,2022
-HRM2_IR0065,65,Übertragung von Beteiligungen,Übertragung von Beteiligungen,0.0,0.0,GR,2022
-HRM2_IR0066,66,Rückzahlung eigener Investitionsbeiträge,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,GR,2022
-HRM2_IR0067,67,Durchlaufende Investitionsbeiträge,Durchlaufende Investitionsbeiträge,18032.2,21765.0,GR,2022
-HRM2_neu_IR0068,68,Ausserordentliche Investitionseinnahmen,Ausserordentliche Investitionseinnahmen,22.7,0.0,GR,2022
-HRM2_BI0010,10,Finanzvermögen,Finanzvermögen,3446888.3,0.0,GR,2022
-HRM2_BI0014,14,Verwaltungsvermögen,Verwaltungsvermögen,1169448.6,0.0,GR,2022
-HRM2_BI0020,20,Fremdkapital,Fremdkapital,1519080.5,0.0,GR,2022
-HRM2_BI0029,29,Eigenkapital,Eigenkapital,3097256.4,0.0,GR,2022
-HRM2_ER0030,30,Charges de personnel,Charges de personnel,268796.37687,277254.4,JU,2022
-HRM2_ER0031,31,Charges de biens et services et autres charges d'exploitation,Charges de biens et services et autres charges d'exploitation,79829.41179,83165.5,JU,2022
-HRM2_neu_ER0033,33,Amortissements du patrimoine administratif,Amortissements du patrimoine administratif,17932.56952,18293.0,JU,2022
-HRM2_neu_ER0035,35,Attributions aux fonds et financements spéciaux,Attributions aux fonds et financements spéciaux,13265.16056,13783.4,JU,2022
-HRM2_ER0036,36,Charges de transfert,Charges de transfert,480892.17495,496774.8,JU,2022
-HRM2_ER0037,37,Subventions à redistribuer,Subventions à redistribuer,111900.04152,116412.1,JU,2022
-HRM2_ER0039,39,Imputations internes,Imputations internes,3364.33397,4221.9,JU,2022
-HRM2_neu_ER0040,40,Revenus fiscaux,Revenus fiscaux,356374.39645,368217.8,JU,2022
-HRM2_ER0041,41,Patentes et concessions,Patentes et concessions,37532.01835,25935.2,JU,2022
-HRM2_ER0042,42,Taxes,Taxes,48355.79645,43220.3,JU,2022
-HRM2_neu_ER0043,43,Revenus divers,Revenus divers,1481.44303,90.3,JU,2022
-HRM2_neu_ER0045,45,Prélèvements sur les fonds et financements spéciaux,Prélèvements sur les fonds et financements spéciaux,2155.96623,4554.3,JU,2022
-HRM2_ER0046,46,Revenus de transferts,Revenus de transferts,409685.61587,408765.4,JU,2022
-HRM2_ER0047,47,Subventions à redistribuer,Subventions à redistribuer,111900.04152,116412.1,JU,2022
-HRM2_ER0049,49,Imputations internes,Imputations internes,3364.33397,4221.9,JU,2022
-HRM2_neu_ER0034,34,Charges financières,Charges financières,4690.6157,3777.1,JU,2022
-HRM2_neu_ER0044,44,Revenus financiers,Revenus financiers,10141.67491,9602.8,JU,2022
-HRM2_neu_ER0038,38,Charges extraordinaires,Charges extraordinaires,0.0,0.0,JU,2022
-HRM2_neu_ER0048,48,Revenus extraordinaires,Revenus extraordinaires,0.0,27007.0,JU,2022
-HRM2_IR0050,50,Immobilisations corporelles,Immobilisations corporelles,24673.93444,27837.3,JU,2022
-HRM2_IR0051,51,Investissements pour le compte de tiers,Investissements pour le compte de tiers,0.0,0.0,JU,2022
-HRM2_IR0052,52,Immobilisations incorporelles,Immobilisations incorporelles,0.0,0.0,JU,2022
-HRM2_IR0054,54,Prêts,Prêts,404.505,460.0,JU,2022
-HRM2_IR0055,55,Participations et capital social,Participations et capital social,-10.0,0.0,JU,2022
-HRM2_IR0056,56,Propres subventions d'investissement,Propres subventions d'investissement,17535.7343,11857.8,JU,2022
-HRM2_IR0057,57,Subventions d'investissements à redistribuer,Subventions d'investissements à redistribuer,13699.0179,9889.1,JU,2022
-HRM2_neu_IR0058,58,Investissements extraordinaires,Investissements extraordinaires,40.974,0.0,JU,2022
-HRM2_IR0060,60,Transfert d'immobilisations corporelles dans le patrimoine financier,Transfert d'immobilisations corporelles dans le patrimoine financier,390.714,0.0,JU,2022
-HRM2_IR0061,61,Remboursements pour les investissements sur le compte des tiers,Remboursements pour les investissements sur le compte des tiers,0.0,0.0,JU,2022
-HRM2_IR0062,62,Vente d'immobilisations incorporelles,Vente d'immobilisations incorporelles,0.0,0.0,JU,2022
-HRM2_IR0063,63,Subventions d'investissements acquises,Subventions d'investissements acquises,4543.50243,7106.6,JU,2022
-HRM2_IR0064,64,Remboursement de prêts,Remboursement de prêts,1401.3783,1479.5,JU,2022
-HRM2_IR0065,65,Transfert de participations,Transfert de participations,0.11785,0.0,JU,2022
-HRM2_IR0066,66,Remboursement de propres subventions d'investissement,Remboursement de propres subventions d'investissement,22.71555,40.0,JU,2022
-HRM2_IR0067,67,Subventions d'investissements à redistribuer,Subventions d'investissements à redistribuer,13699.0179,9889.1,JU,2022
-HRM2_neu_IR0068,68,Recettes d'investissement extraordinaires,Recettes d'investissement extraordinaires,0.0,0.0,JU,2022
-HRM2_BI0010,10,Patrimoine Financier,Patrimoine Financier,295736.9034499999,0.0,JU,2022
-HRM2_BI0014,14,Patrimoine administratif,Patrimoine administratif,483633.82216000004,0.0,JU,2022
-HRM2_BI0020,20,Capitaux de tiers,Capitaux de tiers,693169.92707,0.0,JU,2022
-HRM2_BI0029,29,Capital propre,Capital propre,86200.79854,0.0,JU,2022
-HRM2_ER0030,30,Personalaufwand,Personalaufwand,678656.165,695478.458,LU,2022
-HRM2_ER0031,31,Sach- und übriger Betriebsaufwand,Sach- und übriger Betriebsaufwand,258270.848,245670.768,LU,2022
-HRM2_neu_ER0033,33,Abschreibungen VV,Abschreibungen VV,131757.716,133617.763,LU,2022
-HRM2_neu_ER0035,35,Einlagen in Fonds und Spezialfinanzierungen,Einlagen in Fonds und Spezialfinanzierungen,14707.686,5354.031,LU,2022
-HRM2_ER0036,36,Transferaufwand,Transferaufwand,2299034.573,2419107.68,LU,2022
-HRM2_ER0037,37,Durchlaufende Beiträge,Durchlaufende Beiträge,255625.493,258222.317,LU,2022
-HRM2_ER0039,39,Interne Verrechungen,Interne Verrechungen,322399.343,323902.091,LU,2022
-HRM2_neu_ER0040,40,Fiskalertrag,Fiskalertrag,1634697.975,1570016.495,LU,2022
-HRM2_ER0041,41,Regalien und Konzessionen,Regalien und Konzessionen,226850.485,192127.531,LU,2022
-HRM2_ER0042,42,Entgelte,Entgelte,205706.75,203592.003,LU,2022
-HRM2_neu_ER0043,43,Verschiedene Erträge,Verschiedene Erträge,2178.282,1360.0,LU,2022
-HRM2_neu_ER0045,45,Entnahmen aus Fonds und Spezialfinanzierungen,Entnahmen aus Fonds und Spezialfinanzierungen,6273.877,4604.651,LU,2022
-HRM2_ER0046,46,Transferertrag,Transferertrag,1406319.279,1441052.923,LU,2022
-HRM2_ER0047,47,Durchlaufende Beiträge,Durchlaufende Beiträge,255625.493,258222.317,LU,2022
-HRM2_ER0049,49,Interne Verrechnungen,Interne Verrechnungen,322399.343,323902.091,LU,2022
-HRM2_neu_ER0034,34,Finanzaufwand,Finanzaufwand,9902.382,10096.55,LU,2022
-HRM2_neu_ER0044,44,Finanzertrag,Finanzertrag,114367.939,110803.769,LU,2022
-HRM2_neu_ER0038,38,Ausserordentlicher Aufwand,Ausserordentlicher Aufwand,-391.982,0.0,LU,2022
-HRM2_neu_ER0048,48,Ausserordentlicher Ertrag,Ausserordentlicher Ertrag,0.0,0.0,LU,2022
-HRM2_IR0050,50,Sachanlagen,Sachanlagen,165356.657,213964.0,LU,2022
-HRM2_IR0051,51,Investitionen auf Rechnung Dritter,Investitionen auf Rechnung Dritter,11160.786,0.0,LU,2022
-HRM2_IR0052,52,Immaterielle Anlagen,Immaterielle Anlagen,12610.153,13089.0,LU,2022
-HRM2_IR0054,54,Darlehen,Darlehen,2219.581,2000.0,LU,2022
-HRM2_IR0055,55,Beteiligungen und Grundkapitalien,Beteiligungen und Grundkapitalien,25950.0,255000.0,LU,2022
-HRM2_IR0056,56,Eigene Investitionsbeiträge,Eigene Investitionsbeiträge,20272.065,20600.0,LU,2022
-HRM2_IR0057,57,Durchlaufende Investitionsbeiträge,Durchlaufende Investitionsbeiträge,4193.981,6075.0,LU,2022
-HRM2_neu_IR0058,58,Ausserordentliche Investitionen,Ausserordentliche Investitionen,0.0,0.0,LU,2022
-HRM2_IR0060,60,Übertragung von Sachanlagen in das FV,Übertragung von Sachanlagen in das FV,23.081,2000.0,LU,2022
-HRM2_IR0061,61,Rückerstattungen Dritter für Investitionen,Rückerstattungen Dritter für Investitionen,11652.258,0.0,LU,2022
-HRM2_IR0062,62,Abgang immaterielle Anlagen,Abgang immaterielle Anlagen,0.0,0.0,LU,2022
-HRM2_IR0063,63,Investitionsbeiträge für eigene Rechnung,Investitionsbeiträge für eigene Rechnung,27574.151,41804.0,LU,2022
-HRM2_IR0064,64,Rückzahlung von Darlehen,Rückzahlung von Darlehen,3716.059,2719.854,LU,2022
-HRM2_IR0065,65,Übertragung von Beteiligungen,Übertragung von Beteiligungen,0.0,0.0,LU,2022
-HRM2_IR0066,66,Rückzahlung eigener Investitionsbeiträge,Rückzahlung eigener Investitionsbeiträge,20.556,10.0,LU,2022
-HRM2_IR0067,67,Durchlaufende Investitionsbeiträge,Durchlaufende Investitionsbeiträge,4193.981,6075.0,LU,2022
-HRM2_neu_IR0068,68,Ausserordentliche Investitionseinnahmen,Ausserordentliche Investitionseinnahmen,0.0,0.0,LU,2022
-HRM2_BI0010,10,Finanzvermögen,Finanzvermögen,2970966.2060000002,2541300.0,LU,2022
-HRM2_BI0014,14,Verwaltungsvermögen,Verwaltungsvermögen,4669896.237,5051200.0,LU,2022
-HRM2_BI0020,20,Fremdkapital,Fremdkapital,3031915.401,3063300.0,LU,2022
-HRM2_BI0029,29,Eigenkapital,Eigenkapital,4608947.442,4529200.0,LU,2022
-HRM2_ER0030,30,Charges de personnel,Charges de personnel,459447.235,483488.846,NE,2022
-HRM2_ER0031,31,Charges de biens et services et autres charges d'exploitation,Charges de biens et services et autres charges d'exploitation,182246.578,192499.22,NE,2022
-HRM2_neu_ER0033,33,Amortissements du patrimoine administratif,Amortissements du patrimoine administratif,42839.792,46902.564,NE,2022
-HRM2_neu_ER0035,35,Attributions aux fonds et financements spéciaux,Attributions aux fonds et financements spéciaux,36487.883,7793.854,NE,2022
-HRM2_ER0036,36,Charges de transfert,Charges de transfert,1396448.939,1468366.135,NE,2022
-HRM2_ER0037,37,Subventions à redistribuer,Subventions à redistribuer,188061.098,187253.317,NE,2022
-HRM2_ER0039,39,Imputations internes,Imputations internes,160772.175,136537.328,NE,2022
-HRM2_neu_ER0040,40,Revenus fiscaux,Revenus fiscaux,1080836.871,1064460.0,NE,2022
-HRM2_ER0041,41,Patentes et concessions,Patentes et concessions,99854.509,45419.0,NE,2022
-HRM2_ER0042,42,Taxes,Taxes,154518.953,203405.344,NE,2022
-HRM2_neu_ER0043,43,Revenus divers,Revenus divers,19147.639,10216.096,NE,2022
-HRM2_neu_ER0045,45,Prélèvements sur les fonds et financements spéciaux,Prélèvements sur les fonds et financements spéciaux,6115.482,17322.428,NE,2022
-HRM2_ER0046,46,Revenus de transferts,Revenus de transferts,730020.985,744247.968,NE,2022
-HRM2_ER0047,47,Subventions à redistribuer,Subventions à redistribuer,188061.098,187253.317,NE,2022
-HRM2_ER0049,49,Imputations internes,Imputations internes,160772.175,136537.328,NE,2022
-HRM2_neu_ER0034,34,Charges financières,Charges financières,23006.725,20042.0,NE,2022
-HRM2_neu_ER0044,44,Revenus financiers,Revenus financiers,69079.218,65925.559,NE,2022
-HRM2_neu_ER0038,38,Charges extraordinaires,Charges extraordinaires,36950.085,0.0,NE,2022
-HRM2_neu_ER0048,48,Revenus extraordinaires,Revenus extraordinaires,24281.528,54510.741,NE,2022
-HRM2_IR0050,50,Immobilisations corporelles,Immobilisations corporelles,58098.964,109318.126,NE,2022
-HRM2_IR0051,51,Investissements pour le compte de tiers,Investissements pour le compte de tiers,0.0,0.0,NE,2022
-HRM2_IR0052,52,Immobilisations incorporelles,Immobilisations incorporelles,1950.632,3429.307,NE,2022
-HRM2_IR0054,54,Prêts,Prêts,24708.76,24266.0,NE,2022
-HRM2_IR0055,55,Participations et capital social,Participations et capital social,0.0,1000.0,NE,2022
-HRM2_IR0056,56,Propres subventions d'investissement,Propres subventions d'investissement,15182.247,24019.629,NE,2022
-HRM2_IR0057,57,Subventions d'investissements à redistribuer,Subventions d'investissements à redistribuer,2142.706,4409.55,NE,2022
-HRM2_neu_IR0058,58,Investissements extraordinaires,Investissements extraordinaires,0.0,0.0,NE,2022
-HRM2_IR0060,60,Transfert d'immobilisations corporelles dans le patrimoine financier,Transfert d'immobilisations corporelles dans le patrimoine financier,16.326,0.0,NE,2022
-HRM2_IR0061,61,Remboursements pour les investissements sur le compte des tiers,Remboursements pour les investissements sur le compte des tiers,0.0,0.0,NE,2022
-HRM2_IR0062,62,Vente d'immobilisations incorporelles,Vente d'immobilisations incorporelles,0.0,0.0,NE,2022
-HRM2_IR0063,63,Subventions d'investissements acquises,Subventions d'investissements acquises,2592.647,710.65,NE,2022
-HRM2_IR0064,64,Remboursement de prêts,Remboursement de prêts,14156.28,12864.866,NE,2022
-HRM2_IR0065,65,Transfert de participations,Transfert de participations,0.0,0.0,NE,2022
-HRM2_IR0066,66,Remboursement de propres subventions d'investissement,Remboursement de propres subventions d'investissement,23661.941,30699.618,NE,2022
-HRM2_IR0067,67,Subventions d'investissements à redistribuer,Subventions d'investissements à redistribuer,2142.706,4409.55,NE,2022
-HRM2_neu_IR0068,68,Recettes d'investissement extraordinaires,Recettes d'investissement extraordinaires,181.278,0.0,NE,2022
-HRM2_BI0010,10,Patrimoine Financier,Patrimoine Financier,2522973.091,0.0,NE,2022
-HRM2_BI0014,14,Patrimoine administratif,Patrimoine administratif,1782408.027,0.0,NE,2022
-HRM2_BI0020,20,Capitaux de tiers,Capitaux de tiers,3959989.5479999995,0.0,NE,2022
-HRM2_BI0029,29,Capital propre,Capital propre,345391.571,0.0,NE,2022
-HRM2_ER0030,30,Personalaufwand,Personalaufwand,84409.5,90076.7,NW,2022
-HRM2_ER0031,31,Sach- und übriger Betriebsaufwand,Sach- und übriger Betriebsaufwand,38178.3,40738.7,NW,2022
-HRM2_neu_ER0033,33,Abschreibungen VV,Abschreibungen VV,7846.0,10106.0,NW,2022
-HRM2_neu_ER0035,35,Einlagen in Fonds und Spezialfinanzierungen,Einlagen in Fonds und Spezialfinanzierungen,3523.1,248.5,NW,2022
-HRM2_ER0036,36,Transferaufwand,Transferaufwand,248471.6,263434.8,NW,2022
-HRM2_ER0037,37,Durchlaufende Beiträge,Durchlaufende Beiträge,22428.7,21804.7,NW,2022
-HRM2_ER0039,39,Interne Verrechungen,Interne Verrechungen,37176.1,37741.1,NW,2022
-HRM2_neu_ER0040,40,Fiskalertrag,Fiskalertrag,218506.0,208403.0,NW,2022
-HRM2_ER0041,41,Regalien und Konzessionen,Regalien und Konzessionen,29272.1,9239.2,NW,2022
-HRM2_ER0042,42,Entgelte,Entgelte,22311.7,22406.7,NW,2022
-HRM2_neu_ER0043,43,Verschiedene Erträge,Verschiedene Erträge,189.1,76.0,NW,2022
-HRM2_neu_ER0045,45,Entnahmen aus Fonds und Spezialfinanzierungen,Entnahmen aus Fonds und Spezialfinanzierungen,179.7,256.9,NW,2022
-HRM2_ER0046,46,Transferertrag,Transferertrag,124118.0,120093.5,NW,2022
-HRM2_ER0047,47,Durchlaufende Beiträge,Durchlaufende Beiträge,22428.7,21804.7,NW,2022
-HRM2_ER0049,49,Interne Verrechnungen,Interne Verrechnungen,37176.1,37741.1,NW,2022
-HRM2_neu_ER0034,34,Finanzaufwand,Finanzaufwand,1970.8,1954.4,NW,2022
-HRM2_neu_ER0044,44,Finanzertrag,Finanzertrag,19048.0,18694.7,NW,2022
-HRM2_neu_ER0038,38,Ausserordentlicher Aufwand,Ausserordentlicher Aufwand,28000.0,0.0,NW,2022
-HRM2_neu_ER0048,48,Ausserordentlicher Ertrag,Ausserordentlicher Ertrag,0.0,26000.0,NW,2022
-HRM2_IR0050,50,Sachanlagen,Sachanlagen,19866.5,21960.0,NW,2022
-HRM2_IR0051,51,Investitionen auf Rechnung Dritter,Investitionen auf Rechnung Dritter,0.0,0.0,NW,2022
-HRM2_IR0052,52,Immaterielle Anlagen,Immaterielle Anlagen,1797.2,2277.0,NW,2022
-HRM2_IR0054,54,Darlehen,Darlehen,13174.2,3562.9,NW,2022
-HRM2_IR0055,55,Beteiligungen und Grundkapitalien,Beteiligungen und Grundkapitalien,0.0,0.0,NW,2022
-HRM2_IR0056,56,Eigene Investitionsbeiträge,Eigene Investitionsbeiträge,10294.5,15359.0,NW,2022
-HRM2_IR0057,57,Durchlaufende Investitionsbeiträge,Durchlaufende Investitionsbeiträge,1095.0,1057.0,NW,2022
-HRM2_neu_IR0058,58,Ausserordentliche Investitionen,Ausserordentliche Investitionen,0.0,0.0,NW,2022
-HRM2_IR0060,60,Übertragung von Sachanlagen in das FV,Übertragung von Sachanlagen in das FV,2386.9,1410.0,NW,2022
-HRM2_IR0061,61,Rückerstattungen Dritter für Investitionen,Rückerstattungen Dritter für Investitionen,0.0,0.0,NW,2022
-HRM2_IR0062,62,Abgang immaterielle Anlagen,Abgang immaterielle Anlagen,0.0,0.0,NW,2022
-HRM2_IR0063,63,Investitionsbeiträge für eigene Rechnung,Investitionsbeiträge für eigene Rechnung,9494.6,12668.0,NW,2022
-HRM2_IR0064,64,Rückzahlung von Darlehen,Rückzahlung von Darlehen,2862.6,2021.0,NW,2022
-HRM2_IR0065,65,Übertragung von Beteiligungen,Übertragung von Beteiligungen,0.0,0.0,NW,2022
-HRM2_IR0066,66,Rückzahlung eigener Investitionsbeiträge,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,NW,2022
-HRM2_IR0067,67,Durchlaufende Investitionsbeiträge,Durchlaufende Investitionsbeiträge,1095.0,1057.0,NW,2022
-HRM2_neu_IR0068,68,Ausserordentliche Investitionseinnahmen,Ausserordentliche Investitionseinnahmen,0.0,0.0,NW,2022
-HRM2_BI0010,10,Finanzvermögen,Finanzvermögen,353631.29999999993,292506.1,NW,2022
-HRM2_BI0014,14,Verwaltungsvermögen,Verwaltungsvermögen,345304.3,360041.1,NW,2022
-HRM2_BI0020,20,Fremdkapital,Fremdkapital,361648.9,353643.30000000005,NW,2022
-HRM2_BI0029,29,Eigenkapital,Eigenkapital,337286.60000000003,298903.8,NW,2022
-HRM2_ER0030,30,Personalaufwand,Personalaufwand,59827.7,64902.0,OW,2022
-HRM2_ER0031,31,Sach- und übriger Betriebsaufwand,Sach- und übriger Betriebsaufwand,29052.2,30607.8,OW,2022
-HRM2_neu_ER0033,33,Abschreibungen VV,Abschreibungen VV,2310.7,3413.8,OW,2022
-HRM2_neu_ER0035,35,Einlagen in Fonds und Spezialfinanzierungen,Einlagen in Fonds und Spezialfinanzierungen,976.9,644.7,OW,2022
-HRM2_ER0036,36,Transferaufwand,Transferaufwand,165867.4,184838.1,OW,2022
-HRM2_ER0037,37,Durchlaufende Beiträge,Durchlaufende Beiträge,38024.4,38631.8,OW,2022
-HRM2_ER0039,39,Interne Verrechungen,Interne Verrechungen,23749.0,24695.1,OW,2022
-HRM2_neu_ER0040,40,Fiskalertrag,Fiskalertrag,125822.5,132786.0,OW,2022
-HRM2_ER0041,41,Regalien und Konzessionen,Regalien und Konzessionen,22732.7,5183.0,OW,2022
-HRM2_ER0042,42,Entgelte,Entgelte,14022.1,14519.4,OW,2022
-HRM2_neu_ER0043,43,Verschiedene Erträge,Verschiedene Erträge,4348.9,3804.6,OW,2022
-HRM2_neu_ER0045,45,Entnahmen aus Fonds und Spezialfinanzierungen,Entnahmen aus Fonds und Spezialfinanzierungen,402.0,319.8,OW,2022
-HRM2_ER0046,46,Transferertrag,Transferertrag,92111.0,106237.5,OW,2022
-HRM2_ER0047,47,Durchlaufende Beiträge,Durchlaufende Beiträge,38024.4,38631.8,OW,2022
-HRM2_ER0049,49,Interne Verrechnungen,Interne Verrechnungen,23749.1,24695.1,OW,2022
-HRM2_neu_ER0034,34,Finanzaufwand,Finanzaufwand,217.2,284.8,OW,2022
-HRM2_neu_ER0044,44,Finanzertrag,Finanzertrag,18287.1,21481.5,OW,2022
-HRM2_neu_ER0038,38,Ausserordentlicher Aufwand,Ausserordentlicher Aufwand,17367.4,2523.7,OW,2022
-HRM2_neu_ER0048,48,Ausserordentlicher Ertrag,Ausserordentlicher Ertrag,0.0,3400.0,OW,2022
-HRM2_IR0050,50,Sachanlagen,Sachanlagen,31076.6,35607.3,OW,2022
-HRM2_IR0051,51,Investitionen auf Rechnung Dritter,Investitionen auf Rechnung Dritter,8553.8,22357.0,OW,2022
-HRM2_IR0052,52,Immaterielle Anlagen,Immaterielle Anlagen,1335.6,1181.3,OW,2022
-HRM2_IR0054,54,Darlehen,Darlehen,80.6,2150.0,OW,2022
-HRM2_IR0055,55,Beteiligungen und Grundkapitalien,Beteiligungen und Grundkapitalien,0.0,0.0,OW,2022
-HRM2_IR0056,56,Eigene Investitionsbeiträge,Eigene Investitionsbeiträge,4953.9,9180.0,OW,2022
-HRM2_IR0057,57,Durchlaufende Investitionsbeiträge,Durchlaufende Investitionsbeiträge,8366.4,15653.0,OW,2022
-HRM2_neu_IR0058,58,Ausserordentliche Investitionen,Ausserordentliche Investitionen,0.0,0.0,OW,2022
-HRM2_IR0060,60,Übertragung von Sachanlagen in das FV,Übertragung von Sachanlagen in das FV,0.0,0.0,OW,2022
-HRM2_IR0061,61,Rückerstattungen Dritter für Investitionen,Rückerstattungen Dritter für Investitionen,7949.2,21686.0,OW,2022
-HRM2_IR0062,62,Abgang immaterielle Anlagen,Abgang immaterielle Anlagen,0.0,0.0,OW,2022
-HRM2_IR0063,63,Investitionsbeiträge für eigene Rechnung,Investitionsbeiträge für eigene Rechnung,22178.2,15860.5,OW,2022
-HRM2_IR0064,64,Rückzahlung von Darlehen,Rückzahlung von Darlehen,332.0,439.7,OW,2022
-HRM2_IR0065,65,Übertragung von Beteiligungen,Übertragung von Beteiligungen,0.0,0.0,OW,2022
-HRM2_IR0066,66,Rückzahlung eigener Investitionsbeiträge,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,OW,2022
-HRM2_IR0067,67,Durchlaufende Investitionsbeiträge,Durchlaufende Investitionsbeiträge,8366.4,15653.0,OW,2022
-HRM2_neu_IR0068,68,Ausserordentliche Investitionseinnahmen,Ausserordentliche Investitionseinnahmen,0.0,2212.0,OW,2022
-HRM2_BI0010,10,Finanzvermögen,Finanzvermögen,196175.1,0.0,OW,2022
-HRM2_BI0014,14,Verwaltungsvermögen,Verwaltungsvermögen,72516.90000000001,0.0,OW,2022
-HRM2_BI0020,20,Fremdkapital,Fremdkapital,186659.3,0.0,OW,2022
-HRM2_BI0029,29,Eigenkapital,Eigenkapital,82032.6,0.0,OW,2022
-HRM2_ER0030,30,Personalaufwand,Personalaufwand,769880.3,797554.2,SG,2022
-HRM2_ER0031,31,Sach- und übriger Betriebsaufwand,Sach- und übriger Betriebsaufwand,485436.1,516739.4,SG,2022
-HRM2_neu_ER0033,33,Abschreibungen VV,Abschreibungen VV,156989.3,152349.9,SG,2022
-HRM2_neu_ER0035,35,Einlagen in Fonds und Spezialfinanzierungen,Einlagen in Fonds und Spezialfinanzierungen,27081.1,15752.0,SG,2022
-HRM2_ER0036,36,Transferaufwand,Transferaufwand,3394189.3,3320437.9,SG,2022
-HRM2_ER0037,37,Durchlaufende Beiträge,Durchlaufende Beiträge,222495.2,230699.7,SG,2022
-HRM2_ER0039,39,Interne Verrechungen,Interne Verrechungen,675150.9,569626.9,SG,2022
-HRM2_neu_ER0040,40,Fiskalertrag,Fiskalertrag,2558588.8,2438155.2,SG,2022
-HRM2_ER0041,41,Regalien und Konzessionen,Regalien und Konzessionen,282555.5,187617.0,SG,2022
-HRM2_ER0042,42,Entgelte,Entgelte,304780.9,287842.6,SG,2022
-HRM2_neu_ER0043,43,Verschiedene Erträge,Verschiedene Erträge,38844.9,25934.5,SG,2022
-HRM2_neu_ER0045,45,Entnahmen aus Fonds und Spezialfinanzierungen,Entnahmen aus Fonds und Spezialfinanzierungen,9650.3,9678.7,SG,2022
-HRM2_ER0046,46,Transferertrag,Transferertrag,1561262.9,1593195.2,SG,2022
-HRM2_ER0047,47,Durchlaufende Beiträge,Durchlaufende Beiträge,222495.2,230699.7,SG,2022
-HRM2_ER0049,49,Interne Verrechnungen,Interne Verrechnungen,675150.9,569626.9,SG,2022
-HRM2_neu_ER0034,34,Finanzaufwand,Finanzaufwand,11956.8,11015.8,SG,2022
-HRM2_neu_ER0044,44,Finanzertrag,Finanzertrag,115313.5,106077.7,SG,2022
-HRM2_neu_ER0038,38,Ausserordentlicher Aufwand,Ausserordentlicher Aufwand,19889.8,4369.1,SG,2022
-HRM2_neu_ER0048,48,Ausserordentlicher Ertrag,Ausserordentlicher Ertrag,195134.4,125160.2,SG,2022
-HRM2_IR0050,50,Sachanlagen,Sachanlagen,107710.7,156100.0,SG,2022
-HRM2_IR0051,51,Investitionen auf Rechnung Dritter,Investitionen auf Rechnung Dritter,0.0,0.0,SG,2022
-HRM2_IR0052,52,Immaterielle Anlagen,Immaterielle Anlagen,12784.3,29368.7,SG,2022
-HRM2_IR0054,54,Darlehen,Darlehen,20909.7,186273.0,SG,2022
-HRM2_IR0055,55,Beteiligungen und Grundkapitalien,Beteiligungen und Grundkapitalien,0.0,88424.0,SG,2022
-HRM2_IR0056,56,Eigene Investitionsbeiträge,Eigene Investitionsbeiträge,870.3,6436.7,SG,2022
-HRM2_IR0057,57,Durchlaufende Investitionsbeiträge,Durchlaufende Investitionsbeiträge,4344.5,0.0,SG,2022
-HRM2_neu_IR0058,58,Ausserordentliche Investitionen,Ausserordentliche Investitionen,0.0,0.0,SG,2022
-HRM2_IR0060,60,Übertragung von Sachanlagen in das FV,Übertragung von Sachanlagen in das FV,26.7,0.0,SG,2022
-HRM2_IR0061,61,Rückerstattungen Dritter für Investitionen,Rückerstattungen Dritter für Investitionen,1823.0,1694.9,SG,2022
-HRM2_IR0062,62,Abgang immaterielle Anlagen,Abgang immaterielle Anlagen,0.0,0.0,SG,2022
-HRM2_IR0063,63,Investitionsbeiträge für eigene Rechnung,Investitionsbeiträge für eigene Rechnung,26685.9,26602.0,SG,2022
-HRM2_IR0064,64,Rückzahlung von Darlehen,Rückzahlung von Darlehen,29751.7,23286.1,SG,2022
-HRM2_IR0065,65,Übertragung von Beteiligungen,Übertragung von Beteiligungen,0.0,0.0,SG,2022
-HRM2_IR0066,66,Rückzahlung eigener Investitionsbeiträge,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,SG,2022
-HRM2_IR0067,67,Durchlaufende Investitionsbeiträge,Durchlaufende Investitionsbeiträge,4344.5,0.0,SG,2022
-HRM2_neu_IR0068,68,Ausserordentliche Investitionseinnahmen,Ausserordentliche Investitionseinnahmen,0.0,0.0,SG,2022
-HRM2_BI0010,10,Finanzvermögen,Finanzvermögen,2757639.3000000003,0.0,SG,2022
-HRM2_BI0014,14,Verwaltungsvermögen,Verwaltungsvermögen,1105073.6999999997,0.0,SG,2022
-HRM2_BI0020,20,Fremdkapital,Fremdkapital,2107532.7,0.0,SG,2022
-HRM2_BI0029,29,Eigenkapital,Eigenkapital,1755180.4,0.0,SG,2022
-HRM2_ER0030,30,Personalaufwand,Personalaufwand,265375.67377,278097.8,SH,2022
-HRM2_ER0031,31,Sach- und übriger Betriebsaufwand,Sach- und übriger Betriebsaufwand,81185.88198,95294.9,SH,2022
-HRM2_neu_ER0033,33,Abschreibungen VV,Abschreibungen VV,15447.477490000001,9454.1,SH,2022
-HRM2_neu_ER0035,35,Einlagen in Fonds und Spezialfinanzierungen,Einlagen in Fonds und Spezialfinanzierungen,21026.12533,440.0,SH,2022
-HRM2_ER0036,36,Transferaufwand,Transferaufwand,407587.47147000005,433392.2,SH,2022
-HRM2_ER0037,37,Durchlaufende Beiträge,Durchlaufende Beiträge,92033.50282,99850.7,SH,2022
-HRM2_ER0039,39,Interne Verrechungen,Interne Verrechungen,35332.66324,42169.3,SH,2022
-HRM2_neu_ER0040,40,Fiskalertrag,Fiskalertrag,359534.5229,330804.0,SH,2022
-HRM2_ER0041,41,Regalien und Konzessionen,Regalien und Konzessionen,48650.5508,9583.8,SH,2022
-HRM2_ER0042,42,Entgelte,Entgelte,62801.71341,54350.1,SH,2022
-HRM2_neu_ER0043,43,Verschiedene Erträge,Verschiedene Erträge,512.76692,512.0,SH,2022
-HRM2_neu_ER0045,45,Entnahmen aus Fonds und Spezialfinanzierungen,Entnahmen aus Fonds und Spezialfinanzierungen,3976.6895499999996,1153.0,SH,2022
-HRM2_ER0046,46,Transferertrag,Transferertrag,296620.29856,297567.9,SH,2022
-HRM2_ER0047,47,Durchlaufende Beiträge,Durchlaufende Beiträge,92033.50282,99850.7,SH,2022
-HRM2_ER0049,49,Interne Verrechnungen,Interne Verrechnungen,35332.66324,42169.3,SH,2022
-HRM2_neu_ER0034,34,Finanzaufwand,Finanzaufwand,5282.89444,4182.4,SH,2022
-HRM2_neu_ER0044,44,Finanzertrag,Finanzertrag,69650.45543,60873.6,SH,2022
-HRM2_neu_ER0038,38,Ausserordentlicher Aufwand,Ausserordentlicher Aufwand,55000.0,0.0,SH,2022
-HRM2_neu_ER0048,48,Ausserordentlicher Ertrag,Ausserordentlicher Ertrag,16597.0012,55612.3,SH,2022
-HRM2_IR0050,50,Sachanlagen,Sachanlagen,22411.2558,34252.4,SH,2022
-HRM2_IR0051,51,Investitionen auf Rechnung Dritter,Investitionen auf Rechnung Dritter,0.0,0.0,SH,2022
-HRM2_IR0052,52,Immaterielle Anlagen,Immaterielle Anlagen,739.48538,2643.2,SH,2022
-HRM2_IR0054,54,Darlehen,Darlehen,1376.025,4125.0,SH,2022
-HRM2_IR0055,55,Beteiligungen und Grundkapitalien,Beteiligungen und Grundkapitalien,10000.0,10000.0,SH,2022
-HRM2_IR0056,56,Eigene Investitionsbeiträge,Eigene Investitionsbeiträge,8059.888650000001,10060.0,SH,2022
-HRM2_IR0057,57,Durchlaufende Investitionsbeiträge,Durchlaufende Investitionsbeiträge,6307.491,2550.0,SH,2022
-HRM2_neu_IR0058,58,Ausserordentliche Investitionen,Ausserordentliche Investitionen,0.0,0.0,SH,2022
-HRM2_IR0060,60,Übertragung von Sachanlagen in das FV,Übertragung von Sachanlagen in das FV,0.0,0.0,SH,2022
-HRM2_IR0061,61,Rückerstattungen Dritter für Investitionen,Rückerstattungen Dritter für Investitionen,0.0,0.0,SH,2022
-HRM2_IR0062,62,Abgang immaterielle Anlagen,Abgang immaterielle Anlagen,0.0,0.0,SH,2022
-HRM2_IR0063,63,Investitionsbeiträge für eigene Rechnung,Investitionsbeiträge für eigene Rechnung,449.21840000000003,1263.5,SH,2022
-HRM2_IR0064,64,Rückzahlung von Darlehen,Rückzahlung von Darlehen,2352.703,75.0,SH,2022
-HRM2_IR0065,65,Übertragung von Beteiligungen,Übertragung von Beteiligungen,10000.0,10000.0,SH,2022
-HRM2_IR0066,66,Rückzahlung eigener Investitionsbeiträge,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,SH,2022
-HRM2_IR0067,67,Durchlaufende Investitionsbeiträge,Durchlaufende Investitionsbeiträge,6307.491,2550.0,SH,2022
-HRM2_neu_IR0068,68,Ausserordentliche Investitionseinnahmen,Ausserordentliche Investitionseinnahmen,0.0,0.0,SH,2022
-HRM2_BI0010,10,Finanzvermögen,Finanzvermögen,912465.5710499999,724678.854,SH,2022
-HRM2_BI0014,14,Verwaltungsvermögen,Verwaltungsvermögen,303790.15665,337555.80299999996,SH,2022
-HRM2_BI0020,20,Fremdkapital,Fremdkapital,446529.19758000004,400600.365,SH,2022
-HRM2_BI0029,29,Eigenkapital,Eigenkapital,769726.53012,661634.292,SH,2022
-HRM2_ER0030,30,Personalaufwand,Personalaufwand,488433.65248000005,506420.49144,SO,2022
-HRM2_ER0031,31,Sach- und übriger Betriebsaufwand,Sach- und übriger Betriebsaufwand,247253.04692,210158.76244,SO,2022
-HRM2_neu_ER0033,33,Abschreibungen VV,Abschreibungen VV,59977.55404,63025.77349,SO,2022
-HRM2_neu_ER0035,35,Einlagen in Fonds und Spezialfinanzierungen,Einlagen in Fonds und Spezialfinanzierungen,13771.017619999999,9222.72,SO,2022
-HRM2_ER0036,36,Transferaufwand,Transferaufwand,1481953.08711,1554582.33202,SO,2022
-HRM2_ER0037,37,Durchlaufende Beiträge,Durchlaufende Beiträge,127744.3808,133882.0,SO,2022
-HRM2_ER0039,39,Interne Verrechungen,Interne Verrechungen,0.0,0.0,SO,2022
-HRM2_neu_ER0040,40,Fiskalertrag,Fiskalertrag,1038337.79565,1010267.0,SO,2022
-HRM2_ER0041,41,Regalien und Konzessionen,Regalien und Konzessionen,138014.89155,10179.5,SO,2022
-HRM2_ER0042,42,Entgelte,Entgelte,206563.55574,171783.27675999998,SO,2022
-HRM2_neu_ER0043,43,Verschiedene Erträge,Verschiedene Erträge,19999.05636,17171.431,SO,2022
-HRM2_neu_ER0045,45,Entnahmen aus Fonds und Spezialfinanzierungen,Entnahmen aus Fonds und Spezialfinanzierungen,1544.60723,-20.0,SO,2022
-HRM2_ER0046,46,Transferertrag,Transferertrag,1062674.01318,1070682.95192,SO,2022
-HRM2_ER0047,47,Durchlaufende Beiträge,Durchlaufende Beiträge,127744.3808,133882.0,SO,2022
-HRM2_ER0049,49,Interne Verrechnungen,Interne Verrechnungen,0.0,0.0,SO,2022
-HRM2_neu_ER0034,34,Finanzaufwand,Finanzaufwand,24271.753510000002,24250.9,SO,2022
-HRM2_neu_ER0044,44,Finanzertrag,Finanzertrag,23984.71879,24388.49,SO,2022
-HRM2_neu_ER0038,38,Ausserordentlicher Aufwand,Ausserordentlicher Aufwand,27290.828,27290.828,SO,2022
-HRM2_neu_ER0048,48,Ausserordentlicher Ertrag,Ausserordentlicher Ertrag,0.0,0.0,SO,2022
-HRM2_IR0050,50,Sachanlagen,Sachanlagen,89311.74441,105660.0,SO,2022
-HRM2_IR0051,51,Investitionen auf Rechnung Dritter,Investitionen auf Rechnung Dritter,0.0,0.0,SO,2022
-HRM2_IR0052,52,Immaterielle Anlagen,Immaterielle Anlagen,0.0,0.0,SO,2022
-HRM2_IR0054,54,Darlehen,Darlehen,778.6465999999999,1450.0,SO,2022
-HRM2_IR0055,55,Beteiligungen und Grundkapitalien,Beteiligungen und Grundkapitalien,0.0,0.0,SO,2022
-HRM2_IR0056,56,Eigene Investitionsbeiträge,Eigene Investitionsbeiträge,2898.9148999999998,3425.0,SO,2022
-HRM2_IR0057,57,Durchlaufende Investitionsbeiträge,Durchlaufende Investitionsbeiträge,3377.58448,3600.0,SO,2022
-HRM2_neu_IR0058,58,Ausserordentliche Investitionen,Ausserordentliche Investitionen,0.0,0.0,SO,2022
-HRM2_IR0060,60,Übertragung von Sachanlagen in das FV,Übertragung von Sachanlagen in das FV,898.802489999994,0.0,SO,2022
-HRM2_IR0061,61,Rückerstattungen Dritter für Investitionen,Rückerstattungen Dritter für Investitionen,0.0,0.0,SO,2022
-HRM2_IR0062,62,Abgang immaterielle Anlagen,Abgang immaterielle Anlagen,0.0,0.0,SO,2022
-HRM2_IR0063,63,Investitionsbeiträge für eigene Rechnung,Investitionsbeiträge für eigene Rechnung,2564.25785,7258.0,SO,2022
-HRM2_IR0064,64,Rückzahlung von Darlehen,Rückzahlung von Darlehen,3059.47499,2015.092,SO,2022
-HRM2_IR0065,65,Übertragung von Beteiligungen,Übertragung von Beteiligungen,0.0,0.0,SO,2022
-HRM2_IR0066,66,Rückzahlung eigener Investitionsbeiträge,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,SO,2022
-HRM2_IR0067,67,Durchlaufende Investitionsbeiträge,Durchlaufende Investitionsbeiträge,3377.58448,3600.0,SO,2022
-HRM2_neu_IR0068,68,Ausserordentliche Investitionseinnahmen,Ausserordentliche Investitionseinnahmen,0.0,0.0,SO,2022
-HRM2_BI0010,10,Finanzvermögen,Finanzvermögen,1323774.88011,0.0,SO,2022
-HRM2_BI0014,14,Verwaltungsvermögen,Verwaltungsvermögen,1747395.1265699998,0.0,SO,2022
-HRM2_BI0020,20,Fremdkapital,Fremdkapital,2369055.84552,0.0,SO,2022
-HRM2_BI0029,29,Eigenkapital,Eigenkapital,702114.161,0.0,SO,2022
-HRM2_ER0030,30,Personalaufwand,Personalaufwand,234165.7421,256616.7,SZ,2022
-HRM2_ER0031,31,Sach- und übriger Betriebsaufwand,Sach- und übriger Betriebsaufwand,120485.9588,124164.45,SZ,2022
-HRM2_neu_ER0033,33,Abschreibungen VV,Abschreibungen VV,21611.1886,38098.2,SZ,2022
-HRM2_neu_ER0035,35,Einlagen in Fonds und Spezialfinanzierungen,Einlagen in Fonds und Spezialfinanzierungen,40134.0965,12145.599999999999,SZ,2022
-HRM2_ER0036,36,Transferaufwand,Transferaufwand,951490.7607999999,1096197.6,SZ,2022
-HRM2_ER0037,37,Durchlaufende Beiträge,Durchlaufende Beiträge,124529.1744,126510.8,SZ,2022
-HRM2_ER0039,39,Interne Verrechungen,Interne Verrechungen,94279.1027,93108.05,SZ,2022
-HRM2_neu_ER0040,40,Fiskalertrag,Fiskalertrag,792490.001,809370.0,SZ,2022
-HRM2_ER0041,41,Regalien und Konzessionen,Regalien und Konzessionen,81400.1158,31460.0,SZ,2022
-HRM2_ER0042,42,Entgelte,Entgelte,57209.420600000005,53857.0,SZ,2022
-HRM2_neu_ER0043,43,Verschiedene Erträge,Verschiedene Erträge,9125.571300000001,8170.8,SZ,2022
-HRM2_neu_ER0045,45,Entnahmen aus Fonds und Spezialfinanzierungen,Entnahmen aus Fonds und Spezialfinanzierungen,329.0,412.3,SZ,2022
-HRM2_ER0046,46,Transferertrag,Transferertrag,489074.186,580238.8,SZ,2022
-HRM2_ER0047,47,Durchlaufende Beiträge,Durchlaufende Beiträge,124529.1744,126510.8,SZ,2022
-HRM2_ER0049,49,Interne Verrechnungen,Interne Verrechnungen,94279.1027,93108.05,SZ,2022
-HRM2_neu_ER0034,34,Finanzaufwand,Finanzaufwand,3740.3538,2809.7,SZ,2022
-HRM2_neu_ER0044,44,Finanzertrag,Finanzertrag,55120.2819,48482.1,SZ,2022
-HRM2_neu_ER0038,38,Ausserordentlicher Aufwand,Ausserordentlicher Aufwand,0.0,0.0,SZ,2022
-HRM2_neu_ER0048,48,Ausserordentlicher Ertrag,Ausserordentlicher Ertrag,0.0,0.0,SZ,2022
-HRM2_IR0050,50,Sachanlagen,Sachanlagen,49957.1224,76084.7,SZ,2022
-HRM2_IR0051,51,Investitionen auf Rechnung Dritter,Investitionen auf Rechnung Dritter,0.0,0.0,SZ,2022
-HRM2_IR0052,52,Immaterielle Anlagen,Immaterielle Anlagen,0.0,0.0,SZ,2022
-HRM2_IR0054,54,Darlehen,Darlehen,6600.0365,3600.0,SZ,2022
-HRM2_IR0055,55,Beteiligungen und Grundkapitalien,Beteiligungen und Grundkapitalien,0.0,0.0,SZ,2022
-HRM2_IR0056,56,Eigene Investitionsbeiträge,Eigene Investitionsbeiträge,0.0,0.0,SZ,2022
-HRM2_IR0057,57,Durchlaufende Investitionsbeiträge,Durchlaufende Investitionsbeiträge,0.0,0.0,SZ,2022
-HRM2_neu_IR0058,58,Ausserordentliche Investitionen,Ausserordentliche Investitionen,0.0,0.0,SZ,2022
-HRM2_IR0060,60,Übertragung von Sachanlagen in das FV,Übertragung von Sachanlagen in das FV,0.0,0.0,SZ,2022
-HRM2_IR0061,61,Rückerstattungen Dritter für Investitionen,Rückerstattungen Dritter für Investitionen,3521.4323,1870.5,SZ,2022
-HRM2_IR0062,62,Abgang immaterielle Anlagen,Abgang immaterielle Anlagen,0.0,0.0,SZ,2022
-HRM2_IR0063,63,Investitionsbeiträge für eigene Rechnung,Investitionsbeiträge für eigene Rechnung,3941.172,4160.8,SZ,2022
-HRM2_IR0064,64,Rückzahlung von Darlehen,Rückzahlung von Darlehen,2326.327,1115.5,SZ,2022
-HRM2_IR0065,65,Übertragung von Beteiligungen,Übertragung von Beteiligungen,0.0,0.0,SZ,2022
-HRM2_IR0066,66,Rückzahlung eigener Investitionsbeiträge,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,SZ,2022
-HRM2_IR0067,67,Durchlaufende Investitionsbeiträge,Durchlaufende Investitionsbeiträge,0.0,0.0,SZ,2022
-HRM2_neu_IR0068,68,Ausserordentliche Investitionseinnahmen,Ausserordentliche Investitionseinnahmen,0.0,0.0,SZ,2022
-HRM2_BI0010,10,Finanzvermögen,Finanzvermögen,1480539.9812999999,0.0,SZ,2022
-HRM2_BI0014,14,Verwaltungsvermögen,Verwaltungsvermögen,293118.8362,0.0,SZ,2022
-HRM2_BI0020,20,Fremdkapital,Fremdkapital,700039.134,0.0,SZ,2022
-HRM2_BI0029,29,Eigenkapital,Eigenkapital,1073619.6835,0.0,SZ,2022
-HRM2_ER0030,30,Personalaufwand,Personalaufwand,425678.4,441843.2,TG,2022
-HRM2_ER0031,31,Sach- und übriger Betriebsaufwand,Sach- und übriger Betriebsaufwand,194299.5,198875.5,TG,2022
-HRM2_neu_ER0033,33,Abschreibungen VV,Abschreibungen VV,30979.8,44899.7,TG,2022
-HRM2_neu_ER0035,35,Einlagen in Fonds und Spezialfinanzierungen,Einlagen in Fonds und Spezialfinanzierungen,26717.5,18926.2,TG,2022
-HRM2_ER0036,36,Transferaufwand,Transferaufwand,1204793.7,1234332.9,TG,2022
-HRM2_ER0037,37,Durchlaufende Beiträge,Durchlaufende Beiträge,295786.9,309761.5,TG,2022
-HRM2_ER0039,39,Interne Verrechungen,Interne Verrechungen,180931.7,202410.2,TG,2022
-HRM2_neu_ER0040,40,Fiskalertrag,Fiskalertrag,978415.9,980840.0,TG,2022
-HRM2_ER0041,41,Regalien und Konzessionen,Regalien und Konzessionen,142768.7,60882.7,TG,2022
-HRM2_ER0042,42,Entgelte,Entgelte,160194.0,156035.5,TG,2022
-HRM2_neu_ER0043,43,Verschiedene Erträge,Verschiedene Erträge,7489.8,7426.1,TG,2022
-HRM2_neu_ER0045,45,Entnahmen aus Fonds und Spezialfinanzierungen,Entnahmen aus Fonds und Spezialfinanzierungen,23643.7,14823.0,TG,2022
-HRM2_ER0046,46,Transferertrag,Transferertrag,560123.5,565788.1,TG,2022
-HRM2_ER0047,47,Durchlaufende Beiträge,Durchlaufende Beiträge,295786.9,309761.5,TG,2022
-HRM2_ER0049,49,Interne Verrechnungen,Interne Verrechnungen,180931.7,202410.2,TG,2022
-HRM2_neu_ER0034,34,Finanzaufwand,Finanzaufwand,9251.4,6335.9,TG,2022
-HRM2_neu_ER0044,44,Finanzertrag,Finanzertrag,96193.0,81471.6,TG,2022
-HRM2_neu_ER0038,38,Ausserordentlicher Aufwand,Ausserordentlicher Aufwand,3105.7,30.0,TG,2022
-HRM2_neu_ER0048,48,Ausserordentlicher Ertrag,Ausserordentlicher Ertrag,7194.3,32188.2,TG,2022
-HRM2_IR0050,50,Sachanlagen,Sachanlagen,76769.7,99440.2,TG,2022
-HRM2_IR0051,51,Investitionen auf Rechnung Dritter,Investitionen auf Rechnung Dritter,0.0,0.0,TG,2022
-HRM2_IR0052,52,Immaterielle Anlagen,Immaterielle Anlagen,193.7,0.0,TG,2022
-HRM2_IR0054,54,Darlehen,Darlehen,166.1,500.0,TG,2022
-HRM2_IR0055,55,Beteiligungen und Grundkapitalien,Beteiligungen und Grundkapitalien,0.0,0.0,TG,2022
-HRM2_IR0056,56,Eigene Investitionsbeiträge,Eigene Investitionsbeiträge,12268.9,17499.1,TG,2022
-HRM2_IR0057,57,Durchlaufende Investitionsbeiträge,Durchlaufende Investitionsbeiträge,3593.2,2960.0,TG,2022
-HRM2_neu_IR0058,58,Ausserordentliche Investitionen,Ausserordentliche Investitionen,59.0,-1500.0,TG,2022
-HRM2_IR0060,60,Übertragung von Sachanlagen in das FV,Übertragung von Sachanlagen in das FV,1672.2,1050.0,TG,2022
-HRM2_IR0061,61,Rückerstattungen Dritter für Investitionen,Rückerstattungen Dritter für Investitionen,0.0,0.0,TG,2022
-HRM2_IR0062,62,Abgang immaterielle Anlagen,Abgang immaterielle Anlagen,0.0,0.0,TG,2022
-HRM2_IR0063,63,Investitionsbeiträge für eigene Rechnung,Investitionsbeiträge für eigene Rechnung,31132.9,25342.0,TG,2022
-HRM2_IR0064,64,Rückzahlung von Darlehen,Rückzahlung von Darlehen,396.1,500.0,TG,2022
-HRM2_IR0065,65,Übertragung von Beteiligungen,Übertragung von Beteiligungen,0.0,0.0,TG,2022
-HRM2_IR0066,66,Rückzahlung eigener Investitionsbeiträge,Rückzahlung eigener Investitionsbeiträge,694.5,400.0,TG,2022
-HRM2_IR0067,67,Durchlaufende Investitionsbeiträge,Durchlaufende Investitionsbeiträge,3593.2,2960.0,TG,2022
-HRM2_neu_IR0068,68,Ausserordentliche Investitionseinnahmen,Ausserordentliche Investitionseinnahmen,1900.0,7030.0,TG,2022
-HRM2_BI0010,10,Finanzvermögen,Finanzvermögen,950531.2,0.0,TG,2022
-HRM2_BI0014,14,Verwaltungsvermögen,Verwaltungsvermögen,1111374.4,0.0,TG,2022
-HRM2_BI0020,20,Fremdkapital,Fremdkapital,1185438.0,0.0,TG,2022
-HRM2_BI0029,29,Eigenkapital,Eigenkapital,876467.5,0.0,TG,2022
-HRM2_ER0030,30,Personalaufwand,Personalaufwand,1139988.0565299997,1164653.1,TI,2022
-HRM2_ER0031,31,Sach- und übriger Betriebsaufwand,Sach- und übriger Betriebsaufwand,349342.4044199998,332927.8,TI,2022
-HRM2_neu_ER0033,33,Abschreibungen VV,Abschreibungen VV,116987.07237000001,98900.0,TI,2022
-HRM2_neu_ER0035,35,Einlagen in Fonds und Spezialfinanzierungen,Einlagen in Fonds und Spezialfinanzierungen,31006.188169999998,16849.6,TI,2022
-HRM2_ER0036,36,Transferaufwand,Transferaufwand,2174714.52933,2224992.7,TI,2022
-HRM2_ER0037,37,Durchlaufende Beiträge,Durchlaufende Beiträge,156448.85086,160543.1,TI,2022
-HRM2_ER0039,39,Interne Verrechungen,Interne Verrechungen,222560.0509899998,213143.9,TI,2022
-HRM2_neu_ER0040,40,Fiskalertrag,Fiskalertrag,2135039.76845,2085458.0,TI,2022
-HRM2_ER0041,41,Regalien und Konzessionen,Regalien und Konzessionen,288610.68955,258997.5,TI,2022
-HRM2_ER0042,42,Entgelte,Entgelte,278388.8011300001,290959.9,TI,2022
-HRM2_neu_ER0043,43,Verschiedene Erträge,Verschiedene Erträge,17973.661420000008,15885.9,TI,2022
-HRM2_neu_ER0045,45,Entnahmen aus Fonds und Spezialfinanzierungen,Entnahmen aus Fonds und Spezialfinanzierungen,3826.63029,7042.5,TI,2022
-HRM2_ER0046,46,Transferertrag,Transferertrag,1036123.4311999999,1054013.3,TI,2022
-HRM2_ER0047,47,Durchlaufende Beiträge,Durchlaufende Beiträge,156448.85086,160543.1,TI,2022
-HRM2_ER0049,49,Interne Verrechnungen,Interne Verrechnungen,222560.05099000002,213143.9,TI,2022
-HRM2_neu_ER0034,34,Finanzaufwand,Finanzaufwand,27044.40365,26901.8,TI,2022
-HRM2_neu_ER0044,44,Finanzertrag,Finanzertrag,82574.4625,73134.8,TI,2022
-HRM2_neu_ER0038,38,Ausserordentlicher Aufwand,Ausserordentlicher Aufwand,1459.798,0.0,TI,2022
-HRM2_neu_ER0048,48,Ausserordentlicher Ertrag,Ausserordentlicher Ertrag,959.191,200.0,TI,2022
-HRM2_IR0050,50,Sachanlagen,Sachanlagen,231499.05855000002,231886.8,TI,2022
-HRM2_IR0051,51,Investitionen auf Rechnung Dritter,Investitionen auf Rechnung Dritter,1182.1913399999999,0.0,TI,2022
-HRM2_IR0052,52,Immaterielle Anlagen,Immaterielle Anlagen,0.0,0.0,TI,2022
-HRM2_IR0054,54,Darlehen,Darlehen,5029.018,4673.0,TI,2022
-HRM2_IR0055,55,Beteiligungen und Grundkapitalien,Beteiligungen und Grundkapitalien,0.0,0.0,TI,2022
-HRM2_IR0056,56,Eigene Investitionsbeiträge,Eigene Investitionsbeiträge,165709.39211999997,168664.0,TI,2022
-HRM2_IR0057,57,Durchlaufende Investitionsbeiträge,Durchlaufende Investitionsbeiträge,41964.599089999996,44888.0,TI,2022
-HRM2_neu_IR0058,58,Ausserordentliche Investitionen,Ausserordentliche Investitionen,0.0,0.0,TI,2022
-HRM2_IR0060,60,Übertragung von Sachanlagen in das FV,Übertragung von Sachanlagen in das FV,127.1,0.0,TI,2022
-HRM2_IR0061,61,Rückerstattungen Dritter für Investitionen,Rückerstattungen Dritter für Investitionen,0.0,0.0,TI,2022
-HRM2_IR0062,62,Abgang immaterielle Anlagen,Abgang immaterielle Anlagen,0.0,0.0,TI,2022
-HRM2_IR0063,63,Investitionsbeiträge für eigene Rechnung,Investitionsbeiträge für eigene Rechnung,56437.61816000001,82292.1,TI,2022
-HRM2_IR0064,64,Rückzahlung von Darlehen,Rückzahlung von Darlehen,9104.43358,8202.6,TI,2022
-HRM2_IR0065,65,Übertragung von Beteiligungen,Übertragung von Beteiligungen,0.0,0.0,TI,2022
-HRM2_IR0066,66,Rückzahlung eigener Investitionsbeiträge,Rückzahlung eigener Investitionsbeiträge,17769.983319999996,21080.0,TI,2022
-HRM2_IR0067,67,Durchlaufende Investitionsbeiträge,Durchlaufende Investitionsbeiträge,41964.599089999996,44888.0,TI,2022
-HRM2_neu_IR0068,68,Ausserordentliche Investitionseinnahmen,Ausserordentliche Investitionseinnahmen,0.0,0.0,TI,2022
-HRM2_BI0010,10,Finanzvermögen,Finanzvermögen,5079328.76622,0.0,TI,2022
-HRM2_BI0014,14,Verwaltungsvermögen,Verwaltungsvermögen,2194526.72798,0.0,TI,2022
-HRM2_BI0020,20,Fremdkapital,Fremdkapital,7369194.847719999,0.0,TI,2022
-HRM2_BI0029,29,Eigenkapital,Eigenkapital,-95339.353519999,0.0,TI,2022
-HRM2_ER0030,30,Personalaufwand,Personalaufwand,107212.59592,113387.6,UR,2022
-HRM2_ER0031,31,Sach- und übriger Betriebsaufwand,Sach- und übriger Betriebsaufwand,58665.92757,66006.555,UR,2022
-HRM2_neu_ER0033,33,Abschreibungen VV,Abschreibungen VV,11194.15353,13142.7,UR,2022
-HRM2_neu_ER0035,35,Einlagen in Fonds und Spezialfinanzierungen,Einlagen in Fonds und Spezialfinanzierungen,3035.9718399999997,1057.08,UR,2022
-HRM2_ER0036,36,Transferaufwand,Transferaufwand,201356.08509,206994.234,UR,2022
-HRM2_ER0037,37,Durchlaufende Beiträge,Durchlaufende Beiträge,29797.2127,29620.0,UR,2022
-HRM2_ER0039,39,Interne Verrechungen,Interne Verrechungen,24794.98919,25431.64,UR,2022
-HRM2_neu_ER0040,40,Fiskalertrag,Fiskalertrag,103730.08657,99949.0,UR,2022
-HRM2_ER0041,41,Regalien und Konzessionen,Regalien und Konzessionen,60338.8831,46826.0,UR,2022
-HRM2_ER0042,42,Entgelte,Entgelte,23614.557699999998,25791.88,UR,2022
-HRM2_neu_ER0043,43,Verschiedene Erträge,Verschiedene Erträge,767.4411600000001,742.4,UR,2022
-HRM2_neu_ER0045,45,Entnahmen aus Fonds und Spezialfinanzierungen,Entnahmen aus Fonds und Spezialfinanzierungen,2572.00557,6149.5,UR,2022
-HRM2_ER0046,46,Transferertrag,Transferertrag,194633.40112,200658.509,UR,2022
-HRM2_ER0047,47,Durchlaufende Beiträge,Durchlaufende Beiträge,29797.2127,29620.0,UR,2022
-HRM2_ER0049,49,Interne Verrechnungen,Interne Verrechnungen,24794.98919,25431.64,UR,2022
-HRM2_neu_ER0034,34,Finanzaufwand,Finanzaufwand,927.39909,1350.0,UR,2022
-HRM2_neu_ER0044,44,Finanzertrag,Finanzertrag,13171.807789999999,12901.52,UR,2022
-HRM2_neu_ER0038,38,Ausserordentlicher Aufwand,Ausserordentlicher Aufwand,0.0,0.0,UR,2022
-HRM2_neu_ER0048,48,Ausserordentlicher Ertrag,Ausserordentlicher Ertrag,0.0,0.0,UR,2022
-HRM2_IR0050,50,Sachanlagen,Sachanlagen,58555.91481,73273.0,UR,2022
-HRM2_IR0051,51,Investitionen auf Rechnung Dritter,Investitionen auf Rechnung Dritter,68.0,0.0,UR,2022
-HRM2_IR0052,52,Immaterielle Anlagen,Immaterielle Anlagen,1202.722,2217.7,UR,2022
-HRM2_IR0054,54,Darlehen,Darlehen,6091.5274,3832.793,UR,2022
-HRM2_IR0055,55,Beteiligungen und Grundkapitalien,Beteiligungen und Grundkapitalien,0.0,0.0,UR,2022
-HRM2_IR0056,56,Eigene Investitionsbeiträge,Eigene Investitionsbeiträge,7176.84455,8779.4,UR,2022
-HRM2_IR0057,57,Durchlaufende Investitionsbeiträge,Durchlaufende Investitionsbeiträge,2907.1241,1725.5,UR,2022
-HRM2_neu_IR0058,58,Ausserordentliche Investitionen,Ausserordentliche Investitionen,0.0,0.0,UR,2022
-HRM2_IR0060,60,Übertragung von Sachanlagen in das FV,Übertragung von Sachanlagen in das FV,29.0,232.0,UR,2022
-HRM2_IR0061,61,Rückerstattungen Dritter für Investitionen,Rückerstattungen Dritter für Investitionen,68.0,0.0,UR,2022
-HRM2_IR0062,62,Abgang immaterielle Anlagen,Abgang immaterielle Anlagen,0.0,0.0,UR,2022
-HRM2_IR0063,63,Investitionsbeiträge für eigene Rechnung,Investitionsbeiträge für eigene Rechnung,22290.10796,32380.72,UR,2022
-HRM2_IR0064,64,Rückzahlung von Darlehen,Rückzahlung von Darlehen,6372.905900000001,3902.793,UR,2022
-HRM2_IR0065,65,Übertragung von Beteiligungen,Übertragung von Beteiligungen,0.0,0.0,UR,2022
-HRM2_IR0066,66,Rückzahlung eigener Investitionsbeiträge,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,UR,2022
-HRM2_IR0067,67,Durchlaufende Investitionsbeiträge,Durchlaufende Investitionsbeiträge,2907.1241,1725.5,UR,2022
-HRM2_neu_IR0068,68,Ausserordentliche Investitionseinnahmen,Ausserordentliche Investitionseinnahmen,0.0,0.0,UR,2022
-HRM2_BI0010,10,Finanzvermögen,Finanzvermögen,168706.33623000002,139849.28014,UR,2022
-HRM2_BI0014,14,Verwaltungsvermögen,Verwaltungsvermögen,457022.49750999996,505625.09658,UR,2022
-HRM2_BI0020,20,Fremdkapital,Fremdkapital,337260.54082,403820.33744000003,UR,2022
-HRM2_BI0029,29,Eigenkapital,Eigenkapital,288468.29292000004,241654.03927999994,UR,2022
-HRM2_ER0030,30,Charges de personnel,Charges de personnel,2669600.8,2780493.2,VD,2022
-HRM2_ER0031,31,Charges de biens et services et autres charges d'exploitation,Charges de biens et services et autres charges d'exploitation,749076.9,762133.1,VD,2022
-HRM2_neu_ER0033,33,Amortissements du patrimoine administratif,Amortissements du patrimoine administratif,184990.8,217926.5,VD,2022
-HRM2_neu_ER0035,35,Attributions aux fonds et financements spéciaux,Attributions aux fonds et financements spéciaux,117239.9,36159.7,VD,2022
-HRM2_ER0036,36,Charges de transfert,Charges de transfert,6567327.8,6624961.5,VD,2022
-HRM2_ER0037,37,Subventions à redistribuer,Subventions à redistribuer,640437.0,633591.1,VD,2022
-HRM2_ER0039,39,Imputations internes,Imputations internes,4475.8,5017.0,VD,2022
-HRM2_neu_ER0040,40,Revenus fiscaux,Revenus fiscaux,6750401.1,6352674.0,VD,2022
-HRM2_ER0041,41,Patentes et concessions,Patentes et concessions,419992.1,229321.7,VD,2022
-HRM2_ER0042,42,Taxes,Taxes,471080.0,453804.8,VD,2022
-HRM2_neu_ER0043,43,Revenus divers,Revenus divers,57226.8,186940.0,VD,2022
-HRM2_neu_ER0045,45,Prélèvements sur les fonds et financements spéciaux,Prélèvements sur les fonds et financements spéciaux,56189.2,60190.3,VD,2022
-HRM2_ER0046,46,Revenus de transferts,Revenus de transferts,2657857.2,2614239.8,VD,2022
-HRM2_ER0047,47,Subventions à redistribuer,Subventions à redistribuer,640437.0,633591.1,VD,2022
-HRM2_ER0049,49,Imputations internes,Imputations internes,4475.8,5017.0,VD,2022
-HRM2_neu_ER0034,34,Charges financières,Charges financières,31159.1,19482.0,VD,2022
-HRM2_neu_ER0044,44,Revenus financiers,Revenus financiers,320692.6,314366.4,VD,2022
-HRM2_neu_ER0038,38,Charges extraordinaires,Charges extraordinaires,681284.2,0.0,VD,2022
-HRM2_neu_ER0048,48,Revenus extraordinaires,Revenus extraordinaires,371499.4,0.0,VD,2022
-HRM2_IR0050,50,Immobilisations corporelles,Immobilisations corporelles,297691.5,587323.6,VD,2022
-HRM2_IR0051,51,Investissements pour le compte de tiers,Investissements pour le compte de tiers,2730.3,0.0,VD,2022
-HRM2_IR0052,52,Immobilisations incorporelles,Immobilisations incorporelles,68701.3,0.0,VD,2022
-HRM2_IR0054,54,Prêts,Prêts,6551.5,0.0,VD,2022
-HRM2_IR0055,55,Participations et capital social,Participations et capital social,50.0,0.0,VD,2022
-HRM2_IR0056,56,Propres subventions d'investissement,Propres subventions d'investissement,93072.9,0.0,VD,2022
-HRM2_IR0057,57,Subventions d'investissements à redistribuer,Subventions d'investissements à redistribuer,8944.8,0.0,VD,2022
-HRM2_neu_IR0058,58,Investissements extraordinaires,Investissements extraordinaires,0.0,0.0,VD,2022
-HRM2_IR0060,60,Transfert d'immobilisations corporelles dans le patrimoine financier,Transfert d'immobilisations corporelles dans le patrimoine financier,0.0,49653.9,VD,2022
-HRM2_IR0061,61,Remboursements pour les investissements sur le compte des tiers,Remboursements pour les investissements sur le compte des tiers,2730.3,0.0,VD,2022
-HRM2_IR0062,62,Vente d'immobilisations incorporelles,Vente d'immobilisations incorporelles,0.0,0.0,VD,2022
-HRM2_IR0063,63,Subventions d'investissements acquises,Subventions d'investissements acquises,41622.9,0.0,VD,2022
-HRM2_IR0064,64,Remboursement de prêts,Remboursement de prêts,22313.7,0.0,VD,2022
-HRM2_IR0065,65,Transfert de participations,Transfert de participations,0.0,0.0,VD,2022
-HRM2_IR0066,66,Remboursement de propres subventions d'investissement,Remboursement de propres subventions d'investissement,0.0,0.0,VD,2022
-HRM2_IR0067,67,Subventions d'investissements à redistribuer,Subventions d'investissements à redistribuer,8944.8,0.0,VD,2022
-HRM2_neu_IR0068,68,Recettes d'investissement extraordinaires,Recettes d'investissement extraordinaires,0.0,0.0,VD,2022
-HRM2_BI0010,10,Patrimoine Financier,Patrimoine Financier,8401924.200000001,0.0,VD,2022
-HRM2_BI0014,14,Patrimoine administratif,Patrimoine administratif,2014092.3,0.0,VD,2022
-HRM2_BI0020,20,Capitaux de tiers,Capitaux de tiers,5505683.9,0.0,VD,2022
-HRM2_BI0029,29,Capital propre,Capital propre,4910332.6,0.0,VD,2022
-HRM2_ER0030,30,Personalaufwand,Personalaufwand,1044878.22206,1088551.5,VS,2022
-HRM2_ER0031,31,Sach- und übriger Betriebsaufwand,Sach- und übriger Betriebsaufwand,411052.19293,433590.9,VS,2022
-HRM2_neu_ER0033,33,Abschreibungen VV,Abschreibungen VV,67823.166,65152.1,VS,2022
-HRM2_neu_ER0035,35,Einlagen in Fonds und Spezialfinanzierungen,Einlagen in Fonds und Spezialfinanzierungen,143873.31603,137249.8,VS,2022
-HRM2_ER0036,36,Transferaufwand,Transferaufwand,2023565.49422,1971237.6,VS,2022
-HRM2_ER0037,37,Durchlaufende Beiträge,Durchlaufende Beiträge,203122.0316,203563.0,VS,2022
-HRM2_ER0039,39,Interne Verrechungen,Interne Verrechungen,129964.24869,142110.6,VS,2022
-HRM2_neu_ER0040,40,Fiskalertrag,Fiskalertrag,1557287.96651,1458775.4,VS,2022
-HRM2_ER0041,41,Regalien und Konzessionen,Regalien und Konzessionen,207530.63247,150290.0,VS,2022
-HRM2_ER0042,42,Entgelte,Entgelte,262260.67257,269362.1,VS,2022
-HRM2_neu_ER0043,43,Verschiedene Erträge,Verschiedene Erträge,11218.83649,9614.6,VS,2022
-HRM2_neu_ER0045,45,Entnahmen aus Fonds und Spezialfinanzierungen,Entnahmen aus Fonds und Spezialfinanzierungen,111039.29373,151046.9,VS,2022
-HRM2_ER0046,46,Transferertrag,Transferertrag,1681596.29482,1723416.8,VS,2022
-HRM2_ER0047,47,Durchlaufende Beiträge,Durchlaufende Beiträge,203122.0316,203563.0,VS,2022
-HRM2_ER0049,49,Interne Verrechnungen,Interne Verrechnungen,129964.24869,142110.6,VS,2022
-HRM2_neu_ER0034,34,Finanzaufwand,Finanzaufwand,67034.41953,67002.4,VS,2022
-HRM2_neu_ER0044,44,Finanzertrag,Finanzertrag,93361.47943,80090.2,VS,2022
-HRM2_neu_ER0038,38,Ausserordentlicher Aufwand,Ausserordentlicher Aufwand,156125.79346,124477.1,VS,2022
-HRM2_neu_ER0048,48,Ausserordentlicher Ertrag,Ausserordentlicher Ertrag,46311.75959,68302.3,VS,2022
-HRM2_IR0050,50,Sachanlagen,Sachanlagen,252425.59716,300832.9,VS,2022
-HRM2_IR0051,51,Investitionen auf Rechnung Dritter,Investitionen auf Rechnung Dritter,0.0,0.0,VS,2022
-HRM2_IR0052,52,Immaterielle Anlagen,Immaterielle Anlagen,11645.24621,18639.9,VS,2022
-HRM2_IR0054,54,Darlehen,Darlehen,35887.078,53709.8,VS,2022
-HRM2_IR0055,55,Beteiligungen und Grundkapitalien,Beteiligungen und Grundkapitalien,1.0,0.0,VS,2022
-HRM2_IR0056,56,Eigene Investitionsbeiträge,Eigene Investitionsbeiträge,171079.87495,191141.9,VS,2022
-HRM2_IR0057,57,Durchlaufende Investitionsbeiträge,Durchlaufende Investitionsbeiträge,12622.47875,19000.0,VS,2022
-HRM2_neu_IR0058,58,Ausserordentliche Investitionen,Ausserordentliche Investitionen,0.0,0.0,VS,2022
-HRM2_IR0060,60,Übertragung von Sachanlagen in das FV,Übertragung von Sachanlagen in das FV,109.966,0.0,VS,2022
-HRM2_IR0061,61,Rückerstattungen Dritter für Investitionen,Rückerstattungen Dritter für Investitionen,0.0,0.0,VS,2022
-HRM2_IR0062,62,Abgang immaterielle Anlagen,Abgang immaterielle Anlagen,0.0,0.0,VS,2022
-HRM2_IR0063,63,Investitionsbeiträge für eigene Rechnung,Investitionsbeiträge für eigene Rechnung,209616.35551,239179.5,VS,2022
-HRM2_IR0064,64,Rückzahlung von Darlehen,Rückzahlung von Darlehen,34239.54927,34134.7,VS,2022
-HRM2_IR0065,65,Übertragung von Beteiligungen,Übertragung von Beteiligungen,0.5015,0.0,VS,2022
-HRM2_IR0066,66,Rückzahlung eigener Investitionsbeiträge,Rückzahlung eigener Investitionsbeiträge,730.91665,732.0,VS,2022
-HRM2_IR0067,67,Durchlaufende Investitionsbeiträge,Durchlaufende Investitionsbeiträge,12622.47875,19000.0,VS,2022
-HRM2_neu_IR0068,68,Ausserordentliche Investitionseinnahmen,Ausserordentliche Investitionseinnahmen,0.0,0.0,VS,2022
-HRM2_BI0010,10,Finanzvermögen,Finanzvermögen,2906987.6978200004,0.0,VS,2022
-HRM2_BI0014,14,Verwaltungsvermögen,Verwaltungsvermögen,1877480.62237,0.0,VS,2022
-HRM2_BI0020,20,Fremdkapital,Fremdkapital,3829508.0996100004,0.0,VS,2022
-HRM2_BI0029,29,Eigenkapital,Eigenkapital,954960.22058,0.0,VS,2022
-HRM2_ER0030,30,Personalaufwand,Personalaufwand,337380.8,360238.6,ZG,2022
-HRM2_ER0031,31,Sach- und übriger Betriebsaufwand,Sach- und übriger Betriebsaufwand,116685.96,134009.25,ZG,2022
-HRM2_neu_ER0033,33,Abschreibungen VV,Abschreibungen VV,63873.996,80405.2,ZG,2022
-HRM2_neu_ER0035,35,Einlagen in Fonds und Spezialfinanzierungen,Einlagen in Fonds und Spezialfinanzierungen,368.1,62.03,ZG,2022
-HRM2_ER0036,36,Transferaufwand,Transferaufwand,964185.6,1030424.09,ZG,2022
-HRM2_ER0037,37,Durchlaufende Beiträge,Durchlaufende Beiträge,91404.98,94850.6,ZG,2022
-HRM2_ER0039,39,Interne Verrechungen,Interne Verrechungen,13952.3,9787.7,ZG,2022
-HRM2_neu_ER0040,40,Fiskalertrag,Fiskalertrag,925031.7,972524.0,ZG,2022
-HRM2_ER0041,41,Regalien und Konzessionen,Regalien und Konzessionen,61231.7,1566.5,ZG,2022
-HRM2_ER0042,42,Entgelte,Entgelte,84745.1,82742.1,ZG,2022
-HRM2_neu_ER0043,43,Verschiedene Erträge,Verschiedene Erträge,191.1,130.0,ZG,2022
-HRM2_neu_ER0045,45,Entnahmen aus Fonds und Spezialfinanzierungen,Entnahmen aus Fonds und Spezialfinanzierungen,6480.4,16836.2,ZG,2022
-HRM2_ER0046,46,Transferertrag,Transferertrag,688261.7,729196.7,ZG,2022
-HRM2_ER0047,47,Durchlaufende Beiträge,Durchlaufende Beiträge,91404.98,94850.6,ZG,2022
-HRM2_ER0049,49,Interne Verrechnungen,Interne Verrechnungen,13952.3,9787.7,ZG,2022
-HRM2_neu_ER0034,34,Finanzaufwand,Finanzaufwand,7292.8,1004.048,ZG,2022
-HRM2_neu_ER0044,44,Finanzertrag,Finanzertrag,55884.3,50494.1,ZG,2022
-HRM2_neu_ER0038,38,Ausserordentlicher Aufwand,Ausserordentlicher Aufwand,0.449,0.0,ZG,2022
-HRM2_neu_ER0048,48,Ausserordentlicher Ertrag,Ausserordentlicher Ertrag,0.0,0.0,ZG,2022
-HRM2_IR0050,50,Sachanlagen,Sachanlagen,80846.0,99908.96,ZG,2022
-HRM2_IR0051,51,Investitionen auf Rechnung Dritter,Investitionen auf Rechnung Dritter,0.0,0.0,ZG,2022
-HRM2_IR0052,52,Immaterielle Anlagen,Immaterielle Anlagen,0.0,0.0,ZG,2022
-HRM2_IR0054,54,Darlehen,Darlehen,2309.5,3200.0,ZG,2022
-HRM2_IR0055,55,Beteiligungen und Grundkapitalien,Beteiligungen und Grundkapitalien,0.0,0.0,ZG,2022
-HRM2_IR0056,56,Eigene Investitionsbeiträge,Eigene Investitionsbeiträge,12626.9,22815.0,ZG,2022
-HRM2_IR0057,57,Durchlaufende Investitionsbeiträge,Durchlaufende Investitionsbeiträge,3145.8,7450.0,ZG,2022
-HRM2_neu_IR0058,58,Ausserordentliche Investitionen,Ausserordentliche Investitionen,0.0,0.0,ZG,2022
-HRM2_IR0060,60,Übertragung von Sachanlagen in das FV,Übertragung von Sachanlagen in das FV,19.2,0.0,ZG,2022
-HRM2_IR0061,61,Rückerstattungen Dritter für Investitionen,Rückerstattungen Dritter für Investitionen,0.0,0.0,ZG,2022
-HRM2_IR0062,62,Abgang immaterielle Anlagen,Abgang immaterielle Anlagen,0.0,0.0,ZG,2022
-HRM2_IR0063,63,Investitionsbeiträge für eigene Rechnung,Investitionsbeiträge für eigene Rechnung,6711.1,7201.5,ZG,2022
-HRM2_IR0064,64,Rückzahlung von Darlehen,Rückzahlung von Darlehen,3135.9,3095.0,ZG,2022
-HRM2_IR0065,65,Übertragung von Beteiligungen,Übertragung von Beteiligungen,0.0,0.0,ZG,2022
-HRM2_IR0066,66,Rückzahlung eigener Investitionsbeiträge,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,ZG,2022
-HRM2_IR0067,67,Durchlaufende Investitionsbeiträge,Durchlaufende Investitionsbeiträge,3145.8,7450.0,ZG,2022
-HRM2_neu_IR0068,68,Ausserordentliche Investitionseinnahmen,Ausserordentliche Investitionseinnahmen,0.0,0.0,ZG,2022
-HRM2_BI0010,10,Finanzvermögen,Finanzvermögen,2383292.986,0.0,ZG,2022
-HRM2_BI0014,14,Verwaltungsvermögen,Verwaltungsvermögen,519272.89999999997,0.0,ZG,2022
-HRM2_BI0020,20,Fremdkapital,Fremdkapital,985739.9900000001,0.0,ZG,2022
-HRM2_BI0029,29,Eigenkapital,Eigenkapital,1916825.9,0.0,ZG,2022
-HRM2_ER0030,30,Personalaufwand,Personalaufwand,5986496.39758,6227641.04803,ZH,2022
-HRM2_ER0031,31,Sach- und übriger Betriebsaufwand,Sach- und übriger Betriebsaufwand,3432345.61366,3520616.99559,ZH,2022
-HRM2_neu_ER0033,33,Abschreibungen VV,Abschreibungen VV,589693.08896,573729.545,ZH,2022
-HRM2_neu_ER0035,35,Einlagen in Fonds und Spezialfinanzierungen,Einlagen in Fonds und Spezialfinanzierungen,40737.64011,4082.5,ZH,2022
-HRM2_ER0036,36,Transferaufwand,Transferaufwand,7736885.73527,7544495.562,ZH,2022
-HRM2_ER0037,37,Durchlaufende Beiträge,Durchlaufende Beiträge,254459.49666,245295.7,ZH,2022
-HRM2_ER0039,39,Interne Verrechungen,Interne Verrechungen,0.0,0.0,ZH,2022
-HRM2_neu_ER0040,40,Fiskalertrag,Fiskalertrag,7843917.20414,7539410.1,ZH,2022
-HRM2_ER0041,41,Regalien und Konzessionen,Regalien und Konzessionen,838448.387,695793.0,ZH,2022
-HRM2_ER0042,42,Entgelte,Entgelte,3332781.3870900003,3406565.32595,ZH,2022
-HRM2_neu_ER0043,43,Verschiedene Erträge,Verschiedene Erträge,318766.918,323404.30595,ZH,2022
-HRM2_neu_ER0045,45,Entnahmen aus Fonds und Spezialfinanzierungen,Entnahmen aus Fonds und Spezialfinanzierungen,12664.37028,53116.988,ZH,2022
-HRM2_ER0046,46,Transferertrag,Transferertrag,5592016.492640001,5401641.998,ZH,2022
-HRM2_ER0047,47,Durchlaufende Beiträge,Durchlaufende Beiträge,254459.49664,245295.7,ZH,2022
-HRM2_ER0049,49,Interne Verrechnungen,Interne Verrechnungen,0.0,0.0,ZH,2022
-HRM2_neu_ER0034,34,Finanzaufwand,Finanzaufwand,75252.64048,81874.95195,ZH,2022
-HRM2_neu_ER0044,44,Finanzertrag,Finanzertrag,466040.70803,419017.292,ZH,2022
-HRM2_neu_ER0038,38,Ausserordentlicher Aufwand,Ausserordentlicher Aufwand,0.0,0.0,ZH,2022
-HRM2_neu_ER0048,48,Ausserordentlicher Ertrag,Ausserordentlicher Ertrag,0.0,0.0,ZH,2022
-HRM2_IR0050,50,Sachanlagen,Sachanlagen,873716.9784,913950.787,ZH,2022
-HRM2_IR0051,51,Investitionen auf Rechnung Dritter,Investitionen auf Rechnung Dritter,21.94095,0.0,ZH,2022
-HRM2_IR0052,52,Immaterielle Anlagen,Immaterielle Anlagen,34348.82705,91152.512,ZH,2022
-HRM2_IR0054,54,Darlehen,Darlehen,13862.4841,23391.8,ZH,2022
-HRM2_IR0055,55,Beteiligungen und Grundkapitalien,Beteiligungen und Grundkapitalien,734.8,0.0,ZH,2022
-HRM2_IR0056,56,Eigene Investitionsbeiträge,Eigene Investitionsbeiträge,169159.52768,163539.9,ZH,2022
-HRM2_IR0057,57,Durchlaufende Investitionsbeiträge,Durchlaufende Investitionsbeiträge,49016.65658,58059.0,ZH,2022
-HRM2_neu_IR0058,58,Ausserordentliche Investitionen,Ausserordentliche Investitionen,0.0,0.0,ZH,2022
-HRM2_IR0060,60,Übertragung von Sachanlagen in das FV,Übertragung von Sachanlagen in das FV,1478.6951000000001,100.0,ZH,2022
-HRM2_IR0061,61,Rückerstattungen Dritter für Investitionen,Rückerstattungen Dritter für Investitionen,21.94095,0.0,ZH,2022
-HRM2_IR0062,62,Abgang immaterielle Anlagen,Abgang immaterielle Anlagen,0.0,0.0,ZH,2022
-HRM2_IR0063,63,Investitionsbeiträge für eigene Rechnung,Investitionsbeiträge für eigene Rechnung,50149.72532,82696.6,ZH,2022
-HRM2_IR0064,64,Rückzahlung von Darlehen,Rückzahlung von Darlehen,54899.46744,32727.255,ZH,2022
-HRM2_IR0065,65,Übertragung von Beteiligungen,Übertragung von Beteiligungen,26.108,0.0,ZH,2022
-HRM2_IR0066,66,Rückzahlung eigener Investitionsbeiträge,Rückzahlung eigener Investitionsbeiträge,14630.93652,58.0,ZH,2022
-HRM2_IR0067,67,Durchlaufende Investitionsbeiträge,Durchlaufende Investitionsbeiträge,49016.656579999995,58059.0,ZH,2022
-HRM2_neu_IR0068,68,Ausserordentliche Investitionseinnahmen,Ausserordentliche Investitionseinnahmen,0.0,0.0,ZH,2022
-HRM2_BI0010,10,Finanzvermögen,Finanzvermögen,8381527.706149999,0.0,ZH,2022
-HRM2_BI0014,14,Verwaltungsvermögen,Verwaltungsvermögen,16432664.834970001,0.0,ZH,2022
-HRM2_BI0020,20,Fremdkapital,Fremdkapital,12982881.6349,0.0,ZH,2022
-HRM2_BI0029,29,Eigenkapital,Eigenkapital,11831310.90622,0.0,ZH,2022
+Ref-ID,Acc-ID,Name,Realized,Budget y+1,Region,Year
+HRM2_ER0030,30,Personalaufwand,1769407.06614,1913008.922,AG,2022
+HRM2_ER0031,31,Sach- und übriger Betriebsaufwand,471235.72459,540895.2865,AG,2022
+HRM2_neu_ER0033,33,Abschreibungen VV,176835.45829,162266.45182,AG,2022
+HRM2_neu_ER0035,35,Einlagen in Fonds und Spezialfinanzierungen,140826.08142,71658.66665,AG,2022
+HRM2_ER0036,36,Transferaufwand,3067152.26254,2930677.5,AG,2022
+HRM2_ER0037,37,Durchlaufende Beiträge,316264.69522,379636.5,AG,2022
+HRM2_ER0039,39,Interne Verrechungen,269427.09054,281225.641,AG,2022
+HRM2_neu_ER0040,40,Fiskalertrag,2692885.1047,2597138.0,AG,2022
+HRM2_ER0041,41,Regalien und Konzessionen,391628.14474,71760.6,AG,2022
+HRM2_ER0042,42,Entgelte,328542.18477,319770.575,AG,2022
+HRM2_neu_ER0043,43,Verschiedene Erträge,574.45606,944.25,AG,2022
+HRM2_neu_ER0045,45,Entnahmen aus Fonds und Spezialfinanzierungen,17880.85735,6377.9,AG,2022
+HRM2_ER0046,46,Transferertrag,2083501.6064,2165878.984,AG,2022
+HRM2_ER0047,47,Durchlaufende Beiträge,316264.69522,379636.5,AG,2022
+HRM2_ER0049,49,Interne Verrechnungen,269427.09054,281225.641,AG,2022
+HRM2_neu_ER0034,34,Finanzaufwand,15865.61211,10349.0,AG,2022
+HRM2_neu_ER0044,44,Finanzertrag,251912.01292,164283.552,AG,2022
+HRM2_neu_ER0038,38,Ausserordentlicher Aufwand,176417.15957,24945.46,AG,2022
+HRM2_neu_ER0048,48,Ausserordentlicher Ertrag,47136.39842,345756.6425,AG,2022
+HRM2_IR0050,50,Sachanlagen,242845.32471,255864.03635,AG,2022
+HRM2_IR0051,51,Investitionen auf Rechnung Dritter,0.0,0.0,AG,2022
+HRM2_IR0052,52,Immaterielle Anlagen,0.0,0.0,AG,2022
+HRM2_IR0054,54,Darlehen,0.0,0.0,AG,2022
+HRM2_IR0055,55,Beteiligungen und Grundkapitalien,0.0,0.0,AG,2022
+HRM2_IR0056,56,Eigene Investitionsbeiträge,46836.9488,49195.0,AG,2022
+HRM2_IR0057,57,Durchlaufende Investitionsbeiträge,2133.33315,3499.6,AG,2022
+HRM2_neu_IR0058,58,Ausserordentliche Investitionen,0.0,0.0,AG,2022
+HRM2_IR0060,60,Übertragung von Sachanlagen in das FV,655.85072,0.0,AG,2022
+HRM2_IR0061,61,Rückerstattungen Dritter für Investitionen,0.0,0.0,AG,2022
+HRM2_IR0062,62,Abgang immaterielle Anlagen,0.0,0.0,AG,2022
+HRM2_IR0063,63,Investitionsbeiträge für eigene Rechnung,78308.76562,69769.118,AG,2022
+HRM2_IR0064,64,Rückzahlung von Darlehen,0.0,0.0,AG,2022
+HRM2_IR0065,65,Übertragung von Beteiligungen,0.0,0.0,AG,2022
+HRM2_IR0066,66,Rückzahlung eigener Investitionsbeiträge,6.2409,0.0,AG,2022
+HRM2_IR0067,67,Durchlaufende Investitionsbeiträge,2133.33315,3499.6,AG,2022
+HRM2_neu_IR0068,68,Ausserordentliche Investitionseinnahmen,0.0,0.0,AG,2022
+HRM2_BI0010,10,Finanzvermögen,3146953.79339,0.0,AG,2022
+HRM2_BI0014,14,Verwaltungsvermögen,1718887.78718,0.0,AG,2022
+HRM2_BI0020,20,Fremdkapital,2923783.61877,0.0,AG,2022
+HRM2_BI0029,29,Eigenkapital,1942057.9618,0.0,AG,2022
+HRM2_ER0030,30,Personalaufwand,28922.5,31232.5,AI,2022
+HRM2_ER0031,31,Sach- und übriger Betriebsaufwand,16025.4,20217.0,AI,2022
+HRM2_neu_ER0033,33,Abschreibungen VV,8391.8,8860.0,AI,2022
+HRM2_neu_ER0035,35,Einlagen in Fonds und Spezialfinanzierungen,963.5,325.0,AI,2022
+HRM2_ER0036,36,Transferaufwand,89230.0,88381.9,AI,2022
+HRM2_ER0037,37,Durchlaufende Beiträge,23010.1,23745.0,AI,2022
+HRM2_ER0039,39,Interne Verrechungen,10029.7,9574.0,AI,2022
+HRM2_neu_ER0040,40,Fiskalertrag,70550.7,63059.0,AI,2022
+HRM2_ER0041,41,Regalien und Konzessionen,8716.6,6221.0,AI,2022
+HRM2_ER0042,42,Entgelte,14166.7,13476.5,AI,2022
+HRM2_neu_ER0043,43,Verschiedene Erträge,296.5,239.0,AI,2022
+HRM2_neu_ER0045,45,Entnahmen aus Fonds und Spezialfinanzierungen,6439.1,3443.8,AI,2022
+HRM2_ER0046,46,Transferertrag,45417.2,42820.2,AI,2022
+HRM2_ER0047,47,Durchlaufende Beiträge,23010.1,23745.0,AI,2022
+HRM2_ER0049,49,Interne Verrechnungen,10029.7,9574.0,AI,2022
+HRM2_neu_ER0034,34,Finanzaufwand,3111.7,38.0,AI,2022
+HRM2_neu_ER0044,44,Finanzertrag,11743.6,11220.0,AI,2022
+HRM2_neu_ER0038,38,Ausserordentlicher Aufwand,8995.0,-274.0,AI,2022
+HRM2_neu_ER0048,48,Ausserordentlicher Ertrag,3935.2,3326.0,AI,2022
+HRM2_IR0050,50,Sachanlagen,15390.2,15349.0,AI,2022
+HRM2_IR0051,51,Investitionen auf Rechnung Dritter,0.0,0.0,AI,2022
+HRM2_IR0052,52,Immaterielle Anlagen,756.3,556.0,AI,2022
+HRM2_IR0054,54,Darlehen,311.5,699.0,AI,2022
+HRM2_IR0055,55,Beteiligungen und Grundkapitalien,0.0,0.0,AI,2022
+HRM2_IR0056,56,Eigene Investitionsbeiträge,3425.8,1930.0,AI,2022
+HRM2_IR0057,57,Durchlaufende Investitionsbeiträge,0.0,0.0,AI,2022
+HRM2_neu_IR0058,58,Ausserordentliche Investitionen,0.0,0.0,AI,2022
+HRM2_IR0060,60,Übertragung von Sachanlagen in das FV,0.0,0.0,AI,2022
+HRM2_IR0061,61,Rückerstattungen Dritter für Investitionen,0.0,167.0,AI,2022
+HRM2_IR0062,62,Abgang immaterielle Anlagen,0.0,0.0,AI,2022
+HRM2_IR0063,63,Investitionsbeiträge für eigene Rechnung,1445.2,650.0,AI,2022
+HRM2_IR0064,64,Rückzahlung von Darlehen,43.4,0.0,AI,2022
+HRM2_IR0065,65,Übertragung von Beteiligungen,0.0,0.0,AI,2022
+HRM2_IR0066,66,Rückzahlung eigener Investitionsbeiträge,654.5,1020.0,AI,2022
+HRM2_IR0067,67,Durchlaufende Investitionsbeiträge,0.0,0.0,AI,2022
+HRM2_neu_IR0068,68,Ausserordentliche Investitionseinnahmen,0.0,0.0,AI,2022
+HRM2_BI0010,10,Finanzvermögen,152061.5,0.0,AI,2022
+HRM2_BI0014,14,Verwaltungsvermögen,92606.3,0.0,AI,2022
+HRM2_BI0020,20,Fremdkapital,66121.6,0.0,AI,2022
+HRM2_BI0029,29,Eigenkapital,178546.3,0.0,AI,2022
+HRM2_ER0030,30,Personalaufwand,103788.1,106851.2,AR,2022
+HRM2_ER0031,31,Sach- und übriger Betriebsaufwand,50874.8,54571.5,AR,2022
+HRM2_neu_ER0033,33,Abschreibungen VV,16210.7,17342.7,AR,2022
+HRM2_neu_ER0035,35,Einlagen in Fonds und Spezialfinanzierungen,793.7,285.3,AR,2022
+HRM2_ER0036,36,Transferaufwand,266396.3,293579.2,AR,2022
+HRM2_ER0037,37,Durchlaufende Beiträge,40849.4,40954.8,AR,2022
+HRM2_ER0039,39,Interne Verrechungen,37175.8,39399.5,AR,2022
+HRM2_neu_ER0040,40,Fiskalertrag,222642.0,222390.0,AR,2022
+HRM2_ER0041,41,Regalien und Konzessionen,29611.8,3460.5,AR,2022
+HRM2_ER0042,42,Entgelte,28238.5,28425.3,AR,2022
+HRM2_neu_ER0043,43,Verschiedene Erträge,5763.3,3990.8,AR,2022
+HRM2_neu_ER0045,45,Entnahmen aus Fonds und Spezialfinanzierungen,428.4,655.8,AR,2022
+HRM2_ER0046,46,Transferertrag,180421.7,197659.2,AR,2022
+HRM2_ER0047,47,Durchlaufende Beiträge,40849.4,40954.8,AR,2022
+HRM2_ER0049,49,Interne Verrechnungen,37175.8,39399.5,AR,2022
+HRM2_neu_ER0034,34,Finanzaufwand,1333.2,1406.8,AR,2022
+HRM2_neu_ER0044,44,Finanzertrag,10047.2,9835.3,AR,2022
+HRM2_neu_ER0038,38,Ausserordentlicher Aufwand,0.0,0.0,AR,2022
+HRM2_neu_ER0048,48,Ausserordentlicher Ertrag,10732.8,10378.7,AR,2022
+HRM2_IR0050,50,Sachanlagen,19819.6,30089.5,AR,2022
+HRM2_IR0051,51,Investitionen auf Rechnung Dritter,0.0,0.0,AR,2022
+HRM2_IR0052,52,Immaterielle Anlagen,2440.1,3614.0,AR,2022
+HRM2_IR0054,54,Darlehen,3329.1,28796.5,AR,2022
+HRM2_IR0055,55,Beteiligungen und Grundkapitalien,135.9,232.0,AR,2022
+HRM2_IR0056,56,Eigene Investitionsbeiträge,5309.9,6090.0,AR,2022
+HRM2_IR0057,57,Durchlaufende Investitionsbeiträge,3978.1,3886.0,AR,2022
+HRM2_neu_IR0058,58,Ausserordentliche Investitionen,0.0,0.0,AR,2022
+HRM2_IR0060,60,Übertragung von Sachanlagen in das FV,0.0,0.0,AR,2022
+HRM2_IR0061,61,Rückerstattungen Dritter für Investitionen,0.0,0.0,AR,2022
+HRM2_IR0062,62,Abgang immaterielle Anlagen,0.0,0.0,AR,2022
+HRM2_IR0063,63,Investitionsbeiträge für eigene Rechnung,3585.3,7800.0,AR,2022
+HRM2_IR0064,64,Rückzahlung von Darlehen,3197.2,839.2,AR,2022
+HRM2_IR0065,65,Übertragung von Beteiligungen,0.0,0.0,AR,2022
+HRM2_IR0066,66,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,AR,2022
+HRM2_IR0067,67,Durchlaufende Investitionsbeiträge,3978.1,3886.0,AR,2022
+HRM2_neu_IR0068,68,Ausserordentliche Investitionseinnahmen,0.0,0.0,AR,2022
+HRM2_BI0010,10,Finanzvermögen,241493.09999999998,159032.5,AR,2022
+HRM2_BI0014,14,Verwaltungsvermögen,189769.09999999998,224205.8,AR,2022
+HRM2_BI0020,20,Fremdkapital,216589.5,190709.10000000003,AR,2022
+HRM2_BI0029,29,Eigenkapital,214672.5,192529.3,AR,2022
+HRM2_ER0030,30,Personalaufwand,3150201.2,3305027.9,BE,2022
+HRM2_ER0031,31,Sach- und übriger Betriebsaufwand,906239.3,956747.2,BE,2022
+HRM2_neu_ER0033,33,Abschreibungen VV,282257.7,284574.6,BE,2022
+HRM2_neu_ER0035,35,Einlagen in Fonds und Spezialfinanzierungen,95074.8,72212.2,BE,2022
+HRM2_ER0036,36,Transferaufwand,6606185.5,7046237.4,BE,2022
+HRM2_ER0037,37,Durchlaufende Beiträge,591595.5,584980.0,BE,2022
+HRM2_ER0039,39,Interne Verrechungen,158505.1,195763.6,BE,2022
+HRM2_neu_ER0040,40,Fiskalertrag,5845854.9,5830110.0,BE,2022
+HRM2_ER0041,41,Regalien und Konzessionen,539156.6,379316.5,BE,2022
+HRM2_ER0042,42,Entgelte,578319.8,547914.7,BE,2022
+HRM2_neu_ER0043,43,Verschiedene Erträge,3215.0,2668.2,BE,2022
+HRM2_neu_ER0045,45,Entnahmen aus Fonds und Spezialfinanzierungen,92298.6,71586.3,BE,2022
+HRM2_ER0046,46,Transferertrag,4102341.8,4484283.0,BE,2022
+HRM2_ER0047,47,Durchlaufende Beiträge,591595.5,584980.0,BE,2022
+HRM2_ER0049,49,Interne Verrechnungen,158505.1,195763.6,BE,2022
+HRM2_neu_ER0034,34,Finanzaufwand,64178.4,62991.4,BE,2022
+HRM2_neu_ER0044,44,Finanzertrag,311879.5,317307.6,BE,2022
+HRM2_neu_ER0038,38,Ausserordentlicher Aufwand,14527.9,41500.2,BE,2022
+HRM2_neu_ER0048,48,Ausserordentlicher Ertrag,3414.3,136206.6,BE,2022
+HRM2_IR0050,50,Sachanlagen,308417.7,344422.5,BE,2022
+HRM2_IR0051,51,Investitionen auf Rechnung Dritter,181.8,0.0,BE,2022
+HRM2_IR0052,52,Immaterielle Anlagen,28990.6,67375.0,BE,2022
+HRM2_IR0054,54,Darlehen,27279.9,33273.5,BE,2022
+HRM2_IR0055,55,Beteiligungen und Grundkapitalien,0.0,0.0,BE,2022
+HRM2_IR0056,56,Eigene Investitionsbeiträge,337145.0,100452.4,BE,2022
+HRM2_IR0057,57,Durchlaufende Investitionsbeiträge,11045.3,10850.0,BE,2022
+HRM2_neu_IR0058,58,Ausserordentliche Investitionen,0.0,0.0,BE,2022
+HRM2_IR0060,60,Übertragung von Sachanlagen in das FV,4023.4,100.0,BE,2022
+HRM2_IR0061,61,Rückerstattungen Dritter für Investitionen,9170.6,3469.0,BE,2022
+HRM2_IR0062,62,Abgang immaterielle Anlagen,3723.7,0.0,BE,2022
+HRM2_IR0063,63,Investitionsbeiträge für eigene Rechnung,90759.0,46588.4,BE,2022
+HRM2_IR0064,64,Rückzahlung von Darlehen,28695.4,24266.5,BE,2022
+HRM2_IR0065,65,Übertragung von Beteiligungen,0.0,0.0,BE,2022
+HRM2_IR0066,66,Rückzahlung eigener Investitionsbeiträge,211477.3,0.0,BE,2022
+HRM2_IR0067,67,Durchlaufende Investitionsbeiträge,11045.3,10850.0,BE,2022
+HRM2_neu_IR0068,68,Ausserordentliche Investitionseinnahmen,0.0,0.0,BE,2022
+HRM2_BI0010,10,Finanzvermögen,5274422.8,5684177.9,BE,2022
+HRM2_BI0014,14,Verwaltungsvermögen,6950599.8,6732753.3,BE,2022
+HRM2_BI0020,20,Fremdkapital,11204820.6,11894950.0,BE,2022
+HRM2_BI0029,29,Eigenkapital,1020202.0,521981.1,BE,2022
+HRM2_ER0030,30,Personalaufwand,659707.8139,715320.687,BL,2022
+HRM2_ER0031,31,Sach- und übriger Betriebsaufwand,331092.60915,288328.731,BL,2022
+HRM2_neu_ER0033,33,Abschreibungen VV,93750.75877,87050.12,BL,2022
+HRM2_neu_ER0035,35,Einlagen in Fonds und Spezialfinanzierungen,7036.68315,4500.0,BL,2022
+HRM2_ER0036,36,Transferaufwand,1748034.18893,1794389.17828,BL,2022
+HRM2_ER0037,37,Durchlaufende Beiträge,76207.3548,77193.8,BL,2022
+HRM2_ER0039,39,Interne Verrechungen,14992.78301,18502.7102,BL,2022
+HRM2_neu_ER0040,40,Fiskalertrag,2051344.2522,1951910.937,BL,2022
+HRM2_ER0041,41,Regalien und Konzessionen,160513.91811,90216.0,BL,2022
+HRM2_ER0042,42,Entgelte,155902.66739,123973.675,BL,2022
+HRM2_neu_ER0043,43,Verschiedene Erträge,5051.60669,3987.701,BL,2022
+HRM2_neu_ER0045,45,Entnahmen aus Fonds und Spezialfinanzierungen,7329.83697,12317.244,BL,2022
+HRM2_ER0046,46,Transferertrag,647919.14614,670723.08059,BL,2022
+HRM2_ER0047,47,Durchlaufende Beiträge,76207.3548,77193.8,BL,2022
+HRM2_ER0049,49,Interne Verrechnungen,14992.78301,18502.7102,BL,2022
+HRM2_neu_ER0034,34,Finanzaufwand,33967.48163,37886.315,BL,2022
+HRM2_neu_ER0044,44,Finanzertrag,135641.78122,120324.063,BL,2022
+HRM2_neu_ER0038,38,Ausserordentlicher Aufwand,195144.0,55548.0,BL,2022
+HRM2_neu_ER0048,48,Ausserordentlicher Ertrag,0.0,0.0,BL,2022
+HRM2_IR0050,50,Sachanlagen,161742.906,207218.0,BL,2022
+HRM2_IR0051,51,Investitionen auf Rechnung Dritter,0.0,0.0,BL,2022
+HRM2_IR0052,52,Immaterielle Anlagen,0.0,0.0,BL,2022
+HRM2_IR0054,54,Darlehen,0.0,3000.0,BL,2022
+HRM2_IR0055,55,Beteiligungen und Grundkapitalien,0.0,0.0,BL,2022
+HRM2_IR0056,56,Eigene Investitionsbeiträge,14708.948,7250.0,BL,2022
+HRM2_IR0057,57,Durchlaufende Investitionsbeiträge,5000.0,0.0,BL,2022
+HRM2_neu_IR0058,58,Ausserordentliche Investitionen,0.0,0.0,BL,2022
+HRM2_IR0060,60,Übertragung von Sachanlagen in das FV,1400.8,0.0,BL,2022
+HRM2_IR0061,61,Rückerstattungen Dritter für Investitionen,81.808,0.0,BL,2022
+HRM2_IR0062,62,Abgang immaterielle Anlagen,0.0,0.0,BL,2022
+HRM2_IR0063,63,Investitionsbeiträge für eigene Rechnung,16293.805,15180.0,BL,2022
+HRM2_IR0064,64,Rückzahlung von Darlehen,4991.2,7989.0,BL,2022
+HRM2_IR0065,65,Übertragung von Beteiligungen,0.0,0.0,BL,2022
+HRM2_IR0066,66,Rückzahlung eigener Investitionsbeiträge,0.0,1200.0,BL,2022
+HRM2_IR0067,67,Durchlaufende Investitionsbeiträge,5000.0,0.0,BL,2022
+HRM2_neu_IR0068,68,Ausserordentliche Investitionseinnahmen,0.0,0.0,BL,2022
+HRM2_BI0010,10,Finanzvermögen,2548466.8395300005,0.0,BL,2022
+HRM2_BI0014,14,Verwaltungsvermögen,2656121.1720000003,0.0,BL,2022
+HRM2_BI0020,20,Fremdkapital,4839590.841,0.0,BL,2022
+HRM2_BI0029,29,Eigenkapital,364997.17,0.0,BL,2022
+HRM2_ER0030,30,Personalaufwand,1379150.261,1488762.0,BS,2022
+HRM2_ER0031,31,Sach- und übriger Betriebsaufwand,477806.942,494401.0,BS,2022
+HRM2_neu_ER0033,33,Abschreibungen VV,210994.73676,227779.46,BS,2022
+HRM2_neu_ER0035,35,Einlagen in Fonds und Spezialfinanzierungen,0.0,0.0,BS,2022
+HRM2_ER0036,36,Transferaufwand,2307990.41172,2281046.809,BS,2022
+HRM2_ER0037,37,Durchlaufende Beiträge,0.0,0.0,BS,2022
+HRM2_ER0039,39,Interne Verrechungen,344708.331,361239.463,BS,2022
+HRM2_neu_ER0040,40,Fiskalertrag,2999740.727,2957260.0,BS,2022
+HRM2_ER0041,41,Regalien und Konzessionen,119462.891,74266.744,BS,2022
+HRM2_ER0042,42,Entgelte,333965.413,352152.387,BS,2022
+HRM2_neu_ER0043,43,Verschiedene Erträge,35733.243,38217.393,BS,2022
+HRM2_neu_ER0045,45,Entnahmen aus Fonds und Spezialfinanzierungen,0.0,0.0,BS,2022
+HRM2_ER0046,46,Transferertrag,866210.13531,851585.274,BS,2022
+HRM2_ER0047,47,Durchlaufende Beiträge,0.0,0.0,BS,2022
+HRM2_ER0049,49,Interne Verrechnungen,344708.331,361239.463,BS,2022
+HRM2_neu_ER0034,34,Finanzaufwand,233557.474,99735.689,BS,2022
+HRM2_neu_ER0044,44,Finanzertrag,471728.114,360509.497,BS,2022
+HRM2_neu_ER0038,38,Ausserordentlicher Aufwand,0.0,0.0,BS,2022
+HRM2_neu_ER0048,48,Ausserordentlicher Ertrag,0.0,0.0,BS,2022
+HRM2_IR0050,50,Sachanlagen,285425.755,343080.282,BS,2022
+HRM2_IR0051,51,Investitionen auf Rechnung Dritter,658.991,0.0,BS,2022
+HRM2_IR0052,52,Immaterielle Anlagen,12542.57,120.0,BS,2022
+HRM2_IR0054,54,Darlehen,55516.929,94710.0,BS,2022
+HRM2_IR0055,55,Beteiligungen und Grundkapitalien,75028.815,3000.0,BS,2022
+HRM2_IR0056,56,Eigene Investitionsbeiträge,17598.706,0.0,BS,2022
+HRM2_IR0057,57,Durchlaufende Investitionsbeiträge,0.0,0.0,BS,2022
+HRM2_neu_IR0058,58,Ausserordentliche Investitionen,0.0,0.0,BS,2022
+HRM2_IR0060,60,Übertragung von Sachanlagen in das FV,726.371,645.809,BS,2022
+HRM2_IR0061,61,Rückerstattungen Dritter für Investitionen,658.991,0.0,BS,2022
+HRM2_IR0062,62,Abgang immaterielle Anlagen,0.0,0.0,BS,2022
+HRM2_IR0063,63,Investitionsbeiträge für eigene Rechnung,10705.936,651.0,BS,2022
+HRM2_IR0064,64,Rückzahlung von Darlehen,17755.802,19904.55,BS,2022
+HRM2_IR0065,65,Übertragung von Beteiligungen,0.0,0.0,BS,2022
+HRM2_IR0066,66,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,BS,2022
+HRM2_IR0067,67,Durchlaufende Investitionsbeiträge,0.0,0.0,BS,2022
+HRM2_neu_IR0068,68,Ausserordentliche Investitionseinnahmen,0.0,0.0,BS,2022
+HRM2_BI0010,10,Finanzvermögen,7153870.448899999,0.0,BS,2022
+HRM2_BI0014,14,Verwaltungsvermögen,6134358.28381,0.0,BS,2022
+HRM2_BI0020,20,Fremdkapital,6952528.95623,0.0,BS,2022
+HRM2_BI0029,29,Eigenkapital,6335699.77648,0.0,BS,2022
+HRM2_ER0030,30,Charges de personnel,1697890.0,1455267.0,FR,2022
+HRM2_ER0031,31,Charges de biens et services et autres charges d'exploitation,418249.0,407579.0,FR,2022
+HRM2_neu_ER0033,33,Amortissements du patrimoine administratif,78184.0,89854.0,FR,2022
+HRM2_neu_ER0035,35,Attributions aux fonds et financements spéciaux,234916.0,63277.0,FR,2022
+HRM2_ER0036,36,Charges de transfert,1762112.0,1762288.0,FR,2022
+HRM2_ER0037,37,Subventions à redistribuer,220107.0,221800.0,FR,2022
+HRM2_ER0039,39,Imputations internes,49063.0,46181.0,FR,2022
+HRM2_neu_ER0040,40,Revenus fiscaux,1447526.0,1367541.0,FR,2022
+HRM2_ER0041,41,Patentes et concessions,170599.0,20427.0,FR,2022
+HRM2_ER0042,42,Taxes,268533.0,257801.0,FR,2022
+HRM2_neu_ER0043,43,Revenus divers,2269.0,2077.0,FR,2022
+HRM2_neu_ER0045,45,Prélèvements sur les fonds et financements spéciaux,470268.0,200075.0,FR,2022
+HRM2_ER0046,46,Revenus de transferts,1740328.0,1827143.0,FR,2022
+HRM2_ER0047,47,Subventions à redistribuer,219769.0,221800.0,FR,2022
+HRM2_ER0049,49,Imputations internes,49063.0,46181.0,FR,2022
+HRM2_neu_ER0034,34,Charges financières,6322.0,5292.0,FR,2022
+HRM2_neu_ER0044,44,Revenus financiers,148982.0,108596.0,FR,2022
+HRM2_neu_ER0038,38,Charges extraordinaires,50000.0,0.0,FR,2022
+HRM2_neu_ER0048,48,Revenus extraordinaires,0.0,0.0,FR,2022
+HRM2_IR0050,50,Immobilisations corporelles,86837.0,154125.0,FR,2022
+HRM2_IR0051,51,Investissements pour le compte de tiers,0.0,0.0,FR,2022
+HRM2_IR0052,52,Immobilisations incorporelles,0.0,0.0,FR,2022
+HRM2_IR0054,54,Prêts,8528.0,20200.0,FR,2022
+HRM2_IR0055,55,Participations et capital social,52102.0,6600.0,FR,2022
+HRM2_IR0056,56,Propres subventions d'investissement,66298.0,77521.0,FR,2022
+HRM2_IR0057,57,Subventions d'investissements à redistribuer,14973.0,25401.0,FR,2022
+HRM2_neu_IR0058,58,Investissements extraordinaires,0.0,0.0,FR,2022
+HRM2_IR0060,60,Transfert d'immobilisations corporelles dans le patrimoine financier,0.0,0.0,FR,2022
+HRM2_IR0061,61,Remboursements pour les investissements sur le compte des tiers,0.0,0.0,FR,2022
+HRM2_IR0062,62,Vente d'immobilisations incorporelles,0.0,0.0,FR,2022
+HRM2_IR0063,63,Subventions d'investissements acquises,7583.0,14458.0,FR,2022
+HRM2_IR0064,64,Remboursement de prêts,16263.0,11283.0,FR,2022
+HRM2_IR0065,65,Transfert de participations,0.0,0.0,FR,2022
+HRM2_IR0066,66,Remboursement de propres subventions d'investissement,0.0,50.0,FR,2022
+HRM2_IR0067,67,Subventions d'investissements à redistribuer,17543.0,25401.0,FR,2022
+HRM2_neu_IR0068,68,Recettes d'investissement extraordinaires,0.0,0.0,FR,2022
+HRM2_BI0010,10,Patrimoine Financier,2416925.0,0.0,FR,2022
+HRM2_BI0014,14,Patrimoine administratif,917499.0,0.0,FR,2022
+HRM2_BI0020,20,Capitaux de tiers,1989326.0,0.0,FR,2022
+HRM2_BI0029,29,Capital propre,1345098.0,0.0,FR,2022
+HRM2_ER0030,30,Charges de personnel,2684696.7,2854563.2,GE,2022
+HRM2_ER0031,31,Charges de biens et services et autres charges d'exploitation,959861.9,646101.2,GE,2022
+HRM2_neu_ER0033,33,Amortissements du patrimoine administratif,357848.2,360793.2,GE,2022
+HRM2_neu_ER0035,35,Attributions aux fonds et financements spéciaux,0.0,0.0,GE,2022
+HRM2_ER0036,36,Charges de transfert,5531373.9,5784110.9,GE,2022
+HRM2_ER0037,37,Subventions à redistribuer,82861.6,51947.4,GE,2022
+HRM2_ER0039,39,Imputations internes,14519.2,14786.8,GE,2022
+HRM2_neu_ER0040,40,Revenus fiscaux,8429021.8,7226267.1,GE,2022
+HRM2_ER0041,41,Patentes et concessions,260338.0,27784.4,GE,2022
+HRM2_ER0042,42,Taxes,437567.5,424377.4,GE,2022
+HRM2_neu_ER0043,43,Revenus divers,173592.7,97537.9,GE,2022
+HRM2_neu_ER0045,45,Prélèvements sur les fonds et financements spéciaux,0.0,0.0,GE,2022
+HRM2_ER0046,46,Revenus de transferts,1614240.4,1481614.2,GE,2022
+HRM2_ER0047,47,Subventions à redistribuer,82861.6,51947.4,GE,2022
+HRM2_ER0049,49,Imputations internes,14519.2,14786.8,GE,2022
+HRM2_neu_ER0034,34,Charges financières,201562.8,220682.5,GE,2022
+HRM2_neu_ER0044,44,Revenus financiers,271674.6,250579.1,GE,2022
+HRM2_neu_ER0038,38,Charges extraordinaires,724213.9,118344.4,GE,2022
+HRM2_neu_ER0048,48,Revenus extraordinaires,0.0,0.0,GE,2022
+HRM2_IR0050,50,Immobilisations corporelles,339398.3,436265.72125,GE,2022
+HRM2_IR0051,51,Investissements pour le compte de tiers,0.0,0.0,GE,2022
+HRM2_IR0052,52,Immobilisations incorporelles,42249.097,63543.26275,GE,2022
+HRM2_IR0054,54,Prêts,43853.588,22390.232,GE,2022
+HRM2_IR0055,55,Participations et capital social,14011.604,17000.0,GE,2022
+HRM2_IR0056,56,Propres subventions d'investissement,131805.901,184402.755,GE,2022
+HRM2_IR0057,57,Subventions d'investissements à redistribuer,0.0,0.0,GE,2022
+HRM2_neu_IR0058,58,Investissements extraordinaires,0.0,0.0,GE,2022
+HRM2_IR0060,60,Transfert d'immobilisations corporelles dans le patrimoine financier,12509.589,0.0,GE,2022
+HRM2_IR0061,61,Remboursements pour les investissements sur le compte des tiers,0.0,0.0,GE,2022
+HRM2_IR0062,62,Vente d'immobilisations incorporelles,0.0,0.0,GE,2022
+HRM2_IR0063,63,Subventions d'investissements acquises,65671.283,34705.892,GE,2022
+HRM2_IR0064,64,Remboursement de prêts,9387.361,5072.137,GE,2022
+HRM2_IR0065,65,Transfert de participations,510.0,0.0,GE,2022
+HRM2_IR0066,66,Remboursement de propres subventions d'investissement,292.997,0.0,GE,2022
+HRM2_IR0067,67,Subventions d'investissements à redistribuer,0.0,0.0,GE,2022
+HRM2_neu_IR0068,68,Recettes d'investissement extraordinaires,0.0,0.0,GE,2022
+HRM2_BI0010,10,Patrimoine Financier,4020632.34294,0.0,GE,2022
+HRM2_BI0014,14,Patrimoine administratif,16350680.740220001,0.0,GE,2022
+HRM2_BI0020,20,Capitaux de tiers,20762137.08533,0.0,GE,2022
+HRM2_BI0029,29,Capital propre,-390824.0021700006,0.0,GE,2022
+HRM2_ER0030,30,Personalaufwand,82146.505,88723.8,GL,2022
+HRM2_ER0031,31,Sach- und übriger Betriebsaufwand,33650.825,38707.8,GL,2022
+HRM2_neu_ER0033,33,Abschreibungen VV,5599.362,3826.8,GL,2022
+HRM2_neu_ER0035,35,Einlagen in Fonds und Spezialfinanzierungen,8836.994,23001.2,GL,2022
+HRM2_ER0036,36,Transferaufwand,201766.781,213947.1,GL,2022
+HRM2_ER0037,37,Durchlaufende Beiträge,26925.044,26552.0,GL,2022
+HRM2_ER0039,39,Interne Verrechungen,34740.68,27991.0,GL,2022
+HRM2_neu_ER0040,40,Fiskalertrag,120503.33,120986.0,GL,2022
+HRM2_ER0041,41,Regalien und Konzessionen,27650.105,10401.0,GL,2022
+HRM2_ER0042,42,Entgelte,25662.409,31873.6,GL,2022
+HRM2_neu_ER0043,43,Verschiedene Erträge,393.806,258.0,GL,2022
+HRM2_neu_ER0045,45,Entnahmen aus Fonds und Spezialfinanzierungen,9650.376,5722.8,GL,2022
+HRM2_ER0046,46,Transferertrag,143209.948,146310.6,GL,2022
+HRM2_ER0047,47,Durchlaufende Beiträge,26925.045,26552.0,GL,2022
+HRM2_ER0049,49,Interne Verrechnungen,34740.68,27991.0,GL,2022
+HRM2_neu_ER0034,34,Finanzaufwand,29970.451,7278.4,GL,2022
+HRM2_neu_ER0044,44,Finanzertrag,58157.712,28201.3,GL,2022
+HRM2_neu_ER0038,38,Ausserordentlicher Aufwand,20191.072,0.0,GL,2022
+HRM2_neu_ER0048,48,Ausserordentlicher Ertrag,543.5,17250.0,GL,2022
+HRM2_IR0050,50,Sachanlagen,19472.0,24815.0,GL,2022
+HRM2_IR0051,51,Investitionen auf Rechnung Dritter,0.0,0.0,GL,2022
+HRM2_IR0052,52,Immaterielle Anlagen,1064.3,2212.0,GL,2022
+HRM2_IR0054,54,Darlehen,815.9,1940.0,GL,2022
+HRM2_IR0055,55,Beteiligungen und Grundkapitalien,0.0,1600.0,GL,2022
+HRM2_IR0056,56,Eigene Investitionsbeiträge,13530.7,15099.0,GL,2022
+HRM2_IR0057,57,Durchlaufende Investitionsbeiträge,8066.4,17635.0,GL,2022
+HRM2_neu_IR0058,58,Ausserordentliche Investitionen,0.0,0.0,GL,2022
+HRM2_IR0060,60,Übertragung von Sachanlagen in das FV,0.0,0.0,GL,2022
+HRM2_IR0061,61,Rückerstattungen Dritter für Investitionen,0.0,0.0,GL,2022
+HRM2_IR0062,62,Abgang immaterielle Anlagen,0.0,0.0,GL,2022
+HRM2_IR0063,63,Investitionsbeiträge für eigene Rechnung,4990.2,4057.0,GL,2022
+HRM2_IR0064,64,Rückzahlung von Darlehen,3216.2,1613.0,GL,2022
+HRM2_IR0065,65,Übertragung von Beteiligungen,0.0,0.0,GL,2022
+HRM2_IR0066,66,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,GL,2022
+HRM2_IR0067,67,Durchlaufende Investitionsbeiträge,8066.4,17635.0,GL,2022
+HRM2_neu_IR0068,68,Ausserordentliche Investitionseinnahmen,0.0,0.0,GL,2022
+HRM2_BI0010,10,Finanzvermögen,357841.75753,0.0,GL,2022
+HRM2_BI0014,14,Verwaltungsvermögen,219717.14116,0.0,GL,2022
+HRM2_BI0020,20,Fremdkapital,212987.68063999998,0.0,GL,2022
+HRM2_BI0029,29,Eigenkapital,364571.21805,0.0,GL,2022
+HRM2_ER0030,30,Personalaufwand,409456.8,447200.0,GR,2022
+HRM2_ER0031,31,Sach- und übriger Betriebsaufwand,308094.7,363633.0,GR,2022
+HRM2_neu_ER0033,33,Abschreibungen VV,87546.6,114753.0,GR,2022
+HRM2_neu_ER0035,35,Einlagen in Fonds und Spezialfinanzierungen,2681.8,376.0,GR,2022
+HRM2_ER0036,36,Transferaufwand,1127514.5,1293718.0,GR,2022
+HRM2_ER0037,37,Durchlaufende Beiträge,370419.3,387322.0,GR,2022
+HRM2_ER0039,39,Interne Verrechungen,178115.5,204118.0,GR,2022
+HRM2_neu_ER0040,40,Fiskalertrag,910475.3,879190.0,GR,2022
+HRM2_ER0041,41,Regalien und Konzessionen,141658.7,129115.0,GR,2022
+HRM2_ER0042,42,Entgelte,203743.5,192976.0,GR,2022
+HRM2_neu_ER0043,43,Verschiedene Erträge,8616.9,6048.0,GR,2022
+HRM2_neu_ER0045,45,Entnahmen aus Fonds und Spezialfinanzierungen,1768.4,30645.0,GR,2022
+HRM2_ER0046,46,Transferertrag,772087.9,823361.0,GR,2022
+HRM2_ER0047,47,Durchlaufende Beiträge,370419.3,387322.0,GR,2022
+HRM2_ER0049,49,Interne Verrechnungen,178115.5,204118.0,GR,2022
+HRM2_neu_ER0034,34,Finanzaufwand,30498.3,3203.0,GR,2022
+HRM2_neu_ER0044,44,Finanzertrag,143316.3,122485.0,GR,2022
+HRM2_neu_ER0038,38,Ausserordentlicher Aufwand,79712.0,0.0,GR,2022
+HRM2_neu_ER0048,48,Ausserordentlicher Ertrag,69422.7,27858.0,GR,2022
+HRM2_IR0050,50,Sachanlagen,134522.2,179396.0,GR,2022
+HRM2_IR0051,51,Investitionen auf Rechnung Dritter,0.0,0.0,GR,2022
+HRM2_IR0052,52,Immaterielle Anlagen,6972.6,12579.0,GR,2022
+HRM2_IR0054,54,Darlehen,2452.3,10360.0,GR,2022
+HRM2_IR0055,55,Beteiligungen und Grundkapitalien,0.0,0.0,GR,2022
+HRM2_IR0056,56,Eigene Investitionsbeiträge,176438.3,227054.0,GR,2022
+HRM2_IR0057,57,Durchlaufende Investitionsbeiträge,18032.2,21765.0,GR,2022
+HRM2_neu_IR0058,58,Ausserordentliche Investitionen,0.0,0.0,GR,2022
+HRM2_IR0060,60,Übertragung von Sachanlagen in das FV,2327.1,0.0,GR,2022
+HRM2_IR0061,61,Rückerstattungen Dritter für Investitionen,3620.7,3920.0,GR,2022
+HRM2_IR0062,62,Abgang immaterielle Anlagen,25.0,0.0,GR,2022
+HRM2_IR0063,63,Investitionsbeiträge für eigene Rechnung,112067.8,119552.0,GR,2022
+HRM2_IR0064,64,Rückzahlung von Darlehen,5954.8,4845.0,GR,2022
+HRM2_IR0065,65,Übertragung von Beteiligungen,0.0,0.0,GR,2022
+HRM2_IR0066,66,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,GR,2022
+HRM2_IR0067,67,Durchlaufende Investitionsbeiträge,18032.2,21765.0,GR,2022
+HRM2_neu_IR0068,68,Ausserordentliche Investitionseinnahmen,22.7,0.0,GR,2022
+HRM2_BI0010,10,Finanzvermögen,3446888.3,0.0,GR,2022
+HRM2_BI0014,14,Verwaltungsvermögen,1169448.6,0.0,GR,2022
+HRM2_BI0020,20,Fremdkapital,1519080.5,0.0,GR,2022
+HRM2_BI0029,29,Eigenkapital,3097256.4,0.0,GR,2022
+HRM2_ER0030,30,Charges de personnel,268796.37687,277254.4,JU,2022
+HRM2_ER0031,31,Charges de biens et services et autres charges d'exploitation,79829.41179,83165.5,JU,2022
+HRM2_neu_ER0033,33,Amortissements du patrimoine administratif,17932.56952,18293.0,JU,2022
+HRM2_neu_ER0035,35,Attributions aux fonds et financements spéciaux,13265.16056,13783.4,JU,2022
+HRM2_ER0036,36,Charges de transfert,480892.17495,496774.8,JU,2022
+HRM2_ER0037,37,Subventions à redistribuer,111900.04152,116412.1,JU,2022
+HRM2_ER0039,39,Imputations internes,3364.33397,4221.9,JU,2022
+HRM2_neu_ER0040,40,Revenus fiscaux,356374.39645,368217.8,JU,2022
+HRM2_ER0041,41,Patentes et concessions,37532.01835,25935.2,JU,2022
+HRM2_ER0042,42,Taxes,48355.79645,43220.3,JU,2022
+HRM2_neu_ER0043,43,Revenus divers,1481.44303,90.3,JU,2022
+HRM2_neu_ER0045,45,Prélèvements sur les fonds et financements spéciaux,2155.96623,4554.3,JU,2022
+HRM2_ER0046,46,Revenus de transferts,409685.61587,408765.4,JU,2022
+HRM2_ER0047,47,Subventions à redistribuer,111900.04152,116412.1,JU,2022
+HRM2_ER0049,49,Imputations internes,3364.33397,4221.9,JU,2022
+HRM2_neu_ER0034,34,Charges financières,4690.6157,3777.1,JU,2022
+HRM2_neu_ER0044,44,Revenus financiers,10141.67491,9602.8,JU,2022
+HRM2_neu_ER0038,38,Charges extraordinaires,0.0,0.0,JU,2022
+HRM2_neu_ER0048,48,Revenus extraordinaires,0.0,27007.0,JU,2022
+HRM2_IR0050,50,Immobilisations corporelles,24673.93444,27837.3,JU,2022
+HRM2_IR0051,51,Investissements pour le compte de tiers,0.0,0.0,JU,2022
+HRM2_IR0052,52,Immobilisations incorporelles,0.0,0.0,JU,2022
+HRM2_IR0054,54,Prêts,404.505,460.0,JU,2022
+HRM2_IR0055,55,Participations et capital social,-10.0,0.0,JU,2022
+HRM2_IR0056,56,Propres subventions d'investissement,17535.7343,11857.8,JU,2022
+HRM2_IR0057,57,Subventions d'investissements à redistribuer,13699.0179,9889.1,JU,2022
+HRM2_neu_IR0058,58,Investissements extraordinaires,40.974,0.0,JU,2022
+HRM2_IR0060,60,Transfert d'immobilisations corporelles dans le patrimoine financier,390.714,0.0,JU,2022
+HRM2_IR0061,61,Remboursements pour les investissements sur le compte des tiers,0.0,0.0,JU,2022
+HRM2_IR0062,62,Vente d'immobilisations incorporelles,0.0,0.0,JU,2022
+HRM2_IR0063,63,Subventions d'investissements acquises,4543.50243,7106.6,JU,2022
+HRM2_IR0064,64,Remboursement de prêts,1401.3783,1479.5,JU,2022
+HRM2_IR0065,65,Transfert de participations,0.11785,0.0,JU,2022
+HRM2_IR0066,66,Remboursement de propres subventions d'investissement,22.71555,40.0,JU,2022
+HRM2_IR0067,67,Subventions d'investissements à redistribuer,13699.0179,9889.1,JU,2022
+HRM2_neu_IR0068,68,Recettes d'investissement extraordinaires,0.0,0.0,JU,2022
+HRM2_BI0010,10,Patrimoine Financier,295736.9034499999,0.0,JU,2022
+HRM2_BI0014,14,Patrimoine administratif,483633.82216000004,0.0,JU,2022
+HRM2_BI0020,20,Capitaux de tiers,693169.92707,0.0,JU,2022
+HRM2_BI0029,29,Capital propre,86200.79854,0.0,JU,2022
+HRM2_ER0030,30,Personalaufwand,678656.165,695478.458,LU,2022
+HRM2_ER0031,31,Sach- und übriger Betriebsaufwand,258270.848,245670.768,LU,2022
+HRM2_neu_ER0033,33,Abschreibungen VV,131757.716,133617.763,LU,2022
+HRM2_neu_ER0035,35,Einlagen in Fonds und Spezialfinanzierungen,14707.686,5354.031,LU,2022
+HRM2_ER0036,36,Transferaufwand,2299034.573,2419107.68,LU,2022
+HRM2_ER0037,37,Durchlaufende Beiträge,255625.493,258222.317,LU,2022
+HRM2_ER0039,39,Interne Verrechungen,322399.343,323902.091,LU,2022
+HRM2_neu_ER0040,40,Fiskalertrag,1634697.975,1570016.495,LU,2022
+HRM2_ER0041,41,Regalien und Konzessionen,226850.485,192127.531,LU,2022
+HRM2_ER0042,42,Entgelte,205706.75,203592.003,LU,2022
+HRM2_neu_ER0043,43,Verschiedene Erträge,2178.282,1360.0,LU,2022
+HRM2_neu_ER0045,45,Entnahmen aus Fonds und Spezialfinanzierungen,6273.877,4604.651,LU,2022
+HRM2_ER0046,46,Transferertrag,1406319.279,1441052.923,LU,2022
+HRM2_ER0047,47,Durchlaufende Beiträge,255625.493,258222.317,LU,2022
+HRM2_ER0049,49,Interne Verrechnungen,322399.343,323902.091,LU,2022
+HRM2_neu_ER0034,34,Finanzaufwand,9902.382,10096.55,LU,2022
+HRM2_neu_ER0044,44,Finanzertrag,114367.939,110803.769,LU,2022
+HRM2_neu_ER0038,38,Ausserordentlicher Aufwand,-391.982,0.0,LU,2022
+HRM2_neu_ER0048,48,Ausserordentlicher Ertrag,0.0,0.0,LU,2022
+HRM2_IR0050,50,Sachanlagen,165356.657,213964.0,LU,2022
+HRM2_IR0051,51,Investitionen auf Rechnung Dritter,11160.786,0.0,LU,2022
+HRM2_IR0052,52,Immaterielle Anlagen,12610.153,13089.0,LU,2022
+HRM2_IR0054,54,Darlehen,2219.581,2000.0,LU,2022
+HRM2_IR0055,55,Beteiligungen und Grundkapitalien,25950.0,255000.0,LU,2022
+HRM2_IR0056,56,Eigene Investitionsbeiträge,20272.065,20600.0,LU,2022
+HRM2_IR0057,57,Durchlaufende Investitionsbeiträge,4193.981,6075.0,LU,2022
+HRM2_neu_IR0058,58,Ausserordentliche Investitionen,0.0,0.0,LU,2022
+HRM2_IR0060,60,Übertragung von Sachanlagen in das FV,23.081,2000.0,LU,2022
+HRM2_IR0061,61,Rückerstattungen Dritter für Investitionen,11652.258,0.0,LU,2022
+HRM2_IR0062,62,Abgang immaterielle Anlagen,0.0,0.0,LU,2022
+HRM2_IR0063,63,Investitionsbeiträge für eigene Rechnung,27574.151,41804.0,LU,2022
+HRM2_IR0064,64,Rückzahlung von Darlehen,3716.059,2719.854,LU,2022
+HRM2_IR0065,65,Übertragung von Beteiligungen,0.0,0.0,LU,2022
+HRM2_IR0066,66,Rückzahlung eigener Investitionsbeiträge,20.556,10.0,LU,2022
+HRM2_IR0067,67,Durchlaufende Investitionsbeiträge,4193.981,6075.0,LU,2022
+HRM2_neu_IR0068,68,Ausserordentliche Investitionseinnahmen,0.0,0.0,LU,2022
+HRM2_BI0010,10,Finanzvermögen,2970966.2060000002,2541300.0,LU,2022
+HRM2_BI0014,14,Verwaltungsvermögen,4669896.237,5051200.0,LU,2022
+HRM2_BI0020,20,Fremdkapital,3031915.401,3063300.0,LU,2022
+HRM2_BI0029,29,Eigenkapital,4608947.442,4529200.0,LU,2022
+HRM2_ER0030,30,Charges de personnel,459447.235,483488.846,NE,2022
+HRM2_ER0031,31,Charges de biens et services et autres charges d'exploitation,182246.578,192499.22,NE,2022
+HRM2_neu_ER0033,33,Amortissements du patrimoine administratif,42839.792,46902.564,NE,2022
+HRM2_neu_ER0035,35,Attributions aux fonds et financements spéciaux,36487.883,7793.854,NE,2022
+HRM2_ER0036,36,Charges de transfert,1396448.939,1468366.135,NE,2022
+HRM2_ER0037,37,Subventions à redistribuer,188061.098,187253.317,NE,2022
+HRM2_ER0039,39,Imputations internes,160772.175,136537.328,NE,2022
+HRM2_neu_ER0040,40,Revenus fiscaux,1080836.871,1064460.0,NE,2022
+HRM2_ER0041,41,Patentes et concessions,99854.509,45419.0,NE,2022
+HRM2_ER0042,42,Taxes,154518.953,203405.344,NE,2022
+HRM2_neu_ER0043,43,Revenus divers,19147.639,10216.096,NE,2022
+HRM2_neu_ER0045,45,Prélèvements sur les fonds et financements spéciaux,6115.482,17322.428,NE,2022
+HRM2_ER0046,46,Revenus de transferts,730020.985,744247.968,NE,2022
+HRM2_ER0047,47,Subventions à redistribuer,188061.098,187253.317,NE,2022
+HRM2_ER0049,49,Imputations internes,160772.175,136537.328,NE,2022
+HRM2_neu_ER0034,34,Charges financières,23006.725,20042.0,NE,2022
+HRM2_neu_ER0044,44,Revenus financiers,69079.218,65925.559,NE,2022
+HRM2_neu_ER0038,38,Charges extraordinaires,36950.085,0.0,NE,2022
+HRM2_neu_ER0048,48,Revenus extraordinaires,24281.528,54510.741,NE,2022
+HRM2_IR0050,50,Immobilisations corporelles,58098.964,109318.126,NE,2022
+HRM2_IR0051,51,Investissements pour le compte de tiers,0.0,0.0,NE,2022
+HRM2_IR0052,52,Immobilisations incorporelles,1950.632,3429.307,NE,2022
+HRM2_IR0054,54,Prêts,24708.76,24266.0,NE,2022
+HRM2_IR0055,55,Participations et capital social,0.0,1000.0,NE,2022
+HRM2_IR0056,56,Propres subventions d'investissement,15182.247,24019.629,NE,2022
+HRM2_IR0057,57,Subventions d'investissements à redistribuer,2142.706,4409.55,NE,2022
+HRM2_neu_IR0058,58,Investissements extraordinaires,0.0,0.0,NE,2022
+HRM2_IR0060,60,Transfert d'immobilisations corporelles dans le patrimoine financier,16.326,0.0,NE,2022
+HRM2_IR0061,61,Remboursements pour les investissements sur le compte des tiers,0.0,0.0,NE,2022
+HRM2_IR0062,62,Vente d'immobilisations incorporelles,0.0,0.0,NE,2022
+HRM2_IR0063,63,Subventions d'investissements acquises,2592.647,710.65,NE,2022
+HRM2_IR0064,64,Remboursement de prêts,14156.28,12864.866,NE,2022
+HRM2_IR0065,65,Transfert de participations,0.0,0.0,NE,2022
+HRM2_IR0066,66,Remboursement de propres subventions d'investissement,23661.941,30699.618,NE,2022
+HRM2_IR0067,67,Subventions d'investissements à redistribuer,2142.706,4409.55,NE,2022
+HRM2_neu_IR0068,68,Recettes d'investissement extraordinaires,181.278,0.0,NE,2022
+HRM2_BI0010,10,Patrimoine Financier,2522973.091,0.0,NE,2022
+HRM2_BI0014,14,Patrimoine administratif,1782408.027,0.0,NE,2022
+HRM2_BI0020,20,Capitaux de tiers,3959989.5479999995,0.0,NE,2022
+HRM2_BI0029,29,Capital propre,345391.571,0.0,NE,2022
+HRM2_ER0030,30,Personalaufwand,84409.5,90076.7,NW,2022
+HRM2_ER0031,31,Sach- und übriger Betriebsaufwand,38178.3,40738.7,NW,2022
+HRM2_neu_ER0033,33,Abschreibungen VV,7846.0,10106.0,NW,2022
+HRM2_neu_ER0035,35,Einlagen in Fonds und Spezialfinanzierungen,3523.1,248.5,NW,2022
+HRM2_ER0036,36,Transferaufwand,248471.6,263434.8,NW,2022
+HRM2_ER0037,37,Durchlaufende Beiträge,22428.7,21804.7,NW,2022
+HRM2_ER0039,39,Interne Verrechungen,37176.1,37741.1,NW,2022
+HRM2_neu_ER0040,40,Fiskalertrag,218506.0,208403.0,NW,2022
+HRM2_ER0041,41,Regalien und Konzessionen,29272.1,9239.2,NW,2022
+HRM2_ER0042,42,Entgelte,22311.7,22406.7,NW,2022
+HRM2_neu_ER0043,43,Verschiedene Erträge,189.1,76.0,NW,2022
+HRM2_neu_ER0045,45,Entnahmen aus Fonds und Spezialfinanzierungen,179.7,256.9,NW,2022
+HRM2_ER0046,46,Transferertrag,124118.0,120093.5,NW,2022
+HRM2_ER0047,47,Durchlaufende Beiträge,22428.7,21804.7,NW,2022
+HRM2_ER0049,49,Interne Verrechnungen,37176.1,37741.1,NW,2022
+HRM2_neu_ER0034,34,Finanzaufwand,1970.8,1954.4,NW,2022
+HRM2_neu_ER0044,44,Finanzertrag,19048.0,18694.7,NW,2022
+HRM2_neu_ER0038,38,Ausserordentlicher Aufwand,28000.0,0.0,NW,2022
+HRM2_neu_ER0048,48,Ausserordentlicher Ertrag,0.0,26000.0,NW,2022
+HRM2_IR0050,50,Sachanlagen,19866.5,21960.0,NW,2022
+HRM2_IR0051,51,Investitionen auf Rechnung Dritter,0.0,0.0,NW,2022
+HRM2_IR0052,52,Immaterielle Anlagen,1797.2,2277.0,NW,2022
+HRM2_IR0054,54,Darlehen,13174.2,3562.9,NW,2022
+HRM2_IR0055,55,Beteiligungen und Grundkapitalien,0.0,0.0,NW,2022
+HRM2_IR0056,56,Eigene Investitionsbeiträge,10294.5,15359.0,NW,2022
+HRM2_IR0057,57,Durchlaufende Investitionsbeiträge,1095.0,1057.0,NW,2022
+HRM2_neu_IR0058,58,Ausserordentliche Investitionen,0.0,0.0,NW,2022
+HRM2_IR0060,60,Übertragung von Sachanlagen in das FV,2386.9,1410.0,NW,2022
+HRM2_IR0061,61,Rückerstattungen Dritter für Investitionen,0.0,0.0,NW,2022
+HRM2_IR0062,62,Abgang immaterielle Anlagen,0.0,0.0,NW,2022
+HRM2_IR0063,63,Investitionsbeiträge für eigene Rechnung,9494.6,12668.0,NW,2022
+HRM2_IR0064,64,Rückzahlung von Darlehen,2862.6,2021.0,NW,2022
+HRM2_IR0065,65,Übertragung von Beteiligungen,0.0,0.0,NW,2022
+HRM2_IR0066,66,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,NW,2022
+HRM2_IR0067,67,Durchlaufende Investitionsbeiträge,1095.0,1057.0,NW,2022
+HRM2_neu_IR0068,68,Ausserordentliche Investitionseinnahmen,0.0,0.0,NW,2022
+HRM2_BI0010,10,Finanzvermögen,353631.29999999993,292506.1,NW,2022
+HRM2_BI0014,14,Verwaltungsvermögen,345304.3,360041.1,NW,2022
+HRM2_BI0020,20,Fremdkapital,361648.9,353643.30000000005,NW,2022
+HRM2_BI0029,29,Eigenkapital,337286.60000000003,298903.8,NW,2022
+HRM2_ER0030,30,Personalaufwand,59827.7,64902.0,OW,2022
+HRM2_ER0031,31,Sach- und übriger Betriebsaufwand,29052.2,30607.8,OW,2022
+HRM2_neu_ER0033,33,Abschreibungen VV,2310.7,3413.8,OW,2022
+HRM2_neu_ER0035,35,Einlagen in Fonds und Spezialfinanzierungen,976.9,644.7,OW,2022
+HRM2_ER0036,36,Transferaufwand,165867.4,184838.1,OW,2022
+HRM2_ER0037,37,Durchlaufende Beiträge,38024.4,38631.8,OW,2022
+HRM2_ER0039,39,Interne Verrechungen,23749.0,24695.1,OW,2022
+HRM2_neu_ER0040,40,Fiskalertrag,125822.5,132786.0,OW,2022
+HRM2_ER0041,41,Regalien und Konzessionen,22732.7,5183.0,OW,2022
+HRM2_ER0042,42,Entgelte,14022.1,14519.4,OW,2022
+HRM2_neu_ER0043,43,Verschiedene Erträge,4348.9,3804.6,OW,2022
+HRM2_neu_ER0045,45,Entnahmen aus Fonds und Spezialfinanzierungen,402.0,319.8,OW,2022
+HRM2_ER0046,46,Transferertrag,92111.0,106237.5,OW,2022
+HRM2_ER0047,47,Durchlaufende Beiträge,38024.4,38631.8,OW,2022
+HRM2_ER0049,49,Interne Verrechnungen,23749.1,24695.1,OW,2022
+HRM2_neu_ER0034,34,Finanzaufwand,217.2,284.8,OW,2022
+HRM2_neu_ER0044,44,Finanzertrag,18287.1,21481.5,OW,2022
+HRM2_neu_ER0038,38,Ausserordentlicher Aufwand,17367.4,2523.7,OW,2022
+HRM2_neu_ER0048,48,Ausserordentlicher Ertrag,0.0,3400.0,OW,2022
+HRM2_IR0050,50,Sachanlagen,31076.6,35607.3,OW,2022
+HRM2_IR0051,51,Investitionen auf Rechnung Dritter,8553.8,22357.0,OW,2022
+HRM2_IR0052,52,Immaterielle Anlagen,1335.6,1181.3,OW,2022
+HRM2_IR0054,54,Darlehen,80.6,2150.0,OW,2022
+HRM2_IR0055,55,Beteiligungen und Grundkapitalien,0.0,0.0,OW,2022
+HRM2_IR0056,56,Eigene Investitionsbeiträge,4953.9,9180.0,OW,2022
+HRM2_IR0057,57,Durchlaufende Investitionsbeiträge,8366.4,15653.0,OW,2022
+HRM2_neu_IR0058,58,Ausserordentliche Investitionen,0.0,0.0,OW,2022
+HRM2_IR0060,60,Übertragung von Sachanlagen in das FV,0.0,0.0,OW,2022
+HRM2_IR0061,61,Rückerstattungen Dritter für Investitionen,7949.2,21686.0,OW,2022
+HRM2_IR0062,62,Abgang immaterielle Anlagen,0.0,0.0,OW,2022
+HRM2_IR0063,63,Investitionsbeiträge für eigene Rechnung,22178.2,15860.5,OW,2022
+HRM2_IR0064,64,Rückzahlung von Darlehen,332.0,439.7,OW,2022
+HRM2_IR0065,65,Übertragung von Beteiligungen,0.0,0.0,OW,2022
+HRM2_IR0066,66,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,OW,2022
+HRM2_IR0067,67,Durchlaufende Investitionsbeiträge,8366.4,15653.0,OW,2022
+HRM2_neu_IR0068,68,Ausserordentliche Investitionseinnahmen,0.0,2212.0,OW,2022
+HRM2_BI0010,10,Finanzvermögen,196175.1,0.0,OW,2022
+HRM2_BI0014,14,Verwaltungsvermögen,72516.90000000001,0.0,OW,2022
+HRM2_BI0020,20,Fremdkapital,186659.3,0.0,OW,2022
+HRM2_BI0029,29,Eigenkapital,82032.6,0.0,OW,2022
+HRM2_ER0030,30,Personalaufwand,769880.3,797554.2,SG,2022
+HRM2_ER0031,31,Sach- und übriger Betriebsaufwand,485436.1,516739.4,SG,2022
+HRM2_neu_ER0033,33,Abschreibungen VV,156989.3,152349.9,SG,2022
+HRM2_neu_ER0035,35,Einlagen in Fonds und Spezialfinanzierungen,27081.1,15752.0,SG,2022
+HRM2_ER0036,36,Transferaufwand,3394189.3,3320437.9,SG,2022
+HRM2_ER0037,37,Durchlaufende Beiträge,222495.2,230699.7,SG,2022
+HRM2_ER0039,39,Interne Verrechungen,675150.9,569626.9,SG,2022
+HRM2_neu_ER0040,40,Fiskalertrag,2558588.8,2438155.2,SG,2022
+HRM2_ER0041,41,Regalien und Konzessionen,282555.5,187617.0,SG,2022
+HRM2_ER0042,42,Entgelte,304780.9,287842.6,SG,2022
+HRM2_neu_ER0043,43,Verschiedene Erträge,38844.9,25934.5,SG,2022
+HRM2_neu_ER0045,45,Entnahmen aus Fonds und Spezialfinanzierungen,9650.3,9678.7,SG,2022
+HRM2_ER0046,46,Transferertrag,1561262.9,1593195.2,SG,2022
+HRM2_ER0047,47,Durchlaufende Beiträge,222495.2,230699.7,SG,2022
+HRM2_ER0049,49,Interne Verrechnungen,675150.9,569626.9,SG,2022
+HRM2_neu_ER0034,34,Finanzaufwand,11956.8,11015.8,SG,2022
+HRM2_neu_ER0044,44,Finanzertrag,115313.5,106077.7,SG,2022
+HRM2_neu_ER0038,38,Ausserordentlicher Aufwand,19889.8,4369.1,SG,2022
+HRM2_neu_ER0048,48,Ausserordentlicher Ertrag,195134.4,125160.2,SG,2022
+HRM2_IR0050,50,Sachanlagen,107710.7,156100.0,SG,2022
+HRM2_IR0051,51,Investitionen auf Rechnung Dritter,0.0,0.0,SG,2022
+HRM2_IR0052,52,Immaterielle Anlagen,12784.3,29368.7,SG,2022
+HRM2_IR0054,54,Darlehen,20909.7,186273.0,SG,2022
+HRM2_IR0055,55,Beteiligungen und Grundkapitalien,0.0,88424.0,SG,2022
+HRM2_IR0056,56,Eigene Investitionsbeiträge,870.3,6436.7,SG,2022
+HRM2_IR0057,57,Durchlaufende Investitionsbeiträge,4344.5,0.0,SG,2022
+HRM2_neu_IR0058,58,Ausserordentliche Investitionen,0.0,0.0,SG,2022
+HRM2_IR0060,60,Übertragung von Sachanlagen in das FV,26.7,0.0,SG,2022
+HRM2_IR0061,61,Rückerstattungen Dritter für Investitionen,1823.0,1694.9,SG,2022
+HRM2_IR0062,62,Abgang immaterielle Anlagen,0.0,0.0,SG,2022
+HRM2_IR0063,63,Investitionsbeiträge für eigene Rechnung,26685.9,26602.0,SG,2022
+HRM2_IR0064,64,Rückzahlung von Darlehen,29751.7,23286.1,SG,2022
+HRM2_IR0065,65,Übertragung von Beteiligungen,0.0,0.0,SG,2022
+HRM2_IR0066,66,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,SG,2022
+HRM2_IR0067,67,Durchlaufende Investitionsbeiträge,4344.5,0.0,SG,2022
+HRM2_neu_IR0068,68,Ausserordentliche Investitionseinnahmen,0.0,0.0,SG,2022
+HRM2_BI0010,10,Finanzvermögen,2757639.3000000003,0.0,SG,2022
+HRM2_BI0014,14,Verwaltungsvermögen,1105073.6999999997,0.0,SG,2022
+HRM2_BI0020,20,Fremdkapital,2107532.7,0.0,SG,2022
+HRM2_BI0029,29,Eigenkapital,1755180.4,0.0,SG,2022
+HRM2_ER0030,30,Personalaufwand,265375.67377,278097.8,SH,2022
+HRM2_ER0031,31,Sach- und übriger Betriebsaufwand,81185.88198,95294.9,SH,2022
+HRM2_neu_ER0033,33,Abschreibungen VV,15447.477490000001,9454.1,SH,2022
+HRM2_neu_ER0035,35,Einlagen in Fonds und Spezialfinanzierungen,21026.12533,440.0,SH,2022
+HRM2_ER0036,36,Transferaufwand,407587.47147000005,433392.2,SH,2022
+HRM2_ER0037,37,Durchlaufende Beiträge,92033.50282,99850.7,SH,2022
+HRM2_ER0039,39,Interne Verrechungen,35332.66324,42169.3,SH,2022
+HRM2_neu_ER0040,40,Fiskalertrag,359534.5229,330804.0,SH,2022
+HRM2_ER0041,41,Regalien und Konzessionen,48650.5508,9583.8,SH,2022
+HRM2_ER0042,42,Entgelte,62801.71341,54350.1,SH,2022
+HRM2_neu_ER0043,43,Verschiedene Erträge,512.76692,512.0,SH,2022
+HRM2_neu_ER0045,45,Entnahmen aus Fonds und Spezialfinanzierungen,3976.6895499999996,1153.0,SH,2022
+HRM2_ER0046,46,Transferertrag,296620.29856,297567.9,SH,2022
+HRM2_ER0047,47,Durchlaufende Beiträge,92033.50282,99850.7,SH,2022
+HRM2_ER0049,49,Interne Verrechnungen,35332.66324,42169.3,SH,2022
+HRM2_neu_ER0034,34,Finanzaufwand,5282.89444,4182.4,SH,2022
+HRM2_neu_ER0044,44,Finanzertrag,69650.45543,60873.6,SH,2022
+HRM2_neu_ER0038,38,Ausserordentlicher Aufwand,55000.0,0.0,SH,2022
+HRM2_neu_ER0048,48,Ausserordentlicher Ertrag,16597.0012,55612.3,SH,2022
+HRM2_IR0050,50,Sachanlagen,22411.2558,34252.4,SH,2022
+HRM2_IR0051,51,Investitionen auf Rechnung Dritter,0.0,0.0,SH,2022
+HRM2_IR0052,52,Immaterielle Anlagen,739.48538,2643.2,SH,2022
+HRM2_IR0054,54,Darlehen,1376.025,4125.0,SH,2022
+HRM2_IR0055,55,Beteiligungen und Grundkapitalien,10000.0,10000.0,SH,2022
+HRM2_IR0056,56,Eigene Investitionsbeiträge,8059.888650000001,10060.0,SH,2022
+HRM2_IR0057,57,Durchlaufende Investitionsbeiträge,6307.491,2550.0,SH,2022
+HRM2_neu_IR0058,58,Ausserordentliche Investitionen,0.0,0.0,SH,2022
+HRM2_IR0060,60,Übertragung von Sachanlagen in das FV,0.0,0.0,SH,2022
+HRM2_IR0061,61,Rückerstattungen Dritter für Investitionen,0.0,0.0,SH,2022
+HRM2_IR0062,62,Abgang immaterielle Anlagen,0.0,0.0,SH,2022
+HRM2_IR0063,63,Investitionsbeiträge für eigene Rechnung,449.21840000000003,1263.5,SH,2022
+HRM2_IR0064,64,Rückzahlung von Darlehen,2352.703,75.0,SH,2022
+HRM2_IR0065,65,Übertragung von Beteiligungen,10000.0,10000.0,SH,2022
+HRM2_IR0066,66,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,SH,2022
+HRM2_IR0067,67,Durchlaufende Investitionsbeiträge,6307.491,2550.0,SH,2022
+HRM2_neu_IR0068,68,Ausserordentliche Investitionseinnahmen,0.0,0.0,SH,2022
+HRM2_BI0010,10,Finanzvermögen,912465.5710499999,724678.854,SH,2022
+HRM2_BI0014,14,Verwaltungsvermögen,303790.15665,337555.80299999996,SH,2022
+HRM2_BI0020,20,Fremdkapital,446529.19758000004,400600.365,SH,2022
+HRM2_BI0029,29,Eigenkapital,769726.53012,661634.292,SH,2022
+HRM2_ER0030,30,Personalaufwand,488433.65248000005,506420.49144,SO,2022
+HRM2_ER0031,31,Sach- und übriger Betriebsaufwand,247253.04692,210158.76244,SO,2022
+HRM2_neu_ER0033,33,Abschreibungen VV,59977.55404,63025.77349,SO,2022
+HRM2_neu_ER0035,35,Einlagen in Fonds und Spezialfinanzierungen,13771.017619999999,9222.72,SO,2022
+HRM2_ER0036,36,Transferaufwand,1481953.08711,1554582.33202,SO,2022
+HRM2_ER0037,37,Durchlaufende Beiträge,127744.3808,133882.0,SO,2022
+HRM2_ER0039,39,Interne Verrechungen,0.0,0.0,SO,2022
+HRM2_neu_ER0040,40,Fiskalertrag,1038337.79565,1010267.0,SO,2022
+HRM2_ER0041,41,Regalien und Konzessionen,138014.89155,10179.5,SO,2022
+HRM2_ER0042,42,Entgelte,206563.55574,171783.27675999998,SO,2022
+HRM2_neu_ER0043,43,Verschiedene Erträge,19999.05636,17171.431,SO,2022
+HRM2_neu_ER0045,45,Entnahmen aus Fonds und Spezialfinanzierungen,1544.60723,-20.0,SO,2022
+HRM2_ER0046,46,Transferertrag,1062674.01318,1070682.95192,SO,2022
+HRM2_ER0047,47,Durchlaufende Beiträge,127744.3808,133882.0,SO,2022
+HRM2_ER0049,49,Interne Verrechnungen,0.0,0.0,SO,2022
+HRM2_neu_ER0034,34,Finanzaufwand,24271.753510000002,24250.9,SO,2022
+HRM2_neu_ER0044,44,Finanzertrag,23984.71879,24388.49,SO,2022
+HRM2_neu_ER0038,38,Ausserordentlicher Aufwand,27290.828,27290.828,SO,2022
+HRM2_neu_ER0048,48,Ausserordentlicher Ertrag,0.0,0.0,SO,2022
+HRM2_IR0050,50,Sachanlagen,89311.74441,105660.0,SO,2022
+HRM2_IR0051,51,Investitionen auf Rechnung Dritter,0.0,0.0,SO,2022
+HRM2_IR0052,52,Immaterielle Anlagen,0.0,0.0,SO,2022
+HRM2_IR0054,54,Darlehen,778.6465999999999,1450.0,SO,2022
+HRM2_IR0055,55,Beteiligungen und Grundkapitalien,0.0,0.0,SO,2022
+HRM2_IR0056,56,Eigene Investitionsbeiträge,2898.9148999999998,3425.0,SO,2022
+HRM2_IR0057,57,Durchlaufende Investitionsbeiträge,3377.58448,3600.0,SO,2022
+HRM2_neu_IR0058,58,Ausserordentliche Investitionen,0.0,0.0,SO,2022
+HRM2_IR0060,60,Übertragung von Sachanlagen in das FV,898.802489999994,0.0,SO,2022
+HRM2_IR0061,61,Rückerstattungen Dritter für Investitionen,0.0,0.0,SO,2022
+HRM2_IR0062,62,Abgang immaterielle Anlagen,0.0,0.0,SO,2022
+HRM2_IR0063,63,Investitionsbeiträge für eigene Rechnung,2564.25785,7258.0,SO,2022
+HRM2_IR0064,64,Rückzahlung von Darlehen,3059.47499,2015.092,SO,2022
+HRM2_IR0065,65,Übertragung von Beteiligungen,0.0,0.0,SO,2022
+HRM2_IR0066,66,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,SO,2022
+HRM2_IR0067,67,Durchlaufende Investitionsbeiträge,3377.58448,3600.0,SO,2022
+HRM2_neu_IR0068,68,Ausserordentliche Investitionseinnahmen,0.0,0.0,SO,2022
+HRM2_BI0010,10,Finanzvermögen,1323774.88011,0.0,SO,2022
+HRM2_BI0014,14,Verwaltungsvermögen,1747395.1265699998,0.0,SO,2022
+HRM2_BI0020,20,Fremdkapital,2369055.84552,0.0,SO,2022
+HRM2_BI0029,29,Eigenkapital,702114.161,0.0,SO,2022
+HRM2_ER0030,30,Personalaufwand,234165.7421,256616.7,SZ,2022
+HRM2_ER0031,31,Sach- und übriger Betriebsaufwand,120485.9588,124164.45,SZ,2022
+HRM2_neu_ER0033,33,Abschreibungen VV,21611.1886,38098.2,SZ,2022
+HRM2_neu_ER0035,35,Einlagen in Fonds und Spezialfinanzierungen,40134.0965,12145.599999999999,SZ,2022
+HRM2_ER0036,36,Transferaufwand,951490.7607999999,1096197.6,SZ,2022
+HRM2_ER0037,37,Durchlaufende Beiträge,124529.1744,126510.8,SZ,2022
+HRM2_ER0039,39,Interne Verrechungen,94279.1027,93108.05,SZ,2022
+HRM2_neu_ER0040,40,Fiskalertrag,792490.001,809370.0,SZ,2022
+HRM2_ER0041,41,Regalien und Konzessionen,81400.1158,31460.0,SZ,2022
+HRM2_ER0042,42,Entgelte,57209.420600000005,53857.0,SZ,2022
+HRM2_neu_ER0043,43,Verschiedene Erträge,9125.571300000001,8170.8,SZ,2022
+HRM2_neu_ER0045,45,Entnahmen aus Fonds und Spezialfinanzierungen,329.0,412.3,SZ,2022
+HRM2_ER0046,46,Transferertrag,489074.186,580238.8,SZ,2022
+HRM2_ER0047,47,Durchlaufende Beiträge,124529.1744,126510.8,SZ,2022
+HRM2_ER0049,49,Interne Verrechnungen,94279.1027,93108.05,SZ,2022
+HRM2_neu_ER0034,34,Finanzaufwand,3740.3538,2809.7,SZ,2022
+HRM2_neu_ER0044,44,Finanzertrag,55120.2819,48482.1,SZ,2022
+HRM2_neu_ER0038,38,Ausserordentlicher Aufwand,0.0,0.0,SZ,2022
+HRM2_neu_ER0048,48,Ausserordentlicher Ertrag,0.0,0.0,SZ,2022
+HRM2_IR0050,50,Sachanlagen,49957.1224,76084.7,SZ,2022
+HRM2_IR0051,51,Investitionen auf Rechnung Dritter,0.0,0.0,SZ,2022
+HRM2_IR0052,52,Immaterielle Anlagen,0.0,0.0,SZ,2022
+HRM2_IR0054,54,Darlehen,6600.0365,3600.0,SZ,2022
+HRM2_IR0055,55,Beteiligungen und Grundkapitalien,0.0,0.0,SZ,2022
+HRM2_IR0056,56,Eigene Investitionsbeiträge,0.0,0.0,SZ,2022
+HRM2_IR0057,57,Durchlaufende Investitionsbeiträge,0.0,0.0,SZ,2022
+HRM2_neu_IR0058,58,Ausserordentliche Investitionen,0.0,0.0,SZ,2022
+HRM2_IR0060,60,Übertragung von Sachanlagen in das FV,0.0,0.0,SZ,2022
+HRM2_IR0061,61,Rückerstattungen Dritter für Investitionen,3521.4323,1870.5,SZ,2022
+HRM2_IR0062,62,Abgang immaterielle Anlagen,0.0,0.0,SZ,2022
+HRM2_IR0063,63,Investitionsbeiträge für eigene Rechnung,3941.172,4160.8,SZ,2022
+HRM2_IR0064,64,Rückzahlung von Darlehen,2326.327,1115.5,SZ,2022
+HRM2_IR0065,65,Übertragung von Beteiligungen,0.0,0.0,SZ,2022
+HRM2_IR0066,66,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,SZ,2022
+HRM2_IR0067,67,Durchlaufende Investitionsbeiträge,0.0,0.0,SZ,2022
+HRM2_neu_IR0068,68,Ausserordentliche Investitionseinnahmen,0.0,0.0,SZ,2022
+HRM2_BI0010,10,Finanzvermögen,1480539.9812999999,0.0,SZ,2022
+HRM2_BI0014,14,Verwaltungsvermögen,293118.8362,0.0,SZ,2022
+HRM2_BI0020,20,Fremdkapital,700039.134,0.0,SZ,2022
+HRM2_BI0029,29,Eigenkapital,1073619.6835,0.0,SZ,2022
+HRM2_ER0030,30,Personalaufwand,425678.4,441843.2,TG,2022
+HRM2_ER0031,31,Sach- und übriger Betriebsaufwand,194299.5,198875.5,TG,2022
+HRM2_neu_ER0033,33,Abschreibungen VV,30979.8,44899.7,TG,2022
+HRM2_neu_ER0035,35,Einlagen in Fonds und Spezialfinanzierungen,26717.5,18926.2,TG,2022
+HRM2_ER0036,36,Transferaufwand,1204793.7,1234332.9,TG,2022
+HRM2_ER0037,37,Durchlaufende Beiträge,295786.9,309761.5,TG,2022
+HRM2_ER0039,39,Interne Verrechungen,180931.7,202410.2,TG,2022
+HRM2_neu_ER0040,40,Fiskalertrag,978415.9,980840.0,TG,2022
+HRM2_ER0041,41,Regalien und Konzessionen,142768.7,60882.7,TG,2022
+HRM2_ER0042,42,Entgelte,160194.0,156035.5,TG,2022
+HRM2_neu_ER0043,43,Verschiedene Erträge,7489.8,7426.1,TG,2022
+HRM2_neu_ER0045,45,Entnahmen aus Fonds und Spezialfinanzierungen,23643.7,14823.0,TG,2022
+HRM2_ER0046,46,Transferertrag,560123.5,565788.1,TG,2022
+HRM2_ER0047,47,Durchlaufende Beiträge,295786.9,309761.5,TG,2022
+HRM2_ER0049,49,Interne Verrechnungen,180931.7,202410.2,TG,2022
+HRM2_neu_ER0034,34,Finanzaufwand,9251.4,6335.9,TG,2022
+HRM2_neu_ER0044,44,Finanzertrag,96193.0,81471.6,TG,2022
+HRM2_neu_ER0038,38,Ausserordentlicher Aufwand,3105.7,30.0,TG,2022
+HRM2_neu_ER0048,48,Ausserordentlicher Ertrag,7194.3,32188.2,TG,2022
+HRM2_IR0050,50,Sachanlagen,76769.7,99440.2,TG,2022
+HRM2_IR0051,51,Investitionen auf Rechnung Dritter,0.0,0.0,TG,2022
+HRM2_IR0052,52,Immaterielle Anlagen,193.7,0.0,TG,2022
+HRM2_IR0054,54,Darlehen,166.1,500.0,TG,2022
+HRM2_IR0055,55,Beteiligungen und Grundkapitalien,0.0,0.0,TG,2022
+HRM2_IR0056,56,Eigene Investitionsbeiträge,12268.9,17499.1,TG,2022
+HRM2_IR0057,57,Durchlaufende Investitionsbeiträge,3593.2,2960.0,TG,2022
+HRM2_neu_IR0058,58,Ausserordentliche Investitionen,59.0,-1500.0,TG,2022
+HRM2_IR0060,60,Übertragung von Sachanlagen in das FV,1672.2,1050.0,TG,2022
+HRM2_IR0061,61,Rückerstattungen Dritter für Investitionen,0.0,0.0,TG,2022
+HRM2_IR0062,62,Abgang immaterielle Anlagen,0.0,0.0,TG,2022
+HRM2_IR0063,63,Investitionsbeiträge für eigene Rechnung,31132.9,25342.0,TG,2022
+HRM2_IR0064,64,Rückzahlung von Darlehen,396.1,500.0,TG,2022
+HRM2_IR0065,65,Übertragung von Beteiligungen,0.0,0.0,TG,2022
+HRM2_IR0066,66,Rückzahlung eigener Investitionsbeiträge,694.5,400.0,TG,2022
+HRM2_IR0067,67,Durchlaufende Investitionsbeiträge,3593.2,2960.0,TG,2022
+HRM2_neu_IR0068,68,Ausserordentliche Investitionseinnahmen,1900.0,7030.0,TG,2022
+HRM2_BI0010,10,Finanzvermögen,950531.2,0.0,TG,2022
+HRM2_BI0014,14,Verwaltungsvermögen,1111374.4,0.0,TG,2022
+HRM2_BI0020,20,Fremdkapital,1185438.0,0.0,TG,2022
+HRM2_BI0029,29,Eigenkapital,876467.5,0.0,TG,2022
+HRM2_ER0030,30,Personalaufwand,1139988.0565299997,1164653.1,TI,2022
+HRM2_ER0031,31,Sach- und übriger Betriebsaufwand,349342.4044199998,332927.8,TI,2022
+HRM2_neu_ER0033,33,Abschreibungen VV,116987.07237000001,98900.0,TI,2022
+HRM2_neu_ER0035,35,Einlagen in Fonds und Spezialfinanzierungen,31006.188169999998,16849.6,TI,2022
+HRM2_ER0036,36,Transferaufwand,2174714.52933,2224992.7,TI,2022
+HRM2_ER0037,37,Durchlaufende Beiträge,156448.85086,160543.1,TI,2022
+HRM2_ER0039,39,Interne Verrechungen,222560.0509899998,213143.9,TI,2022
+HRM2_neu_ER0040,40,Fiskalertrag,2135039.76845,2085458.0,TI,2022
+HRM2_ER0041,41,Regalien und Konzessionen,288610.68955,258997.5,TI,2022
+HRM2_ER0042,42,Entgelte,278388.8011300001,290959.9,TI,2022
+HRM2_neu_ER0043,43,Verschiedene Erträge,17973.661420000008,15885.9,TI,2022
+HRM2_neu_ER0045,45,Entnahmen aus Fonds und Spezialfinanzierungen,3826.63029,7042.5,TI,2022
+HRM2_ER0046,46,Transferertrag,1036123.4311999999,1054013.3,TI,2022
+HRM2_ER0047,47,Durchlaufende Beiträge,156448.85086,160543.1,TI,2022
+HRM2_ER0049,49,Interne Verrechnungen,222560.05099000002,213143.9,TI,2022
+HRM2_neu_ER0034,34,Finanzaufwand,27044.40365,26901.8,TI,2022
+HRM2_neu_ER0044,44,Finanzertrag,82574.4625,73134.8,TI,2022
+HRM2_neu_ER0038,38,Ausserordentlicher Aufwand,1459.798,0.0,TI,2022
+HRM2_neu_ER0048,48,Ausserordentlicher Ertrag,959.191,200.0,TI,2022
+HRM2_IR0050,50,Sachanlagen,231499.05855000002,231886.8,TI,2022
+HRM2_IR0051,51,Investitionen auf Rechnung Dritter,1182.1913399999999,0.0,TI,2022
+HRM2_IR0052,52,Immaterielle Anlagen,0.0,0.0,TI,2022
+HRM2_IR0054,54,Darlehen,5029.018,4673.0,TI,2022
+HRM2_IR0055,55,Beteiligungen und Grundkapitalien,0.0,0.0,TI,2022
+HRM2_IR0056,56,Eigene Investitionsbeiträge,165709.39211999997,168664.0,TI,2022
+HRM2_IR0057,57,Durchlaufende Investitionsbeiträge,41964.599089999996,44888.0,TI,2022
+HRM2_neu_IR0058,58,Ausserordentliche Investitionen,0.0,0.0,TI,2022
+HRM2_IR0060,60,Übertragung von Sachanlagen in das FV,127.1,0.0,TI,2022
+HRM2_IR0061,61,Rückerstattungen Dritter für Investitionen,0.0,0.0,TI,2022
+HRM2_IR0062,62,Abgang immaterielle Anlagen,0.0,0.0,TI,2022
+HRM2_IR0063,63,Investitionsbeiträge für eigene Rechnung,56437.61816000001,82292.1,TI,2022
+HRM2_IR0064,64,Rückzahlung von Darlehen,9104.43358,8202.6,TI,2022
+HRM2_IR0065,65,Übertragung von Beteiligungen,0.0,0.0,TI,2022
+HRM2_IR0066,66,Rückzahlung eigener Investitionsbeiträge,17769.983319999996,21080.0,TI,2022
+HRM2_IR0067,67,Durchlaufende Investitionsbeiträge,41964.599089999996,44888.0,TI,2022
+HRM2_neu_IR0068,68,Ausserordentliche Investitionseinnahmen,0.0,0.0,TI,2022
+HRM2_BI0010,10,Finanzvermögen,5079328.76622,0.0,TI,2022
+HRM2_BI0014,14,Verwaltungsvermögen,2194526.72798,0.0,TI,2022
+HRM2_BI0020,20,Fremdkapital,7369194.847719999,0.0,TI,2022
+HRM2_BI0029,29,Eigenkapital,-95339.353519999,0.0,TI,2022
+HRM2_ER0030,30,Personalaufwand,107212.59592,113387.6,UR,2022
+HRM2_ER0031,31,Sach- und übriger Betriebsaufwand,58665.92757,66006.555,UR,2022
+HRM2_neu_ER0033,33,Abschreibungen VV,11194.15353,13142.7,UR,2022
+HRM2_neu_ER0035,35,Einlagen in Fonds und Spezialfinanzierungen,3035.9718399999997,1057.08,UR,2022
+HRM2_ER0036,36,Transferaufwand,201356.08509,206994.234,UR,2022
+HRM2_ER0037,37,Durchlaufende Beiträge,29797.2127,29620.0,UR,2022
+HRM2_ER0039,39,Interne Verrechungen,24794.98919,25431.64,UR,2022
+HRM2_neu_ER0040,40,Fiskalertrag,103730.08657,99949.0,UR,2022
+HRM2_ER0041,41,Regalien und Konzessionen,60338.8831,46826.0,UR,2022
+HRM2_ER0042,42,Entgelte,23614.557699999998,25791.88,UR,2022
+HRM2_neu_ER0043,43,Verschiedene Erträge,767.4411600000001,742.4,UR,2022
+HRM2_neu_ER0045,45,Entnahmen aus Fonds und Spezialfinanzierungen,2572.00557,6149.5,UR,2022
+HRM2_ER0046,46,Transferertrag,194633.40112,200658.509,UR,2022
+HRM2_ER0047,47,Durchlaufende Beiträge,29797.2127,29620.0,UR,2022
+HRM2_ER0049,49,Interne Verrechnungen,24794.98919,25431.64,UR,2022
+HRM2_neu_ER0034,34,Finanzaufwand,927.39909,1350.0,UR,2022
+HRM2_neu_ER0044,44,Finanzertrag,13171.807789999999,12901.52,UR,2022
+HRM2_neu_ER0038,38,Ausserordentlicher Aufwand,0.0,0.0,UR,2022
+HRM2_neu_ER0048,48,Ausserordentlicher Ertrag,0.0,0.0,UR,2022
+HRM2_IR0050,50,Sachanlagen,58555.91481,73273.0,UR,2022
+HRM2_IR0051,51,Investitionen auf Rechnung Dritter,68.0,0.0,UR,2022
+HRM2_IR0052,52,Immaterielle Anlagen,1202.722,2217.7,UR,2022
+HRM2_IR0054,54,Darlehen,6091.5274,3832.793,UR,2022
+HRM2_IR0055,55,Beteiligungen und Grundkapitalien,0.0,0.0,UR,2022
+HRM2_IR0056,56,Eigene Investitionsbeiträge,7176.84455,8779.4,UR,2022
+HRM2_IR0057,57,Durchlaufende Investitionsbeiträge,2907.1241,1725.5,UR,2022
+HRM2_neu_IR0058,58,Ausserordentliche Investitionen,0.0,0.0,UR,2022
+HRM2_IR0060,60,Übertragung von Sachanlagen in das FV,29.0,232.0,UR,2022
+HRM2_IR0061,61,Rückerstattungen Dritter für Investitionen,68.0,0.0,UR,2022
+HRM2_IR0062,62,Abgang immaterielle Anlagen,0.0,0.0,UR,2022
+HRM2_IR0063,63,Investitionsbeiträge für eigene Rechnung,22290.10796,32380.72,UR,2022
+HRM2_IR0064,64,Rückzahlung von Darlehen,6372.905900000001,3902.793,UR,2022
+HRM2_IR0065,65,Übertragung von Beteiligungen,0.0,0.0,UR,2022
+HRM2_IR0066,66,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,UR,2022
+HRM2_IR0067,67,Durchlaufende Investitionsbeiträge,2907.1241,1725.5,UR,2022
+HRM2_neu_IR0068,68,Ausserordentliche Investitionseinnahmen,0.0,0.0,UR,2022
+HRM2_BI0010,10,Finanzvermögen,168706.33623000002,139849.28014,UR,2022
+HRM2_BI0014,14,Verwaltungsvermögen,457022.49750999996,505625.09658,UR,2022
+HRM2_BI0020,20,Fremdkapital,337260.54082,403820.33744000003,UR,2022
+HRM2_BI0029,29,Eigenkapital,288468.29292000004,241654.03927999994,UR,2022
+HRM2_ER0030,30,Charges de personnel,2669600.8,2780493.2,VD,2022
+HRM2_ER0031,31,Charges de biens et services et autres charges d'exploitation,749076.9,762133.1,VD,2022
+HRM2_neu_ER0033,33,Amortissements du patrimoine administratif,184990.8,217926.5,VD,2022
+HRM2_neu_ER0035,35,Attributions aux fonds et financements spéciaux,117239.9,36159.7,VD,2022
+HRM2_ER0036,36,Charges de transfert,6567327.8,6624961.5,VD,2022
+HRM2_ER0037,37,Subventions à redistribuer,640437.0,633591.1,VD,2022
+HRM2_ER0039,39,Imputations internes,4475.8,5017.0,VD,2022
+HRM2_neu_ER0040,40,Revenus fiscaux,6750401.1,6352674.0,VD,2022
+HRM2_ER0041,41,Patentes et concessions,419992.1,229321.7,VD,2022
+HRM2_ER0042,42,Taxes,471080.0,453804.8,VD,2022
+HRM2_neu_ER0043,43,Revenus divers,57226.8,186940.0,VD,2022
+HRM2_neu_ER0045,45,Prélèvements sur les fonds et financements spéciaux,56189.2,60190.3,VD,2022
+HRM2_ER0046,46,Revenus de transferts,2657857.2,2614239.8,VD,2022
+HRM2_ER0047,47,Subventions à redistribuer,640437.0,633591.1,VD,2022
+HRM2_ER0049,49,Imputations internes,4475.8,5017.0,VD,2022
+HRM2_neu_ER0034,34,Charges financières,31159.1,19482.0,VD,2022
+HRM2_neu_ER0044,44,Revenus financiers,320692.6,314366.4,VD,2022
+HRM2_neu_ER0038,38,Charges extraordinaires,681284.2,0.0,VD,2022
+HRM2_neu_ER0048,48,Revenus extraordinaires,371499.4,0.0,VD,2022
+HRM2_IR0050,50,Immobilisations corporelles,297691.5,587323.6,VD,2022
+HRM2_IR0051,51,Investissements pour le compte de tiers,2730.3,0.0,VD,2022
+HRM2_IR0052,52,Immobilisations incorporelles,68701.3,0.0,VD,2022
+HRM2_IR0054,54,Prêts,6551.5,0.0,VD,2022
+HRM2_IR0055,55,Participations et capital social,50.0,0.0,VD,2022
+HRM2_IR0056,56,Propres subventions d'investissement,93072.9,0.0,VD,2022
+HRM2_IR0057,57,Subventions d'investissements à redistribuer,8944.8,0.0,VD,2022
+HRM2_neu_IR0058,58,Investissements extraordinaires,0.0,0.0,VD,2022
+HRM2_IR0060,60,Transfert d'immobilisations corporelles dans le patrimoine financier,0.0,49653.9,VD,2022
+HRM2_IR0061,61,Remboursements pour les investissements sur le compte des tiers,2730.3,0.0,VD,2022
+HRM2_IR0062,62,Vente d'immobilisations incorporelles,0.0,0.0,VD,2022
+HRM2_IR0063,63,Subventions d'investissements acquises,41622.9,0.0,VD,2022
+HRM2_IR0064,64,Remboursement de prêts,22313.7,0.0,VD,2022
+HRM2_IR0065,65,Transfert de participations,0.0,0.0,VD,2022
+HRM2_IR0066,66,Remboursement de propres subventions d'investissement,0.0,0.0,VD,2022
+HRM2_IR0067,67,Subventions d'investissements à redistribuer,8944.8,0.0,VD,2022
+HRM2_neu_IR0068,68,Recettes d'investissement extraordinaires,0.0,0.0,VD,2022
+HRM2_BI0010,10,Patrimoine Financier,8401924.200000001,0.0,VD,2022
+HRM2_BI0014,14,Patrimoine administratif,2014092.3,0.0,VD,2022
+HRM2_BI0020,20,Capitaux de tiers,5505683.9,0.0,VD,2022
+HRM2_BI0029,29,Capital propre,4910332.6,0.0,VD,2022
+HRM2_ER0030,30,Personalaufwand,1044878.22206,1088551.5,VS,2022
+HRM2_ER0031,31,Sach- und übriger Betriebsaufwand,411052.19293,433590.9,VS,2022
+HRM2_neu_ER0033,33,Abschreibungen VV,67823.166,65152.1,VS,2022
+HRM2_neu_ER0035,35,Einlagen in Fonds und Spezialfinanzierungen,143873.31603,137249.8,VS,2022
+HRM2_ER0036,36,Transferaufwand,2023565.49422,1971237.6,VS,2022
+HRM2_ER0037,37,Durchlaufende Beiträge,203122.0316,203563.0,VS,2022
+HRM2_ER0039,39,Interne Verrechungen,129964.24869,142110.6,VS,2022
+HRM2_neu_ER0040,40,Fiskalertrag,1557287.96651,1458775.4,VS,2022
+HRM2_ER0041,41,Regalien und Konzessionen,207530.63247,150290.0,VS,2022
+HRM2_ER0042,42,Entgelte,262260.67257,269362.1,VS,2022
+HRM2_neu_ER0043,43,Verschiedene Erträge,11218.83649,9614.6,VS,2022
+HRM2_neu_ER0045,45,Entnahmen aus Fonds und Spezialfinanzierungen,111039.29373,151046.9,VS,2022
+HRM2_ER0046,46,Transferertrag,1681596.29482,1723416.8,VS,2022
+HRM2_ER0047,47,Durchlaufende Beiträge,203122.0316,203563.0,VS,2022
+HRM2_ER0049,49,Interne Verrechnungen,129964.24869,142110.6,VS,2022
+HRM2_neu_ER0034,34,Finanzaufwand,67034.41953,67002.4,VS,2022
+HRM2_neu_ER0044,44,Finanzertrag,93361.47943,80090.2,VS,2022
+HRM2_neu_ER0038,38,Ausserordentlicher Aufwand,156125.79346,124477.1,VS,2022
+HRM2_neu_ER0048,48,Ausserordentlicher Ertrag,46311.75959,68302.3,VS,2022
+HRM2_IR0050,50,Sachanlagen,252425.59716,300832.9,VS,2022
+HRM2_IR0051,51,Investitionen auf Rechnung Dritter,0.0,0.0,VS,2022
+HRM2_IR0052,52,Immaterielle Anlagen,11645.24621,18639.9,VS,2022
+HRM2_IR0054,54,Darlehen,35887.078,53709.8,VS,2022
+HRM2_IR0055,55,Beteiligungen und Grundkapitalien,1.0,0.0,VS,2022
+HRM2_IR0056,56,Eigene Investitionsbeiträge,171079.87495,191141.9,VS,2022
+HRM2_IR0057,57,Durchlaufende Investitionsbeiträge,12622.47875,19000.0,VS,2022
+HRM2_neu_IR0058,58,Ausserordentliche Investitionen,0.0,0.0,VS,2022
+HRM2_IR0060,60,Übertragung von Sachanlagen in das FV,109.966,0.0,VS,2022
+HRM2_IR0061,61,Rückerstattungen Dritter für Investitionen,0.0,0.0,VS,2022
+HRM2_IR0062,62,Abgang immaterielle Anlagen,0.0,0.0,VS,2022
+HRM2_IR0063,63,Investitionsbeiträge für eigene Rechnung,209616.35551,239179.5,VS,2022
+HRM2_IR0064,64,Rückzahlung von Darlehen,34239.54927,34134.7,VS,2022
+HRM2_IR0065,65,Übertragung von Beteiligungen,0.5015,0.0,VS,2022
+HRM2_IR0066,66,Rückzahlung eigener Investitionsbeiträge,730.91665,732.0,VS,2022
+HRM2_IR0067,67,Durchlaufende Investitionsbeiträge,12622.47875,19000.0,VS,2022
+HRM2_neu_IR0068,68,Ausserordentliche Investitionseinnahmen,0.0,0.0,VS,2022
+HRM2_BI0010,10,Finanzvermögen,2906987.6978200004,0.0,VS,2022
+HRM2_BI0014,14,Verwaltungsvermögen,1877480.62237,0.0,VS,2022
+HRM2_BI0020,20,Fremdkapital,3829508.0996100004,0.0,VS,2022
+HRM2_BI0029,29,Eigenkapital,954960.22058,0.0,VS,2022
+HRM2_ER0030,30,Personalaufwand,337380.8,360238.6,ZG,2022
+HRM2_ER0031,31,Sach- und übriger Betriebsaufwand,116685.96,134009.25,ZG,2022
+HRM2_neu_ER0033,33,Abschreibungen VV,63873.996,80405.2,ZG,2022
+HRM2_neu_ER0035,35,Einlagen in Fonds und Spezialfinanzierungen,368.1,62.03,ZG,2022
+HRM2_ER0036,36,Transferaufwand,964185.6,1030424.09,ZG,2022
+HRM2_ER0037,37,Durchlaufende Beiträge,91404.98,94850.6,ZG,2022
+HRM2_ER0039,39,Interne Verrechungen,13952.3,9787.7,ZG,2022
+HRM2_neu_ER0040,40,Fiskalertrag,925031.7,972524.0,ZG,2022
+HRM2_ER0041,41,Regalien und Konzessionen,61231.7,1566.5,ZG,2022
+HRM2_ER0042,42,Entgelte,84745.1,82742.1,ZG,2022
+HRM2_neu_ER0043,43,Verschiedene Erträge,191.1,130.0,ZG,2022
+HRM2_neu_ER0045,45,Entnahmen aus Fonds und Spezialfinanzierungen,6480.4,16836.2,ZG,2022
+HRM2_ER0046,46,Transferertrag,688261.7,729196.7,ZG,2022
+HRM2_ER0047,47,Durchlaufende Beiträge,91404.98,94850.6,ZG,2022
+HRM2_ER0049,49,Interne Verrechnungen,13952.3,9787.7,ZG,2022
+HRM2_neu_ER0034,34,Finanzaufwand,7292.8,1004.048,ZG,2022
+HRM2_neu_ER0044,44,Finanzertrag,55884.3,50494.1,ZG,2022
+HRM2_neu_ER0038,38,Ausserordentlicher Aufwand,0.449,0.0,ZG,2022
+HRM2_neu_ER0048,48,Ausserordentlicher Ertrag,0.0,0.0,ZG,2022
+HRM2_IR0050,50,Sachanlagen,80846.0,99908.96,ZG,2022
+HRM2_IR0051,51,Investitionen auf Rechnung Dritter,0.0,0.0,ZG,2022
+HRM2_IR0052,52,Immaterielle Anlagen,0.0,0.0,ZG,2022
+HRM2_IR0054,54,Darlehen,2309.5,3200.0,ZG,2022
+HRM2_IR0055,55,Beteiligungen und Grundkapitalien,0.0,0.0,ZG,2022
+HRM2_IR0056,56,Eigene Investitionsbeiträge,12626.9,22815.0,ZG,2022
+HRM2_IR0057,57,Durchlaufende Investitionsbeiträge,3145.8,7450.0,ZG,2022
+HRM2_neu_IR0058,58,Ausserordentliche Investitionen,0.0,0.0,ZG,2022
+HRM2_IR0060,60,Übertragung von Sachanlagen in das FV,19.2,0.0,ZG,2022
+HRM2_IR0061,61,Rückerstattungen Dritter für Investitionen,0.0,0.0,ZG,2022
+HRM2_IR0062,62,Abgang immaterielle Anlagen,0.0,0.0,ZG,2022
+HRM2_IR0063,63,Investitionsbeiträge für eigene Rechnung,6711.1,7201.5,ZG,2022
+HRM2_IR0064,64,Rückzahlung von Darlehen,3135.9,3095.0,ZG,2022
+HRM2_IR0065,65,Übertragung von Beteiligungen,0.0,0.0,ZG,2022
+HRM2_IR0066,66,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,ZG,2022
+HRM2_IR0067,67,Durchlaufende Investitionsbeiträge,3145.8,7450.0,ZG,2022
+HRM2_neu_IR0068,68,Ausserordentliche Investitionseinnahmen,0.0,0.0,ZG,2022
+HRM2_BI0010,10,Finanzvermögen,2383292.986,0.0,ZG,2022
+HRM2_BI0014,14,Verwaltungsvermögen,519272.89999999997,0.0,ZG,2022
+HRM2_BI0020,20,Fremdkapital,985739.9900000001,0.0,ZG,2022
+HRM2_BI0029,29,Eigenkapital,1916825.9,0.0,ZG,2022
+HRM2_ER0030,30,Personalaufwand,5986496.39758,6227641.04803,ZH,2022
+HRM2_ER0031,31,Sach- und übriger Betriebsaufwand,3432345.61366,3520616.99559,ZH,2022
+HRM2_neu_ER0033,33,Abschreibungen VV,589693.08896,573729.545,ZH,2022
+HRM2_neu_ER0035,35,Einlagen in Fonds und Spezialfinanzierungen,40737.64011,4082.5,ZH,2022
+HRM2_ER0036,36,Transferaufwand,7736885.73527,7544495.562,ZH,2022
+HRM2_ER0037,37,Durchlaufende Beiträge,254459.49666,245295.7,ZH,2022
+HRM2_ER0039,39,Interne Verrechungen,0.0,0.0,ZH,2022
+HRM2_neu_ER0040,40,Fiskalertrag,7843917.20414,7539410.1,ZH,2022
+HRM2_ER0041,41,Regalien und Konzessionen,838448.387,695793.0,ZH,2022
+HRM2_ER0042,42,Entgelte,3332781.3870900003,3406565.32595,ZH,2022
+HRM2_neu_ER0043,43,Verschiedene Erträge,318766.918,323404.30595,ZH,2022
+HRM2_neu_ER0045,45,Entnahmen aus Fonds und Spezialfinanzierungen,12664.37028,53116.988,ZH,2022
+HRM2_ER0046,46,Transferertrag,5592016.492640001,5401641.998,ZH,2022
+HRM2_ER0047,47,Durchlaufende Beiträge,254459.49664,245295.7,ZH,2022
+HRM2_ER0049,49,Interne Verrechnungen,0.0,0.0,ZH,2022
+HRM2_neu_ER0034,34,Finanzaufwand,75252.64048,81874.95195,ZH,2022
+HRM2_neu_ER0044,44,Finanzertrag,466040.70803,419017.292,ZH,2022
+HRM2_neu_ER0038,38,Ausserordentlicher Aufwand,0.0,0.0,ZH,2022
+HRM2_neu_ER0048,48,Ausserordentlicher Ertrag,0.0,0.0,ZH,2022
+HRM2_IR0050,50,Sachanlagen,873716.9784,913950.787,ZH,2022
+HRM2_IR0051,51,Investitionen auf Rechnung Dritter,21.94095,0.0,ZH,2022
+HRM2_IR0052,52,Immaterielle Anlagen,34348.82705,91152.512,ZH,2022
+HRM2_IR0054,54,Darlehen,13862.4841,23391.8,ZH,2022
+HRM2_IR0055,55,Beteiligungen und Grundkapitalien,734.8,0.0,ZH,2022
+HRM2_IR0056,56,Eigene Investitionsbeiträge,169159.52768,163539.9,ZH,2022
+HRM2_IR0057,57,Durchlaufende Investitionsbeiträge,49016.65658,58059.0,ZH,2022
+HRM2_neu_IR0058,58,Ausserordentliche Investitionen,0.0,0.0,ZH,2022
+HRM2_IR0060,60,Übertragung von Sachanlagen in das FV,1478.6951000000001,100.0,ZH,2022
+HRM2_IR0061,61,Rückerstattungen Dritter für Investitionen,21.94095,0.0,ZH,2022
+HRM2_IR0062,62,Abgang immaterielle Anlagen,0.0,0.0,ZH,2022
+HRM2_IR0063,63,Investitionsbeiträge für eigene Rechnung,50149.72532,82696.6,ZH,2022
+HRM2_IR0064,64,Rückzahlung von Darlehen,54899.46744,32727.255,ZH,2022
+HRM2_IR0065,65,Übertragung von Beteiligungen,26.108,0.0,ZH,2022
+HRM2_IR0066,66,Rückzahlung eigener Investitionsbeiträge,14630.93652,58.0,ZH,2022
+HRM2_IR0067,67,Durchlaufende Investitionsbeiträge,49016.656579999995,58059.0,ZH,2022
+HRM2_neu_IR0068,68,Ausserordentliche Investitionseinnahmen,0.0,0.0,ZH,2022
+HRM2_BI0010,10,Finanzvermögen,8381527.706149999,0.0,ZH,2022
+HRM2_BI0014,14,Verwaltungsvermögen,16432664.834970001,0.0,ZH,2022
+HRM2_BI0020,20,Fremdkapital,12982881.6349,0.0,ZH,2022
+HRM2_BI0029,29,Eigenkapital,11831310.90622,0.0,ZH,2022

@@ -86,14 +86,12 @@ class HRM2Processor(SheetProcessor):
             str(int(base_year) + 1): "Budget y+1",
         }
 
-        # Rename the columns
-        df.columns = [str(col) for col in df.columns]
-        for old_name, new_name in renaming_dict.items():
-            if old_name in df.columns:
-                df.rename(columns={old_name: new_name}, inplace=True)
+        df.columns = df.columns.map(str)
 
-        # Keep only the columns specified in the dictionaries
-        columns_to_keep = list(renaming_dict.values())
-        df = df[columns_to_keep]
+        # Filter out columns not in the renaming dictionary
+        df = df[df.columns.intersection(renaming_dict.keys())]
+
+        # Rename the columns
+        df = df.rename(columns=renaming_dict)
 
         return df

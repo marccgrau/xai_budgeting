@@ -155,15 +155,26 @@ class HRM2Processor2019Plus(SheetProcessor):
     @staticmethod
     def rename_columns_based_on_year(df: pd.DataFrame, base_year: str) -> pd.DataFrame:
         # Define the base renaming dictionary
-        renaming_dict = {
-            "Referenz-ID": "Ref-ID",
-            "HRM 2": "Acc-ID",
-            "in 1 000 Franken": "Name",
-            "en 1 000 frs.": "Name",
-            f"{base_year}": "Budget y",
-            f"{base_year}.3": "Realized",
-            str(int(base_year) + 1): "Budget y+1",
-        }
+        if f"{base_year}.3" in df.columns:
+            renaming_dict = {
+                "Referenz-ID": "Ref-ID",
+                "HRM 2": "Acc-ID",
+                "in 1 000 Franken": "Name",
+                "en 1 000 frs.": "Name",
+                f"{base_year}": "Budget y",
+                f"{base_year}.3": "Realized",
+                str(int(base_year) + 1): "Budget y+1",
+            }
+        else:
+            renaming_dict = {
+                "Referenz-ID": "Ref-ID",
+                "HRM 2": "Acc-ID",
+                "in 1 000 Franken": "Name",
+                "en 1 000 frs.": "Name",
+                f"{base_year}": "Budget y",
+                f"{base_year}.1": "Realized",
+                str(int(base_year) + 1): "Budget y+1",
+            }
 
         df.columns = df.columns.map(str)
 
@@ -176,7 +187,7 @@ class HRM2Processor2019Plus(SheetProcessor):
         return df
 
 
-class HRM2Processor2018(SheetProcessor):
+class HRM2ProcessorTo2018(SheetProcessor):
     def process_sheet(self) -> Tuple[pd.DataFrame, pd.DataFrame]:
         # Read the Excel sheet
         df = pd.read_excel(self.file_path, sheet_name=self.sheet_name, header=1)
@@ -237,6 +248,6 @@ def get_hrm_processor(
     elif hrm_type == "HRM2" and int(current_year) >= 2019:
         return HRM2Processor2019Plus(file_path, sheet_name, region, current_year)
     elif hrm_type == "HRM2" and int(current_year) <= 2018:
-        return HRM2Processor2018(file_path, sheet_name, region, current_year)
+        return HRM2ProcessorTo2018(file_path, sheet_name, region, current_year)
     else:
         raise ValueError(f"Unknown HRM type: {hrm_type}")

@@ -1,6 +1,7 @@
 import re
 from typing import Optional, Tuple
 
+import numpy as np
 import pandas as pd
 
 
@@ -63,7 +64,7 @@ class HRM2Processor(SheetProcessor):
         # Add region and year columns
         df["Region"] = self.region
         df["Year"] = self.current_year
-        df["Slack"] = df["Budget y"] - df["Realized"]
+        df["Slack"] = np.where(df["Budget y"] != 0, df["Budget y"] - df["Realized"], 0)
 
         # Separate into single and double digit DataFrames
         df_single_digit = df[df["Acc-ID"].str.len() == 1].copy()

@@ -1,0 +1,763 @@
+Acc-ID,Name,Budget y,Realized,Budget y+1,Region,Year,Slack
+30,Personalaufwand,5058273.578999999,5100269.19577,5164956.486,ZH,2015,-41995.61677000113
+31,Sach- und übriger Betriebsaufwand,2976696.62825,2943087.0589099997,3012788.307,ZH,2015,33609.569340000395
+36,Transferaufwand,5449901.968,5379964.298850001,5701333.430600001,ZH,2015,69937.6691499995
+37,Durchlaufende Beiträge,663146.64,633555.76825,647813.0,ZH,2015,29590.87175000005
+39,Interne Verrechungen,0,0.0,0.0,ZH,2015,0
+41,Regalien und Konzessionen,191833,326270.55851,199435.0,ZH,2015,-134437.55851
+42,Entgelte,2822631.932,2915289.4748400003,2924971.717,ZH,2015,-92657.54284000024
+46,Transferertrag,3691845,3816645.7476,3817445.00553,ZH,2015,-124800.74759999989
+47,Durchlaufende Beiträge,663146.64,633555.76825,647813.0,ZH,2015,29590.87175000005
+49,Interne Verrechnungen,0,0.0,0.0,ZH,2015,0
+50,Sachanlagen,492810.3,469095.27887,730551.1,ZH,2015,23715.02113000001
+51,Investitionen auf Rechnung Dritter,100,264.791,750.0,ZH,2015,-164.791
+52,Immaterielle Anlagen,46736,37825.898270000005,55511.0,ZH,2015,8910.101729999995
+54,Darlehen,28000,26708.371199999998,30150.0,ZH,2015,1291.6288000000022
+55,Beteiligungen und Grundkapitalien,500000,500090.29567,1023.0,ZH,2015,-90.29567000002135
+56,Eigene Investitionsbeiträge,239633.7,176947.77736,221894.7,ZH,2015,62685.922640000004
+57,Durchlaufende Investitionsbeiträge,32769,38247.5329,34683.0,ZH,2015,-5478.532899999998
+60,Übertragung von Sachanlagen in das FV,210,742.146,100.0,ZH,2015,-532.146
+61,Rückerstattungen Dritter für Investitionen,100,264.791,750.0,ZH,2015,-164.791
+62,Abgang immaterielle Anlagen,0,70.56519999999999,0.0,ZH,2015,0
+63,Investitionsbeiträge für eigene Rechnung,23270.8,26245.49709,34378.0,ZH,2015,-2974.6970900000015
+64,Rückzahlung von Darlehen,78362.7,100269.33734999999,46180.3,ZH,2015,-21906.63734999999
+65,Übertragung von Beteiligungen,0,1.7665,0.0,ZH,2015,0
+66,Rückzahlung eigener Investitionsbeiträge,200,2103.369,200.0,ZH,2015,-1903.3690000000001
+67,Durchlaufende Investitionsbeiträge,32769,38247.5329,34683.0,ZH,2015,-5478.532899999998
+10,Finanzvermögen,0,5896743.7859000005,0.0,ZH,2015,0
+14,Verwaltungsvermögen,0,14483324.69019,0.0,ZH,2015,0
+20,Fremdkapital,0,12002014.357320001,0.0,ZH,2015,0
+29,Eigenkapital,0,8378054.1187700005,0.0,ZH,2015,0
+30,Personalaufwand,3049898.1,3002285.592919999,3074203.7078,BE,2015,47612.50708000129
+31,Sachaufwand,842873.2,784379.65629,800079.09186,BE,2015,58493.54371
+34,Passivzinsen,137595.4,112643.32916,115867.417,BE,2015,24952.07084
+34,"Anteile, Entschädigungen, Beiträge",1433370.725,1479505.4211125,1486683.7830975002,BE,2015,-46134.696112499805
+35,"Anteile, Entschädigungen, Beiträge",1433370.725,1479505.4211125,1486683.7830975002,BE,2015,-46134.696112499805
+36,"Anteile, Entschädigungen, Beiträge",1433370.725,1479505.4211125,1486683.7830975002,BE,2015,-46134.696112499805
+37,"Anteile, Entschädigungen, Beiträge",1433370.725,1479505.4211125,1486683.7830975002,BE,2015,-46134.696112499805
+35,Einlagen in Spezialfinanzierungen/Fonds,4931.7,181318.60090000002,5715.562,BE,2015,-176386.9009
+39,Interne Verrechnungen (Aufwand),108438.9,226609.99550000002,63170.466,BE,2015,-118171.09550000002
+42,Vermögenserträge,160914.9,303358.81539,163163.412,BE,2015,-142443.91539
+41,Konzessionen/Entgelte (Gebühren),414752.9,464819.83952499996,428696.936015,BE,2015,-50066.939524999936
+43,Konzessionen/Entgelte (Gebühren),414752.9,464819.83952499996,428696.936015,BE,2015,-50066.939524999936
+44,"Anteile, Rückerstattungen, Beiträge",1079279.675,1074689.4797475,1110146.63361,BE,2015,4590.195252500009
+45,"Anteile, Rückerstattungen, Beiträge",1079279.675,1074689.4797475,1110146.63361,BE,2015,4590.195252500009
+46,"Anteile, Rückerstattungen, Beiträge",1079279.675,1074689.4797475,1110146.63361,BE,2015,4590.195252500009
+47,"Anteile, Rückerstattungen, Beiträge",1079279.675,1074689.4797475,1110146.63361,BE,2015,4590.195252500009
+45,Entnahme aus Spezialfinanzierungen,168471.7,80266.97455,101147.723,BE,2015,88204.72545000001
+49,Interne Verrechnungen (Ertrag),103910.4,226609.99550000002,64366.9045,BE,2015,-122699.59550000002
+50,Sachgüter,642081.3,535633.28564,558866.164,BE,2015,106448.01436000003
+54,Darlehen und Beteiligungen,13658.9,4311.1708499999995,11300.0,BE,2015,9347.72915
+56,"Investitionsbeiträge,übrige Investitionen",128562.19999999998,105533.88977999998,102642.17766666666,BE,2015,23028.31022
+57,"Investitionsbeiträge,übrige Investitionen",128562.19999999998,105533.88977999998,102642.17766666666,BE,2015,23028.31022
+58,"Investitionsbeiträge,übrige Investitionen",128562.19999999998,105533.88977999998,102642.17766666666,BE,2015,23028.31022
+60,"Abgang Sachgüter, Nutzungsabgaben",155.3,1605.58816,50.0,BE,2015,-1450.28816
+61,"Abgang Sachgüter, Nutzungsabgaben",155.3,1605.58816,50.0,BE,2015,-1450.28816
+62,"Rückzahlung,Rückerstattung,Invest.-Beitr.",72907.53333333333,62245.22168333334,58211.54533333333,BE,2015,10662.311649999989
+63,"Rückzahlung,Rückerstattung,Invest.-Beitr.",72907.53333333333,62245.22168333334,58211.54533333333,BE,2015,10662.311649999989
+64,"Rückzahlung,Rückerstattung,Invest.-Beitr.",72907.53333333333,62245.22168333334,58211.54533333333,BE,2015,10662.311649999989
+65,"Rückzahlung,Rückerstattung,Invest.-Beitr.",72907.53333333333,62245.22168333334,58211.54533333333,BE,2015,10662.311649999989
+66,"Rückzahlung,Rückerstattung,Invest.-Beitr.",72907.53333333333,62245.22168333334,58211.54533333333,BE,2015,10662.311649999989
+67,"Rückzahlung,Rückerstattung,Invest.-Beitr.",72907.53333333333,62245.22168333334,58211.54533333333,BE,2015,10662.311649999989
+30,Personalaufwand,618023.8606,607173.706,605298.611,LU,2015,10850.154600000009
+31,Sach- und übriger Betriebsaufwand,225790.49293,209592.683,219173.821,LU,2015,16197.809930000018
+36,Transferaufwand,1718569.61645,1780433.386,1801093.64,LU,2015,-61863.76954999985
+37,Durchlaufende Beiträge,467009.309,455383.289,471920.674,LU,2015,11626.020000000019
+39,Interne Verrechungen,377628.11705,385438.637,397385.333,LU,2015,-7810.519949999987
+41,Regalien und Konzessionen,22824.0,93080.94,55481.0,LU,2015,-70256.94
+42,Entgelte,206953.78022,208596.838,203937.952,LU,2015,-1643.0577800000028
+46,Transferertrag,1185603.07801,1210190.509,1168593.157,LU,2015,-24587.430990000023
+47,Durchlaufende Beiträge,467009.309,455383.289,471920.674,LU,2015,11626.020000000019
+49,Interne Verrechnungen,377628.11705,385438.637,397385.333,LU,2015,-7810.519949999987
+50,Sachanlagen,143859.407,138324.61248,155404.0,LU,2015,5534.794519999996
+51,Investitionen auf Rechnung Dritter,1300.0,355.4323,1100.0,LU,2015,944.5677000000001
+52,Immaterielle Anlagen,7192.18,3627.71752,9727.58,LU,2015,3564.46248
+54,Darlehen,2430.0,2061.0045,1200.0,LU,2015,368.9955
+55,Beteiligungen und Grundkapitalien,900.0,900.0,0.0,LU,2015,0.0
+56,Eigene Investitionsbeiträge,14867.74,15551.17239,10900.435,LU,2015,-683.4323899999999
+57,Durchlaufende Investitionsbeiträge,14175.0,10124.90905,13275.0,LU,2015,4050.09095
+60,Übertragung von Sachanlagen in das FV,200.0,194.2695,200.0,LU,2015,5.730500000000006
+61,Rückerstattungen Dritter für Investitionen,1300.0,355.4323,1100.0,LU,2015,944.5677000000001
+62,Abgang immaterielle Anlagen,0.0,0.0,0.0,LU,2015,0.0
+63,Investitionsbeiträge für eigene Rechnung,29286.961,29451.29193,31620.936,LU,2015,-164.33093000000008
+64,Rückzahlung von Darlehen,2318.1,2539.0951,2226.2,LU,2015,-220.9951000000001
+65,Übertragung von Beteiligungen,0.0,0.01,0.0,LU,2015,0.0
+66,Rückzahlung eigener Investitionsbeiträge,30.0,8.449,30.0,LU,2015,21.551000000000002
+67,Durchlaufende Investitionsbeiträge,14175.0,10124.90905,13275.0,LU,2015,4050.09095
+10,Finanzvermögen,1494890.2519999999,1471039.3785389997,1401821.452,LU,2015,23850.873461000156
+14,Verwaltungsvermögen,4724673.16003,4701151.63592,4723671.6936800005,LU,2015,23521.52410999965
+20,Fremdkapital,2416853.7769799996,2303629.30045,2374510.00076,LU,2015,113224.47652999964
+29,Eigenkapital,3802709.63505,3868561.70971,3750983.14492,LU,2015,-65852.07465999993
+30,Personalaufwand,103449.6,103272.0,104178.4,UR,2015,177.60000000000582
+31,Sach- und übriger Betriebsaufwand,54853.6,50342.6,54347.8,UR,2015,4511.0
+36,Transferaufwand,189598.3,178370.0,187275.0,UR,2015,11228.299999999988
+37,Durchlaufende Beiträge,32436.5,30871.6,31279.9,UR,2015,1564.9000000000015
+39,Interne Verrechungen,16593.8,16426.7,16257.6,UR,2015,167.09999999999854
+41,Regalien und Konzessionen,34859,36524.3,28640.2,UR,2015,-1665.300000000003
+42,Entgelte,23505,27538.5,23659.6,UR,2015,-4033.5
+46,Transferertrag,205451.7,199271.4,198290.2,UR,2015,6180.3000000000175
+47,Durchlaufende Beiträge,32436.5,30871.6,31279.9,UR,2015,1564.9000000000015
+49,Interne Verrechnungen,16593.8,16426.7,16257.6,UR,2015,167.09999999999854
+50,Sachanlagen,21035,20631.0,25599.0,UR,2015,404.0
+51,Investitionen auf Rechnung Dritter,0,45.0,0.0,UR,2015,0
+52,Immaterielle Anlagen,439.5,449.6,439.5,UR,2015,-10.100000000000023
+54,Darlehen,21937.7,566.8,42737.1,UR,2015,21370.9
+55,Beteiligungen und Grundkapitalien,690,690.0,0.0,UR,2015,0.0
+56,Eigene Investitionsbeiträge,12484,12665.2,10132.5,UR,2015,-181.20000000000073
+57,Durchlaufende Investitionsbeiträge,1970,1693.0,1740.0,UR,2015,277.0
+60,Übertragung von Sachanlagen in das FV,0,,,UR,2015,0
+61,Rückerstattungen Dritter für Investitionen,0,45.0,0.0,UR,2015,0
+62,Abgang immaterielle Anlagen,0,,,UR,2015,0
+63,Investitionsbeiträge für eigene Rechnung,11319.4,11749.9,13740.7,UR,2015,-430.5
+64,Rückzahlung von Darlehen,21849.7,913.2,42732.1,UR,2015,20936.5
+65,Übertragung von Beteiligungen,0,,,UR,2015,0
+66,Rückzahlung eigener Investitionsbeiträge,0,,,UR,2015,0
+67,Durchlaufende Investitionsbeiträge,1970,1693.0,1740.0,UR,2015,277.0
+10,Finanzvermögen,0,185889.9,0.0,UR,2015,0
+14,Verwaltungsvermögen,0,214357.50000000003,0.0,UR,2015,0
+20,Fremdkapital,0,155634.6,0.0,UR,2015,0
+29,Eigenkapital,,244612.8,,UR,2015,
+30,Personalaufwand,0,0,218051.8,SZ,2015,0
+31,Sach- und übriger Betriebsaufwand,0,0,93766.9,SZ,2015,0
+36,Transferaufwand,0,0,878160.9,SZ,2015,0
+37,Durchlaufende Beiträge,0,0,101991.6,SZ,2015,0
+39,Interne Verrechungen,0,0,86329.3,SZ,2015,0
+41,Regalien und Konzessionen,0,0,6518.7,SZ,2015,0
+42,Entgelte,0,0,48405.6,SZ,2015,0
+46,Transferertrag,0,0,414213,SZ,2015,0
+47,Durchlaufende Beiträge,0,0,101991.6,SZ,2015,0
+49,Interne Verrechnungen,0,0,86329.3,SZ,2015,0
+50,Sachanlagen,0,0,75650,SZ,2015,0
+51,Investitionen auf Rechnung Dritter,0,0,0,SZ,2015,0
+52,Immaterielle Anlagen,0,0,0,SZ,2015,0
+54,Darlehen,0,0,0,SZ,2015,0
+55,Beteiligungen und Grundkapitalien,0,0,1650,SZ,2015,0
+56,Eigene Investitionsbeiträge,0,0,0,SZ,2015,0
+57,Durchlaufende Investitionsbeiträge,0,0,0,SZ,2015,0
+60,Übertragung von Sachanlagen in das FV,0,0,0,SZ,2015,0
+61,Rückerstattungen Dritter für Investitionen,0,0,15855,SZ,2015,0
+62,Abgang immaterielle Anlagen,0,0,0,SZ,2015,0
+63,Investitionsbeiträge für eigene Rechnung,0,0,4923,SZ,2015,0
+64,Rückzahlung von Darlehen,0,0,10800,SZ,2015,0
+65,Übertragung von Beteiligungen,0,0,0,SZ,2015,0
+66,Rückzahlung eigener Investitionsbeiträge,0,0,0,SZ,2015,0
+67,Durchlaufende Investitionsbeiträge,0,0,0,SZ,2015,0
+10,Finanzvermögen,0,0,0,SZ,2015,0
+14,Verwaltungsvermögen,0,0,0,SZ,2015,0
+20,Fremdkapital,0,0,0,SZ,2015,0
+29,Eigenkapital,0,0,0,SZ,2015,0
+30,Personalaufwand,55866,55636.0,55971.0,OW,2015,230.0
+31,Sach- und übriger Betriebsaufwand,29009,31838.0,28030.0,OW,2015,-2829.0
+36,Transferaufwand,148985,146532.0,150117.0,OW,2015,2453.0
+37,Durchlaufende Beiträge,40293,39890.0,40967.0,OW,2015,403.0
+39,Interne Verrechungen,22283,22168.0,22396.0,OW,2015,115.0
+41,Regalien und Konzessionen,4622,10778.0,4802.0,OW,2015,-6156.0
+42,Entgelte,18428,18356.0,18270.0,OW,2015,72.0
+46,Transferertrag,86068,85860.0,77205.0,OW,2015,208.0
+47,Durchlaufende Beiträge,40293,39890.0,40967.0,OW,2015,403.0
+49,Interne Verrechnungen,22283,22168.0,22396.0,OW,2015,115.0
+50,Sachanlagen,13356,6889.0,9105.0,OW,2015,6467.0
+51,Investitionen auf Rechnung Dritter,2282,2109.0,1232.0,OW,2015,173.0
+52,Immaterielle Anlagen,1062,536.0,892.0,OW,2015,526.0
+54,Darlehen,787,652.0,1300.0,OW,2015,135.0
+55,Beteiligungen und Grundkapitalien,0,0.0,0.0,OW,2015,0
+56,Eigene Investitionsbeiträge,7202,5638.0,7180.0,OW,2015,1564.0
+57,Durchlaufende Investitionsbeiträge,11663,7052.0,10578.0,OW,2015,4611.0
+60,Übertragung von Sachanlagen in das FV,0,0.0,0.0,OW,2015,0
+61,Rückerstattungen Dritter für Investitionen,6021,2081.0,1795.0,OW,2015,3940.0
+62,Abgang immaterielle Anlagen,0,0.0,0.0,OW,2015,0
+63,Investitionsbeiträge für eigene Rechnung,1356,1152.0,70.0,OW,2015,204.0
+64,Rückzahlung von Darlehen,882,918.0,911.0,OW,2015,-36.0
+65,Übertragung von Beteiligungen,0,0.0,0.0,OW,2015,0
+66,Rückzahlung eigener Investitionsbeiträge,0,0.0,0.0,OW,2015,0
+67,Durchlaufende Investitionsbeiträge,11663,7053.0,10578.0,OW,2015,4610.0
+10,Finanzvermögen,0,175078.0,0.0,OW,2015,0
+14,Verwaltungsvermögen,0,128585.0,0.0,OW,2015,0
+20,Fremdkapital,0,110692.0,0.0,OW,2015,0
+29,Eigenkapital,,192971.0,,OW,2015,
+30,Personalaufwand,76471,74208.1,76608.6,NW,2015,2262.899999999994
+31,Sach- und übriger Betriebsaufwand,28287,27678.8,30447.2,NW,2015,608.2000000000007
+36,Transferaufwand,204654,203535.2,218246.6,NW,2015,1118.7999999999884
+37,Durchlaufende Beiträge,22654,23247.7,23406.5,NW,2015,-593.7000000000007
+39,Interne Verrechungen,31451,31525.6,33411.4,NW,2015,-74.59999999999854
+41,Regalien und Konzessionen,10541,15740.4,12277.0,NW,2015,-5199.4
+42,Entgelte,19221,19140.7,18939.1,NW,2015,80.29999999999927
+46,Transferertrag,87520,100272.8,92053.8,NW,2015,-12752.800000000003
+47,Durchlaufende Beiträge,22654,23247.7,23406.5,NW,2015,-593.7000000000007
+49,Interne Verrechnungen,31451,31525.6,33411.4,NW,2015,-74.59999999999854
+50,Sachanlagen,10849,7208.8,14396.0,NW,2015,3640.2
+51,Investitionen auf Rechnung Dritter,0,0.0,0.0,NW,2015,0
+52,Immaterielle Anlagen,1213,1184.1,1086.0,NW,2015,28.90000000000009
+54,Darlehen,1570,372.8,1127.0,NW,2015,1197.2
+55,Beteiligungen und Grundkapitalien,0,0.0,0.0,NW,2015,0
+56,Eigene Investitionsbeiträge,22825,16060.7,12851.8,NW,2015,6764.299999999999
+57,Durchlaufende Investitionsbeiträge,2580,484.6,1050.0,NW,2015,2095.4
+60,Übertragung von Sachanlagen in das FV,0,0.0,0.0,NW,2015,0
+61,Rückerstattungen Dritter für Investitionen,0,0.0,0.0,NW,2015,0
+62,Abgang immaterielle Anlagen,0,0.0,0.0,NW,2015,0
+63,Investitionsbeiträge für eigene Rechnung,13975,10088.8,12232.0,NW,2015,3886.2000000000007
+64,Rückzahlung von Darlehen,1526,1551.5,1712.5,NW,2015,-25.5
+65,Übertragung von Beteiligungen,0,0.0,0.0,NW,2015,0
+66,Rückzahlung eigener Investitionsbeiträge,0,0.0,0.0,NW,2015,0
+67,Durchlaufende Investitionsbeiträge,2580,484.6,1050.0,NW,2015,2095.4
+10,Finanzvermögen,0,283888.9,264050.4,NW,2015,0
+14,Verwaltungsvermögen,0,335266.3,343103.4,NW,2015,0
+20,Fremdkapital,0,300585.30000000005,331446.8,NW,2015,0
+29,Eigenkapital,,318570.0,275707.0,NW,2015,
+30,Personalaufwand,73666.0,70379.1,74128.4,GL,2015,3286.899999999994
+31,Sach- und übriger Betriebsaufwand,29733.0,28225.9,30150.5,GL,2015,1507.0999999999985
+36,Transferaufwand,177297.0,180371.7,184913.0,GL,2015,-3074.7000000000116
+37,Durchlaufende Beiträge,29325.0,28098.4,30498.3,GL,2015,1226.5999999999985
+39,Interne Verrechungen,10560.0,11103.7,12225.0,GL,2015,-543.7000000000007
+41,Regalien und Konzessionen,13069.0,15323.0,9862.1,GL,2015,-2254.0
+42,Entgelte,39319.0,38010.9,27937.7,GL,2015,1308.0999999999985
+46,Transferertrag,126520.0,128523.4,130870.1,GL,2015,-2003.3999999999942
+47,Durchlaufende Beiträge,29325.0,28098.4,30498.3,GL,2015,1226.5999999999985
+49,Interne Verrechnungen,10560.0,11103.7,12225.1,GL,2015,-543.7000000000007
+50,Sachanlagen,11118.0,15569.0,10515.0,GL,2015,-4451.0
+51,Investitionen auf Rechnung Dritter,0.0,0.0,0.0,GL,2015,0.0
+52,Immaterielle Anlagen,563.0,650.1,1170.0,GL,2015,-87.10000000000002
+54,Darlehen,75.0,1355.5,2050.0,GL,2015,-1280.5
+55,Beteiligungen und Grundkapitalien,0.0,0.0,0.0,GL,2015,0.0
+56,Eigene Investitionsbeiträge,17078.0,15537.7,14797.0,GL,2015,1540.2999999999993
+57,Durchlaufende Investitionsbeiträge,2475.0,3317.8,3275.0,GL,2015,-842.8000000000002
+60,Übertragung von Sachanlagen in das FV,0.0,0.0,0.0,GL,2015,0.0
+61,Rückerstattungen Dritter für Investitionen,0.0,0.0,0.0,GL,2015,0.0
+62,Abgang immaterielle Anlagen,0.0,0.0,0.0,GL,2015,0.0
+63,Investitionsbeiträge für eigene Rechnung,10430.0,7668.1,8448.0,GL,2015,2761.8999999999996
+64,Rückzahlung von Darlehen,410.0,2320.8,1920.0,GL,2015,-1910.8000000000002
+65,Übertragung von Beteiligungen,0.0,34.1,0.0,GL,2015,0.0
+66,Rückzahlung eigener Investitionsbeiträge,0.0,177.7,0.0,GL,2015,0.0
+67,Durchlaufende Investitionsbeiträge,2475.0,3317.8,3275.0,GL,2015,-842.8000000000002
+10,Finanzvermögen,0.0,365685.3,0.0,GL,2015,0.0
+14,Verwaltungsvermögen,0.0,195540.4,0.0,GL,2015,0.0
+20,Fremdkapital,0.0,180150.3,0.0,GL,2015,0.0
+29,Eigenkapital,,381075.9,,GL,2015,
+30,Personalaufwand,322775.14,313719.6,318171.2,ZG,2015,9055.540000000037
+31,Sach- und übriger Betriebsaufwand,106215.53959999999,101396.4,105201.2,ZG,2015,4819.139599999995
+36,Transferaufwand,853050.336,854293.1,861238.8,ZG,2015,-1242.7639999999665
+37,Durchlaufende Beiträge,86329.4,84211.3,84680.4,ZG,2015,2118.0999999999913
+39,Interne Verrechungen,3191.4,2913.3,2135.9,ZG,2015,278.0999999999999
+41,Regalien und Konzessionen,2160.1,21288.7,11818.2,ZG,2015,-19128.600000000002
+42,Entgelte,67028.295,71669.9,70045.8,ZG,2015,-4641.604999999996
+46,Transferertrag,435472.5530000001,425224.8,404658.0,ZG,2015,10247.753000000084
+47,Durchlaufende Beiträge,86329.4,84211.3,84680.4,ZG,2015,2118.0999999999913
+49,Interne Verrechnungen,3191.4,2913.3,2135.9,ZG,2015,278.0999999999999
+50,Sachanlagen,89471,79813.2,110959.0,ZG,2015,9657.800000000003
+51,Investitionen auf Rechnung Dritter,0,0.0,0.0,ZG,2015,0
+52,Immaterielle Anlagen,0,0.0,0.0,ZG,2015,0
+54,Darlehen,3600.0000000000005,4898.2,3900.0,ZG,2015,-1298.1999999999994
+55,Beteiligungen und Grundkapitalien,0,0.0,0.0,ZG,2015,0
+56,Eigene Investitionsbeiträge,5898.3,2889.1,11436.2,ZG,2015,3009.2000000000003
+57,Durchlaufende Investitionsbeiträge,3352.9999999999995,2726.1,1912.0,ZG,2015,626.8999999999996
+60,Übertragung von Sachanlagen in das FV,5,34.5,5.0,ZG,2015,-29.5
+61,Rückerstattungen Dritter für Investitionen,0,132.0,0.0,ZG,2015,0
+62,Abgang immaterielle Anlagen,0,0.0,0.0,ZG,2015,0
+63,Investitionsbeiträge für eigene Rechnung,6682.635,6357.6,7194.0,ZG,2015,325.03499999999985
+64,Rückzahlung von Darlehen,3018,3262.6,8978.0,ZG,2015,-244.5999999999999
+65,Übertragung von Beteiligungen,0,0.0,0.0,ZG,2015,0
+66,Rückzahlung eigener Investitionsbeiträge,0,0.0,0.0,ZG,2015,0
+67,Durchlaufende Investitionsbeiträge,3352.9999999999995,2726.1,1912.0,ZG,2015,626.8999999999996
+10,Finanzvermögen,0,1126686.7,0.0,ZG,2015,0
+14,Verwaltungsvermögen,0,469331.1,0.0,ZG,2015,0
+20,Fremdkapital,0,702759.7999999999,0.0,ZG,2015,0
+29,Eigenkapital,,893258.0,,ZG,2015,
+30,Charges de personnel,1185564.0,1192362.0,1207488.0,FR,2015,-6798.0
+31,Charges de biens et services et autres charges d'exploitation,339790.0,334541.0,344875.0,FR,2015,5249.0
+36,Charges de transfert,1358100.0,1377980.0,1406585.0,FR,2015,-19880.0
+37,Subventions à redistribuer,222979.0,219085.0,219893.0,FR,2015,3894.0
+39,Imputations internes,29322.0,29430.0,28488.0,FR,2015,-108.0
+41,Patentes et concessions,35671.0,86197.0,36018.0,FR,2015,-50526.0
+42,Taxes,221774.0,234779.0,226849.0,FR,2015,-13005.0
+46,Revenus de transferts,1378977.0,1424708.0,1411406.0,FR,2015,-45731.0
+47,Subventions à redistribuer,222979.0,220550.0,219893.0,FR,2015,2429.0
+49,Imputations internes,29322.0,29430.0,28488.0,FR,2015,-108.0
+50,Immobilisations corporelles,112678.0,109369.0,101442.0,FR,2015,3309.0
+51,Investissements pour le compte de tiers,0.0,0.0,0.0,FR,2015,0.0
+52,Immobilisations incorporelles,0.0,0.0,0.0,FR,2015,0.0
+54,Prêts,12399.0,8858.0,11412.0,FR,2015,3541.0
+55,Participations et capital social,1000.0,325.0,1500.0,FR,2015,675.0
+56,Propres subventions d'investissement,39169.0,32914.0,31988.0,FR,2015,6255.0
+57,Subventions d'investissements à redistribuer,20222.0,12884.0,18195.0,FR,2015,7338.0
+60,Transfert d'immobilisations corporelles dans le patrimoine financier,0.0,2079.0,0.0,FR,2015,0.0
+61,Remboursements pour les investissements sur le compte des tiers,0.0,15.0,,FR,2015,0.0
+62,Vente d'immobilisations incorporelles,0.0,0.0,0.0,FR,2015,0.0
+63,Subventions d'investissements acquises,15168.0,10701.0,6103.0,FR,2015,4467.0
+64,Remboursement de prêts,10762.0,11720.0,10539.0,FR,2015,-958.0
+65,Transfert de participations,0.0,0.0,0.0,FR,2015,0.0
+66,Remboursement de propres subventions d'investissement,70.0,103.0,50.0,FR,2015,-33.0
+67,Subventions d'investissements à redistribuer,20222.0,13026.0,18195.0,FR,2015,7196.0
+10,Patrimoine Financier,0.0,2189220.0,0.0,FR,2015,0.0
+14,Patrimoine administratif,0.0,858658.0,0.0,FR,2015,0.0
+20,Capitaux de tiers,0.0,1479054.0,0.0,FR,2015,0.0
+29,Capital propre,,1568824.0,,FR,2015,
+30,Personalaufwand,446249.4,427801.8,438341.6,SO,2015,18447.600000000035
+31,Sach- und übriger Betriebsaufwand,180266.3,178298.5,182555.4,SO,2015,1967.7999999999884
+36,Transferaufwand,1181806.2,1238355.9,1241572.9,SO,2015,-56549.69999999995
+37,Durchlaufende Beiträge,98540.3,90794.1,96468.4,SO,2015,7746.199999999997
+39,Interne Verrechungen,0,0.0,0.0,SO,2015,0
+41,Regalien und Konzessionen,9060.8,52342.0,9512.8,SO,2015,-43281.2
+42,Entgelte,158416.2,169778.3,163857.8,SO,2015,-11362.099999999977
+46,Transferertrag,683567.9,705670.3,744431.9,SO,2015,-22102.400000000023
+47,Durchlaufende Beiträge,98540.3,90794.1,96468.4,SO,2015,7746.199999999997
+49,Interne Verrechnungen,0,0.0,0.0,SO,2015,0
+50,Sachanlagen,153447,117130.7,151355.0,SO,2015,36316.3
+51,Investitionen auf Rechnung Dritter,0,0.0,0.0,SO,2015,0
+52,Immaterielle Anlagen,0,0.0,0.0,SO,2015,0
+54,Darlehen,7900,8478.3,1800.0,SO,2015,-578.2999999999993
+55,Beteiligungen und Grundkapitalien,0,0.0,0.0,SO,2015,0
+56,Eigene Investitionsbeiträge,4285,3389.2,3965.0,SO,2015,895.8000000000002
+57,Durchlaufende Investitionsbeiträge,5300,3728.0,5080.0,SO,2015,1572.0
+60,Übertragung von Sachanlagen in das FV,0,1363.4,0.0,SO,2015,0
+61,Rückerstattungen Dritter für Investitionen,0,0.0,0.0,SO,2015,0
+62,Abgang immaterielle Anlagen,0,0.0,0.0,SO,2015,0
+63,Investitionsbeiträge für eigene Rechnung,31964.6,26336.5,27542.2,SO,2015,5628.0999999999985
+64,Rückzahlung von Darlehen,2534.4,2756.1,2534.4,SO,2015,-221.69999999999982
+65,Übertragung von Beteiligungen,0,0.0,0.0,SO,2015,0
+66,Rückzahlung eigener Investitionsbeiträge,0,0.0,0.0,SO,2015,0
+67,Durchlaufende Investitionsbeiträge,5300,3728.0,5080.0,SO,2015,1572.0
+10,Finanzvermögen,0,985746.3999999999,0.0,SO,2015,0
+14,Verwaltungsvermögen,0,1569911.7000000002,0.0,SO,2015,0
+20,Fremdkapital,0,2481121.6,0.0,SO,2015,0
+29,Eigenkapital,,74536.5,,SO,2015,
+30,Personalaufwand,1213678.255,1214695.11,1611373.178,BS,2015,-1016.8550000002142
+31,Sach- und übriger Betriebsaufwand,429979.899,448928.073,436730.618,BS,2015,-18948.174
+36,Transferaufwand,1946322.794,1864334.485,2507932.183,BS,2015,81988.30899999989
+37,Durchlaufende Beiträge,0,0.0,0.0,BS,2015,0
+39,Interne Verrechungen,263506.453,256219.864,269050.445,BS,2015,7286.588999999978
+41,Regalien und Konzessionen,33715.6,49366.699,17965.6,BS,2015,-15651.099000000002
+42,Entgelte,460943.927,401446.1365,382154.924,BS,2015,59497.7905
+46,Transferertrag,554003.063,599469.79,572550.736,BS,2015,-45466.72700000007
+47,Durchlaufende Beiträge,0,0.0,0.0,BS,2015,0
+49,Interne Verrechnungen,263506.453,256219.864,269050.445,BS,2015,7286.588999999978
+50,Sachanlagen,472377.76,404388.362,445782.626,BS,2015,67989.39799999999
+51,Investitionen auf Rechnung Dritter,0,628.381,0.0,BS,2015,0
+52,Immaterielle Anlagen,100,6325.333,195.0,BS,2015,-6225.333
+54,Darlehen,88000,64996.672,78778.26,BS,2015,23003.328
+55,Beteiligungen und Grundkapitalien,0,100000.0,20760.0,BS,2015,0
+56,Eigene Investitionsbeiträge,0,21274.959,0.0,BS,2015,0
+57,Durchlaufende Investitionsbeiträge,0,0.0,0.0,BS,2015,0
+60,Übertragung von Sachanlagen in das FV,6717.193,9664.747,4327.562,BS,2015,-2947.553999999999
+61,Rückerstattungen Dritter für Investitionen,,628.381,0.0,BS,2015,
+62,Abgang immaterielle Anlagen,,0.0,0.0,BS,2015,
+63,Investitionsbeiträge für eigene Rechnung,20000,28045.82,10100.0,BS,2015,-8045.82
+64,Rückzahlung von Darlehen,57690,61408.254,1500.0,BS,2015,-3718.254000000001
+65,Übertragung von Beteiligungen,,0.0,0.0,BS,2015,
+66,Rückzahlung eigener Investitionsbeiträge,,0.0,0.0,BS,2015,
+67,Durchlaufende Investitionsbeiträge,,0.0,0.0,BS,2015,
+10,Finanzvermögen,0,5105935.40522,0.0,BS,2015,0
+14,Verwaltungsvermögen,0,6160261.66315,0.0,BS,2015,0
+20,Fremdkapital,0,6940659.39751,0.0,BS,2015,0
+29,Eigenkapital,,4325537.67086,,BS,2015,
+30,Personalaufwand,621857.7,612716.9,596036.7,BL,2015,9140.79999999993
+31,Sach- und übriger Betriebsaufwand,243901.5,207169.6,226779.9,BL,2015,36731.899999999994
+36,Transferaufwand,1521046.8,1523905.7,1574555.6,BL,2015,-2858.899999999907
+37,Durchlaufende Beiträge,100111.9,90828.8,85253.1,BL,2015,9283.099999999991
+39,Interne Verrechungen,166.8,196.5,179.1,BL,2015,-29.69999999999999
+41,Regalien und Konzessionen,31059,53523.2,19439,BL,2015,-22464.199999999997
+42,Entgelte,151975.3,139143.9,145595.3,BL,2015,12831.399999999994
+46,Transferertrag,505827.1,472194.8,524064.1,BL,2015,33632.29999999999
+47,Durchlaufende Beiträge,100111.9,90828.8,85253.1,BL,2015,9283.099999999991
+49,Interne Verrechnungen,166.8,196.5,179.1,BL,2015,-29.69999999999999
+50,Sachanlagen,161426,149513.4,187043.8,BL,2015,11912.600000000006
+51,Investitionen auf Rechnung Dritter,0,0.0,0,BL,2015,0
+52,Immaterielle Anlagen,0,0.0,0,BL,2015,0
+54,Darlehen,19940,9580.9,30940,BL,2015,10359.1
+55,Beteiligungen und Grundkapitalien,0,0.0,0,BL,2015,0
+56,Eigene Investitionsbeiträge,63700,33923.7,14550,BL,2015,29776.300000000003
+57,Durchlaufende Investitionsbeiträge,0,0.0,0,BL,2015,0
+60,Übertragung von Sachanlagen in das FV,0,24228.7,0,BL,2015,0
+61,Rückerstattungen Dritter für Investitionen,0,0.0,0,BL,2015,0
+62,Abgang immaterielle Anlagen,0,0.0,0,BL,2015,0
+63,Investitionsbeiträge für eigene Rechnung,41035,19841.9,37390,BL,2015,21193.1
+64,Rückzahlung von Darlehen,0,0.0,0,BL,2015,0
+65,Übertragung von Beteiligungen,0,0.0,0,BL,2015,0
+66,Rückzahlung eigener Investitionsbeiträge,0,470.3,0,BL,2015,0
+67,Durchlaufende Investitionsbeiträge,0,0.0,0,BL,2015,0
+10,Finanzvermögen,0,1821195.9,0,BL,2015,0
+14,Verwaltungsvermögen,0,2209958.5,0,BL,2015,0
+20,Fremdkapital,0,4626134.4,0,BL,2015,0
+29,Eigenkapital,,-594979.9,,BL,2015,
+30,Personalaufwand,172334.2,170690.58737,174335.6,SH,2015,1643.6126300000178
+31,Sachaufwand,61414.1,59086.52689,59494.9,SH,2015,2327.5731099999975
+34,Passivzinsen,3119.2,1925.31005,2862.7,SH,2015,1193.8899499999998
+34,"Anteile, Entschädigungen, Beiträge",96817.57500000001,95821.8887025,97236.7,SH,2015,995.6862975000113
+35,"Anteile, Entschädigungen, Beiträge",96817.57500000001,95821.8887025,97236.7,SH,2015,995.6862975000113
+36,"Anteile, Entschädigungen, Beiträge",96817.57500000001,95821.8887025,97236.7,SH,2015,995.6862975000113
+37,"Anteile, Entschädigungen, Beiträge",96817.57500000001,95821.8887025,97236.7,SH,2015,995.6862975000113
+35,Einlagen in Spezialfinanzierungen/Fonds,12759.0,25304.655,14949.0,SH,2015,-12545.654999999999
+39,Interne Verrechnungen (Aufwand),21576.0,21983.79234,21785.3,SH,2015,-407.79233999999997
+42,Vermögenserträge,59511.7,57259.19656,36867.1,SH,2015,2252.5034400000004
+41,Konzessionen/Entgelte (Gebühren),35437.75,35940.08764,35289.25,SH,2015,-502.3376399999979
+43,Konzessionen/Entgelte (Gebühren),35437.75,35940.08764,35289.25,SH,2015,-502.3376399999979
+44,"Anteile, Rückerstattungen, Beiträge",48968.399999999994,53099.6519025,51671.675,SH,2015,-4131.251902500007
+45,"Anteile, Rückerstattungen, Beiträge",48968.399999999994,53099.6519025,51671.675,SH,2015,-4131.251902500007
+46,"Anteile, Rückerstattungen, Beiträge",48968.399999999994,53099.6519025,51671.675,SH,2015,-4131.251902500007
+47,"Anteile, Rückerstattungen, Beiträge",48968.399999999994,53099.6519025,51671.675,SH,2015,-4131.251902500007
+45,Entnahme aus Spezialfinanzierungen,8327.7,7747.07764,8039.2,SH,2015,580.6223600000003
+49,Interne Verrechnungen (Ertrag),21576.0,21983.79234,21785.3,SH,2015,-407.79233999999997
+50,Sachgüter,14180.0,9520.27414,13420.0,SH,2015,4659.7258600000005
+54,Darlehen und Beteiligungen,60.0,97.1,60.0,SH,2015,-37.099999999999994
+56,"Investitionsbeiträge,übrige Investitionen",6200.0,6091.957676666666,6436.666666666666,SH,2015,108.04232333333402
+57,"Investitionsbeiträge,übrige Investitionen",6200.0,6091.957676666666,6436.666666666666,SH,2015,108.04232333333402
+58,"Investitionsbeiträge,übrige Investitionen",6200.0,6091.957676666666,6436.666666666666,SH,2015,108.04232333333402
+60,"Abgang Sachgüter, Nutzungsabgaben",0.0,0.0,0.0,SH,2015,0.0
+61,"Abgang Sachgüter, Nutzungsabgaben",0.0,0.0,0.0,SH,2015,0.0
+62,"Rückzahlung,Rückerstattung,Invest.-Beitr.",1778.0,980.2373983333333,1292.0333333333333,SH,2015,797.7626016666667
+63,"Rückzahlung,Rückerstattung,Invest.-Beitr.",1778.0,980.2373983333333,1292.0333333333333,SH,2015,797.7626016666667
+64,"Rückzahlung,Rückerstattung,Invest.-Beitr.",1778.0,980.2373983333333,1292.0333333333333,SH,2015,797.7626016666667
+65,"Rückzahlung,Rückerstattung,Invest.-Beitr.",1778.0,980.2373983333333,1292.0333333333333,SH,2015,797.7626016666667
+66,"Rückzahlung,Rückerstattung,Invest.-Beitr.",1778.0,980.2373983333333,1292.0333333333333,SH,2015,797.7626016666667
+67,"Rückzahlung,Rückerstattung,Invest.-Beitr.",1778.0,980.2373983333333,1292.0333333333333,SH,2015,797.7626016666667
+30,Personalaufwand,75701.7,75750.5,74019.7,AR,2015,-48.80000000000291
+31,Sach- und übriger Betriebsaufwand,47107.5,47208.0,43908.2,AR,2015,-100.5
+36,Transferaufwand,237862.2,241452.2,243228.8,AR,2015,-3590.0
+37,Durchlaufende Beiträge,37358,36513.6,36828.0,AR,2015,844.4000000000015
+39,Interne Verrechungen,34240.2,33881.0,35065.5,AR,2015,359.1999999999971
+41,Regalien und Konzessionen,3213.8,3386.4,3365.3,AR,2015,-172.5999999999999
+42,Entgelte,21256.3,21576.5,16127.6,AR,2015,-320.2000000000007
+46,Transferertrag,153278.8,157316.6,154771.4,AR,2015,-4037.8000000000175
+47,Durchlaufende Beiträge,37358,36513.6,36828.0,AR,2015,844.4000000000015
+49,Interne Verrechnungen,34240.2,33181.4,35065.5,AR,2015,1058.7999999999956
+50,Sachanlagen,18990,12892.8,17195.0,AR,2015,6097.200000000001
+51,Investitionen auf Rechnung Dritter,350,0.0,0.0,AR,2015,350.0
+52,Immaterielle Anlagen,3616,3341.5,5744.5,AR,2015,274.5
+54,Darlehen,1120,813.0,1120.0,AR,2015,307.0
+55,Beteiligungen und Grundkapitalien,0,0.0,0.0,AR,2015,0
+56,Eigene Investitionsbeiträge,11667,11167.1,9979.0,AR,2015,499.89999999999964
+57,Durchlaufende Investitionsbeiträge,3098.4,5062.0,4903.0,AR,2015,-1963.6
+60,Übertragung von Sachanlagen in das FV,0,0.0,0.0,AR,2015,0
+61,Rückerstattungen Dritter für Investitionen,0,136.0,0.0,AR,2015,0
+62,Abgang immaterielle Anlagen,0,0.0,0.0,AR,2015,0
+63,Investitionsbeiträge für eigene Rechnung,9190.5,10004.1,5695.0,AR,2015,-813.6000000000004
+64,Rückzahlung von Darlehen,1281.1,1498.7,1100.0,AR,2015,-217.60000000000014
+65,Übertragung von Beteiligungen,0,0.0,0.0,AR,2015,0
+66,Rückzahlung eigener Investitionsbeiträge,0,0.0,0.0,AR,2015,0
+67,Durchlaufende Investitionsbeiträge,3098.4,5062.0,4903.0,AR,2015,-1963.6
+10,Finanzvermögen,0,176731.4,0.0,AR,2015,0
+14,Verwaltungsvermögen,0,252740.50000000003,0.0,AR,2015,0
+20,Fremdkapital,0,252219.8,0.0,AR,2015,0
+29,Eigenkapital,,177252.0,,AR,2015,
+30,Personalaufwand,22961.5,22673.4,23750.5,AI,2015,288.09999999999854
+31,Sach- und übriger Betriebsaufwand,16270.7,13597.6,16026.2,AI,2015,2673.1000000000004
+36,Transferaufwand,72441.6,75826.3,73292.3,AI,2015,-3384.699999999997
+37,Durchlaufende Beiträge,22991.0,23135.8,22531,AI,2015,-144.79999999999927
+39,Interne Verrechungen,7573.0,7808.7,8018,AI,2015,-235.69999999999982
+41,Regalien und Konzessionen,2312.0,3658.1,2372,AI,2015,-1346.1
+42,Entgelte,11047.0,12947.7,11645.5,AI,2015,-1900.7000000000007
+46,Transferertrag,43922.0,46577.1,42867.5,AI,2015,-2655.0999999999985
+47,Durchlaufende Beiträge,22991.0,23135.8,22531,AI,2015,-144.79999999999927
+49,Interne Verrechnungen,7573.0,7808.7,8018,AI,2015,-235.69999999999982
+50,Sachanlagen,20161.0,10637.3,17765,AI,2015,9523.7
+51,Investitionen auf Rechnung Dritter,0.0,0.0,0,AI,2015,0.0
+52,Immaterielle Anlagen,13.0,0.0,0,AI,2015,13.0
+54,Darlehen,0.0,69.5,0,AI,2015,0.0
+55,Beteiligungen und Grundkapitalien,0.0,0.0,0,AI,2015,0.0
+56,Eigene Investitionsbeiträge,4200.0,2619.2,3210,AI,2015,1580.8000000000002
+57,Durchlaufende Investitionsbeiträge,0.0,0.0,0,AI,2015,0.0
+60,Übertragung von Sachanlagen in das FV,0.0,0.0,0,AI,2015,0.0
+61,Rückerstattungen Dritter für Investitionen,250.0,8.7,250,AI,2015,241.3
+62,Abgang immaterielle Anlagen,0.0,0.0,0,AI,2015,0.0
+63,Investitionsbeiträge für eigene Rechnung,950.0,1711.1,955,AI,2015,-761.0999999999999
+64,Rückzahlung von Darlehen,0.0,111.5,0,AI,2015,0.0
+65,Übertragung von Beteiligungen,0.0,0.0,0,AI,2015,0.0
+66,Rückzahlung eigener Investitionsbeiträge,498.0,1330.4,975,AI,2015,-832.4000000000001
+67,Durchlaufende Investitionsbeiträge,0.0,0.0,0,AI,2015,0.0
+10,Finanzvermögen,0.0,139989.9,0,AI,2015,0.0
+14,Verwaltungsvermögen,0.0,46485.8,0,AI,2015,0.0
+20,Fremdkapital,0.0,64098.2,0,AI,2015,0.0
+29,Eigenkapital,0.0,122377.4,,AI,2015,0.0
+30,Personalaufwand,704988.3,698368.8,719003.0,SG,2015,6619.5
+31,Sach- und übriger Betriebsaufwand,439659.6,428279.0,439972.9,SG,2015,11380.599999999977
+36,Transferaufwand,2639610.3,2668243.2,2755017.0,SG,2015,-28632.900000000373
+37,Durchlaufende Beiträge,256012.4,248194.7,233866.7,SG,2015,7817.6999999999825
+39,Interne Verrechungen,479393.1,451179.6,564568.5,SG,2015,28213.5
+41,Regalien und Konzessionen,37030.5,120862.9,57685.5,SG,2015,-83832.4
+42,Entgelte,284087.3,302917.3,285481.9,SG,2015,-18830.0
+46,Transferertrag,1335035.1,1365923.0,1384761.6,SG,2015,-30887.899999999907
+47,Durchlaufende Beiträge,256012.4,248194.7,233866.7,SG,2015,7817.6999999999825
+49,Interne Verrechnungen,479393.1,451179.6,564568.5,SG,2015,28213.5
+50,Sachanlagen,268920,151149.7,263550.0,SG,2015,117770.29999999999
+51,Investitionen auf Rechnung Dritter,0,0.0,0.0,SG,2015,0
+52,Immaterielle Anlagen,13108,19450.9,10019.0,SG,2015,-6342.9000000000015
+54,Darlehen,101152,6544.7,35699.0,SG,2015,94607.3
+55,Beteiligungen und Grundkapitalien,0,0.0,0.0,SG,2015,0
+56,Eigene Investitionsbeiträge,17232.5,13418.6,11428.1,SG,2015,3813.8999999999996
+57,Durchlaufende Investitionsbeiträge,0,3240.9,0.0,SG,2015,0
+60,Übertragung von Sachanlagen in das FV,68640,72.1,0.0,SG,2015,68567.9
+61,Rückerstattungen Dritter für Investitionen,5186.7,4969.4,3992.4,SG,2015,217.30000000000018
+62,Abgang immaterielle Anlagen,,0.0,0.0,SG,2015,
+63,Investitionsbeiträge für eigene Rechnung,33658.1,23810.0,30143.7,SG,2015,9848.099999999999
+64,Rückzahlung von Darlehen,18032.1,19082.3,20310.2,SG,2015,-1050.2000000000007
+65,Übertragung von Beteiligungen,,0.0,0.0,SG,2015,
+66,Rückzahlung eigener Investitionsbeiträge,,0.0,0.0,SG,2015,
+67,Durchlaufende Investitionsbeiträge,,3240.9,0.0,SG,2015,
+10,Finanzvermögen,0,2161255.9000000004,0.0,SG,2015,0
+14,Verwaltungsvermögen,0,1063774.4,0.0,SG,2015,0
+20,Fremdkapital,0,2236314.9000000004,0.0,SG,2015,0
+29,Eigenkapital,,988715.4,,SG,2015,
+30,Personalaufwand,364910.0,358814.1,368251.0,GR,2015,6095.900000000023
+31,Sach- und übriger Betriebsaufwand,307620.0,287873.7,307645.0,GR,2015,19746.29999999999
+36,Transferaufwand,1185060.0,1145355.7,1119431.0,GR,2015,39704.30000000005
+37,Durchlaufende Beiträge,421975.0,430993.8,348960.0,GR,2015,-9018.799999999988
+39,Interne Verrechungen,153216.0,153866.3,184679.0,GR,2015,-650.2999999999884
+41,Regalien und Konzessionen,68830.0,104988.7,70620.0,GR,2015,-36158.7
+42,Entgelte,165221.0,173028.5,162653.0,GR,2015,-7807.5
+46,Transferertrag,795217.0,795326.5,688217.0,GR,2015,-109.5
+47,Durchlaufende Beiträge,421975.0,430993.8,348960.0,GR,2015,-9018.799999999988
+49,Interne Verrechnungen,153216.0,153866.3,184679.0,GR,2015,-650.2999999999884
+50,Sachanlagen,188979.0,170938.6,187810.0,GR,2015,18040.399999999994
+51,Investitionen auf Rechnung Dritter,0.0,0.0,0.0,GR,2015,0.0
+52,Immaterielle Anlagen,10893.0,5864.0,8826.0,GR,2015,5029.0
+54,Darlehen,16890.0,5212.2,16460.0,GR,2015,11677.8
+55,Beteiligungen und Grundkapitalien,0.0,0.0,0.0,GR,2015,0.0
+56,Eigene Investitionsbeiträge,123508.0,112645.5,160049.0,GR,2015,10862.5
+57,Durchlaufende Investitionsbeiträge,97472.0,121059.8,27109.0,GR,2015,-23587.800000000003
+60,Übertragung von Sachanlagen in das FV,0.0,1305.9,0.0,GR,2015,0.0
+61,Rückerstattungen Dritter für Investitionen,7400.0,4372.0,5710.0,GR,2015,3028.0
+62,Abgang immaterielle Anlagen,0.0,0.0,0.0,GR,2015,0.0
+63,Investitionsbeiträge für eigene Rechnung,119914.0,121717.1,114905.0,GR,2015,-1803.1000000000058
+64,Rückzahlung von Darlehen,4914.0,3762.3,4875.0,GR,2015,1151.6999999999998
+65,Übertragung von Beteiligungen,0.0,0.0,0.0,GR,2015,0.0
+66,Rückzahlung eigener Investitionsbeiträge,373.0,223.7,430.0,GR,2015,149.3
+67,Durchlaufende Investitionsbeiträge,97472.0,121059.8,27109.0,GR,2015,-23587.800000000003
+10,Finanzvermögen,0.0,2698830.4,0.0,GR,2015,0.0
+14,Verwaltungsvermögen,0.0,1017156.7,0.0,GR,2015,0.0
+20,Fremdkapital,0.0,1389833.9,0.0,GR,2015,0.0
+29,Eigenkapital,,2326153.2,,GR,2015,
+30,Personalaufwand,1607797.012,1628166.021,1614778.712,AG,2015,-20369.008999999845
+31,Sach- und übriger Betriebsaufwand,371422.081,404408.708,400961.178,AG,2015,-32986.62699999998
+36,Transferaufwand,2302243.507,2337764.43,2357274.257,AG,2015,-35520.92299999995
+37,Durchlaufende Beiträge,294824.6,267663.949,265638.6,AG,2015,27160.650999999954
+39,Interne Verrechungen,227074.1,220910.747,205689.05,AG,2015,6163.353000000003
+41,Regalien und Konzessionen,233395.0,179322.808,73443.0,AG,2015,54072.19200000001
+42,Entgelte,280702.02,316691.875,307965.96,AG,2015,-35989.85499999998
+46,Transferertrag,1534069.88433,1558646.04,1607134.893,AG,2015,-24576.155670000007
+47,Durchlaufende Beiträge,294824.6,267663.949,265638.6,AG,2015,27160.650999999954
+49,Interne Verrechnungen,227074.1,220910.747,205689.05,AG,2015,6163.353000000003
+50,Sachanlagen,287211.862,224841.276,251933.5,AG,2015,62370.58600000001
+51,Investitionen auf Rechnung Dritter,0.0,985.062,400.0,AG,2015,0.0
+52,Immaterielle Anlagen,0.0,0.0,0.0,AG,2015,0.0
+54,Darlehen,0.0,0.0,0.0,AG,2015,0.0
+55,Beteiligungen und Grundkapitalien,0.0,0.0,0.0,AG,2015,0.0
+56,Eigene Investitionsbeiträge,30663.648,40337.226,32694.44,AG,2015,-9673.578000000001
+57,Durchlaufende Investitionsbeiträge,4172.0,2692.659,5230.0,AG,2015,1479.341
+60,Übertragung von Sachanlagen in das FV,5669.0,7476.204,962.309,AG,2015,-1807.2039999999997
+61,Rückerstattungen Dritter für Investitionen,0.0,985.062,400.0,AG,2015,0.0
+62,Abgang immaterielle Anlagen,0.0,0.0,0.0,AG,2015,0.0
+63,Investitionsbeiträge für eigene Rechnung,94613.69,93822.136,112288.535,AG,2015,791.5540000000037
+64,Rückzahlung von Darlehen,0.0,0.0,0.0,AG,2015,0.0
+65,Übertragung von Beteiligungen,0.0,0.0,0.0,AG,2015,0.0
+66,Rückzahlung eigener Investitionsbeiträge,0.0,316.544,362.5,AG,2015,0.0
+67,Durchlaufende Investitionsbeiträge,4172.0,2692.659,5230.0,AG,2015,1479.341
+10,Finanzvermögen,0.0,1372413.7621,0.0,AG,2015,0.0
+14,Verwaltungsvermögen,0.0,1989123.30299,0.0,AG,2015,0.0
+20,Fremdkapital,0.0,3008346.5310899997,0.0,AG,2015,0.0
+29,Eigenkapital,,353190.53484000004,,AG,2015,
+30,Personalaufwand,377622,377003.0,383090,TG,2015,619.0
+31,Sach- und übriger Betriebsaufwand,159773,156889.0,164382,TG,2015,2884.0
+36,Transferaufwand,937740,944051.0,991266,TG,2015,-6311.0
+37,Durchlaufende Beiträge,286104,278103.0,297532,TG,2015,8001.0
+39,Interne Verrechungen,151835,149636.0,151277,TG,2015,2199.0
+41,Regalien und Konzessionen,34630,57654.0,35247,TG,2015,-23024.0
+42,Entgelte,143338,147184.0,147980,TG,2015,-3846.0
+46,Transferertrag,472065,479283.0,472984,TG,2015,-7218.0
+47,Durchlaufende Beiträge,286104,278103.0,297532,TG,2015,8001.0
+49,Interne Verrechnungen,151835,149636.0,151277,TG,2015,2199.0
+50,Sachanlagen,79925,66738.0,83593,TG,2015,13187.0
+51,Investitionen auf Rechnung Dritter,0,0.0,0,TG,2015,0
+52,Immaterielle Anlagen,0,0.0,0,TG,2015,0
+54,Darlehen,700,165.0,700,TG,2015,535.0
+55,Beteiligungen und Grundkapitalien,0,0.0,0,TG,2015,0
+56,Eigene Investitionsbeiträge,17188,16968.0,18080,TG,2015,220.0
+57,Durchlaufende Investitionsbeiträge,4270,1612.0,3214,TG,2015,2658.0
+60,Übertragung von Sachanlagen in das FV,30,106.0,30,TG,2015,-76.0
+61,Rückerstattungen Dritter für Investitionen,0,0.0,0,TG,2015,0
+62,Abgang immaterielle Anlagen,0,0.0,0,TG,2015,0
+63,Investitionsbeiträge für eigene Rechnung,28419,29317.0,31259,TG,2015,-898.0
+64,Rückzahlung von Darlehen,0,0.0,0,TG,2015,0
+65,Übertragung von Beteiligungen,0,0.0,0,TG,2015,0
+66,Rückzahlung eigener Investitionsbeiträge,500,584.0,500,TG,2015,-84.0
+67,Durchlaufende Investitionsbeiträge,4270,1612.0,3214,TG,2015,2658.0
+10,Finanzvermögen,0,869340.0,0,TG,2015,0
+14,Verwaltungsvermögen,0,1051967.0,0,TG,2015,0
+20,Fremdkapital,0,1278518.0,0,TG,2015,0
+29,Eigenkapital,,642789.0,,TG,2015,
+30,Charges de personnel,1000452.21,1000138.10646,996731.05,TI,2015,314.10353999992367
+31,Charges de biens et services et autres charges d'exploitation,269481.91,278554.52562000003,282001.88,TI,2015,-9072.615620000055
+36,Charges de transfert,1809574.67,1806293.5232600006,1834764.81,TI,2015,3281.146739999298
+37,Subventions à redistribuer,119121.22,125037.56760000001,125565.7,TI,2015,-5916.347600000008
+39,Imputations internes,192285.05,208231.52371000007,201229.96,TI,2015,-15946.473710000078
+41,Patentes et concessions,111343.42,175317.35993999997,140504.6,TI,2015,-63973.93993999997
+42,Taxes,246201.11,246295.38764000003,264051.81,TI,2015,-94.2776400000439
+46,Revenus de transferts,860662.55,824863.13056,858908.71,TI,2015,35799.419440000085
+47,Subventions à redistribuer,119121.22,125037.56760000001,125565.7,TI,2015,-5916.347600000008
+49,Imputations internes,192285.05,208231.52371,201229.96,TI,2015,-15946.47371000002
+50,Immobilisations corporelles,173084.0,151188.56186000002,164756.88,TI,2015,21895.438139999984
+51,Investissements pour le compte de tiers,1000.0,1498.18305,510.0,TI,2015,-498.1830500000001
+52,Immobilisations incorporelles,0.0,0.0,0.0,TI,2015,0.0
+54,Prêts,6843.0,3873.48,7363.0,TI,2015,2969.52
+55,Participations et capital social,0.0,11625.0,0.0,TI,2015,0.0
+56,Propres subventions d'investissement,109283.1,105348.22334,119559.87,TI,2015,3934.876660000009
+57,Subventions d'investissements à redistribuer,45942.9,46553.84843,50840.0,TI,2015,-610.9484299999967
+60,Transfert d'immobilisations corporelles dans le patrimoine financier,500.0,583.0551999999999,300.0,TI,2015,-83.0551999999999
+61,Remboursements pour les investissements sur le compte des tiers,1000.0,736.09335,510.0,TI,2015,263.90665
+62,Vente d'immobilisations incorporelles,0.0,0.0,,TI,2015,0.0
+63,Subventions d'investissements acquises,48196.75,40404.8606,49383.75,TI,2015,7791.8894
+64,Remboursement de prêts,11294.3,11914.826519999999,10922.3,TI,2015,-620.5265199999994
+65,Transfert de participations,0.0,0.0,,TI,2015,0.0
+66,Remboursement de propres subventions d'investissement,18600.0,14207.973049999999,20423.5,TI,2015,4392.026950000001
+67,Subventions d'investissements à redistribuer,45942.9,46553.84843,50840.0,TI,2015,-610.9484299999967
+10,Patrimoine Financier,0.0,5206441.60453,0.0,TI,2015,0.0
+14,Patrimoine administratif,0.0,1459418.70593,0.0,TI,2015,0.0
+20,Capitaux de tiers,0.0,7104873.66845,0.0,TI,2015,0.0
+29,Capital propre,,-439013.35799,,TI,2015,
+30,Charges de personnel,2407976.7,2316101.87585,2363614.7,VD,2015,91874.82415000023
+31,Charges de biens et services et autres charges d'exploitation,833525.5,758905.26863,715635.3,VD,2015,74620.23137000005
+36,Charges de transfert,5145509.4,5733385.42958,5252151.4,VD,2015,-587876.0295799999
+37,Subventions à redistribuer,557492.2,556549.85275,564363.2,VD,2015,942.3472499999916
+39,Imputations internes,4407.9,4953.50028,4369.1,VD,2015,-545.6002800000006
+41,Patentes et concessions,37449.4,160511.31269999998,40556.0,VD,2015,-123061.91269999999
+42,Taxes,424701.6,489571.28987,404949.0,VD,2015,-64869.68987
+46,Revenus de transferts,2222246.7,2401050.53172,2115524.2,VD,2015,-178803.83171999967
+47,Subventions à redistribuer,557492.2,556549.85275,564363.2,VD,2015,942.3472499999916
+49,Imputations internes,4408.0,4953.50028,4369.1,VD,2015,-545.5002800000002
+50,Immobilisations corporelles,453049.0,276774.02,463118.0,VD,2015,176274.97999999998
+51,Investissements pour le compte de tiers,0.0,0.0,0.0,VD,2015,0.0
+52,Immobilisations incorporelles,0.0,26249.861,0.0,VD,2015,0.0
+54,Prêts,0.0,24225.858,0.0,VD,2015,0.0
+55,Participations et capital social,0.0,0.0,0.0,VD,2015,0.0
+56,Propres subventions d'investissement,0.0,57828.276,0.0,VD,2015,0.0
+57,Subventions d'investissements à redistribuer,0.0,5925.462,0.0,VD,2015,0.0
+60,Transfert d'immobilisations corporelles dans le patrimoine financier,31575.0,,25188.0,VD,2015,
+61,Remboursements pour les investissements sur le compte des tiers,,,,VD,2015,
+62,Vente d'immobilisations incorporelles,,,,VD,2015,
+63,Subventions d'investissements acquises,,18648.32,,VD,2015,
+64,Remboursement de prêts,,31981.818,,VD,2015,
+65,Transfert de participations,,0.0,,VD,2015,
+66,Remboursement de propres subventions d'investissement,,172.42,,VD,2015,
+67,Subventions d'investissements à redistribuer,,5925.462,,VD,2015,
+10,Patrimoine Financier,0.0,5411117.816459999,0.0,VD,2015,0.0
+14,Patrimoine administratif,0.0,2314305.81395,0.0,VD,2015,0.0
+20,Capitaux de tiers,0.0,5525838.552889999,0.0,VD,2015,0.0
+29,Capital propre,,2199585.07752,,VD,2015,
+30,Charges de personnel,937673.8,934838.7,947241.5,VS,2015,2835.100000000093
+31,"Biens, services et marchandises",222393.0,218973.0,217510.9,VS,2015,3420.0
+34,Intérêts passifs,29506.5,30002.1,30431.7,VS,2015,-495.59999999999854
+34,"Parts, dédommagements, subventions",391808.64999999997,406296.10000000003,408823.375,VS,2015,-14487.45000000007
+35,"Parts, dédommagements, subventions",391808.64999999997,406296.10000000003,408823.375,VS,2015,-14487.45000000007
+36,"Parts, dédommagements, subventions",391808.64999999997,406296.10000000003,408823.375,VS,2015,-14487.45000000007
+37,"Parts, dédommagements, subventions",391808.64999999997,406296.10000000003,408823.375,VS,2015,-14487.45000000007
+35,Attributions aux financements spéciaux,100415.1,75996.8,14705.1,VS,2015,24418.300000000003
+39,Imputations internes,109246.8,113711.5,100965.1,VS,2015,-4464.699999999997
+42,Revenus des biens,91561.6,95870.4,63752.6,VS,2015,-4308.799999999988
+41,Concessions / Contributions,125095.15,146822.2,121839.65,VS,2015,-21727.050000000017
+43,Concessions / Contributions,125095.15,146822.2,121839.65,VS,2015,-21727.050000000017
+44,"Parts, dédommagements, subventions",359549.05,369436.125,373816.42500000005,VS,2015,-9887.075000000012
+45,"Parts, dédommagements, subventions",359549.05,369436.125,373816.42500000005,VS,2015,-9887.075000000012
+46,"Parts, dédommagements, subventions",359549.05,369436.125,373816.42500000005,VS,2015,-9887.075000000012
+47,"Parts, dédommagements, subventions",359549.05,369436.125,373816.42500000005,VS,2015,-9887.075000000012
+45,Prélèvements aux financements spéciaux,110823.4,62990.2,87745.0,VS,2015,47833.2
+49,Imputations internes,109246.8,113711.5,100965.1,VS,2015,-4464.699999999997
+50,Investissements propres,428545.2,333666.6,400596.2,VS,2015,94878.60000000003
+54,Prêts et participations permanentes,45001.9,46468.1,54507.4,VS,2015,-1466.199999999997
+56,"Subventions, autres investissements",46196.23333333334,42149.899999999994,44523.13333333333,VS,2015,4046.333333333343
+57,"Subventions, autres investissements",46196.23333333334,42149.899999999994,44523.13333333333,VS,2015,4046.333333333343
+58,"Subventions, autres investissements",46196.23333333334,42149.899999999994,44523.13333333333,VS,2015,4046.333333333343
+60,Transferts au patrim.financier/Contrib.de tiers,1706.0,4217.4,0.0,VS,2015,-2511.3999999999996
+61,Transferts au patrim.financier/Contrib.de tiers,1706.0,4217.4,0.0,VS,2015,-2511.3999999999996
+62,Remboursements/Subventions,69693.98333333334,52814.61666666667,66453.15,VS,2015,16879.36666666667
+63,Remboursements/Subventions,69693.98333333334,52814.61666666667,66453.15,VS,2015,16879.36666666667
+64,Remboursements/Subventions,69693.98333333334,52814.61666666667,66453.15,VS,2015,16879.36666666667
+65,Remboursements/Subventions,69693.98333333334,52814.61666666667,66453.15,VS,2015,16879.36666666667
+66,Remboursements/Subventions,69693.98333333334,52814.61666666667,66453.15,VS,2015,16879.36666666667
+67,Remboursements/Subventions,69693.98333333334,52814.61666666667,66453.15,VS,2015,16879.36666666667
+30,Charges de personnel,451071.068,451773.48179000005,439751.61623000004,NE,2015,-702.4137900000205
+31,"Biens, services et marchandises",148668.859,137382.14602000001,146452.449,NE,2015,11286.712979999982
+34,Intérêts passifs,31022.78,28447.770190000003,26273.271,NE,2015,2575.009809999996
+34,"Parts, dédommagements, subventions",342057.904,343637.06241,353393.76775,NE,2015,-1579.1584100000327
+35,"Parts, dédommagements, subventions",342057.904,343637.06241,353393.76775,NE,2015,-1579.1584100000327
+36,"Parts, dédommagements, subventions",342057.904,343637.06241,353393.76775,NE,2015,-1579.1584100000327
+37,"Parts, dédommagements, subventions",342057.904,343637.06241,353393.76775,NE,2015,-1579.1584100000327
+35,Attributions aux financements spéciaux,2866.4,32706.11165,1812.7,NE,2015,-29839.711649999997
+39,Imputations internes,77749.154,80913.17248000001,91921.592,NE,2015,-3164.0184800000134
+42,Revenus des biens,58387.2,49019.40541,60979.74,NE,2015,9367.794589999998
+41,Concessions / Contributions,72324.917,73770.414255,73801.1065,NE,2015,-1445.4972549999948
+43,Concessions / Contributions,72324.917,73770.414255,73801.1065,NE,2015,-1445.4972549999948
+44,"Parts, dédommagements, subventions",191062.54425,193720.727725,188967.018,NE,2015,-2658.183474999998
+45,"Parts, dédommagements, subventions",191062.54425,193720.727725,188967.018,NE,2015,-2658.183474999998
+46,"Parts, dédommagements, subventions",191062.54425,193720.727725,188967.018,NE,2015,-2658.183474999998
+47,"Parts, dédommagements, subventions",191062.54425,193720.727725,188967.018,NE,2015,-2658.183474999998
+45,Prélèvements aux financements spéciaux,9236.031,54323.77483,16728.95,NE,2015,-45087.74383
+49,Imputations internes,77749.154,80913.17248,91921.592,NE,2015,-3164.018479999999
+50,Investissements propres,72500.976,55540.025,68426.5,NE,2015,16960.950999999994
+54,Prêts et participations permanentes,8085.0,472.0,7350.0,NE,2015,7613.0
+56,"Subventions, autres investissements",7685.699999999999,4345.443333333333,6807.263333333333,NE,2015,3340.256666666666
+57,"Subventions, autres investissements",7685.699999999999,4345.443333333333,6807.263333333333,NE,2015,3340.256666666666
+58,"Subventions, autres investissements",7685.699999999999,4345.443333333333,6807.263333333333,NE,2015,3340.256666666666
+60,Transferts au patrim.financier/Contrib.de tiers,8371.5,2409.2505,37.5,NE,2015,5962.2495
+61,Transferts au patrim.financier/Contrib.de tiers,8371.5,2409.2505,37.5,NE,2015,5962.2495
+62,Remboursements/Subventions,4979.805833333333,2821.600333333333,5772.574999999999,NE,2015,2158.2055
+63,Remboursements/Subventions,4979.805833333333,2821.600333333333,5772.574999999999,NE,2015,2158.2055
+64,Remboursements/Subventions,4979.805833333333,2821.600333333333,5772.574999999999,NE,2015,2158.2055
+65,Remboursements/Subventions,4979.805833333333,2821.600333333333,5772.574999999999,NE,2015,2158.2055
+66,Remboursements/Subventions,4979.805833333333,2821.600333333333,5772.574999999999,NE,2015,2158.2055
+67,Remboursements/Subventions,4979.805833333333,2821.600333333333,5772.574999999999,NE,2015,2158.2055
+30,Charges de personnel,2330580.254,2295097.82504,2351230.442,GE,2015,35482.428960000165
+31,Charges de biens et services et autres charges d'exploitation,571518.75,821683.03479,570797.134,GE,2015,-250164.28478999995
+36,Charges de transfert,4272419.859,4334429.584229999,4374264.92,GE,2015,-62009.72522999905
+37,Subventions à redistribuer,27308.65,286229.69369,25481.95,GE,2015,-258921.04369
+39,Imputations internes,15588.75,14140.600629999999,15691.03,GE,2015,1448.149370000001
+41,Patentes et concessions,74228.745,111339.38718,68598.745,GE,2015,-37110.64218000001
+42,Taxes,411016.18,451530.89478,442944.49,GE,2015,-40514.71477999998
+46,Revenus de transferts,1019245.953,1011445.0497799999,1015491.493,GE,2015,7800.903220000095
+47,Subventions à redistribuer,27308.65,286229.69369000004,25481.95,GE,2015,-258921.04369000005
+49,Imputations internes,15588.75,14140.600629999999,15691.03,GE,2015,1448.149370000001
+50,Immobilisations corporelles,439181.356,388374.80186,420076.724280374,GE,2015,50806.55414000002
+51,Investissements pour le compte de tiers,0.0,0.0,0,GE,2015,0.0
+52,Immobilisations incorporelles,25282.9,23274.64365,28208.0737196262,GE,2015,2008.2563499999997
+54,Prêts,174400.0,129327.23107,187652.312,GE,2015,45072.768930000006
+55,Participations et capital social,25000.0,23930.909,25000,GE,2015,1069.0910000000003
+56,Propres subventions d'investissement,138387.9,73776.76419,133725.32,GE,2015,64611.13580999999
+57,Subventions d'investissements à redistribuer,0.0,0.0,0,GE,2015,0.0
+60,Transfert d'immobilisations corporelles dans le patrimoine financier,22000.0,117303.4685,,GE,2015,-95303.4685
+61,Remboursements pour les investissements sur le compte des tiers,,,,GE,2015,
+62,Vente d'immobilisations incorporelles,,,,GE,2015,
+63,Subventions d'investissements acquises,40984.0,26166.07273,21367.19,GE,2015,14817.92727
+64,Remboursement de prêts,3562.0,1800.27889,2323.425,GE,2015,1761.72111
+65,Transfert de participations,,,,GE,2015,
+66,Remboursement de propres subventions d'investissement,,,,GE,2015,
+67,Subventions d'investissements à redistribuer,,,,GE,2015,
+10,Patrimoine Financier,0.0,4587563.55247,0,GE,2015,0.0
+14,Patrimoine administratif,0.0,15350731.409500001,0,GE,2015,0.0
+20,Capitaux de tiers,0.0,17262743.590719998,0,GE,2015,0.0
+29,Capital propre,,2675551.371,,GE,2015,
+30,,263646.8,258439.22348,258310.9,JU,2015,5207.576520000002
+31,,75598.1,75114.12362,76405.3,JU,2015,483.97638000000734
+36,,427382.7,415915.39731,431857.3,JU,2015,11467.30269000004
+37,,99064.6,110572.58166,111317.9,JU,2015,-11507.98165999999
+39,,334.5,334.5,334.5,JU,2015,0.0
+41,,4604.2,13891.18409,2083.6,JU,2015,-9286.984090000002
+42,,39552.6,42717.77216,41412.4,JU,2015,-3165.172160000002
+46,,400890.45,384025.98341,388125.7,JU,2015,16864.466590000025
+47,,99064.6,110572.58166,111317.9,JU,2015,-11507.98165999999
+49,,334.5,334.5,334.5,JU,2015,0.0
+50,,31750.5,27171.71092,25518.2,JU,2015,4578.789079999999
+51,,0.0,0.0,0.0,JU,2015,0.0
+52,,0.0,0.0,0.0,JU,2015,0.0
+54,,1396.0,759.545,1213.0,JU,2015,636.455
+55,,150.0,0.0,2500.0,JU,2015,150.0
+56,,10695.0,10514.34385,10567.5,JU,2015,180.6561500000007
+57,,7513.8,7532.79551,10899.1,JU,2015,-18.99550999999974
+60,,0.0,0.0,0.0,JU,2015,0.0
+61,,0.0,48.0,0.0,JU,2015,0.0
+62,,0.0,0.0,0.0,JU,2015,0.0
+63,,2028.3,1618.26801,1591.9,JU,2015,410.03198999999995
+64,,2374.5,2366.10904,2247.5,JU,2015,8.390960000000177
+65,,0.0,0.0,0.0,JU,2015,0.0
+66,,40.0,214.061,40.0,JU,2015,-174.061
+67,,7513.8,7532.79551,10899.1,JU,2015,-18.99550999999974
+10,,0.0,258430.79262,0.0,JU,2015,0.0
+14,,0.0,471912.49191999994,0.0,JU,2015,0.0
+20,,0.0,534102.9926199999,0.0,JU,2015,0.0
+29,,,196240.29192,,JU,2015,

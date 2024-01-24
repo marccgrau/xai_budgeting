@@ -69,6 +69,7 @@ def process_excel_file(
                 and "HRM2" in region_hrm_presence[region]
                 and hrm_type == "HRM1"
             ):
+                logger.info(f"Skipping HRM1 for region: {region}")
                 continue  # Skip HRM1 if both types are present
             processor = get_hrm_processor(
                 hrm_type, file_path, sheet_name, region, current_year

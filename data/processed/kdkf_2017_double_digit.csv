@@ -1,0 +1,755 @@
+Acc-ID,Name,Budget y,Realized,Budget y+1,Region,Year,Slack
+30,Personalaufwand,5233947.216,5240375.77332,5315346.187,ZH,2017,-6428.5573199996725
+31,Sach- und übriger Betriebsaufwand,3085081.573,3035765.80313,3119151.583,ZH,2017,49315.76986999996
+36,Transferaufwand,5821815.486,5872130.3178,6029894.919,ZH,2017,-50314.83180000074
+37,Durchlaufende Beiträge,388318.5,416080.67611,424954.0,ZH,2017,-27762.17611
+39,Interne Verrechungen,0.0,0.0,0.0,ZH,2017,0.0
+41,Regalien und Konzessionen,200526.0,296263.38249,200561.0,ZH,2017,-95737.38248999999
+42,Entgelte,2980075.86,3033338.05931,3013974.072,ZH,2017,-53262.199310000055
+46,Transferertrag,3956742.27342,4174448.12462,4202507.4099200005,ZH,2017,-217705.85119999992
+47,Durchlaufende Beiträge,388329.5,416080.67611,424982.0,ZH,2017,-27751.17611
+49,Interne Verrechnungen,0.0,0.0,0.0,ZH,2017,0.0
+50,Sachanlagen,666411.0,720264.01781,837325.75,ZH,2017,-53853.01780999999
+51,Investitionen auf Rechnung Dritter,0.0,510.5947,1140.0,ZH,2017,0.0
+52,Immaterielle Anlagen,45326.3,28862.04203,38246.0,ZH,2017,16464.257970000002
+54,Darlehen,15900.0,14559.381949999999,14550.0,ZH,2017,1340.618050000001
+55,Beteiligungen und Grundkapitalien,0.0,419.85578000000004,0.0,ZH,2017,0.0
+56,Eigene Investitionsbeiträge,246805.8,209119.51502000002,229216.0,ZH,2017,37686.28497999997
+57,Durchlaufende Investitionsbeiträge,36289.5,32184.803649999998,44797.5,ZH,2017,4104.696350000002
+60,Übertragung von Sachanlagen in das FV,100.0,12574.474279999999,100.0,ZH,2017,-12474.474279999999
+61,Rückerstattungen Dritter für Investitionen,0.0,510.5947,860.0,ZH,2017,0.0
+62,Abgang immaterielle Anlagen,0.0,322.30008000000004,0.0,ZH,2017,0.0
+63,Investitionsbeiträge für eigene Rechnung,39497.0,39506.28741,39912.0,ZH,2017,-9.28740999999718
+64,Rückzahlung von Darlehen,28784.0,58455.98387,22266.5,ZH,2017,-29671.983869999996
+65,Übertragung von Beteiligungen,0.0,13.875,0.0,ZH,2017,0.0
+66,Rückzahlung eigener Investitionsbeiträge,210.0,848.808,210.0,ZH,2017,-638.808
+67,Durchlaufende Investitionsbeiträge,36289.5,32184.803649999998,44797.5,ZH,2017,4104.696350000002
+10,Finanzvermögen,0.0,6354703.88208,0.0,ZH,2017,0.0
+14,Verwaltungsvermögen,0.0,14388340.12434,0.0,ZH,2017,0.0
+20,Fremdkapital,0.0,11790639.18542,0.0,ZH,2017,0.0
+29,Eigenkapital,0.0,8952404.821,0.0,ZH,2017,0.0
+30,Personalaufwand,1592225.468,1594447.25285,1622391.228,AG,2017,-2221.784849999938
+31,Sach- und übriger Betriebsaufwand,410371.34115,378815.15622,406301.6167,AG,2017,31556.18492999999
+36,Transferaufwand,2444318.582,2449828.88484,2505940.886,AG,2017,-5510.3028400000185
+37,Durchlaufende Beiträge,262162.7,280982.41944,273408.973,AG,2017,-18819.719440000015
+39,Interne Verrechungen,205492.0,209250.59652,370297.3,AG,2017,-3758.596519999992
+41,Regalien und Konzessionen,151783.0,162905.57137,270111.0,AG,2017,-11122.57136999999
+42,Entgelte,284368.228,310194.82046,284749.8,AG,2017,-25826.592460000014
+46,Transferertrag,1663537.938,1703889.05618,1673705.673,AG,2017,-40351.11817999999
+47,Durchlaufende Beiträge,262162.7,280982.41944,273408.973,AG,2017,-18819.719440000015
+49,Interne Verrechnungen,205492.0,209250.59652,370297.3,AG,2017,-3758.596519999992
+50,Sachanlagen,222204.2342,198074.27573,218279.1219,AG,2017,24129.958470000012
+51,Investitionen auf Rechnung Dritter,0.0,325.59918,0.0,AG,2017,0.0
+52,Immaterielle Anlagen,0.0,0.0,0.0,AG,2017,0.0
+54,Darlehen,0.0,0.0,0.0,AG,2017,0.0
+55,Beteiligungen und Grundkapitalien,0.0,0.0,0.0,AG,2017,0.0
+56,Eigene Investitionsbeiträge,48269.43,42012.03687,38416.14,AG,2017,6257.393129999997
+57,Durchlaufende Investitionsbeiträge,3900.0,4938.95615,3607.0,AG,2017,-1038.95615
+60,Übertragung von Sachanlagen in das FV,6801.4,6824.94544,1388.8,AG,2017,-23.54544000000078
+61,Rückerstattungen Dritter für Investitionen,0.0,325.59918,0.0,AG,2017,0.0
+62,Abgang immaterielle Anlagen,0.0,0.0,0.0,AG,2017,0.0
+63,Investitionsbeiträge für eigene Rechnung,97683.608,89578.39447,93381.69,AG,2017,8105.213529999994
+64,Rückzahlung von Darlehen,0.0,0.0,0.0,AG,2017,0.0
+65,Übertragung von Beteiligungen,0.0,0.0,0.0,AG,2017,0.0
+66,Rückzahlung eigener Investitionsbeiträge,253.0,3665.69413,715.3,AG,2017,-3412.69413
+67,Durchlaufende Investitionsbeiträge,3900.0,4938.95615,3607.0,AG,2017,-1038.95615
+10,Finanzvermögen,0.0,1597688.49801,0.0,AG,2017,0.0
+14,Verwaltungsvermögen,0.0,1860510.2592299997,0.0,AG,2017,0.0
+20,Fremdkapital,0.0,3136688.57629,0.0,AG,2017,0.0
+29,Eigenkapital,,321510.18094999995,,AG,2017,
+30,Personalaufwand,24598.3,24453.3,25241.3,AI,2017,145.0
+31,Sach- und übriger Betriebsaufwand,15651.7,16996.7,17644.3,AI,2017,-1345.0
+36,Transferaufwand,77064.9,78431.5,78284.9,AI,2017,-1366.6000000000058
+37,Durchlaufende Beiträge,22961.0,23316.3,22854,AI,2017,-355.2999999999993
+39,Interne Verrechungen,8044.0,8389.7,8946.5,AI,2017,-345.7000000000007
+41,Regalien und Konzessionen,2271.0,3311.2,2373,AI,2017,-1040.1999999999998
+42,Entgelte,12405.0,13439.9,12385,AI,2017,-1034.8999999999996
+46,Transferertrag,44034.5,46967.7,45315.5,AI,2017,-2933.199999999997
+47,Durchlaufende Beiträge,22961.0,23316.3,22854,AI,2017,-355.2999999999993
+49,Interne Verrechnungen,8044.0,8389.7,8946.5,AI,2017,-345.7000000000007
+50,Sachanlagen,11910.0,7112.6,15305,AI,2017,4797.4
+51,Investitionen auf Rechnung Dritter,0.0,0.0,0,AI,2017,0.0
+52,Immaterielle Anlagen,0.0,0.0,0,AI,2017,0.0
+54,Darlehen,0.0,43.0,0,AI,2017,0.0
+55,Beteiligungen und Grundkapitalien,0.0,0.0,0,AI,2017,0.0
+56,Eigene Investitionsbeiträge,1390.0,765.4,968,AI,2017,624.6
+57,Durchlaufende Investitionsbeiträge,0.0,0.0,0,AI,2017,0.0
+60,Übertragung von Sachanlagen in das FV,0.0,0.0,0,AI,2017,0.0
+61,Rückerstattungen Dritter für Investitionen,20.0,6.2,0,AI,2017,13.8
+62,Abgang immaterielle Anlagen,0.0,0.0,0,AI,2017,0.0
+63,Investitionsbeiträge für eigene Rechnung,890.0,608.2,725,AI,2017,281.79999999999995
+64,Rückzahlung von Darlehen,0.0,40.2,0,AI,2017,0.0
+65,Übertragung von Beteiligungen,0.0,0.0,0,AI,2017,0.0
+66,Rückzahlung eigener Investitionsbeiträge,1440.0,1074.2,1588,AI,2017,365.79999999999995
+67,Durchlaufende Investitionsbeiträge,0.0,0.0,0,AI,2017,0.0
+10,Finanzvermögen,0.0,134688.2,0,AI,2017,0.0
+14,Verwaltungsvermögen,0.0,58158.2,0,AI,2017,0.0
+20,Fremdkapital,0.0,58412.5,0,AI,2017,0.0
+29,Eigenkapital,0.0,134434.0,0,AI,2017,0.0
+30,Personalaufwand,92589.0,92908.8,93432.2,AR,2017,-319.8000000000029
+31,Sach- und übriger Betriebsaufwand,49081.0,48914.4,47504.9,AR,2017,166.59999999999854
+36,Transferaufwand,240839.0,251041.9,251523.1,AR,2017,-10202.899999999994
+37,Durchlaufende Beiträge,37925.0,39436.0,37108.6,AR,2017,-1511.0
+39,Interne Verrechungen,35694.0,35838.6,37105.1,AR,2017,-144.59999999999854
+41,Regalien und Konzessionen,3158.0,3459.4,3256.3,AR,2017,-301.4000000000001
+42,Entgelte,25660.0,25326.8,25699.1,AR,2017,333.2000000000007
+46,Transferertrag,161720.0,166597.0,162814.7,AR,2017,-4877.0
+47,Durchlaufende Beiträge,37925.0,39436.0,37108.6,AR,2017,-1511.0
+49,Interne Verrechnungen,35694.0,35838.6,37105.1,AR,2017,-144.59999999999854
+50,Sachanlagen,17685.0,16328.3,17995.0,AR,2017,1356.7000000000007
+51,Investitionen auf Rechnung Dritter,0.0,0.0,0.0,AR,2017,0.0
+52,Immaterielle Anlagen,3303.0,2467.3,2431.0,AR,2017,835.6999999999998
+54,Darlehen,1315.0,9413.3,915.0,AR,2017,-8098.299999999999
+55,Beteiligungen und Grundkapitalien,0.0,10.1,0.0,AR,2017,0.0
+56,Eigene Investitionsbeiträge,10079.0,9397.2,7107.0,AR,2017,681.7999999999993
+57,Durchlaufende Investitionsbeiträge,4475.0,4085.7,3988.0,AR,2017,389.3000000000002
+60,Übertragung von Sachanlagen in das FV,0.0,0.0,0.0,AR,2017,0.0
+61,Rückerstattungen Dritter für Investitionen,0.0,0.0,0.0,AR,2017,0.0
+62,Abgang immaterielle Anlagen,0.0,0.0,0.0,AR,2017,0.0
+63,Investitionsbeiträge für eigene Rechnung,5202.0,4660.7,5060.0,AR,2017,541.3000000000002
+64,Rückzahlung von Darlehen,1255.0,3218.5,855.0,AR,2017,-1963.5
+65,Übertragung von Beteiligungen,0.0,50.0,0.0,AR,2017,0.0
+66,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,0.0,AR,2017,0.0
+67,Durchlaufende Investitionsbeiträge,4475.0,4085.7,3988.0,AR,2017,389.3000000000002
+10,Finanzvermögen,160372.0,158461.9,184253.7,AR,2017,1910.1000000000058
+14,Verwaltungsvermögen,268445.0,262918.00000000006,273578.6,AR,2017,5526.999999999942
+20,Fremdkapital,255324.0,270142.4,312724.0,AR,2017,-14818.400000000023
+29,Eigenkapital,173493.0,151237.4,145108.4,AR,2017,22255.600000000006
+30,Personalaufwand,2913001.41437,2911904.0,2959216.0,BE,2017,1097.4143699998967
+31,Sach- und übriger Betriebsaufwand,875601.574,873355.0,901190.0,BE,2017,2246.5740000000224
+36,Transferaufwand,5882246.02844,5905129.0,6058461.0,BE,2017,-22882.971560000442
+37,Durchlaufende Beiträge,581710.5,584535.0,581744.0,BE,2017,-2824.5
+39,Interne Verrechungen,145716.704,198518.0,161049.0,BE,2017,-52801.296
+41,Regalien und Konzessionen,50506.0,149669.0,93676.0,BE,2017,-99163.0
+42,Entgelte,702870.29164,700208.0,699883.0,BE,2017,2662.291639999952
+46,Transferertrag,3952278.58192,4104722.0,4064435.0,BE,2017,-152443.4180800002
+47,Durchlaufende Beiträge,581719.5,584535.0,581744.0,BE,2017,-2815.5
+49,Interne Verrechnungen,148042.14,198518.0,161049.0,BE,2017,-50475.859999999986
+50,Sachanlagen,483399.801,423170.51313,428726.486,BE,2017,60229.28787
+51,Investitionen auf Rechnung Dritter,0.0,0.0,0.0,BE,2017,0.0
+52,Immaterielle Anlagen,4255.0,12565.188769999999,13217.424,BE,2017,-8310.188769999999
+54,Darlehen,15804.474,8425.5048,17925.0,BE,2017,7378.9692
+55,Beteiligungen und Grundkapitalien,0.0,78922.4441,0.0,BE,2017,0.0
+56,Eigene Investitionsbeiträge,170624.652,104405.73805,175183.624,BE,2017,66218.91395
+57,Durchlaufende Investitionsbeiträge,30850.0,22474.68096,31850.0,BE,2017,8375.319039999998
+60,Übertragung von Sachanlagen in das FV,100.0,5909.60466,100.0,BE,2017,-5809.60466
+61,Rückerstattungen Dritter für Investitionen,11754.36,11420.36932,10718.0,BE,2017,333.9906800000008
+62,Abgang immaterielle Anlagen,0.0,0.0,0.0,BE,2017,0.0
+63,Investitionsbeiträge für eigene Rechnung,160783.127,115616.68112000001,115801.15,BE,2017,45166.44588
+64,Rückzahlung von Darlehen,16333.295,20928.32,16300.0,BE,2017,-4595.025
+65,Übertragung von Beteiligungen,0.0,600.0,0.0,BE,2017,0.0
+66,Rückzahlung eigener Investitionsbeiträge,28800.5,7617.44725,22680.0,BE,2017,21183.05275
+67,Durchlaufende Investitionsbeiträge,30850.0,22474.68096,31850.0,BE,2017,8375.319039999998
+10,Finanzvermögen,3281309.5211599995,3970685.0351199997,3822682.7291600006,BE,2017,-689375.5139600001
+14,Verwaltungsvermögen,8877738.25681,8260878.424389999,8563988.6627,BE,2017,616859.8324200008
+20,Fremdkapital,10138591.449440002,11325419.59416,10745803.138319997,BE,2017,-1186828.1447199974
+29,Eigenkapital,2020456.328539999,906143.86535,1640868.2535400027,BE,2017,1114312.463189999
+30,Personalaufwand,599462,583683.4,605414.3,BL,2017,15778.599999999977
+31,Sach- und übriger Betriebsaufwand,230282.5,253336.0,236280.4,BL,2017,-23053.5
+36,Transferaufwand,1624056.6,1650921.3,1621784.5,BL,2017,-26864.699999999953
+37,Durchlaufende Beiträge,82763.4,101505.8,78498.8,BL,2017,-18742.40000000001
+39,Interne Verrechungen,15530.6,113658.9,22421.9,BL,2017,-98128.29999999999
+41,Regalien und Konzessionen,45259.5,65506.9,44994.5,BL,2017,-20247.4
+42,Entgelte,136107.1,131950.8,136651.5,BL,2017,4156.3000000000175
+46,Transferertrag,569548.2,608603.8,546728.4,BL,2017,-39055.60000000009
+47,Durchlaufende Beiträge,82763.4,101505.8,78498.8,BL,2017,-18742.40000000001
+49,Interne Verrechnungen,15530.6,113658.9,22421.9,BL,2017,-98128.29999999999
+50,Sachanlagen,221350,152824.6,229491,BL,2017,68525.4
+51,Investitionen auf Rechnung Dritter,0,0.0,0,BL,2017,0
+52,Immaterielle Anlagen,0,0.0,0,BL,2017,0
+54,Darlehen,45000,37289.37,21770,BL,2017,7710.629999999997
+55,Beteiligungen und Grundkapitalien,3500,39823.6,0,BL,2017,-36323.6
+56,Eigene Investitionsbeiträge,18250,4447.4,25566,BL,2017,13802.6
+57,Durchlaufende Investitionsbeiträge,0,0.0,0,BL,2017,0
+60,Übertragung von Sachanlagen in das FV,0,1363.9,0,BL,2017,0
+61,Rückerstattungen Dritter für Investitionen,700,0.0,192,BL,2017,700.0
+62,Abgang immaterielle Anlagen,0,0.0,0,BL,2017,0
+63,Investitionsbeiträge für eigene Rechnung,27160,15073.8,22090,BL,2017,12086.2
+64,Rückzahlung von Darlehen,0,36610.4,0,BL,2017,0
+65,Übertragung von Beteiligungen,150,300.0,0,BL,2017,-150.0
+66,Rückzahlung eigener Investitionsbeiträge,0,0.0,0,BL,2017,0
+67,Durchlaufende Investitionsbeiträge,0,0.0,0,BL,2017,0
+10,Finanzvermögen,0,2441305.0,0,BL,2017,0
+14,Verwaltungsvermögen,0,2410416.9,0,BL,2017,0
+20,Fremdkapital,0,5283311.9,0,BL,2017,0
+29,Eigenkapital,0,-431590.3,0,BL,2017,0
+30,Personalaufwand,1229673.497,1218634.649,1232898.0,BS,2017,11038.847999999998
+31,Sach- und übriger Betriebsaufwand,457381.93,441289.926,442303.0,BS,2017,16092.004000000015
+36,Transferaufwand,1945956.291,1986882.31974,2024455.74,BS,2017,-40926.02873999998
+37,Durchlaufende Beiträge,0.0,0.0,0.0,BS,2017,0.0
+39,Interne Verrechungen,248388.504,284474.80341,288487.99,BS,2017,-36086.29941000001
+41,Regalien und Konzessionen,33847.703,36665.45726,40278.0,BS,2017,-2817.7542600000015
+42,Entgelte,380882.457,373027.53073,380446.828,BS,2017,7854.926269999996
+46,Transferertrag,587460.6710000001,556763.07251,594630.637,BS,2017,30697.59849000012
+47,Durchlaufende Beiträge,0.0,0.0,0.0,BS,2017,0.0
+49,Interne Verrechnungen,248388.504,284474.80341,288487.998,BS,2017,-36086.29941000001
+50,Sachanlagen,494808.058,396886.89,358917.235,BS,2017,97921.168
+51,Investitionen auf Rechnung Dritter,0.0,874.702,0.0,BS,2017,0.0
+52,Immaterielle Anlagen,350.0,6666.269,100.0,BS,2017,-6316.269
+54,Darlehen,73123.26,86816.489,61433.947,BS,2017,-13693.229000000007
+55,Beteiligungen und Grundkapitalien,0.0,0.0,0.0,BS,2017,0.0
+56,Eigene Investitionsbeiträge,896.25,21323.269,0.0,BS,2017,-20427.019
+57,Durchlaufende Investitionsbeiträge,0.0,0.0,0.0,BS,2017,0.0
+60,Übertragung von Sachanlagen in das FV,69743.11,65308.366,4000.0,BS,2017,4434.743999999999
+61,Rückerstattungen Dritter für Investitionen,0.0,874.702,0.0,BS,2017,0.0
+62,Abgang immaterielle Anlagen,0.0,,0.0,BS,2017,0.0
+63,Investitionsbeiträge für eigene Rechnung,5000.0,19464.832,2200.0,BS,2017,-14464.831999999999
+64,Rückzahlung von Darlehen,1648.977,1716.993,10600.79,BS,2017,-68.01599999999985
+65,Übertragung von Beteiligungen,400.0,600.0,0.0,BS,2017,-200.0
+66,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,,BS,2017,0.0
+67,Durchlaufende Investitionsbeiträge,0.0,0.0,,BS,2017,0.0
+10,Finanzvermögen,0.0,5555741.63036,0.0,BS,2017,0.0
+14,Verwaltungsvermögen,0.0,6064960.627180001,0.0,BS,2017,0.0
+20,Fremdkapital,0.0,7470497.04609,0.0,BS,2017,0.0
+29,Eigenkapital,,4150205.21145,,BS,2017,
+30,Charges de personnel,1254683.0,1263134.0,1279725,FR,2017,-8451.0
+31,Charges de biens et services et autres charges d'exploitation,353831.0,357985.0,364058,FR,2017,-4154.0
+36,Charges de transfert,1473585.0,1452578.0,1491996,FR,2017,21007.0
+37,Subventions à redistribuer,219489.0,221583.0,221666,FR,2017,-2094.0
+39,Imputations internes,31439.0,31361.0,32089,FR,2017,78.0
+41,Patentes et concessions,37143.0,82017.0,38507,FR,2017,-44874.0
+42,Taxes,224789.0,230489.0,232760,FR,2017,-5700.0
+46,Revenus de transferts,1419346.0,1456122.0,1436632,FR,2017,-36776.0
+47,Subventions à redistribuer,219489.0,222133.0,221666,FR,2017,-2644.0
+49,Imputations internes,31439.0,31361.0,32089,FR,2017,78.0
+50,Immobilisations corporelles,122884.0,87028.0,139682,FR,2017,35856.0
+51,Investissements pour le compte de tiers,0.0,0.0,0,FR,2017,0.0
+52,Immobilisations incorporelles,0.0,0.0,0,FR,2017,0.0
+54,Prêts,15412.0,10701.0,11812,FR,2017,4711.0
+55,Participations et capital social,1500.0,0.0,2000,FR,2017,1500.0
+56,Propres subventions d'investissement,38257.0,31902.0,37182,FR,2017,6355.0
+57,Subventions d'investissements à redistribuer,18828.0,9501.0,16420,FR,2017,9327.0
+60,Transfert d'immobilisations corporelles dans le patrimoine financier,0.0,0.0,0,FR,2017,0.0
+61,Remboursements pour les investissements sur le compte des tiers,0.0,0.0,0,FR,2017,0.0
+62,Vente d'immobilisations incorporelles,0.0,0.0,0,FR,2017,0.0
+63,Subventions d'investissements acquises,10610.0,12833.0,19918,FR,2017,-2223.0
+64,Remboursement de prêts,11515.0,11032.0,11754,FR,2017,483.0
+65,Transfert de participations,0.0,0.0,0,FR,2017,0.0
+66,Remboursement de propres subventions d'investissement,50.0,17.0,50,FR,2017,33.0
+67,Subventions d'investissements à redistribuer,18828.0,9501.0,16420,FR,2017,9327.0
+10,Patrimoine Financier,0.0,2200924.0,0,FR,2017,0.0
+14,Patrimoine administratif,0.0,872735.0,0,FR,2017,0.0
+20,Capitaux de tiers,0.0,1475569.0,0,FR,2017,0.0
+29,Capital propre,,1598090.0,,FR,2017,
+30,Charges de personnel,2411024.892,2405256.48239,2462976.869,GE,2017,5768.409609999973
+31,Charges de biens et services et autres charges d'exploitation,566172.982,592434.7348800001,567124.634,GE,2017,-26261.75288000016
+36,Charges de transfert,4558218.7755886,4525098.465010002,4707659.253,GE,2017,33120.31057859771
+37,Subventions à redistribuer,40604.95,157998.54115,40707.682,GE,2017,-117393.59115000001
+39,Imputations internes,14759.72,14961.441740000002,13356.21,GE,2017,-201.72174000000268
+41,Patentes et concessions,68473.636,95059.68760999998,68123.636,GE,2017,-26586.05160999998
+42,Taxes,460376.357,442999.64158,462034.502,GE,2017,17376.715420000022
+46,Revenus de transferts,1045736.458,1097232.4304,1078918.868,GE,2017,-51495.97239999997
+47,Subventions à redistribuer,40604.95,157998.54114999998,40707.682,GE,2017,-117393.59114999998
+49,Imputations internes,14759.72,14961.441739999998,13356.21,GE,2017,-201.72173999999904
+50,Immobilisations corporelles,454009.123,340668.289,511306.696,GE,2017,113340.83400000003
+51,Investissements pour le compte de tiers,0,0.0,0,GE,2017,0
+52,Immobilisations incorporelles,31502.355,30665.016,39395.302,GE,2017,837.3389999999999
+54,Prêts,169935.32,128291.003,80629.195,GE,2017,41644.31700000001
+55,Participations et capital social,25000,7115.713,26500,GE,2017,17884.287
+56,Propres subventions d'investissement,149087.088,132833.327,132483.151,GE,2017,16253.760999999999
+57,Subventions d'investissements à redistribuer,0,0.0,0,GE,2017,0
+60,Transfert d'immobilisations corporelles dans le patrimoine financier,,5199.289,,GE,2017,
+61,Remboursements pour les investissements sur le compte des tiers,,,,GE,2017,
+62,Vente d'immobilisations incorporelles,,,,GE,2017,
+63,Subventions d'investissements acquises,14651.9,24456.714,22369.63,GE,2017,-9804.814
+64,Remboursement de prêts,2922.765,2646.554,6557.093,GE,2017,276.2109999999998
+65,Transfert de participations,,50.0,,GE,2017,
+66,Remboursement de propres subventions d'investissement,,,,GE,2017,
+67,Subventions d'investissements à redistribuer,,,,GE,2017,
+10,Patrimoine Financier,0,4251366.548509996,0,GE,2017,0
+14,Patrimoine administratif,0,15376897.87722,0,GE,2017,0
+20,Capitaux de tiers,0,16924688.79092,0,GE,2017,0
+29,Capital propre,,2703575.6345900004,,GE,2017,
+30,Personalaufwand,74324.0,72822.0,74423.0,GL,2017,1502.0
+31,Sach- und übriger Betriebsaufwand,29841.0,29257.7,29594.9,GL,2017,583.2999999999993
+36,Transferaufwand,185749.0,189899.2,193169.0,GL,2017,-4150.200000000012
+37,Durchlaufende Beiträge,29963.0,28773.7,26185.3,GL,2017,1189.2999999999993
+39,Interne Verrechungen,11314.0,10253.8,11379.7,GL,2017,1060.2000000000007
+41,Regalien und Konzessionen,13263.0,15509.9,13034.6,GL,2017,-2246.8999999999996
+42,Entgelte,30871.0,34688.3,25584.6,GL,2017,-3817.300000000003
+46,Transferertrag,133072.0,136351.5,136146.6,GL,2017,-3279.5
+47,Durchlaufende Beiträge,29963.0,28773.7,26185.3,GL,2017,1189.2999999999993
+49,Interne Verrechnungen,11314.0,10253.8,11379.7,GL,2017,1060.2000000000007
+50,Sachanlagen,16315.0,13374.6,15280.0,GL,2017,2940.3999999999996
+51,Investitionen auf Rechnung Dritter,0.0,0.0,0.0,GL,2017,0.0
+52,Immaterielle Anlagen,1475.0,972.1,960.0,GL,2017,502.9
+54,Darlehen,1925.0,3443.0,1925.0,GL,2017,-1518.0
+55,Beteiligungen und Grundkapitalien,0.0,210.6,0.0,GL,2017,0.0
+56,Eigene Investitionsbeiträge,14234.0,11565.4,11584.0,GL,2017,2668.6000000000004
+57,Durchlaufende Investitionsbeiträge,4826.0,2691.0,4622.0,GL,2017,2135.0
+60,Übertragung von Sachanlagen in das FV,0.0,0.0,0.0,GL,2017,0.0
+61,Rückerstattungen Dritter für Investitionen,0.0,1.3,0.0,GL,2017,0.0
+62,Abgang immaterielle Anlagen,0.0,0.0,0.0,GL,2017,0.0
+63,Investitionsbeiträge für eigene Rechnung,8428.0,8402.8,9855.0,GL,2017,25.200000000000728
+64,Rückzahlung von Darlehen,1685.0,2524.8,1665.0,GL,2017,-839.8000000000002
+65,Übertragung von Beteiligungen,0.0,0.0,0.0,GL,2017,0.0
+66,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,0.0,GL,2017,0.0
+67,Durchlaufende Investitionsbeiträge,4826.0,2691.0,4622.0,GL,2017,2135.0
+10,Finanzvermögen,0.0,400418.0,0.0,GL,2017,0.0
+14,Verwaltungsvermögen,0.0,180808.1,0.0,GL,2017,0.0
+20,Fremdkapital,0.0,199592.59999999998,0.0,GL,2017,0.0
+29,Eigenkapital,,381633.5,,GL,2017,
+30,Personalaufwand,383766.0,376063.1,388159.0,GR,2017,7702.900000000023
+31,Sach- und übriger Betriebsaufwand,320108.0,297402.8,325694.0,GR,2017,22705.20000000001
+36,Transferaufwand,1113329.0,1065948.1,1130694.0,GR,2017,47380.89999999991
+37,Durchlaufende Beiträge,346181.0,360914.8,350648.0,GR,2017,-14733.799999999988
+39,Interne Verrechungen,202382.0,203190.7,204583.0,GR,2017,-808.7000000000116
+41,Regalien und Konzessionen,84720.0,90040.4,84925.0,GR,2017,-5320.399999999994
+42,Entgelte,168908.0,161349.4,161740.0,GR,2017,7558.600000000006
+46,Transferertrag,723721.0,730353.9,726266.0,GR,2017,-6632.900000000023
+47,Durchlaufende Beiträge,346181.0,360914.8,350648.0,GR,2017,-14733.799999999988
+49,Interne Verrechnungen,202382.0,203190.7,204583.0,GR,2017,-808.7000000000116
+50,Sachanlagen,205090.0,186013.3,219605.0,GR,2017,19076.70000000001
+51,Investitionen auf Rechnung Dritter,0.0,0.0,2500.0,GR,2017,0.0
+52,Immaterielle Anlagen,14141.0,6581.5,15748.0,GR,2017,7559.5
+54,Darlehen,17300.0,6162.0,14410.0,GR,2017,11138.0
+55,Beteiligungen und Grundkapitalien,0.0,36.6,0.0,GR,2017,0.0
+56,Eigene Investitionsbeiträge,166112.0,146822.1,169706.0,GR,2017,19289.899999999994
+57,Durchlaufende Investitionsbeiträge,25808.0,22478.7,23628.0,GR,2017,3329.2999999999993
+60,Übertragung von Sachanlagen in das FV,0.0,1.4,0.0,GR,2017,0.0
+61,Rückerstattungen Dritter für Investitionen,9855.0,10984.9,8593.0,GR,2017,-1129.8999999999996
+62,Abgang immaterielle Anlagen,0.0,0.0,0.0,GR,2017,0.0
+63,Investitionsbeiträge für eigene Rechnung,113451.0,106709.0,115200.0,GR,2017,6742.0
+64,Rückzahlung von Darlehen,5529.0,6351.2,5220.0,GR,2017,-822.1999999999998
+65,Übertragung von Beteiligungen,0.0,0.0,0.0,GR,2017,0.0
+66,Rückzahlung eigener Investitionsbeiträge,125.0,45.7,33.0,GR,2017,79.3
+67,Durchlaufende Investitionsbeiträge,25808.0,22478.7,23628.0,GR,2017,3329.2999999999993
+10,Finanzvermögen,0.0,2956528.0999999996,0.0,GR,2017,0.0
+14,Verwaltungsvermögen,0.0,1067663.6,0.0,GR,2017,0.0
+20,Fremdkapital,0.0,1623971.4,0.0,GR,2017,0.0
+29,Eigenkapital,,2400220.3,,GR,2017,
+30,,258392.9,261047.46413,261691.3,JU,2017,-2654.5641300000134
+31,,76354.4,72366.96919,77912.7,JU,2017,3987.4308099999907
+36,,439608.0,438086.86647,450013.1,JU,2017,1521.1335299999919
+37,,110344.6,110211.84723,110646.9,JU,2017,132.75277000000642
+39,,309.5,309.5,309.5,JU,2017,0.0
+41,,7997.2,12335.31746,12292.6,JU,2017,-4338.11746
+42,,42567.2,42995.34372,43709.8,JU,2017,-428.14372000000003
+46,,390136.4,385363.83645,391208.4,JU,2017,4772.563550000021
+47,,110344.6,110211.84723,110646.9,JU,2017,132.75277000000642
+49,,309.5,309.5,309.5,JU,2017,0.0
+50,,20097.5,17977.25771,23538.0,JU,2017,2120.2422899999983
+51,,0.0,0.0,0.0,JU,2017,0.0
+52,,0.0,0.0,0.0,JU,2017,0.0
+54,,750.0,538.3,750.0,JU,2017,211.70000000000005
+55,,5060.0,60.0,2000.0,JU,2017,5000.0
+56,,14733.7,12551.0677,13508.0,JU,2017,2182.632300000001
+57,,5165.0,8899.90578,10127.9,JU,2017,-3734.905779999999
+60,,0.0,218.99996,0.0,JU,2017,0.0
+61,,0.0,218.26425,0.0,JU,2017,0.0
+62,,0.0,0.0,0.0,JU,2017,0.0
+63,,3557.2,1660.1232799999998,4003.2,JU,2017,1897.07672
+64,,2138.2,2119.25055,2022.5,JU,2017,18.949449999999615
+65,,0.0,0.0,0.0,JU,2017,0.0
+66,,40.0,781.354,240.0,JU,2017,-741.354
+67,,5165.0,8899.90578,10127.9,JU,2017,-3734.905779999999
+10,,0.0,293313.82282999996,0.0,JU,2017,0.0
+14,,0.0,464392.12977000006,0.0,JU,2017,0.0
+20,,0.0,614670.70062,0.0,JU,2017,0.0
+29,,,143035.27393,,JU,2017,
+30,Personalaufwand,623592.475570001,603304.262,609253.759,LU,2017,20288.21357000107
+31,Sach- und übriger Betriebsaufwand,236415.22701,210249.25,224186.855,LU,2017,26165.977010000002
+36,Transferaufwand,1868183.1521,1855853.0,1886168.77351,LU,2017,12330.152100000065
+37,Durchlaufende Beiträge,460856.838,420245.213,412600.504,LU,2017,40611.625
+39,Interne Verrechungen,438239.4025,410626.62573,411004.0,LU,2017,27612.776769999997
+41,Regalien und Konzessionen,56624.338,86986.538,56871.138,LU,2017,-30362.199999999997
+42,Entgelte,205008.11713,200596.518,205863.954,LU,2017,4411.599129999988
+46,Transferertrag,1176997.469,1151140.125,1156306.064,LU,2017,25857.34400000004
+47,Durchlaufende Beiträge,460856.838,420245.21298,412600.504,LU,2017,40611.62501999998
+49,Interne Verrechnungen,438239.4025,410626.625,411004.431,LU,2017,27612.777500000026
+50,Sachanlagen,165758.9651,86951.625,206900.32,LU,2017,78807.3401
+51,Investitionen auf Rechnung Dritter,1100.0,504.466,4100.0,LU,2017,595.534
+52,Immaterielle Anlagen,8672.669,6053.711,15689.1,LU,2017,2618.9579999999996
+54,Darlehen,2500.0,2863.953,5175.0,LU,2017,-363.953
+55,Beteiligungen und Grundkapitalien,0.0,40.0,0.0,LU,2017,0.0
+56,Eigene Investitionsbeiträge,9370.0001,7755.253,23114.0,LU,2017,1614.7470999999996
+57,Durchlaufende Investitionsbeiträge,8775.0,8817.358,8775.0,LU,2017,-42.358000000000175
+60,Übertragung von Sachanlagen in das FV,200.0,60.039,200.0,LU,2017,139.961
+61,Rückerstattungen Dritter für Investitionen,1100.0,504.466,4100.0,LU,2017,595.534
+62,Abgang immaterielle Anlagen,0.0,0.0,0.0,LU,2017,0.0
+63,Investitionsbeiträge für eigene Rechnung,38700.45,15662.417,43178.96,LU,2017,23038.032999999996
+64,Rückzahlung von Darlehen,10095.05,11368.512,3621.328,LU,2017,-1273.4620000000014
+65,Übertragung von Beteiligungen,0.0,0.0,0.0,LU,2017,0.0
+66,Rückzahlung eigener Investitionsbeiträge,30.0,7.97,30.0,LU,2017,22.03
+67,Durchlaufende Investitionsbeiträge,8775.0,8817.358,8755.0,LU,2017,-42.358000000000175
+10,Finanzvermögen,1498260.9557649998,1552451.013,1432210.6770000001,LU,2017,-54190.05723500019
+14,Verwaltungsvermögen,4753692.97424,4665057.815,4699700.668,LU,2017,88635.15923999995
+20,Fremdkapital,2473194.20800114,2375353.908,2403144.946,LU,2017,97840.30000114022
+29,Eigenkapital,3778759.72200418,3842154.922,3728766.398,LU,2017,-63395.199995819945
+30,Charges de personnel,0,0,432828.811,NE,2017,0
+31,Charges de biens et services et autres charges d'exploitation,0,0,164520.006,NE,2017,0
+36,Charges de transfert,0,0,1276699.118,NE,2017,0
+37,Subventions à redistribuer,0,0,184158.531,NE,2017,0
+39,Imputations internes,0,0,83483.087,NE,2017,0
+41,Patentes et concessions,0,0,45485,NE,2017,0
+42,Taxes,0,0,129338.335,NE,2017,0
+46,Revenus de transferts,0,0,550086.211,NE,2017,0
+47,Subventions à redistribuer,0,0,184158.531,NE,2017,0
+49,Imputations internes,0,0,83483.087,NE,2017,0
+50,Immobilisations corporelles,0,0,54137.041,NE,2017,0
+51,Investissements pour le compte de tiers,0,0,0,NE,2017,0
+52,Immobilisations incorporelles,0,0,7283.5,NE,2017,0
+54,Prêts,0,0,6019.5,NE,2017,0
+55,Participations et capital social,0,0,12000,NE,2017,0
+56,Propres subventions d'investissement,0,0,15106.55,NE,2017,0
+57,Subventions d'investissements à redistribuer,0,0,3160,NE,2017,0
+60,Transfert d'immobilisations corporelles dans le patrimoine financier,,,,NE,2017,
+61,Remboursements pour les investissements sur le compte des tiers,,,,NE,2017,
+62,Vente d'immobilisations incorporelles,,,,NE,2017,
+63,Subventions d'investissements acquises,,,1168.3,NE,2017,
+64,Remboursement de prêts,,,893.265,NE,2017,
+65,Transfert de participations,,,0,NE,2017,
+66,Remboursement de propres subventions d'investissement,,,15841.035,NE,2017,
+67,Subventions d'investissements à redistribuer,,,3160,NE,2017,
+10,Patrimoine Financier,0,0,0,NE,2017,0
+14,Patrimoine administratif,0,0,0,NE,2017,0
+20,Capitaux de tiers,0,0,0,NE,2017,0
+29,Capital propre,,,,NE,2017,
+30,Personalaufwand,77586.7,76247.7,78892.1,NW,2017,1339.0
+31,Sach- und übriger Betriebsaufwand,30351.5,29021.8,29688.1,NW,2017,1329.7000000000007
+36,Transferaufwand,227587.1,230898.6,238143.1,NW,2017,-3311.5
+37,Durchlaufende Beiträge,22254.0,22725.7,22085.1,NW,2017,-471.7000000000007
+39,Interne Verrechungen,34218.5,32172.0,34711.8,NW,2017,2046.5
+41,Regalien und Konzessionen,12019.0,14990.1,12232.5,NW,2017,-2971.1000000000004
+42,Entgelte,19331.3,20211.7,19513.0,NW,2017,-880.4000000000015
+46,Transferertrag,98914.1,96838.6,98486.3,NW,2017,2075.5
+47,Durchlaufende Beiträge,22254.0,22725.7,22085.1,NW,2017,-471.7000000000007
+49,Interne Verrechnungen,34218.5,32172.0,34711.8,NW,2017,2046.5
+50,Sachanlagen,12452.4,9323.9,11334.0,NW,2017,3128.5
+51,Investitionen auf Rechnung Dritter,0.0,0.0,0.0,NW,2017,0.0
+52,Immaterielle Anlagen,1256.0,633.3,1358.0,NW,2017,622.7
+54,Darlehen,1570.0,2335.4,1030.0,NW,2017,-765.4000000000001
+55,Beteiligungen und Grundkapitalien,0.0,0.0,0.0,NW,2017,0.0
+56,Eigene Investitionsbeiträge,11601.7,7384.9,16834.0,NW,2017,4216.800000000001
+57,Durchlaufende Investitionsbeiträge,1050.0,539.7,1050.0,NW,2017,510.29999999999995
+60,Übertragung von Sachanlagen in das FV,0.0,0.0,0.0,NW,2017,0.0
+61,Rückerstattungen Dritter für Investitionen,0.0,0.0,0.0,NW,2017,0.0
+62,Abgang immaterielle Anlagen,0.0,0.0,0.0,NW,2017,0.0
+63,Investitionsbeiträge für eigene Rechnung,8527.4,7703.0,8770.0,NW,2017,824.3999999999996
+64,Rückzahlung von Darlehen,1611.5,1546.0,1508.5,NW,2017,65.5
+65,Übertragung von Beteiligungen,0.0,0.0,0.0,NW,2017,0.0
+66,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,0.0,NW,2017,0.0
+67,Durchlaufende Investitionsbeiträge,1050.0,539.7,1050.0,NW,2017,510.29999999999995
+10,Finanzvermögen,266051.0,324039.8,257102.0,NW,2017,-57988.79999999999
+14,Verwaltungsvermögen,331853.1,323214.5,330949.0,NW,2017,8638.599999999977
+20,Fremdkapital,311285.1,349810.6,313222.0,NW,2017,-38525.5
+29,Eigenkapital,286619.0,297443.5,274829.0,NW,2017,-10824.5
+30,Personalaufwand,56874.0,56923.0,56417.0,OW,2017,-49.0
+31,Sach- und übriger Betriebsaufwand,25137.0,26780.0,23614.0,OW,2017,-1643.0
+36,Transferaufwand,160076.0,156823.0,166332.0,OW,2017,3253.0
+37,Durchlaufende Beiträge,38944.0,38708.0,38803.0,OW,2017,236.0
+39,Interne Verrechungen,23341.0,22953.0,24830.0,OW,2017,388.0
+41,Regalien und Konzessionen,7653.0,9947.0,10688.0,OW,2017,-2294.0
+42,Entgelte,18617.0,18481.0,14099.0,OW,2017,136.0
+46,Transferertrag,74689.0,77249.0,72522.0,OW,2017,-2560.0
+47,Durchlaufende Beiträge,38944.0,38708.0,38803.0,OW,2017,236.0
+49,Interne Verrechnungen,23341.0,22953.0,24830.0,OW,2017,388.0
+50,Sachanlagen,23810.0,4468.0,28235.0,OW,2017,19342.0
+51,Investitionen auf Rechnung Dritter,500.0,1276.0,700.0,OW,2017,-776.0
+52,Immaterielle Anlagen,1055.0,924.0,523.0,OW,2017,131.0
+54,Darlehen,2800.0,3.0,3050.0,OW,2017,2797.0
+55,Beteiligungen und Grundkapitalien,0.0,240.0,0.0,OW,2017,0.0
+56,Eigene Investitionsbeiträge,6527.0,6170.0,11058.0,OW,2017,357.0
+57,Durchlaufende Investitionsbeiträge,11800.0,8835.0,12514.0,OW,2017,2965.0
+60,Übertragung von Sachanlagen in das FV,0.0,136.0,0.0,OW,2017,0.0
+61,Rückerstattungen Dritter für Investitionen,1485.0,1027.0,1679.0,OW,2017,458.0
+62,Abgang immaterielle Anlagen,0.0,0.0,0.0,OW,2017,0.0
+63,Investitionsbeiträge für eigene Rechnung,21563.0,4642.0,19089.0,OW,2017,16921.0
+64,Rückzahlung von Darlehen,913.0,861.0,763.0,OW,2017,52.0
+65,Übertragung von Beteiligungen,0.0,0.0,0.0,OW,2017,0.0
+66,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,0.0,OW,2017,0.0
+67,Durchlaufende Investitionsbeiträge,11800.0,8834.0,12514.0,OW,2017,2966.0
+10,Finanzvermögen,0.0,173162.0,0.0,OW,2017,0.0
+14,Verwaltungsvermögen,0.0,121213.0,0.0,OW,2017,0.0
+20,Fremdkapital,0.0,132696.0,0.0,OW,2017,0.0
+29,Eigenkapital,,161679.0,,OW,2017,
+30,Personalaufwand,725689.9,710538.32683,725318.0,SG,2017,15151.573169999989
+31,Sach- und übriger Betriebsaufwand,441929.3,422810.09977,465592.1,SG,2017,19119.200230000017
+36,Transferaufwand,2851387.9,2902547.83796,2924897.0,SG,2017,-51159.93796000024
+37,Durchlaufende Beiträge,224775.9,243501.87726,239595.1,SG,2017,-18725.977260000014
+39,Interne Verrechungen,491662.3,704974.74384,499787.5,SG,2017,-213312.44384000002
+41,Regalien und Konzessionen,61613.5,109655.39755,72947.7,SG,2017,-48041.897549999994
+42,Entgelte,283912.1,306054.60059,281696.3,SG,2017,-22142.50059000001
+46,Transferertrag,1451717.8,1493102.91471,1512647.1,SG,2017,-41385.11470999988
+47,Durchlaufende Beiträge,224775.9,243501.87726,239595.1,SG,2017,-18725.977260000014
+49,Interne Verrechnungen,491662.3,704974.74384,499787.5,SG,2017,-213312.44384000002
+50,Sachanlagen,136745.0,89157.91461,135455.0,SG,2017,47587.08538999999
+51,Investitionen auf Rechnung Dritter,0.0,0.0,0.0,SG,2017,0.0
+52,Immaterielle Anlagen,3840.0,4014.66351,3600.0,SG,2017,-174.66350999999986
+54,Darlehen,506485.0,184108.46961,315960.0,SG,2017,322376.53038999997
+55,Beteiligungen und Grundkapitalien,317970.0,320160.0,0.0,SG,2017,-2190.0
+56,Eigene Investitionsbeiträge,22854.3,10686.508,14917.6,SG,2017,12167.792
+57,Durchlaufende Investitionsbeiträge,0.0,5423.674,0.0,SG,2017,0.0
+60,Übertragung von Sachanlagen in das FV,103825.2,113461.42201,0.0,SG,2017,-9636.222009999998
+61,Rückerstattungen Dritter für Investitionen,4026.4,3310.7043,2931.0,SG,2017,715.6957000000002
+62,Abgang immaterielle Anlagen,0.0,0.0,0.0,SG,2017,0.0
+63,Investitionsbeiträge für eigene Rechnung,20393.5,19249.63964,18379.0,SG,2017,1143.8603599999988
+64,Rückzahlung von Darlehen,20608.3,26191.10345,5964.0,SG,2017,-5582.803449999999
+65,Übertragung von Beteiligungen,0.0,0.0,0.0,SG,2017,0.0
+66,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,0.0,SG,2017,0.0
+67,Durchlaufende Investitionsbeiträge,0.0,5423.674,0.0,SG,2017,0.0
+10,Finanzvermögen,0.0,2497617.97334,0.0,SG,2017,0.0
+14,Verwaltungsvermögen,0.0,1099191.36346,0.0,SG,2017,0.0
+20,Fremdkapital,0.0,2514492.68076,0.0,SG,2017,0.0
+29,Eigenkapital,,1082316.65604,,SG,2017,
+30,Personalaufwand,0,0,179376.9,SH,2017,0
+31,Sach- und übriger Betriebsaufwand,0,0,65605.5,SH,2017,0
+36,Transferaufwand,0,0,353587.6,SH,2017,0
+37,Durchlaufende Beiträge,0,0,89015.0,SH,2017,0
+39,Interne Verrechungen,0,0,27278.6,SH,2017,0
+41,Regalien und Konzessionen,0,0,15400.2,SH,2017,0
+42,Entgelte,0,0,56011.4,SH,2017,0
+46,Transferertrag,0,0,166120.6,SH,2017,0
+47,Durchlaufende Beiträge,0,0,89015.0,SH,2017,0
+49,Interne Verrechnungen,0,0,27278.6,SH,2017,0
+50,Sachanlagen,0,0,30253.4,SH,2017,0
+51,Investitionen auf Rechnung Dritter,0,0,0.0,SH,2017,0
+52,Immaterielle Anlagen,0,0,1091.0,SH,2017,0
+54,Darlehen,0,0,2445.0,SH,2017,0
+55,Beteiligungen und Grundkapitalien,0,0,0.0,SH,2017,0
+56,Eigene Investitionsbeiträge,0,0,6240.0,SH,2017,0
+57,Durchlaufende Investitionsbeiträge,0,0,5920.0,SH,2017,0
+60,Übertragung von Sachanlagen in das FV,0,0,0.0,SH,2017,0
+61,Rückerstattungen Dritter für Investitionen,0,0,0.0,SH,2017,0
+62,Abgang immaterielle Anlagen,0,0,0.0,SH,2017,0
+63,Investitionsbeiträge für eigene Rechnung,0,0,4274.0,SH,2017,0
+64,Rückzahlung von Darlehen,0,0,1890.0,SH,2017,0
+65,Übertragung von Beteiligungen,0,0,0.0,SH,2017,0
+66,Rückzahlung eigener Investitionsbeiträge,0,0,0.0,SH,2017,0
+67,Durchlaufende Investitionsbeiträge,0,0,5920.0,SH,2017,0
+10,Finanzvermögen,0,0,0.0,SH,2017,0
+14,Verwaltungsvermögen,0,0,0.0,SH,2017,0
+20,Fremdkapital,0,0,0.0,SH,2017,0
+29,Eigenkapital,0,0,0.0,SH,2017,0
+30,Personalaufwand,441380.9,436990.987,444466.969,SO,2017,4389.9130000000005
+31,Sach- und übriger Betriebsaufwand,180286.3,180777.8,186797.409,SO,2017,-491.5
+36,Transferaufwand,1309198.7,1343606.885,1389988.713,SO,2017,-34408.185000000056
+37,Durchlaufende Beiträge,94588.4,88836.277,88300.0,SO,2017,5752.122999999992
+39,Interne Verrechungen,0.0,0.0,0.0,SO,2017,0.0
+41,Regalien und Konzessionen,30884.7,47319.9,31426.7,SO,2017,-16435.2
+42,Entgelte,166609.3,173025.842,170375.966,SO,2017,-6416.542000000016
+46,Transferertrag,850962.6,847357.61,897212.6,SO,2017,3604.9899999999907
+47,Durchlaufende Beiträge,94588.4,88836.277,88300.0,SO,2017,5752.122999999992
+49,Interne Verrechnungen,0.0,0.0,0.0,SO,2017,0.0
+50,Sachanlagen,156622.8,155054.963,174282.0,SO,2017,1567.8369999999995
+51,Investitionen auf Rechnung Dritter,0.0,0.0,0.0,SO,2017,0.0
+52,Immaterielle Anlagen,0.0,0.0,0.0,SO,2017,0.0
+54,Darlehen,1800.0,1459.129,1800.0,SO,2017,340.8710000000001
+55,Beteiligungen und Grundkapitalien,0.0,41.125,0.0,SO,2017,0.0
+56,Eigene Investitionsbeiträge,3940.0,2710.626,3355.0,SO,2017,1229.3739999999998
+57,Durchlaufende Investitionsbeiträge,4730.0,2485.073,4880.0,SO,2017,2244.927
+60,Übertragung von Sachanlagen in das FV,0.0,314.38,0.0,SO,2017,0.0
+61,Rückerstattungen Dritter für Investitionen,0.0,0.0,0.0,SO,2017,0.0
+62,Abgang immaterielle Anlagen,0.0,0.0,0.0,SO,2017,0.0
+63,Investitionsbeiträge für eigene Rechnung,31824.5,37777.441,29996.8,SO,2017,-5952.940999999999
+64,Rückzahlung von Darlehen,2421.0,2841.533,2629.675,SO,2017,-420.5329999999999
+65,Übertragung von Beteiligungen,0.0,0.0,0.0,SO,2017,0.0
+66,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,0.0,SO,2017,0.0
+67,Durchlaufende Investitionsbeiträge,4730.0,2485.073,4880.0,SO,2017,2244.927
+10,Finanzvermögen,0.0,1125353.232,0.0,SO,2017,0.0
+14,Verwaltungsvermögen,0.0,1616821.5270000002,0.0,SO,2017,0.0
+20,Fremdkapital,0.0,2625812.12,0.0,SO,2017,0.0
+29,Eigenkapital,,116362.639,,SO,2017,
+30,Personalaufwand,222098.5,216881.0,222271.0,SZ,2017,5217.5
+31,Sach- und übriger Betriebsaufwand,99248.3,94731.0,104214.0,SZ,2017,4517.300000000003
+36,Transferaufwand,906604.3,915147.0,966676.0,SZ,2017,-8542.699999999953
+37,Durchlaufende Beiträge,101375.4,97239.0,102183.0,SZ,2017,4136.399999999994
+39,Interne Verrechungen,86779.3,87998.0,88621.0,SZ,2017,-1218.699999999997
+41,Regalien und Konzessionen,6477.0,28830.0,18808.0,SZ,2017,-22353.0
+42,Entgelte,49565.9,52050.0,50644.0,SZ,2017,-2484.0999999999985
+46,Transferertrag,409373.3,433636.0,433503.0,SZ,2017,-24262.70000000001
+47,Durchlaufende Beiträge,101375.4,97239.0,102183.0,SZ,2017,4136.399999999994
+49,Interne Verrechnungen,86779.3,87998.0,88621.0,SZ,2017,-1218.699999999997
+50,Sachanlagen,75850.0,54891.0,77054.0,SZ,2017,20959.0
+51,Investitionen auf Rechnung Dritter,0.0,0.0,0.0,SZ,2017,0.0
+52,Immaterielle Anlagen,0.0,0.0,0.0,SZ,2017,0.0
+54,Darlehen,0.0,0.0,0.0,SZ,2017,0.0
+55,Beteiligungen und Grundkapitalien,1650.0,1670.0,0.0,SZ,2017,-20.0
+56,Eigene Investitionsbeiträge,0.0,0.0,0.0,SZ,2017,0.0
+57,Durchlaufende Investitionsbeiträge,0.0,0.0,0.0,SZ,2017,0.0
+60,Übertragung von Sachanlagen in das FV,0.0,0.0,0.0,SZ,2017,0.0
+61,Rückerstattungen Dritter für Investitionen,13944.0,13933.0,12197.0,SZ,2017,11.0
+62,Abgang immaterielle Anlagen,0.0,0.0,0.0,SZ,2017,0.0
+63,Investitionsbeiträge für eigene Rechnung,5656.0,5426.0,6358.0,SZ,2017,230.0
+64,Rückzahlung von Darlehen,4810.9,4815.0,864.0,SZ,2017,-4.100000000000364
+65,Übertragung von Beteiligungen,0.0,0.0,0.0,SZ,2017,0.0
+66,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,0.0,SZ,2017,0.0
+67,Durchlaufende Investitionsbeiträge,0.0,0.0,0.0,SZ,2017,0.0
+10,Finanzvermögen,0.0,641787.0,0.0,SZ,2017,0.0
+14,Verwaltungsvermögen,0.0,247965.0,0.0,SZ,2017,0.0
+20,Fremdkapital,0.0,554875.0,0.0,SZ,2017,0.0
+29,Eigenkapital,0.0,334877.0,0.0,SZ,2017,0.0
+30,Personalaufwand,391820.0,391654.0,398472,TG,2017,166.0
+31,Sach- und übriger Betriebsaufwand,168163.0,167936.0,171961,TG,2017,227.0
+36,Transferaufwand,1011199.0,991217.0,1003310,TG,2017,19982.0
+37,Durchlaufende Beiträge,307054.0,304594.0,311310,TG,2017,2460.0
+39,Interne Verrechungen,155956.0,153462.0,160612,TG,2017,2494.0
+41,Regalien und Konzessionen,35288.0,52575.0,46420,TG,2017,-17287.0
+42,Entgelte,151320.0,149636.0,152072,TG,2017,1684.0
+46,Transferertrag,481176.0,499133.0,474934,TG,2017,-17957.0
+47,Durchlaufende Beiträge,307054.0,304593.0,311310,TG,2017,2461.0
+49,Interne Verrechnungen,155956.0,153462.0,160612,TG,2017,2494.0
+50,Sachanlagen,72762.0,62834.0,75992,TG,2017,9928.0
+51,Investitionen auf Rechnung Dritter,0.0,0.0,0,TG,2017,0.0
+52,Immaterielle Anlagen,0.0,0.0,0,TG,2017,0.0
+54,Darlehen,500.0,135.0,500,TG,2017,365.0
+55,Beteiligungen und Grundkapitalien,0.0,0.0,0,TG,2017,0.0
+56,Eigene Investitionsbeiträge,21595.0,14472.0,19516,TG,2017,7123.0
+57,Durchlaufende Investitionsbeiträge,2313.0,2658.0,1480,TG,2017,-345.0
+60,Übertragung von Sachanlagen in das FV,30.0,221.0,50,TG,2017,-191.0
+61,Rückerstattungen Dritter für Investitionen,0.0,0.0,0,TG,2017,0.0
+62,Abgang immaterielle Anlagen,0.0,0.0,0,TG,2017,0.0
+63,Investitionsbeiträge für eigene Rechnung,28545.0,28627.0,33292,TG,2017,-82.0
+64,Rückzahlung von Darlehen,0.0,0.0,0,TG,2017,0.0
+65,Übertragung von Beteiligungen,0.0,0.0,0,TG,2017,0.0
+66,Rückzahlung eigener Investitionsbeiträge,500.0,549.0,400,TG,2017,-49.0
+67,Durchlaufende Investitionsbeiträge,2313.0,2658.0,1480,TG,2017,-345.0
+10,Finanzvermögen,0.0,839705.0,0,TG,2017,0.0
+14,Verwaltungsvermögen,0.0,1064576.0,0,TG,2017,0.0
+20,Fremdkapital,0.0,1268894.0,0,TG,2017,0.0
+29,Eigenkapital,,635387.0,,TG,2017,
+30,Charges de personnel,1014064.4,1005761.0,1023527.0,TI,2017,8303.400000000023
+31,Charges de biens et services et autres charges d'exploitation,283299.7,312789.5,288167.6,TI,2017,-29489.79999999999
+36,Charges de transfert,1854879.0,1824833.0,1906389.0,TI,2017,30046.0
+37,Subventions à redistribuer,128051.1,133029.5,127878.2,TI,2017,-4978.399999999994
+39,Imputations internes,203696.8,203000.6,205480.8,TI,2017,696.1999999999825
+41,Patentes et concessions,140965.1,166284.995,142447.2,TI,2017,-25319.89499999999
+42,Taxes,270685.3,263958.969,282960.5,TI,2017,6726.331000000006
+46,Revenus de transferts,898843.9,892942.642,909353.2,TI,2017,5901.258000000031
+47,Subventions à redistribuer,128051.1,133029.476,127878.0,TI,2017,-4978.375999999989
+49,Imputations internes,203696.8,203000.562,205480.8,TI,2017,696.237999999983
+50,Immobilisations corporelles,160658.5,135096.214,157798.0,TI,2017,25562.285999999993
+51,Investissements pour le compte de tiers,0.0,0.0,0.0,TI,2017,0.0
+52,Immobilisations incorporelles,0.0,0.0,0.0,TI,2017,0.0
+54,Prêts,6413.0,4922.335,5763.0,TI,2017,1490.665
+55,Participations et capital social,0.0,61136.555,0.0,TI,2017,0.0
+56,Propres subventions d'investissement,122126.7,107991.437,145300.3,TI,2017,14135.262999999992
+57,Subventions d'investissements à redistribuer,48158.9,43184.9254,46612.3,TI,2017,4973.974600000001
+60,Transfert d'immobilisations corporelles dans le patrimoine financier,1200.0,174.545,500.0,TI,2017,1025.455
+61,Remboursements pour les investissements sur le compte des tiers,,,,TI,2017,
+62,Vente d'immobilisations incorporelles,,,,TI,2017,
+63,Subventions d'investissements acquises,41221.0,51098.2507,50039.3,TI,2017,-9877.250699999997
+64,Remboursement de prêts,11157.3,12033.1568,11357.3,TI,2017,-875.8568000000014
+65,Transfert de participations,,,,TI,2017,
+66,Remboursement de propres subventions d'investissement,18002.0,11072.7654,18837.0,TI,2017,6929.2346
+67,Subventions d'investissements à redistribuer,48158.9,117563.643,127346.1,TI,2017,-69404.74299999999
+10,Patrimoine Financier,0.0,5019826.57917,0.0,TI,2017,0.0
+14,Patrimoine administratif,0.0,1502002.63583,0.0,TI,2017,0.0
+20,Capitaux de tiers,0.0,6926956.90379,0.0,TI,2017,0.0
+29,Capital propre,,-405127.689,,TI,2017,
+30,Personalaufwand,105180.6,105615.7,106324.5,UR,2017,-435.09999999999127
+31,Sach- und übriger Betriebsaufwand,53917.9,60821.8,54907.5,UR,2017,-6903.9000000000015
+36,Transferaufwand,195009.7,188544.5,194764.7,UR,2017,6465.200000000012
+37,Durchlaufende Beiträge,31541.0,30741.0,30567.0,UR,2017,800.0
+39,Interne Verrechungen,17054.9,18074.2,17644.7,UR,2017,-1019.2999999999993
+41,Regalien und Konzessionen,31710.2,33806.2,31889.2,UR,2017,-2095.9999999999964
+42,Entgelte,24710.8,26597.9,24264.8,UR,2017,-1887.1000000000022
+46,Transferertrag,200681.6,197846.3,195204.6,UR,2017,2835.3000000000175
+47,Durchlaufende Beiträge,31541.0,30741.0,30567.0,UR,2017,800.0
+49,Interne Verrechnungen,17054.9,18074.2,17644.7,UR,2017,-1019.2999999999993
+50,Sachanlagen,34712.0,29912.4,37438.8,UR,2017,4799.5999999999985
+51,Investitionen auf Rechnung Dritter,0.0,311.8,0.0,UR,2017,0.0
+52,Immaterielle Anlagen,939.5,819.4,1033.9,UR,2017,120.10000000000002
+54,Darlehen,22290.3,14745.4,4045.9,UR,2017,7544.9
+55,Beteiligungen und Grundkapitalien,1300.0,509.1,0.0,UR,2017,790.9
+56,Eigene Investitionsbeiträge,13127.1,10072.0,11787.5,UR,2017,3055.1000000000004
+57,Durchlaufende Investitionsbeiträge,1973.0,1352.8,1887.0,UR,2017,620.2
+60,Übertragung von Sachanlagen in das FV,,,,UR,2017,
+61,Rückerstattungen Dritter für Investitionen,,311.8,,UR,2017,
+62,Abgang immaterielle Anlagen,,,,UR,2017,
+63,Investitionsbeiträge für eigene Rechnung,12075.6,12179.1,15313.5,UR,2017,-103.5
+64,Rückzahlung von Darlehen,22123.3,14888.2,3958.9,UR,2017,7235.0999999999985
+65,Übertragung von Beteiligungen,,,,UR,2017,
+66,Rückzahlung eigener Investitionsbeiträge,,,,UR,2017,
+67,Durchlaufende Investitionsbeiträge,1973.0,1352.8,1887.0,UR,2017,620.2
+10,Finanzvermögen,131593.6,153609.9,124672.494,UR,2017,-22016.29999999999
+14,Verwaltungsvermögen,313016.4,264809.1,304678.591,UR,2017,48207.30000000005
+20,Fremdkapital,201446.5,165063.7,186240.27999999997,UR,2017,36382.79999999999
+29,Eigenkapital,243163.6,253355.3,243110.806,UR,2017,-10191.699999999983
+30,Charges de personnel,2409775.7,2394031.35592,2447668.6,VD,2017,15744.344080000184
+31,Charges de biens et services et autres charges d'exploitation,713819.1,761729.46881,717674.1,VD,2017,-47910.368810000014
+36,Charges de transfert,5343236.7,5585757.03749,5530613.3,VD,2017,-242520.33748999983
+37,Subventions à redistribuer,561718.4,606044.79953,572901.3,VD,2017,-44326.39952999994
+39,Imputations internes,4685.1,4950.72538,5057.3,VD,2017,-265.6253799999995
+41,Patentes et concessions,41668.0,149679.54741,103613.7,VD,2017,-108011.54741
+42,Taxes,384998.6,403409.99408,387073.2,VD,2017,-18411.39408
+46,Revenus de transferts,2228500.1,2478052.48468,2314396.7,VD,2017,-249552.38468000013
+47,Subventions à redistribuer,561718.4,606044.79953,572901.3,VD,2017,-44326.39952999994
+49,Imputations internes,4685.1,4950.72538,5057.3,VD,2017,-265.6253799999995
+50,Immobilisations corporelles,405551.0,228271.85259,428644.2,VD,2017,177279.14741
+51,Investissements pour le compte de tiers,0.0,0.0,0.0,VD,2017,0.0
+52,Immobilisations incorporelles,0.0,28212.95917,0.0,VD,2017,0.0
+54,Prêts,0.0,25998.6264,0.0,VD,2017,0.0
+55,Participations et capital social,0.0,0.6,0.0,VD,2017,0.0
+56,Propres subventions d'investissement,0.0,44188.62809,0.0,VD,2017,0.0
+57,Subventions d'investissements à redistribuer,0.0,3570.032,0.0,VD,2017,0.0
+60,Transfert d'immobilisations corporelles dans le patrimoine financier,40494.0,,33576.0,VD,2017,
+61,Remboursements pour les investissements sur le compte des tiers,0.0,,,VD,2017,0.0
+62,Vente d'immobilisations incorporelles,0.0,,,VD,2017,0.0
+63,Subventions d'investissements acquises,0.0,32542.43163,,VD,2017,0.0
+64,Remboursement de prêts,0.0,25705.5217,,VD,2017,0.0
+65,Transfert de participations,0.0,,,VD,2017,0.0
+66,Remboursement de propres subventions d'investissement,0.0,106.8049,,VD,2017,0.0
+67,Subventions d'investissements à redistribuer,0.0,3570.032,,VD,2017,0.0
+10,Patrimoine Financier,0.0,6538842.8141,0.0,VD,2017,0.0
+14,Patrimoine administratif,0.0,1719891.40761,0.0,VD,2017,0.0
+20,Capitaux de tiers,0.0,5430033.59269,0.0,VD,2017,0.0
+29,Capital propre,0.0,2828700.62902,,VD,2017,0.0
+30,Charges de personnel,0,0,1038527.7,VS,2017,0
+31,Charges de biens et services et autres charges d'exploitation,0,0,297426.8,VS,2017,0
+36,Charges de transfert,0,0,1617869.1,VS,2017,0
+37,Subventions à redistribuer,0,0,144705,VS,2017,0
+39,Imputations internes,0,0,128497,VS,2017,0
+41,Patentes et concessions,0,0,70012,VS,2017,0
+42,Taxes,0,0,211577,VS,2017,0
+46,Revenus de transferts,0,0,1529703.7,VS,2017,0
+47,Subventions à redistribuer,0,0,144705,VS,2017,0
+49,Imputations internes,0,0,128497,VS,2017,0
+50,Immobilisations corporelles,0,0,297193.4,VS,2017,0
+51,Investissements pour le compte de tiers,0,0,0,VS,2017,0
+52,Immobilisations incorporelles,0,0,20953.6,VS,2017,0
+54,Prêts,0,0,49661.4,VS,2017,0
+55,Participations et capital social,0,0,0,VS,2017,0
+56,Propres subventions d'investissement,0,0,148837.1,VS,2017,0
+57,Subventions d'investissements à redistribuer,0,0,16466.4,VS,2017,0
+60,Transfert d'immobilisations corporelles dans le patrimoine financier,,,,VS,2017,
+61,Remboursements pour les investissements sur le compte des tiers,,,,VS,2017,
+62,Vente d'immobilisations incorporelles,,,,VS,2017,
+63,Subventions d'investissements acquises,,,265622.9,VS,2017,
+64,Remboursement de prêts,,,37478.7,VS,2017,
+65,Transfert de participations,,,0,VS,2017,
+66,Remboursement de propres subventions d'investissement,,,641.1,VS,2017,
+67,Subventions d'investissements à redistribuer,,,16466.4,VS,2017,
+10,Patrimoine Financier,0,0,0,VS,2017,0
+14,Patrimoine administratif,0,0,0,VS,2017,0
+20,Capitaux de tiers,0,0,0,VS,2017,0
+29,Capital propre,,,,VS,2017,
+30,Personalaufwand,319896.6,315706.89532,316101.7,ZG,2017,4189.704679999966
+31,Sach- und übriger Betriebsaufwand,99528.0,92822.73737999999,100113.479,ZG,2017,6705.262620000009
+36,Transferaufwand,868124.1,873794.1432299998,858496.876,ZG,2017,-5670.043229999836
+37,Durchlaufende Beiträge,83477.4,85705.94940000001,87694.4,ZG,2017,-2228.549400000018
+39,Interne Verrechungen,2467.4,2826.44567,3010.1,ZG,2017,-359.04567
+41,Regalien und Konzessionen,11696.3,18726.9455,18766.9,ZG,2017,-7030.645500000002
+42,Entgelte,73341.2,74097.04871999999,73826.99,ZG,2017,-755.8487199999945
+46,Transferertrag,449518.4,467983.48490000004,452734.80199999997,ZG,2017,-18465.084900000016
+47,Durchlaufende Beiträge,83477.4,85705.94940000001,87694.4,ZG,2017,-2228.549400000018
+49,Interne Verrechnungen,2467.4,2826.44567,3010.1,ZG,2017,-359.04567
+50,Sachanlagen,114844.9,133675.39187,117706.00000000001,ZG,2017,-18830.491869999998
+51,Investitionen auf Rechnung Dritter,0.0,0.0,0.0,ZG,2017,0.0
+52,Immaterielle Anlagen,0.0,0.0,0.0,ZG,2017,0.0
+54,Darlehen,3775.0,2235.0,3925.0,ZG,2017,1540.0
+55,Beteiligungen und Grundkapitalien,2850.0,2850.0,0.0,ZG,2017,0.0
+56,Eigene Investitionsbeiträge,12964.0,12026.67165,10274.0,ZG,2017,937.3283499999998
+57,Durchlaufende Investitionsbeiträge,3920.0,4596.332,5750.0,ZG,2017,-676.3320000000003
+60,Übertragung von Sachanlagen in das FV,65.0,133.63739999999999,7.999999999999999,ZG,2017,-68.63739999999999
+61,Rückerstattungen Dritter für Investitionen,0.0,0.0,0.0,ZG,2017,0.0
+62,Abgang immaterielle Anlagen,0.0,0.0,0.0,ZG,2017,0.0
+63,Investitionsbeiträge für eigene Rechnung,1235.5,3227.27657,1701.9999999999998,ZG,2017,-1991.77657
+64,Rückzahlung von Darlehen,9720.0,9362.49583,3160.0,ZG,2017,357.50417000000016
+65,Übertragung von Beteiligungen,0.0,0.0,0.0,ZG,2017,0.0
+66,Rückzahlung eigener Investitionsbeiträge,0.0,2849.82,0.0,ZG,2017,0.0
+67,Durchlaufende Investitionsbeiträge,3920.0,4596.332,5750.0,ZG,2017,-676.3320000000003
+10,Finanzvermögen,0.0,971991.6944500001,0.0,ZG,2017,0.0
+14,Verwaltungsvermögen,0.0,516386.50044000003,0.0,ZG,2017,0.0
+20,Fremdkapital,0.0,731976.16495,0.0,ZG,2017,0.0
+29,Eigenkapital,,756402.02994,,ZG,2017,

@@ -100,13 +100,22 @@ class HRM1Processor(SheetProcessor):
     @staticmethod
     def rename_columns_based_on_year(df: pd.DataFrame, base_year: str) -> pd.DataFrame:
         # Define the base renaming dictionary
-        renaming_dict = {
-            "0": "Acc-ID",
-            "0.1": "Name",
-            f"{base_year}": "Budget y",
-            f"{base_year}.1": "Realized",
-            str(int(base_year) + 1): "Budget y+1",
-        }
+        if df.columns[0] == "Unnamed: 0":
+            renaming_dict = {
+                "Unnamed: 0": "Acc-ID",
+                "Unnamed: 1": "Name",
+                f"{base_year}": "Budget y",
+                f"{base_year}.1": "Realized",
+                str(int(base_year) + 1): "Budget y+1",
+            }
+        else:
+            renaming_dict = {
+                "0": "Acc-ID",
+                "0.1": "Name",
+                f"{base_year}": "Budget y",
+                f"{base_year}.1": "Realized",
+                str(int(base_year) + 1): "Budget y+1",
+            }
 
         df.columns = df.columns.map(str)
 

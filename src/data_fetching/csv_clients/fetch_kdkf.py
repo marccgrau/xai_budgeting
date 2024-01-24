@@ -1,6 +1,6 @@
 import logging
 import re
-from typing import Optional, Tuple
+from typing import Tuple
 
 import pandas as pd
 
@@ -9,6 +9,14 @@ from src.logging_config import setup_logging
 
 setup_logging()
 logger = logging.getLogger(__name__)
+
+
+def determine_year_from_filename(file_path: str) -> str:
+    year_matches = re.findall(r"\d{4}", file_path)
+    if year_matches:
+        return year_matches[0]
+    else:
+        return "XXXX"
 
 
 def extract_hrm_region(sheet_name: str) -> Tuple[str, str]:
@@ -26,11 +34,12 @@ def extract_hrm_region(sheet_name: str) -> Tuple[str, str]:
 
 def process_excel_file(
     file_path: str,
-) -> Tuple[pd.DataFrame, pd.DataFrame, Optional[str]]:
+) -> Tuple[pd.DataFrame, pd.DataFrame, str]:
     xls = pd.ExcelFile(file_path)
     single_digit_master = pd.DataFrame()
     double_digit_master = pd.DataFrame()
-    current_year = None
+
+    current_year = determine_year_from_filename(file_path)
 
     # Step 1: Determine which regions have both HRM1 and HRM2
     region_hrm_presence = {}
@@ -61,8 +70,10 @@ def process_excel_file(
                 and hrm_type == "HRM1"
             ):
                 continue  # Skip HRM1 if both types are present
-            processor = get_hrm_processor(hrm_type, file_path, sheet_name, region)
-            single_digit_df, double_digit_df, current_year = processor.process_sheet()
+            processor = get_hrm_processor(
+                hrm_type, file_path, sheet_name, region, current_year
+            )
+            single_digit_df, double_digit_df = processor.process_sheet()
             single_digit_master = pd.concat(
                 [single_digit_master, single_digit_df], ignore_index=True
             )

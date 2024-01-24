@@ -47,6 +47,7 @@ class HRM2Processor(SheetProcessor):
         if self.current_year is None:
             raise ValueError("Current year is not defined.")
 
+        # Rename columns based on year
         df = self.rename_columns_based_on_year(df, self.current_year)
 
         # Handle NaNs
@@ -62,6 +63,7 @@ class HRM2Processor(SheetProcessor):
         # Add region and year columns
         df["Region"] = self.region
         df["Year"] = self.current_year
+        df["Slack"] = df["Budget y"] - df["Realized"]
 
         # Separate into single and double digit DataFrames
         df_single_digit = df[df["Acc-ID"].str.len() == 1].copy()
@@ -82,6 +84,7 @@ class HRM2Processor(SheetProcessor):
             "HRM 2": "Acc-ID",
             "in 1 000 Franken": "Name",
             "en 1 000 frs.": "Name",
+            f"{base_year}": "Budget y",
             f"{base_year}.3": "Realized",
             str(int(base_year) + 1): "Budget y+1",
         }

@@ -6,17 +6,17 @@ POETRY := poetry run
 
 # Define your targets
 fetch_data:
-    $(POETRY) python fetch_data.py
+	$(POETRY) python scripts/fetch_data.py
 
-process_data:
-    $(POETRY) python process_data.py
+merge_data:
+	$(POETRY) python scripts/merge_data.py
 
 # You can also add targets for installing dependencies, running tests, etc.
 install_deps:
-    poetry install
+	poetry install
 
 test:
-    $(POETRY) pytest
+	$(POETRY) pytest
 
 # Add more targets as needed
 

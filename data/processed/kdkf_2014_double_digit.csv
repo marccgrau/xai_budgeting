@@ -3,31 +3,31 @@ Acc-ID,Name,Budget y,Realized,Budget y+1,Region,Year,Slack
 31,Sach- und übriger Betriebsaufwand,2972686.192,2943690.2917,2976696.62825,ZH,2014,28995.900299999863
 36,Transferaufwand,5330363.291,5145992.16537,5449901.968,ZH,2014,184371.1256300006
 37,Durchlaufende Beiträge,649978.2,633057.6747699999,663146.64,ZH,2014,16920.52523000003
-39,Interne Verrechungen,0,0.0,0,ZH,2014,0
-41,Regalien und Konzessionen,196229,85588.66412999999,191833,ZH,2014,110640.33587000001
+39,Interne Verrechungen,0.0,0.0,0.0,ZH,2014,0.0
+41,Regalien und Konzessionen,196229.0,85588.66412999999,191833.0,ZH,2014,110640.33587000001
 42,Entgelte,2749027.599,2805375.68841,2822631.932,ZH,2014,-56348.089410000015
-46,Transferertrag,3681137.5,3654454.801,3691845,ZH,2014,26682.699000000022
+46,Transferertrag,3681137.5,3654454.801,3691845.0,ZH,2014,26682.699000000022
 47,Durchlaufende Beiträge,649978.2,633057.6747699999,663146.64,ZH,2014,16920.52523000003
-49,Interne Verrechnungen,0,0.0,0,ZH,2014,0
+49,Interne Verrechnungen,0.0,0.0,0.0,ZH,2014,0.0
 50,Sachanlagen,426479.1,711709.76681,492810.3,ZH,2014,-285230.66680999997
-51,Investitionen auf Rechnung Dritter,1495.7,1248.44475,100,ZH,2014,247.25524999999993
-52,Immaterielle Anlagen,42830.2,35102.23831,46736,ZH,2014,7727.961689999996
-54,Darlehen,52625,12386.517,28000,ZH,2014,40238.483
-55,Beteiligungen und Grundkapitalien,200,21137.607,500000,ZH,2014,-20937.607
+51,Investitionen auf Rechnung Dritter,1495.7,1248.44475,100.0,ZH,2014,247.25524999999993
+52,Immaterielle Anlagen,42830.2,35102.23831,46736.0,ZH,2014,7727.961689999996
+54,Darlehen,52625.0,12386.517,28000.0,ZH,2014,40238.483
+55,Beteiligungen und Grundkapitalien,200.0,21137.607,500000.0,ZH,2014,-20937.607
 56,Eigene Investitionsbeiträge,276350.7,197149.08351,239633.7,ZH,2014,79201.61649000001
-57,Durchlaufende Investitionsbeiträge,31730,39130.228299999995,32769,ZH,2014,-7400.228299999995
-60,Übertragung von Sachanlagen in das FV,160,733.0319599999999,210,ZH,2014,-573.0319599999999
-61,Rückerstattungen Dritter für Investitionen,1495.7,1248.44475,100,ZH,2014,247.25524999999993
-62,Abgang immaterielle Anlagen,576.5,240.4521,0,ZH,2014,336.0479
+57,Durchlaufende Investitionsbeiträge,31730.0,39130.228299999995,32769.0,ZH,2014,-7400.228299999995
+60,Übertragung von Sachanlagen in das FV,160.0,733.0319599999999,210.0,ZH,2014,-573.0319599999999
+61,Rückerstattungen Dritter für Investitionen,1495.7,1248.44475,100.0,ZH,2014,247.25524999999993
+62,Abgang immaterielle Anlagen,576.5,240.4521,0.0,ZH,2014,336.0479
 63,Investitionsbeiträge für eigene Rechnung,34758.3,73126.56423999999,23270.8,ZH,2014,-38368.26423999999
 64,Rückzahlung von Darlehen,105327.5,460376.41414999997,78362.7,ZH,2014,-355048.91414999997
-65,Übertragung von Beteiligungen,0,243.0,0,ZH,2014,0
-66,Rückzahlung eigener Investitionsbeiträge,5600,2064.3353,200,ZH,2014,3535.6647
-67,Durchlaufende Investitionsbeiträge,31730,39130.228299999995,32769,ZH,2014,-7400.228299999995
-10,Finanzvermögen,0,7297938.63749,0,ZH,2014,0
-14,Verwaltungsvermögen,0,14063378.33987,0,ZH,2014,0
-20,Fremdkapital,0,13010268.700549997,0,ZH,2014,0
-29,Eigenkapital,,8351048.276810001,0,ZH,2014,
+65,Übertragung von Beteiligungen,0.0,243.0,0.0,ZH,2014,0.0
+66,Rückzahlung eigener Investitionsbeiträge,5600.0,2064.3353,200.0,ZH,2014,3535.6647
+67,Durchlaufende Investitionsbeiträge,31730.0,39130.228299999995,32769.0,ZH,2014,-7400.228299999995
+10,Finanzvermögen,0.0,7297938.63749,0.0,ZH,2014,0.0
+14,Verwaltungsvermögen,0.0,14063378.33987,0.0,ZH,2014,0.0
+20,Fremdkapital,0.0,13010268.700549997,0.0,ZH,2014,0.0
+29,Eigenkapital,0.0,8351048.276810001,0.0,ZH,2014,0.0
 30,Personalaufwand,3029446.9,2978300.4,3049898.1,BE,2014,51146.5
 31,Sachaufwand,829773.7,746748.8,842873.2,BE,2014,83024.8999999999
 34,Passivzinsen,113810.2,102758.4,137595.4,BE,2014,11051.800000000003
@@ -64,26 +64,26 @@ Acc-ID,Name,Budget y,Realized,Budget y+1,Region,Year,Slack
 36,Transferaufwand,1685659.372,1720108.85972,1718569.61645,LU,2014,-34449.48772000009
 37,Durchlaufende Beiträge,467384.85,475799.8227,467009.309,LU,2014,-8414.972700000042
 39,Interne Verrechungen,422421.407,435222.33745,377628.11705,LU,2014,-12800.930449999985
-41,Regalien und Konzessionen,55241,28702.9215,22824.0,LU,2014,26538.0785
+41,Regalien und Konzessionen,55241.0,28702.9215,22824.0,LU,2014,26538.0785
 42,Entgelte,204948.87,205868.44239,206953.78022,LU,2014,-919.5723900000157
 46,Transferertrag,1187590.42222,1212650.1201,1185603.07801,LU,2014,-25059.697879999876
 47,Durchlaufende Beiträge,467384.85,475799.8227,467009.309,LU,2014,-8414.972700000042
 49,Interne Verrechnungen,422421.407,435222.33745,377628.11705,LU,2014,-12800.930449999985
 50,Sachanlagen,145380.001,123517.31783,143859.407,LU,2014,21862.68316999999
-51,Investitionen auf Rechnung Dritter,3400,4217.82563,1300.0,LU,2014,-817.8256300000003
+51,Investitionen auf Rechnung Dritter,3400.0,4217.82563,1300.0,LU,2014,-817.8256300000003
 52,Immaterielle Anlagen,7628.613,4994.88873,7192.18,LU,2014,2633.7242700000006
-54,Darlehen,4200,2339.405,2430.0,LU,2014,1860.5949999999998
-55,Beteiligungen und Grundkapitalien,50,100.0,900.0,LU,2014,-50.0
+54,Darlehen,4200.0,2339.405,2430.0,LU,2014,1860.5949999999998
+55,Beteiligungen und Grundkapitalien,50.0,100.0,900.0,LU,2014,-50.0
 56,Eigene Investitionsbeiträge,15622.74,25227.35682,14867.74,LU,2014,-9604.616820000001
-57,Durchlaufende Investitionsbeiträge,13475,13310.807,14175.0,LU,2014,164.1929999999993
-60,Übertragung von Sachanlagen in das FV,200,680.15114,200.0,LU,2014,-480.15114000000005
-61,Rückerstattungen Dritter für Investitionen,3400,4217.82563,1300.0,LU,2014,-817.8256300000003
-62,Abgang immaterielle Anlagen,0,0.0,0.0,LU,2014,0
-63,Investitionsbeiträge für eigene Rechnung,30421,28152.65436,29286.961,LU,2014,2268.3456399999995
+57,Durchlaufende Investitionsbeiträge,13475.0,13310.807,14175.0,LU,2014,164.1929999999993
+60,Übertragung von Sachanlagen in das FV,200.0,680.15114,200.0,LU,2014,-480.15114000000005
+61,Rückerstattungen Dritter für Investitionen,3400.0,4217.82563,1300.0,LU,2014,-817.8256300000003
+62,Abgang immaterielle Anlagen,0.0,0.0,0.0,LU,2014,0.0
+63,Investitionsbeiträge für eigene Rechnung,30421.0,28152.65436,29286.961,LU,2014,2268.3456399999995
 64,Rückzahlung von Darlehen,2296.2,3181.6525,2318.1,LU,2014,-885.4525000000003
-65,Übertragung von Beteiligungen,0,0.0,0.0,LU,2014,0
-66,Rückzahlung eigener Investitionsbeiträge,30,16.82375,30.0,LU,2014,13.17625
-67,Durchlaufende Investitionsbeiträge,13475,13310.807,14175.0,LU,2014,164.1929999999993
+65,Übertragung von Beteiligungen,0.0,0.0,0.0,LU,2014,0.0
+66,Rückzahlung eigener Investitionsbeiträge,30.0,16.82375,30.0,LU,2014,13.17625
+67,Durchlaufende Investitionsbeiträge,13475.0,13310.807,14175.0,LU,2014,164.1929999999993
 10,Finanzvermögen,1454676.423,1501780.5992800002,1494890.2519999999,LU,2014,-47104.17628000025
 14,Verwaltungsvermögen,4735893.20112,4696053.24678,4724673.16003,LU,2014,39839.95434000064
 20,Fremdkapital,2363432.99621,2401400.0235800003,2416853.7769799996,LU,2014,-37967.02737000026
@@ -91,32 +91,32 @@ Acc-ID,Name,Budget y,Realized,Budget y+1,Region,Year,Slack
 30,Personalaufwand,103146.47,102534.5,103449.6,UR,2014,611.9700000000012
 31,Sach- und übriger Betriebsaufwand,55030.6,50006.4,54853.6,UR,2014,5024.199999999997
 36,Transferaufwand,182645.11,171041.5,189598.3,UR,2014,11603.609999999986
-37,Durchlaufende Beiträge,30083,31513.6,32436.5,UR,2014,-1430.5999999999985
-39,Interne Verrechungen,16463,16257.1,16593.8,UR,2014,205.89999999999964
-41,Regalien und Konzessionen,30921.5,25698.1,34859,UR,2014,5223.4000000000015
-42,Entgelte,23820.95,24219.2,23505,UR,2014,-398.25
+37,Durchlaufende Beiträge,30083.0,31513.6,32436.5,UR,2014,-1430.5999999999985
+39,Interne Verrechungen,16463.0,16257.1,16593.8,UR,2014,205.89999999999964
+41,Regalien und Konzessionen,30921.5,25698.1,34859.0,UR,2014,5223.4000000000015
+42,Entgelte,23820.95,24219.2,23505.0,UR,2014,-398.25
 46,Transferertrag,205814.96,197514.6,205451.7,UR,2014,8300.359999999986
-47,Durchlaufende Beiträge,30083,31513.6,32436.5,UR,2014,-1430.5999999999985
-49,Interne Verrechnungen,16463,16257.1,16593.8,UR,2014,205.89999999999964
-50,Sachanlagen,25988,26696.2,21035,UR,2014,-708.2000000000007
-51,Investitionen auf Rechnung Dritter,,25.0,0,UR,2014,
+47,Durchlaufende Beiträge,30083.0,31513.6,32436.5,UR,2014,-1430.5999999999985
+49,Interne Verrechnungen,16463.0,16257.1,16593.8,UR,2014,205.89999999999964
+50,Sachanlagen,25988.0,26696.2,21035.0,UR,2014,-708.2000000000007
+51,Investitionen auf Rechnung Dritter,0.0,25.0,0.0,UR,2014,0.0
 52,Immaterielle Anlagen,339.5,287.2,439.5,UR,2014,52.30000000000001
 54,Darlehen,28208.3,1042.9,21937.7,UR,2014,27165.399999999998
-55,Beteiligungen und Grundkapitalien,,210.0,690,UR,2014,
-56,Eigene Investitionsbeiträge,12929,12052.8,12484,UR,2014,876.2000000000007
-57,Durchlaufende Investitionsbeiträge,1736.7,1791.3,1970,UR,2014,-54.59999999999991
-60,Übertragung von Sachanlagen in das FV,,0.0,0,UR,2014,
-61,Rückerstattungen Dritter für Investitionen,,25.0,0,UR,2014,
-62,Abgang immaterielle Anlagen,,0.0,0,UR,2014,
-63,Investitionsbeiträge für eigene Rechnung,17136,14502.4,11319.4,UR,2014,2633.6000000000004
+55,Beteiligungen und Grundkapitalien,0.0,210.0,690.0,UR,2014,0.0
+56,Eigene Investitionsbeiträge,12929.0,12052.8,12484.0,UR,2014,876.2000000000007
+57,Durchlaufende Investitionsbeiträge,1736.7,1791.3,1970.0,UR,2014,-54.59999999999991
+60,Übertragung von Sachanlagen in das FV,0.0,0.0,0.0,UR,2014,0.0
+61,Rückerstattungen Dritter für Investitionen,0.0,25.0,0.0,UR,2014,0.0
+62,Abgang immaterielle Anlagen,0.0,0.0,0.0,UR,2014,0.0
+63,Investitionsbeiträge für eigene Rechnung,17136.0,14502.4,11319.4,UR,2014,2633.6000000000004
 64,Rückzahlung von Darlehen,28118.3,1006.7,21849.7,UR,2014,27111.6
-65,Übertragung von Beteiligungen,,6.0,0,UR,2014,
-66,Rückzahlung eigener Investitionsbeiträge,,0.0,0,UR,2014,
-67,Durchlaufende Investitionsbeiträge,1736.7,1791.3,1970,UR,2014,-54.59999999999991
-10,Finanzvermögen,0,164536.1,0,UR,2014,0
-14,Verwaltungsvermögen,0,204162.4,0,UR,2014,0
-20,Fremdkapital,0,147713.6,0,UR,2014,0
-29,Eigenkapital,,220985.1,,UR,2014,
+65,Übertragung von Beteiligungen,0.0,6.0,0.0,UR,2014,0.0
+66,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,0.0,UR,2014,0.0
+67,Durchlaufende Investitionsbeiträge,1736.7,1791.3,1970.0,UR,2014,-54.59999999999991
+10,Finanzvermögen,0.0,164536.1,0.0,UR,2014,0.0
+14,Verwaltungsvermögen,0.0,204162.4,0.0,UR,2014,0.0
+20,Fremdkapital,0.0,147713.6,0.0,UR,2014,0.0
+29,Eigenkapital,0.0,220985.1,0.0,UR,2014,0.0
 30,Personalaufwand,220971.0,255684.0,224787.0,SZ,2014,-34713.0
 31,Sachaufwand,89771.0,84721.0,88524.0,SZ,2014,5050.0
 34,Passivzinsen,5234.0,5278.0,5281.0,SZ,2014,-44.0
@@ -126,7 +126,7 @@ Acc-ID,Name,Budget y,Realized,Budget y+1,Region,Year,Slack
 37,"Anteile, Entschädigungen, Beiträge",215940.0,218547.25,229080.5,SZ,2014,-2607.25
 35,Einlagen in Spezialfinanzierungen/Fonds,800.0,967.0,770.0,SZ,2014,-167.0
 39,Interne Verrechnungen (Aufwand),105149.0,98919.0,83282.0,SZ,2014,6230.0
-42,Vermögenserträge,50890,48804,42898.0,SZ,2014,2086
+42,Vermögenserträge,50890.0,48804.0,42898.0,SZ,2014,2086.0
 41,Konzessionen/Entgelte (Gebühren),36934.5,38161.0,36849.0,SZ,2014,-1226.5
 43,Konzessionen/Entgelte (Gebühren),36934.5,38161.0,36849.0,SZ,2014,-1226.5
 44,"Anteile, Rückerstattungen, Beiträge",113260.0,108126.25,110444.5,SZ,2014,5133.75
@@ -136,76 +136,76 @@ Acc-ID,Name,Budget y,Realized,Budget y+1,Region,Year,Slack
 45,Entnahme aus Spezialfinanzierungen,5923.0,12760.0,34504.0,SZ,2014,-6837.0
 49,Interne Verrechnungen (Ertrag),105149.0,98919.0,83282.0,SZ,2014,6230.0
 50,Sachgüter,76380.0,69500.0,101620.0,SZ,2014,6880.0
-54,Darlehen und Beteiligungen,0.0,515.0,0.0,SZ,2014,0
+54,Darlehen und Beteiligungen,0.0,515.0,0.0,SZ,2014,0.0
 56,"Investitionsbeiträge,übrige Investitionen",15341.666666666666,12255.666666666666,13270.666666666666,SZ,2014,3086.0
 57,"Investitionsbeiträge,übrige Investitionen",15341.666666666666,12255.666666666666,13270.666666666666,SZ,2014,3086.0
 58,"Investitionsbeiträge,übrige Investitionen",15341.666666666666,12255.666666666666,13270.666666666666,SZ,2014,3086.0
-60,"Abgang Sachgüter, Nutzungsabgaben",0.0,52.5,0.0,SZ,2014,0
-61,"Abgang Sachgüter, Nutzungsabgaben",0.0,52.5,0.0,SZ,2014,0
+60,"Abgang Sachgüter, Nutzungsabgaben",0.0,52.5,0.0,SZ,2014,0.0
+61,"Abgang Sachgüter, Nutzungsabgaben",0.0,52.5,0.0,SZ,2014,0.0
 62,"Rückzahlung,Rückerstattung,Invest.-Beitr.",6935.0,5663.666666666666,7709.666666666666,SZ,2014,1271.333333333334
 63,"Rückzahlung,Rückerstattung,Invest.-Beitr.",6935.0,5663.666666666666,7709.666666666666,SZ,2014,1271.333333333334
 64,"Rückzahlung,Rückerstattung,Invest.-Beitr.",6935.0,5663.666666666666,7709.666666666666,SZ,2014,1271.333333333334
 65,"Rückzahlung,Rückerstattung,Invest.-Beitr.",6935.0,5663.666666666666,7709.666666666666,SZ,2014,1271.333333333334
 66,"Rückzahlung,Rückerstattung,Invest.-Beitr.",6935.0,5663.666666666666,7709.666666666666,SZ,2014,1271.333333333334
 67,"Rückzahlung,Rückerstattung,Invest.-Beitr.",6935.0,5663.666666666666,7709.666666666666,SZ,2014,1271.333333333334
-30,Personalaufwand,55479,55500.0,55866,OW,2014,-21.0
-31,Sach- und übriger Betriebsaufwand,28715,28430.0,29009,OW,2014,285.0
-36,Transferaufwand,147399,143468.0,148985,OW,2014,3931.0
-37,Durchlaufende Beiträge,38661,39289.0,40293,OW,2014,-628.0
-39,Interne Verrechungen,22630,22507.0,22283,OW,2014,123.0
-41,Regalien und Konzessionen,7470,4431.0,4622,OW,2014,3039.0
-42,Entgelte,17279,18083.0,18428,OW,2014,-804.0
-46,Transferertrag,86602,87620.0,86068,OW,2014,-1018.0
-47,Durchlaufende Beiträge,38661,39288.0,40293,OW,2014,-627.0
-49,Interne Verrechnungen,22630,22506.0,22283,OW,2014,124.0
-50,Sachanlagen,24430,15628.0,13356,OW,2014,8802.0
-51,Investitionen auf Rechnung Dritter,6257,3985.0,2282,OW,2014,2272.0
-52,Immaterielle Anlagen,719,593.0,1062,OW,2014,126.0
-54,Darlehen,738,125.0,787,OW,2014,613.0
-55,Beteiligungen und Grundkapitalien,0,342.0,0,OW,2014,0
-56,Eigene Investitionsbeiträge,9583,10170.0,7202,OW,2014,-587.0
-57,Durchlaufende Investitionsbeiträge,14313,12984.0,11663,OW,2014,1329.0
-60,Übertragung von Sachanlagen in das FV,0,33.0,0,OW,2014,0
-61,Rückerstattungen Dritter für Investitionen,9975,4593.0,6021,OW,2014,5382.0
-62,Abgang immaterielle Anlagen,0,0.0,0,OW,2014,0
-63,Investitionsbeiträge für eigene Rechnung,184,506.0,1356,OW,2014,-322.0
-64,Rückzahlung von Darlehen,1033,988.0,882,OW,2014,45.0
-65,Übertragung von Beteiligungen,0,0.0,0,OW,2014,0
-66,Rückzahlung eigener Investitionsbeiträge,0,0.0,0,OW,2014,0
-67,Durchlaufende Investitionsbeiträge,14313,12984.0,11663,OW,2014,1329.0
-10,Finanzvermögen,0,173549.0,0,OW,2014,0
-14,Verwaltungsvermögen,0,135339.0,0,OW,2014,0
-20,Fremdkapital,0,133378.0,0,OW,2014,0
-29,Eigenkapital,,175510.0,,OW,2014,
-30,Personalaufwand,76049.9,74915.6,76471,NW,2014,1134.2999999999884
-31,Sach- und übriger Betriebsaufwand,30373.6,29150.5,28287,NW,2014,1223.0999999999985
-36,Transferaufwand,199700.9,198838.1,204654,NW,2014,862.7999999999884
-37,Durchlaufende Beiträge,22219.5,23894.0,22654,NW,2014,-1674.5
-39,Interne Verrechungen,30954.7,31786.0,31451,NW,2014,-831.2999999999993
-41,Regalien und Konzessionen,11960.6,8258.1,10541,NW,2014,3702.5
-42,Entgelte,20655.6,19089.7,19221,NW,2014,1565.8999999999978
-46,Transferertrag,84568,94692.7,87520,NW,2014,-10124.699999999997
-47,Durchlaufende Beiträge,22219.5,23894.0,22654,NW,2014,-1674.5
-49,Interne Verrechnungen,30954.7,31786.0,31451,NW,2014,-831.2999999999993
-50,Sachanlagen,10419,10090.7,10849,NW,2014,328.2999999999993
-51,Investitionen auf Rechnung Dritter,0,0.0,0,NW,2014,0
-52,Immaterielle Anlagen,1222,1040.3,1213,NW,2014,181.70000000000005
-54,Darlehen,2575,1505.7,1570,NW,2014,1069.3
-55,Beteiligungen und Grundkapitalien,0,383.6,0,NW,2014,0
-56,Eigene Investitionsbeiträge,18278,13248.6,22825,NW,2014,5029.4
-57,Durchlaufende Investitionsbeiträge,2630,1030.2,2580,NW,2014,1599.8
-60,Übertragung von Sachanlagen in das FV,0,0.0,0,NW,2014,0
-61,Rückerstattungen Dritter für Investitionen,0,0.0,0,NW,2014,0
-62,Abgang immaterielle Anlagen,0,0.0,0,NW,2014,0
-63,Investitionsbeiträge für eigene Rechnung,12388,11122.0,13975,NW,2014,1266.0
-64,Rückzahlung von Darlehen,1508,1529.8,1526,NW,2014,-21.799999999999955
-65,Übertragung von Beteiligungen,0,84.6,0,NW,2014,0
-66,Rückzahlung eigener Investitionsbeiträge,0,0.0,0,NW,2014,0
-67,Durchlaufende Investitionsbeiträge,2630,1030.2,2580,NW,2014,1599.8
-10,Finanzvermögen,0,238917.00000000003,0,NW,2014,0
-14,Verwaltungsvermögen,0,152694.0,0,NW,2014,0
-20,Fremdkapital,0,292596.89999999997,0,NW,2014,0
-29,Eigenkapital,,99014.0,,NW,2014,
+30,Personalaufwand,55479.0,55500.0,55866.0,OW,2014,-21.0
+31,Sach- und übriger Betriebsaufwand,28715.0,28430.0,29009.0,OW,2014,285.0
+36,Transferaufwand,147399.0,143468.0,148985.0,OW,2014,3931.0
+37,Durchlaufende Beiträge,38661.0,39289.0,40293.0,OW,2014,-628.0
+39,Interne Verrechungen,22630.0,22507.0,22283.0,OW,2014,123.0
+41,Regalien und Konzessionen,7470.0,4431.0,4622.0,OW,2014,3039.0
+42,Entgelte,17279.0,18083.0,18428.0,OW,2014,-804.0
+46,Transferertrag,86602.0,87620.0,86068.0,OW,2014,-1018.0
+47,Durchlaufende Beiträge,38661.0,39288.0,40293.0,OW,2014,-627.0
+49,Interne Verrechnungen,22630.0,22506.0,22283.0,OW,2014,124.0
+50,Sachanlagen,24430.0,15628.0,13356.0,OW,2014,8802.0
+51,Investitionen auf Rechnung Dritter,6257.0,3985.0,2282.0,OW,2014,2272.0
+52,Immaterielle Anlagen,719.0,593.0,1062.0,OW,2014,126.0
+54,Darlehen,738.0,125.0,787.0,OW,2014,613.0
+55,Beteiligungen und Grundkapitalien,0.0,342.0,0.0,OW,2014,0.0
+56,Eigene Investitionsbeiträge,9583.0,10170.0,7202.0,OW,2014,-587.0
+57,Durchlaufende Investitionsbeiträge,14313.0,12984.0,11663.0,OW,2014,1329.0
+60,Übertragung von Sachanlagen in das FV,0.0,33.0,0.0,OW,2014,0.0
+61,Rückerstattungen Dritter für Investitionen,9975.0,4593.0,6021.0,OW,2014,5382.0
+62,Abgang immaterielle Anlagen,0.0,0.0,0.0,OW,2014,0.0
+63,Investitionsbeiträge für eigene Rechnung,184.0,506.0,1356.0,OW,2014,-322.0
+64,Rückzahlung von Darlehen,1033.0,988.0,882.0,OW,2014,45.0
+65,Übertragung von Beteiligungen,0.0,0.0,0.0,OW,2014,0.0
+66,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,0.0,OW,2014,0.0
+67,Durchlaufende Investitionsbeiträge,14313.0,12984.0,11663.0,OW,2014,1329.0
+10,Finanzvermögen,0.0,173549.0,0.0,OW,2014,0.0
+14,Verwaltungsvermögen,0.0,135339.0,0.0,OW,2014,0.0
+20,Fremdkapital,0.0,133378.0,0.0,OW,2014,0.0
+29,Eigenkapital,0.0,175510.0,0.0,OW,2014,0.0
+30,Personalaufwand,76049.9,74915.6,76471.0,NW,2014,1134.2999999999884
+31,Sach- und übriger Betriebsaufwand,30373.6,29150.5,28287.0,NW,2014,1223.0999999999985
+36,Transferaufwand,199700.9,198838.1,204654.0,NW,2014,862.7999999999884
+37,Durchlaufende Beiträge,22219.5,23894.0,22654.0,NW,2014,-1674.5
+39,Interne Verrechungen,30954.7,31786.0,31451.0,NW,2014,-831.2999999999993
+41,Regalien und Konzessionen,11960.6,8258.1,10541.0,NW,2014,3702.5
+42,Entgelte,20655.6,19089.7,19221.0,NW,2014,1565.8999999999978
+46,Transferertrag,84568.0,94692.7,87520.0,NW,2014,-10124.699999999997
+47,Durchlaufende Beiträge,22219.5,23894.0,22654.0,NW,2014,-1674.5
+49,Interne Verrechnungen,30954.7,31786.0,31451.0,NW,2014,-831.2999999999993
+50,Sachanlagen,10419.0,10090.7,10849.0,NW,2014,328.2999999999993
+51,Investitionen auf Rechnung Dritter,0.0,0.0,0.0,NW,2014,0.0
+52,Immaterielle Anlagen,1222.0,1040.3,1213.0,NW,2014,181.70000000000005
+54,Darlehen,2575.0,1505.7,1570.0,NW,2014,1069.3
+55,Beteiligungen und Grundkapitalien,0.0,383.6,0.0,NW,2014,0.0
+56,Eigene Investitionsbeiträge,18278.0,13248.6,22825.0,NW,2014,5029.4
+57,Durchlaufende Investitionsbeiträge,2630.0,1030.2,2580.0,NW,2014,1599.8
+60,Übertragung von Sachanlagen in das FV,0.0,0.0,0.0,NW,2014,0.0
+61,Rückerstattungen Dritter für Investitionen,0.0,0.0,0.0,NW,2014,0.0
+62,Abgang immaterielle Anlagen,0.0,0.0,0.0,NW,2014,0.0
+63,Investitionsbeiträge für eigene Rechnung,12388.0,11122.0,13975.0,NW,2014,1266.0
+64,Rückzahlung von Darlehen,1508.0,1529.8,1526.0,NW,2014,-21.799999999999955
+65,Übertragung von Beteiligungen,0.0,84.6,0.0,NW,2014,0.0
+66,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,0.0,NW,2014,0.0
+67,Durchlaufende Investitionsbeiträge,2630.0,1030.2,2580.0,NW,2014,1599.8
+10,Finanzvermögen,0.0,238917.00000000003,0.0,NW,2014,0.0
+14,Verwaltungsvermögen,0.0,152694.0,0.0,NW,2014,0.0
+20,Fremdkapital,0.0,292596.89999999997,0.0,NW,2014,0.0
+29,Eigenkapital,0.0,99014.0,0.0,NW,2014,0.0
 30,Personalaufwand,71118.8,69747.0,73666.0,GL,2014,1371.800000000003
 31,Sach- und übriger Betriebsaufwand,29158.2,29982.0,29733.0,GL,2014,-823.7999999999993
 36,Transferaufwand,168625.3,180876.0,177297.0,GL,2014,-12250.700000000012
@@ -217,24 +217,24 @@ Acc-ID,Name,Budget y,Realized,Budget y+1,Region,Year,Slack
 47,Durchlaufende Beiträge,25041.3,26582.0,29325.0,GL,2014,-1540.7000000000007
 49,Interne Verrechnungen,10307.3,10770.0,10560.0,GL,2014,-462.7000000000007
 50,Sachanlagen,13784.5,12923.0,11118.0,GL,2014,861.5
-51,Investitionen auf Rechnung Dritter,0,0.0,0.0,GL,2014,0
+51,Investitionen auf Rechnung Dritter,0.0,0.0,0.0,GL,2014,0.0
 52,Immaterielle Anlagen,682.5,651.0,563.0,GL,2014,31.5
-54,Darlehen,575,1650.0,75.0,GL,2014,-1075.0
-55,Beteiligungen und Grundkapitalien,0,8450.0,0.0,GL,2014,0
+54,Darlehen,575.0,1650.0,75.0,GL,2014,-1075.0
+55,Beteiligungen und Grundkapitalien,0.0,8450.0,0.0,GL,2014,0.0
 56,Eigene Investitionsbeiträge,14883.9,11734.0,17078.0,GL,2014,3149.8999999999996
-57,Durchlaufende Investitionsbeiträge,2225,1961.0,2475.0,GL,2014,264.0
-60,Übertragung von Sachanlagen in das FV,0,0.0,0.0,GL,2014,0
-61,Rückerstattungen Dritter für Investitionen,0,58.0,0.0,GL,2014,0
-62,Abgang immaterielle Anlagen,0,0.0,0.0,GL,2014,0
+57,Durchlaufende Investitionsbeiträge,2225.0,1961.0,2475.0,GL,2014,264.0
+60,Übertragung von Sachanlagen in das FV,0.0,0.0,0.0,GL,2014,0.0
+61,Rückerstattungen Dritter für Investitionen,0.0,58.0,0.0,GL,2014,0.0
+62,Abgang immaterielle Anlagen,0.0,0.0,0.0,GL,2014,0.0
 63,Investitionsbeiträge für eigene Rechnung,7540.8,9175.0,10430.0,GL,2014,-1634.1999999999998
-64,Rückzahlung von Darlehen,570,3641.0,410.0,GL,2014,-3071.0
-65,Übertragung von Beteiligungen,0,1004.0,0.0,GL,2014,0
-66,Rückzahlung eigener Investitionsbeiträge,0,0.0,0.0,GL,2014,0
-67,Durchlaufende Investitionsbeiträge,2225,1961.0,2475.0,GL,2014,264.0
-10,Finanzvermögen,0,381364.0,0.0,GL,2014,0
-14,Verwaltungsvermögen,0,195139.0,0.0,GL,2014,0
-20,Fremdkapital,0,165020.0,0.0,GL,2014,0
-29,Eigenkapital,,411483.0,,GL,2014,
+64,Rückzahlung von Darlehen,570.0,3641.0,410.0,GL,2014,-3071.0
+65,Übertragung von Beteiligungen,0.0,1004.0,0.0,GL,2014,0.0
+66,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,0.0,GL,2014,0.0
+67,Durchlaufende Investitionsbeiträge,2225.0,1961.0,2475.0,GL,2014,264.0
+10,Finanzvermögen,0.0,381364.0,0.0,GL,2014,0.0
+14,Verwaltungsvermögen,0.0,195139.0,0.0,GL,2014,0.0
+20,Fremdkapital,0.0,165020.0,0.0,GL,2014,0.0
+29,Eigenkapital,0.0,411483.0,0.0,GL,2014,0.0
 30,Personalaufwand,318029.24,316793.01656,322775.14,ZG,2014,1236.2234399999725
 31,Sach- und übriger Betriebsaufwand,118398.689,108210.2885,106215.53959999999,ZG,2014,10188.400500000003
 36,Transferaufwand,818001.7,810229.71283,853050.336,ZG,2014,7771.9871699999785
@@ -245,141 +245,141 @@ Acc-ID,Name,Budget y,Realized,Budget y+1,Region,Year,Slack
 46,Transferertrag,453237.82,424306.9345,435472.5530000001,ZG,2014,28930.885500000033
 47,Durchlaufende Beiträge,82707.8,82305.21255,86329.4,ZG,2014,402.58745000000636
 49,Interne Verrechnungen,3143.1,3148.6015700000003,3191.4,ZG,2014,-5.501570000000356
-50,Sachanlagen,100542,105178.81994,89471,ZG,2014,-4636.819940000001
-51,Investitionen auf Rechnung Dritter,0,0.0,0,ZG,2014,0
-52,Immaterielle Anlagen,0,0.0,0,ZG,2014,0
-54,Darlehen,3680,2856.5,3600.0000000000005,ZG,2014,823.5
-55,Beteiligungen und Grundkapitalien,0,0.0,0,ZG,2014,0
+50,Sachanlagen,100542.0,105178.81994,89471.0,ZG,2014,-4636.819940000001
+51,Investitionen auf Rechnung Dritter,0.0,0.0,0.0,ZG,2014,0.0
+52,Immaterielle Anlagen,0.0,0.0,0.0,ZG,2014,0.0
+54,Darlehen,3680.0,2856.5,3600.0000000000005,ZG,2014,823.5
+55,Beteiligungen und Grundkapitalien,0.0,0.0,0.0,ZG,2014,0.0
 56,Eigene Investitionsbeiträge,13028.2,4029.4364000000005,5898.3,ZG,2014,8998.7636
-57,Durchlaufende Investitionsbeiträge,5350,2792.22655,3352.9999999999995,ZG,2014,2557.77345
-60,Übertragung von Sachanlagen in das FV,5,30.912909999999997,5,ZG,2014,-25.912909999999997
-61,Rückerstattungen Dritter für Investitionen,0,22.89,0,ZG,2014,0
-62,Abgang immaterielle Anlagen,,0.0,0,ZG,2014,
+57,Durchlaufende Investitionsbeiträge,5350.0,2792.22655,3352.9999999999995,ZG,2014,2557.77345
+60,Übertragung von Sachanlagen in das FV,5.0,30.912909999999997,5.0,ZG,2014,-25.912909999999997
+61,Rückerstattungen Dritter für Investitionen,0.0,22.89,0.0,ZG,2014,0.0
+62,Abgang immaterielle Anlagen,0.0,0.0,0.0,ZG,2014,0.0
 63,Investitionsbeiträge für eigene Rechnung,15422.5,15372.03515,6682.635,ZG,2014,50.4648500000003
-64,Rückzahlung von Darlehen,3000,3209.5166099999997,3018,ZG,2014,-209.51660999999967
-65,Übertragung von Beteiligungen,0,0.0,0,ZG,2014,0
-66,Rückzahlung eigener Investitionsbeiträge,0,21.14175,0,ZG,2014,0
-67,Durchlaufende Investitionsbeiträge,5350,2792.22655,3352.9999999999995,ZG,2014,2557.77345
-10,Finanzvermögen,0,1214743.27789,0,ZG,2014,0
-14,Verwaltungsvermögen,0,460628.47169,0,ZG,2014,0
-20,Fremdkapital,0,664904.69737,0,ZG,2014,0
-29,Eigenkapital,,1010467.05221,,ZG,2014,
-30,Charges de personnel,1174614,1181998.0,1185564.0,FR,2014,-7384.0
-31,Charges de biens et services et autres charges d'exploitation,323144,328246.0,339790.0,FR,2014,-5102.0
-36,Charges de transfert,1327486,1367621.0,1358100.0,FR,2014,-40135.0
-37,Subventions à redistribuer,225791,222085.0,222979.0,FR,2014,3706.0
-39,Imputations internes,26634,28667.0,29322.0,FR,2014,-2033.0
-41,Patentes et concessions,59983,37334.0,35671.0,FR,2014,22649.0
-42,Taxes,215461,235470.0,221774.0,FR,2014,-20009.0
-46,Revenus de transferts,1378706,1402577.0,1378977.0,FR,2014,-23871.0
-47,Subventions à redistribuer,225791,223567.0,222979.0,FR,2014,2224.0
-49,Imputations internes,26634,28667.0,29322.0,FR,2014,-2033.0
-50,Immobilisations corporelles,118367,108854.0,112678.0,FR,2014,9513.0
-51,Investissements pour le compte de tiers,,0.0,0.0,FR,2014,
-52,Immobilisations incorporelles,,0.0,0.0,FR,2014,
-54,Prêts,15517,8184.0,12399.0,FR,2014,7333.0
-55,Participations et capital social,1000,0.0,1000.0,FR,2014,1000.0
-56,Propres subventions d'investissement,46844,43809.0,39169.0,FR,2014,3035.0
-57,Subventions d'investissements à redistribuer,14805,14433.0,20222.0,FR,2014,372.0
-60,Transfert d'immobilisations corporelles dans le patrimoine financier,0,31.0,0.0,FR,2014,0
-61,Remboursements pour les investissements sur le compte des tiers,0,182.0,0.0,FR,2014,0
-62,Vente d'immobilisations incorporelles,0,0.0,0.0,FR,2014,0
-63,Subventions d'investissements acquises,27086,34666.0,15168.0,FR,2014,-7580.0
-64,Remboursement de prêts,10303,8562.0,10762.0,FR,2014,1741.0
-65,Transfert de participations,0,0.0,0.0,FR,2014,0
-66,Remboursement de propres subventions d'investissement,70,126.0,70.0,FR,2014,-56.0
-67,Subventions d'investissements à redistribuer,14805,14291.0,20222.0,FR,2014,514.0
-10,Patrimoine Financier,0,1826332.0,0.0,FR,2014,0
-14,Patrimoine administratif,0,844837.0,0.0,FR,2014,0
-20,Capitaux de tiers,0,1123086.0,0.0,FR,2014,0
-29,Capital propre,,1548083.0,,FR,2014,
+64,Rückzahlung von Darlehen,3000.0,3209.5166099999997,3018.0,ZG,2014,-209.51660999999967
+65,Übertragung von Beteiligungen,0.0,0.0,0.0,ZG,2014,0.0
+66,Rückzahlung eigener Investitionsbeiträge,0.0,21.14175,0.0,ZG,2014,0.0
+67,Durchlaufende Investitionsbeiträge,5350.0,2792.22655,3352.9999999999995,ZG,2014,2557.77345
+10,Finanzvermögen,0.0,1214743.27789,0.0,ZG,2014,0.0
+14,Verwaltungsvermögen,0.0,460628.47169,0.0,ZG,2014,0.0
+20,Fremdkapital,0.0,664904.69737,0.0,ZG,2014,0.0
+29,Eigenkapital,0.0,1010467.05221,0.0,ZG,2014,0.0
+30,Charges de personnel,1174614.0,1181998.0,1185564.0,FR,2014,-7384.0
+31,Charges de biens et services et autres charges d'exploitation,323144.0,328246.0,339790.0,FR,2014,-5102.0
+36,Charges de transfert,1327486.0,1367621.0,1358100.0,FR,2014,-40135.0
+37,Subventions à redistribuer,225791.0,222085.0,222979.0,FR,2014,3706.0
+39,Imputations internes,26634.0,28667.0,29322.0,FR,2014,-2033.0
+41,Patentes et concessions,59983.0,37334.0,35671.0,FR,2014,22649.0
+42,Taxes,215461.0,235470.0,221774.0,FR,2014,-20009.0
+46,Revenus de transferts,1378706.0,1402577.0,1378977.0,FR,2014,-23871.0
+47,Subventions à redistribuer,225791.0,223567.0,222979.0,FR,2014,2224.0
+49,Imputations internes,26634.0,28667.0,29322.0,FR,2014,-2033.0
+50,Immobilisations corporelles,118367.0,108854.0,112678.0,FR,2014,9513.0
+51,Investissements pour le compte de tiers,0.0,0.0,0.0,FR,2014,0.0
+52,Immobilisations incorporelles,0.0,0.0,0.0,FR,2014,0.0
+54,Prêts,15517.0,8184.0,12399.0,FR,2014,7333.0
+55,Participations et capital social,1000.0,0.0,1000.0,FR,2014,1000.0
+56,Propres subventions d'investissement,46844.0,43809.0,39169.0,FR,2014,3035.0
+57,Subventions d'investissements à redistribuer,14805.0,14433.0,20222.0,FR,2014,372.0
+60,Transfert d'immobilisations corporelles dans le patrimoine financier,0.0,31.0,0.0,FR,2014,0.0
+61,Remboursements pour les investissements sur le compte des tiers,0.0,182.0,0.0,FR,2014,0.0
+62,Vente d'immobilisations incorporelles,0.0,0.0,0.0,FR,2014,0.0
+63,Subventions d'investissements acquises,27086.0,34666.0,15168.0,FR,2014,-7580.0
+64,Remboursement de prêts,10303.0,8562.0,10762.0,FR,2014,1741.0
+65,Transfert de participations,0.0,0.0,0.0,FR,2014,0.0
+66,Remboursement de propres subventions d'investissement,70.0,126.0,70.0,FR,2014,-56.0
+67,Subventions d'investissements à redistribuer,14805.0,14291.0,20222.0,FR,2014,514.0
+10,Patrimoine Financier,0.0,1826332.0,0.0,FR,2014,0.0
+14,Patrimoine administratif,0.0,844837.0,0.0,FR,2014,0.0
+20,Capitaux de tiers,0.0,1123086.0,0.0,FR,2014,0.0
+29,Capital propre,0.0,1548083.0,0.0,FR,2014,0.0
 30,Personalaufwand,449278.154,436336.0,446249.4,SO,2014,12942.15399999998
 31,Sach- und übriger Betriebsaufwand,183822.77,180192.6,180266.3,SO,2014,3630.1699999999837
 36,Transferaufwand,1205302.564,1198837.4,1181806.2,SO,2014,6465.164000000106
-37,Durchlaufende Beiträge,81819,79891.6,98540.3,SO,2014,1927.3999999999942
-39,Interne Verrechungen,0,0.0,0,SO,2014,0
+37,Durchlaufende Beiträge,81819.0,79891.6,98540.3,SO,2014,1927.3999999999942
+39,Interne Verrechungen,0.0,0.0,0.0,SO,2014,0.0
 41,Regalien und Konzessionen,30515.9,9537.5,9060.8,SO,2014,20978.4
 42,Entgelte,153263.23,164776.9,158416.2,SO,2014,-11513.669999999984
 46,Transferertrag,665089.8,675251.1,683567.9,SO,2014,-10161.29999999993
-47,Durchlaufende Beiträge,81810,79891.6,98540.3,SO,2014,1918.3999999999942
-49,Interne Verrechnungen,0,0.0,0,SO,2014,0
-50,Sachanlagen,155192.7,107263.0,153447,SO,2014,47929.70000000001
-51,Investitionen auf Rechnung Dritter,0,0.0,0,SO,2014,0
-52,Immaterielle Anlagen,0,0.0,0,SO,2014,0
-54,Darlehen,11350,15157.4,7900,SO,2014,-3807.3999999999996
-55,Beteiligungen und Grundkapitalien,0,0.0,0,SO,2014,0
-56,Eigene Investitionsbeiträge,10282,3876.8,4285,SO,2014,6405.2
-57,Durchlaufende Investitionsbeiträge,5450,2811.4,5300,SO,2014,2638.6
-60,Übertragung von Sachanlagen in das FV,0,46.4,0,SO,2014,0
-61,Rückerstattungen Dritter für Investitionen,0,0.0,0,SO,2014,0
-62,Abgang immaterielle Anlagen,0,0.0,0,SO,2014,0
-63,Investitionsbeiträge für eigene Rechnung,38473,30645.4,31964.6,SO,2014,7827.5999999999985
-64,Rückzahlung von Darlehen,8162,8233.2,2534.4,SO,2014,-71.20000000000073
-65,Übertragung von Beteiligungen,0,0.0,0,SO,2014,0
-66,Rückzahlung eigener Investitionsbeiträge,0,0.0,0,SO,2014,0
-67,Durchlaufende Investitionsbeiträge,5450,2811.4,5300,SO,2014,2638.6
-10,Finanzvermögen,0,1105841.71,0,SO,2014,0
-14,Verwaltungsvermögen,0,1542198.6,0,SO,2014,0
-20,Fremdkapital,0,1960273.0,0,SO,2014,0
-29,Eigenkapital,,687767.3,,SO,2014,
+47,Durchlaufende Beiträge,81810.0,79891.6,98540.3,SO,2014,1918.3999999999942
+49,Interne Verrechnungen,0.0,0.0,0.0,SO,2014,0.0
+50,Sachanlagen,155192.7,107263.0,153447.0,SO,2014,47929.70000000001
+51,Investitionen auf Rechnung Dritter,0.0,0.0,0.0,SO,2014,0.0
+52,Immaterielle Anlagen,0.0,0.0,0.0,SO,2014,0.0
+54,Darlehen,11350.0,15157.4,7900.0,SO,2014,-3807.3999999999996
+55,Beteiligungen und Grundkapitalien,0.0,0.0,0.0,SO,2014,0.0
+56,Eigene Investitionsbeiträge,10282.0,3876.8,4285.0,SO,2014,6405.2
+57,Durchlaufende Investitionsbeiträge,5450.0,2811.4,5300.0,SO,2014,2638.6
+60,Übertragung von Sachanlagen in das FV,0.0,46.4,0.0,SO,2014,0.0
+61,Rückerstattungen Dritter für Investitionen,0.0,0.0,0.0,SO,2014,0.0
+62,Abgang immaterielle Anlagen,0.0,0.0,0.0,SO,2014,0.0
+63,Investitionsbeiträge für eigene Rechnung,38473.0,30645.4,31964.6,SO,2014,7827.5999999999985
+64,Rückzahlung von Darlehen,8162.0,8233.2,2534.4,SO,2014,-71.20000000000073
+65,Übertragung von Beteiligungen,0.0,0.0,0.0,SO,2014,0.0
+66,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,0.0,SO,2014,0.0
+67,Durchlaufende Investitionsbeiträge,5450.0,2811.4,5300.0,SO,2014,2638.6
+10,Finanzvermögen,0.0,1105841.71,0.0,SO,2014,0.0
+14,Verwaltungsvermögen,0.0,1542198.6,0.0,SO,2014,0.0
+20,Fremdkapital,0.0,1960273.0,0.0,SO,2014,0.0
+29,Eigenkapital,0.0,687767.3,0.0,SO,2014,0.0
 30,Personalaufwand,1185955.861,1154962.238,1213678.255,BS,2014,30993.623000000138
 31,Sach- und übriger Betriebsaufwand,449428.325,475120.313,429979.899,BS,2014,-25691.988000000012
 36,Transferaufwand,1842785.267,1934535.986,1944822.794,BS,2014,-91750.71900000004
-37,Durchlaufende Beiträge,0,0.0,0,BS,2014,0
+37,Durchlaufende Beiträge,0.0,0.0,0.0,BS,2014,0.0
 39,Interne Verrechungen,228248.854,255383.518,263506.453,BS,2014,-27134.66400000002
 41,Regalien und Konzessionen,33515.6,17122.737,33715.6,BS,2014,16392.862999999998
 42,Entgelte,351530.108,502169.712,460943.927,BS,2014,-150639.604
 46,Transferertrag,531249.965,561137.004,554003.063,BS,2014,-29887.03899999999
-47,Durchlaufende Beiträge,0,0.0,0,BS,2014,0
+47,Durchlaufende Beiträge,0.0,0.0,0.0,BS,2014,0.0
 49,Interne Verrechnungen,228248.854,255383.518,263506.453,BS,2014,-27134.66400000002
 50,Sachanlagen,359344.5,325094.996,472377.76,BS,2014,34249.504000000015
-51,Investitionen auf Rechnung Dritter,0,0.0,0,BS,2014,0
-52,Immaterielle Anlagen,260,5056.627,100,BS,2014,-4796.627
-54,Darlehen,27200,13408.117,88000,BS,2014,13791.883
-55,Beteiligungen und Grundkapitalien,0,0.0,0,BS,2014,0
-56,Eigene Investitionsbeiträge,0,23932.339,0,BS,2014,0
-57,Durchlaufende Investitionsbeiträge,,0.0,0,BS,2014,
-60,Übertragung von Sachanlagen in das FV,0,1670.663,6717.193,BS,2014,0
-61,Rückerstattungen Dritter für Investitionen,,0.0,,BS,2014,
-62,Abgang immaterielle Anlagen,,0.0,,BS,2014,
-63,Investitionsbeiträge für eigene Rechnung,11000,36941.65,20000,BS,2014,-25941.65
-64,Rückzahlung von Darlehen,0,58540.52,57690,BS,2014,0
-65,Übertragung von Beteiligungen,,0.0,,BS,2014,
-66,Rückzahlung eigener Investitionsbeiträge,,0.0,,BS,2014,
-67,Durchlaufende Investitionsbeiträge,,0.0,,BS,2014,
-10,Finanzvermögen,0,5104770.14309,0,BS,2014,0
-14,Verwaltungsvermögen,0,5843011.966519999,0,BS,2014,0
-20,Fremdkapital,0,7054691.46895,0,BS,2014,0
-29,Eigenkapital,,3893090.64066,,BS,2014,
+51,Investitionen auf Rechnung Dritter,0.0,0.0,0.0,BS,2014,0.0
+52,Immaterielle Anlagen,260.0,5056.627,100.0,BS,2014,-4796.627
+54,Darlehen,27200.0,13408.117,88000.0,BS,2014,13791.883
+55,Beteiligungen und Grundkapitalien,0.0,0.0,0.0,BS,2014,0.0
+56,Eigene Investitionsbeiträge,0.0,23932.339,0.0,BS,2014,0.0
+57,Durchlaufende Investitionsbeiträge,0.0,0.0,0.0,BS,2014,0.0
+60,Übertragung von Sachanlagen in das FV,0.0,1670.663,6717.193,BS,2014,0.0
+61,Rückerstattungen Dritter für Investitionen,0.0,0.0,0.0,BS,2014,0.0
+62,Abgang immaterielle Anlagen,0.0,0.0,0.0,BS,2014,0.0
+63,Investitionsbeiträge für eigene Rechnung,11000.0,36941.65,20000.0,BS,2014,-25941.65
+64,Rückzahlung von Darlehen,0.0,58540.52,57690.0,BS,2014,0.0
+65,Übertragung von Beteiligungen,0.0,0.0,0.0,BS,2014,0.0
+66,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,0.0,BS,2014,0.0
+67,Durchlaufende Investitionsbeiträge,0.0,0.0,0.0,BS,2014,0.0
+10,Finanzvermögen,0.0,5104770.14309,0.0,BS,2014,0.0
+14,Verwaltungsvermögen,0.0,5843011.966519999,0.0,BS,2014,0.0
+20,Fremdkapital,0.0,7054691.46895,0.0,BS,2014,0.0
+29,Eigenkapital,0.0,3893090.64066,0.0,BS,2014,0.0
 30,Personalaufwand,634853.9,627557.4,621857.7,BL,2014,7296.5
 31,Sach- und übriger Betriebsaufwand,251813.1,238648.0,243901.5,BL,2014,13165.100000000006
 36,Transferaufwand,1431664.9,1459499.1,1521046.8,BL,2014,-27834.200000000186
 37,Durchlaufende Beiträge,95855.1,97394.2,100111.9,BL,2014,-1539.0999999999913
 39,Interne Verrechungen,175.5,177.4,166.8,BL,2014,-1.9000000000000057
-41,Regalien und Konzessionen,30683,7649.1,31059,BL,2014,23033.9
+41,Regalien und Konzessionen,30683.0,7649.1,31059.0,BL,2014,23033.9
 42,Entgelte,150492.2,134954.7,151975.3,BL,2014,15537.5
 46,Transferertrag,466069.3,452651.2,505827.1,BL,2014,13418.099999999977
 47,Durchlaufende Beiträge,95855.1,97394.3,100111.9,BL,2014,-1539.199999999997
 49,Interne Verrechnungen,175.5,177.4,166.8,BL,2014,-1.9000000000000057
-50,Sachanlagen,161090,145759.4,161426,BL,2014,15330.600000000006
-51,Investitionen auf Rechnung Dritter,0,0.0,0,BL,2014,0
-52,Immaterielle Anlagen,0,0.0,0,BL,2014,0
-54,Darlehen,13750,12001.9,19940,BL,2014,1748.1000000000004
-55,Beteiligungen und Grundkapitalien,0,0.0,0,BL,2014,0
-56,Eigene Investitionsbeiträge,72050,59458.3,63700,BL,2014,12591.699999999997
-57,Durchlaufende Investitionsbeiträge,0,0.0,0,BL,2014,0
-60,Übertragung von Sachanlagen in das FV,0,0.0,0,BL,2014,0
-61,Rückerstattungen Dritter für Investitionen,0,0.0,0,BL,2014,0
-62,Abgang immaterielle Anlagen,0,0.0,0,BL,2014,0
-63,Investitionsbeiträge für eigene Rechnung,42690,36651.7,41035,BL,2014,6038.300000000003
-64,Rückzahlung von Darlehen,0,0.0,0,BL,2014,0
-65,Übertragung von Beteiligungen,0,0.0,0,BL,2014,0
-66,Rückzahlung eigener Investitionsbeiträge,0,17.9,0,BL,2014,0
-67,Durchlaufende Investitionsbeiträge,0,0.0,0,BL,2014,0
-10,Finanzvermögen,0,1831418.7000000002,0,BL,2014,0
-14,Verwaltungsvermögen,0,2114245.8000000003,0,BL,2014,0
-20,Fremdkapital,0,4562280.399999999,0,BL,2014,0
-29,Eigenkapital,,-616615.0,,BL,2014,
+50,Sachanlagen,161090.0,145759.4,161426.0,BL,2014,15330.600000000006
+51,Investitionen auf Rechnung Dritter,0.0,0.0,0.0,BL,2014,0.0
+52,Immaterielle Anlagen,0.0,0.0,0.0,BL,2014,0.0
+54,Darlehen,13750.0,12001.9,19940.0,BL,2014,1748.1000000000004
+55,Beteiligungen und Grundkapitalien,0.0,0.0,0.0,BL,2014,0.0
+56,Eigene Investitionsbeiträge,72050.0,59458.3,63700.0,BL,2014,12591.699999999997
+57,Durchlaufende Investitionsbeiträge,0.0,0.0,0.0,BL,2014,0.0
+60,Übertragung von Sachanlagen in das FV,0.0,0.0,0.0,BL,2014,0.0
+61,Rückerstattungen Dritter für Investitionen,0.0,0.0,0.0,BL,2014,0.0
+62,Abgang immaterielle Anlagen,0.0,0.0,0.0,BL,2014,0.0
+63,Investitionsbeiträge für eigene Rechnung,42690.0,36651.7,41035.0,BL,2014,6038.300000000003
+64,Rückzahlung von Darlehen,0.0,0.0,0.0,BL,2014,0.0
+65,Übertragung von Beteiligungen,0.0,0.0,0.0,BL,2014,0.0
+66,Rückzahlung eigener Investitionsbeiträge,0.0,17.9,0.0,BL,2014,0.0
+67,Durchlaufende Investitionsbeiträge,0.0,0.0,0.0,BL,2014,0.0
+10,Finanzvermögen,0.0,1831418.7000000002,0.0,BL,2014,0.0
+14,Verwaltungsvermögen,0.0,2114245.8000000003,0.0,BL,2014,0.0
+20,Fremdkapital,0.0,4562280.399999999,0.0,BL,2014,0.0
+29,Eigenkapital,0.0,-616615.0,0.0,BL,2014,0.0
 30,Personalaufwand,173109.8,174164.10085,173393.3,SH,2014,-1054.3008499999996
 31,Sachaufwand,60630.8,60455.77289,61410.3,SH,2014,175.02711000000272
 34,Passivzinsen,2368.9,1726.7454,3369.2,SH,2014,642.1546000000001
@@ -389,7 +389,7 @@ Acc-ID,Name,Budget y,Realized,Budget y+1,Region,Year,Slack
 37,"Anteile, Entschädigungen, Beiträge",96914.79999999999,95466.9730675,95485.5,SH,2014,1447.8269324999856
 35,Einlagen in Spezialfinanzierungen/Fonds,6697.0,15183.796,12759.0,SH,2014,-8486.796
 39,Interne Verrechnungen (Aufwand),21299.3,21366.38456,21576.5,SH,2014,-67.08455999999933
-42,Vermögenserträge,59114,47827.43984,48297.1,SH,2014,11286.56016
+42,Vermögenserträge,59114.0,47827.43984,48297.1,SH,2014,11286.56016
 41,Konzessionen/Entgelte (Gebühren),35759.6,34990.874015,35437.75,SH,2014,768.7259849999973
 43,Konzessionen/Entgelte (Gebühren),35759.6,34990.874015,35437.75,SH,2014,768.7259849999973
 44,"Anteile, Rückerstattungen, Beiträge",46552.825000000004,48951.970205000005,49025.899999999994,SH,2014,-2399.1452050000007
@@ -403,8 +403,8 @@ Acc-ID,Name,Budget y,Realized,Budget y+1,Region,Year,Slack
 56,"Investitionsbeiträge,übrige Investitionen",11187.333333333332,8776.974926666666,6200.0,SH,2014,2410.3584066666663
 57,"Investitionsbeiträge,übrige Investitionen",11187.333333333332,8776.974926666666,6200.0,SH,2014,2410.3584066666663
 58,"Investitionsbeiträge,übrige Investitionen",11187.333333333332,8776.974926666666,6200.0,SH,2014,2410.3584066666663
-60,"Abgang Sachgüter, Nutzungsabgaben",0.0,0.0,0.0,SH,2014,0
-61,"Abgang Sachgüter, Nutzungsabgaben",0.0,0.0,0.0,SH,2014,0
+60,"Abgang Sachgüter, Nutzungsabgaben",0.0,0.0,0.0,SH,2014,0.0
+61,"Abgang Sachgüter, Nutzungsabgaben",0.0,0.0,0.0,SH,2014,0.0
 62,"Rückzahlung,Rückerstattung,Invest.-Beitr.",3336.333333333333,3936.3231841666666,1778.0,SH,2014,-599.9898508333335
 63,"Rückzahlung,Rückerstattung,Invest.-Beitr.",3336.333333333333,3936.3231841666666,1778.0,SH,2014,-599.9898508333335
 64,"Rückzahlung,Rückerstattung,Invest.-Beitr.",3336.333333333333,3936.3231841666666,1778.0,SH,2014,-599.9898508333335
@@ -414,177 +414,177 @@ Acc-ID,Name,Budget y,Realized,Budget y+1,Region,Year,Slack
 30,Personalaufwand,76097.3,74803.9,75701.7,AR,2014,1293.4000000000087
 31,Sach- und übriger Betriebsaufwand,48292.2,45063.9,47107.5,AR,2014,3228.2999999999956
 36,Transferaufwand,240791.9,245726.3,237862.2,AR,2014,-4934.399999999994
-37,Durchlaufende Beiträge,37856,37054.8,37358,AR,2014,801.1999999999971
+37,Durchlaufende Beiträge,37856.0,37054.8,37358.0,AR,2014,801.1999999999971
 39,Interne Verrechungen,39083.1,33734.2,34240.2,AR,2014,5348.9000000000015
 41,Regalien und Konzessionen,3113.8,3192.7,3213.8,AR,2014,-78.89999999999964
 42,Entgelte,20550.2,21987.2,21256.3,AR,2014,-1437.0
 46,Transferertrag,147548.5,149675.7,153278.8,AR,2014,-2127.2000000000116
-47,Durchlaufende Beiträge,37856,37054.8,37358,AR,2014,801.1999999999971
+47,Durchlaufende Beiträge,37856.0,37054.8,37358.0,AR,2014,801.1999999999971
 49,Interne Verrechnungen,39083.1,33734.2,34240.2,AR,2014,5348.9000000000015
-50,Sachanlagen,18803,17003.6,18990,AR,2014,1799.4000000000015
-51,Investitionen auf Rechnung Dritter,0,0,350,AR,2014,0
-52,Immaterielle Anlagen,3013,1144.3,3616,AR,2014,1868.7
-54,Darlehen,1120,163,1120,AR,2014,957
-55,Beteiligungen und Grundkapitalien,0,90,0,AR,2014,0
-56,Eigene Investitionsbeiträge,10746,10383.7,11667,AR,2014,362.2999999999993
-57,Durchlaufende Investitionsbeiträge,2644,3335.8,3098.4,AR,2014,-691.8000000000002
-60,Übertragung von Sachanlagen in das FV,0,0,0,AR,2014,0
-61,Rückerstattungen Dritter für Investitionen,0,19.2,0,AR,2014,0
-62,Abgang immaterielle Anlagen,0,0,0,AR,2014,0
-63,Investitionsbeiträge für eigene Rechnung,7938,7656.8,9190.5,AR,2014,281.1999999999998
-64,Rückzahlung von Darlehen,1309,839.9,1281.1,AR,2014,469.1
-65,Übertragung von Beteiligungen,,0,0,AR,2014,
-66,Rückzahlung eigener Investitionsbeiträge,,0,0,AR,2014,
-67,Durchlaufende Investitionsbeiträge,2644,3335.8,3098.4,AR,2014,-691.8000000000002
-10,Finanzvermögen,0,186732.6,0,AR,2014,0
-14,Verwaltungsvermögen,0,252250.29999999996,0,AR,2014,0
-20,Fremdkapital,0,258619.8,0,AR,2014,0
-29,Eigenkapital,,180363,,AR,2014,
-30,Personalaufwand,0,0,22578.5,AI,2014,0
-31,Sach- und übriger Betriebsaufwand,0,0,12232.7,AI,2014,0
-36,Transferaufwand,0,0,77345.6,AI,2014,0
-37,Durchlaufende Beiträge,0,0,22996.0,AI,2014,0
-39,Interne Verrechungen,0,0,7573.0,AI,2014,0
-41,Regalien und Konzessionen,0,0,2312.0,AI,2014,0
-42,Entgelte,0,0,8492.0,AI,2014,0
-46,Transferertrag,0,0,42762.0,AI,2014,0
-47,Durchlaufende Beiträge,0,0,22996.0,AI,2014,0
-49,Interne Verrechnungen,0,0,7462.0,AI,2014,0
-50,Sachanlagen,0,0,12891.0,AI,2014,0
-51,Investitionen auf Rechnung Dritter,0,0,0.0,AI,2014,0
-52,Immaterielle Anlagen,0,0,13.0,AI,2014,0
-54,Darlehen,0,0,0.0,AI,2014,0
-55,Beteiligungen und Grundkapitalien,0,0,0.0,AI,2014,0
-56,Eigene Investitionsbeiträge,0,0,4200.0,AI,2014,0
-57,Durchlaufende Investitionsbeiträge,0,0,0.0,AI,2014,0
-60,Übertragung von Sachanlagen in das FV,0,0,0.0,AI,2014,0
-61,Rückerstattungen Dritter für Investitionen,0,0,0.0,AI,2014,0
-62,Abgang immaterielle Anlagen,0,0,0.0,AI,2014,0
-63,Investitionsbeiträge für eigene Rechnung,0,0,100.0,AI,2014,0
-64,Rückzahlung von Darlehen,0,0,0.0,AI,2014,0
-65,Übertragung von Beteiligungen,0,0,0.0,AI,2014,0
-66,Rückzahlung eigener Investitionsbeiträge,0,0,498.0,AI,2014,0
-67,Durchlaufende Investitionsbeiträge,0,0,0.0,AI,2014,0
-10,Finanzvermögen,0,0,103788.1,AI,2014,0
-14,Verwaltungsvermögen,0,0,30000.0,AI,2014,0
-20,Fremdkapital,0,0,51684.0,AI,2014,0
-29,Eigenkapital,,0,82104.0,AI,2014,
+50,Sachanlagen,18803.0,17003.6,18990.0,AR,2014,1799.4000000000015
+51,Investitionen auf Rechnung Dritter,0.0,0.0,350.0,AR,2014,0.0
+52,Immaterielle Anlagen,3013.0,1144.3,3616.0,AR,2014,1868.7
+54,Darlehen,1120.0,163.0,1120.0,AR,2014,957.0
+55,Beteiligungen und Grundkapitalien,0.0,90.0,0.0,AR,2014,0.0
+56,Eigene Investitionsbeiträge,10746.0,10383.7,11667.0,AR,2014,362.2999999999993
+57,Durchlaufende Investitionsbeiträge,2644.0,3335.8,3098.4,AR,2014,-691.8000000000002
+60,Übertragung von Sachanlagen in das FV,0.0,0.0,0.0,AR,2014,0.0
+61,Rückerstattungen Dritter für Investitionen,0.0,19.2,0.0,AR,2014,0.0
+62,Abgang immaterielle Anlagen,0.0,0.0,0.0,AR,2014,0.0
+63,Investitionsbeiträge für eigene Rechnung,7938.0,7656.8,9190.5,AR,2014,281.1999999999998
+64,Rückzahlung von Darlehen,1309.0,839.9,1281.1,AR,2014,469.1
+65,Übertragung von Beteiligungen,0.0,0.0,0.0,AR,2014,0.0
+66,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,0.0,AR,2014,0.0
+67,Durchlaufende Investitionsbeiträge,2644.0,3335.8,3098.4,AR,2014,-691.8000000000002
+10,Finanzvermögen,0.0,186732.6,0.0,AR,2014,0.0
+14,Verwaltungsvermögen,0.0,252250.29999999996,0.0,AR,2014,0.0
+20,Fremdkapital,0.0,258619.8,0.0,AR,2014,0.0
+29,Eigenkapital,0.0,180363.0,0.0,AR,2014,0.0
+30,Personalaufwand,0.0,0.0,22578.5,AI,2014,0.0
+31,Sach- und übriger Betriebsaufwand,0.0,0.0,12232.7,AI,2014,0.0
+36,Transferaufwand,0.0,0.0,77345.6,AI,2014,0.0
+37,Durchlaufende Beiträge,0.0,0.0,22996.0,AI,2014,0.0
+39,Interne Verrechungen,0.0,0.0,7573.0,AI,2014,0.0
+41,Regalien und Konzessionen,0.0,0.0,2312.0,AI,2014,0.0
+42,Entgelte,0.0,0.0,8492.0,AI,2014,0.0
+46,Transferertrag,0.0,0.0,42762.0,AI,2014,0.0
+47,Durchlaufende Beiträge,0.0,0.0,22996.0,AI,2014,0.0
+49,Interne Verrechnungen,0.0,0.0,7462.0,AI,2014,0.0
+50,Sachanlagen,0.0,0.0,12891.0,AI,2014,0.0
+51,Investitionen auf Rechnung Dritter,0.0,0.0,0.0,AI,2014,0.0
+52,Immaterielle Anlagen,0.0,0.0,13.0,AI,2014,0.0
+54,Darlehen,0.0,0.0,0.0,AI,2014,0.0
+55,Beteiligungen und Grundkapitalien,0.0,0.0,0.0,AI,2014,0.0
+56,Eigene Investitionsbeiträge,0.0,0.0,4200.0,AI,2014,0.0
+57,Durchlaufende Investitionsbeiträge,0.0,0.0,0.0,AI,2014,0.0
+60,Übertragung von Sachanlagen in das FV,0.0,0.0,0.0,AI,2014,0.0
+61,Rückerstattungen Dritter für Investitionen,0.0,0.0,0.0,AI,2014,0.0
+62,Abgang immaterielle Anlagen,0.0,0.0,0.0,AI,2014,0.0
+63,Investitionsbeiträge für eigene Rechnung,0.0,0.0,100.0,AI,2014,0.0
+64,Rückzahlung von Darlehen,0.0,0.0,0.0,AI,2014,0.0
+65,Übertragung von Beteiligungen,0.0,0.0,0.0,AI,2014,0.0
+66,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,498.0,AI,2014,0.0
+67,Durchlaufende Investitionsbeiträge,0.0,0.0,0.0,AI,2014,0.0
+10,Finanzvermögen,0.0,0.0,103788.1,AI,2014,0.0
+14,Verwaltungsvermögen,0.0,0.0,30000.0,AI,2014,0.0
+20,Fremdkapital,0.0,0.0,51684.0,AI,2014,0.0
+29,Eigenkapital,0.0,0.0,82104.0,AI,2014,0.0
 30,Personalaufwand,704663.4,699397.4,704988.3,SG,2014,5266.0
 31,Sach- und übriger Betriebsaufwand,443710.8,411371.0,439659.6,SG,2014,32339.79999999999
 36,Transferaufwand,2593190.3,2586473.1,2639610.3,SG,2014,6717.199999999721
 37,Durchlaufende Beiträge,263840.9,264658.5,256012.4,SG,2014,-817.5999999999767
-39,Interne Verrechungen,426504,429967.1,479393.1,SG,2014,-3463.0999999999767
+39,Interne Verrechungen,426504.0,429967.1,479393.1,SG,2014,-3463.0999999999767
 41,Regalien und Konzessionen,36408.9,37736.0,37030.5,SG,2014,-1327.0999999999985
 42,Entgelte,284651.9,296962.8,284087.3,SG,2014,-12310.899999999965
 46,Transferertrag,1354890.5,1312213.0,1335035.1,SG,2014,42677.5
 47,Durchlaufende Beiträge,263840.9,264658.5,256012.4,SG,2014,-817.5999999999767
-49,Interne Verrechnungen,426504,429967.1,479393.1,SG,2014,-3463.0999999999767
-50,Sachanlagen,162685,124443.5,282028,SG,2014,38241.5
-51,Investitionen auf Rechnung Dritter,0,,0,SG,2014,0
-52,Immaterielle Anlagen,0,,0,SG,2014,0
-54,Darlehen,332410,291288.0,101152,SG,2014,41122.0
-55,Beteiligungen und Grundkapitalien,0,,0,SG,2014,0
+49,Interne Verrechnungen,426504.0,429967.1,479393.1,SG,2014,-3463.0999999999767
+50,Sachanlagen,162685.0,124443.5,282028.0,SG,2014,38241.5
+51,Investitionen auf Rechnung Dritter,0.0,0.0,0.0,SG,2014,0.0
+52,Immaterielle Anlagen,0.0,0.0,0.0,SG,2014,0.0
+54,Darlehen,332410.0,291288.0,101152.0,SG,2014,41122.0
+55,Beteiligungen und Grundkapitalien,0.0,0.0,0.0,SG,2014,0.0
 56,Eigene Investitionsbeiträge,21718.9,12956.1,17232.5,SG,2014,8762.800000000001
-57,Durchlaufende Investitionsbeiträge,0,436.0,0,SG,2014,0
-60,Übertragung von Sachanlagen in das FV,0,7.2,68640,SG,2014,0
-61,Rückerstattungen Dritter für Investitionen,2225,3370.0,5186.7,SG,2014,-1145.0
-62,Abgang immaterielle Anlagen,0,,,SG,2014,0
+57,Durchlaufende Investitionsbeiträge,0.0,436.0,0.0,SG,2014,0.0
+60,Übertragung von Sachanlagen in das FV,0.0,7.2,68640.0,SG,2014,0.0
+61,Rückerstattungen Dritter für Investitionen,2225.0,3370.0,5186.7,SG,2014,-1145.0
+62,Abgang immaterielle Anlagen,0.0,0.0,0.0,SG,2014,0.0
 63,Investitionsbeiträge für eigene Rechnung,36216.1,25278.8,33658.1,SG,2014,10937.3
 64,Rückzahlung von Darlehen,20971.3,18995.6,18032.1,SG,2014,1975.7000000000007
-65,Übertragung von Beteiligungen,0,113.0,,SG,2014,0
-66,Rückzahlung eigener Investitionsbeiträge,0,,,SG,2014,0
-67,Durchlaufende Investitionsbeiträge,0,436.0,,SG,2014,0
-10,Finanzvermögen,0,2018790.4000000001,0,SG,2014,0
-14,Verwaltungsvermögen,0,1074148.9000000001,0,SG,2014,0
-20,Fremdkapital,0,2208047.1,0,SG,2014,0
-29,Eigenkapital,,884892.2,,SG,2014,
-30,Personalaufwand,360182,355895.0,364910.0,GR,2014,4287.0
-31,Sach- und übriger Betriebsaufwand,307956,295132.0,307620.0,GR,2014,12824.0
-36,Transferaufwand,1161182,1128941.0,1185060.0,GR,2014,32241.0
-37,Durchlaufende Beiträge,390927,424647.0,421975.0,GR,2014,-33720.0
-39,Interne Verrechungen,153176,153458.0,153216.0,GR,2014,-282.0
-41,Regalien und Konzessionen,80022,73693.0,68830.0,GR,2014,6329.0
-42,Entgelte,154779,176282.0,165221.0,GR,2014,-21503.0
-46,Transferertrag,764033,765224.0,795217.0,GR,2014,-1191.0
-47,Durchlaufende Beiträge,390927,424647.0,421975.0,GR,2014,-33720.0
-49,Interne Verrechnungen,153176,153458.0,153216.0,GR,2014,-282.0
-50,Sachanlagen,171010,156817.0,188979.0,GR,2014,14193.0
-51,Investitionen auf Rechnung Dritter,0,0.0,0.0,GR,2014,0
-52,Immaterielle Anlagen,9980,5738.0,10893.0,GR,2014,4242.0
-54,Darlehen,18098,5427.0,16890.0,GR,2014,12671.0
-55,Beteiligungen und Grundkapitalien,0,0.0,0.0,GR,2014,0
-56,Eigene Investitionsbeiträge,120498,96216.0,123508.0,GR,2014,24282.0
-57,Durchlaufende Investitionsbeiträge,87921,114744.0,97472.0,GR,2014,-26823.0
-60,Übertragung von Sachanlagen in das FV,0,0.0,0.0,GR,2014,0
-61,Rückerstattungen Dritter für Investitionen,7622,3725.0,7400.0,GR,2014,3897.0
-62,Abgang immaterielle Anlagen,0,0.0,0.0,GR,2014,0
-63,Investitionsbeiträge für eigene Rechnung,114064,128464.0,119914.0,GR,2014,-14400.0
-64,Rückzahlung von Darlehen,6002,3802.0,4914.0,GR,2014,2200.0
-65,Übertragung von Beteiligungen,0,5.0,0.0,GR,2014,0
-66,Rückzahlung eigener Investitionsbeiträge,364,182.0,373.0,GR,2014,182.0
-67,Durchlaufende Investitionsbeiträge,87921,114744.0,97472.0,GR,2014,-26823.0
-10,Finanzvermögen,0,2794013.0,0.0,GR,2014,0
-14,Verwaltungsvermögen,0,1023060.0,0.0,GR,2014,0
-20,Fremdkapital,0,1084659.0,0.0,GR,2014,0
-29,Eigenkapital,,2732414.0,,GR,2014,
-30,Personalaufwand,1629823,1632056.36215,1607797.012,AG,2014,-2233.3621499999426
-31,Sach- und übriger Betriebsaufwand,367201,372969.30954,371422.081,AG,2014,-5768.3095399999875
+65,Übertragung von Beteiligungen,0.0,113.0,0.0,SG,2014,0.0
+66,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,0.0,SG,2014,0.0
+67,Durchlaufende Investitionsbeiträge,0.0,436.0,0.0,SG,2014,0.0
+10,Finanzvermögen,0.0,2018790.4000000001,0.0,SG,2014,0.0
+14,Verwaltungsvermögen,0.0,1074148.9000000001,0.0,SG,2014,0.0
+20,Fremdkapital,0.0,2208047.1,0.0,SG,2014,0.0
+29,Eigenkapital,0.0,884892.2,0.0,SG,2014,0.0
+30,Personalaufwand,360182.0,355895.0,364910.0,GR,2014,4287.0
+31,Sach- und übriger Betriebsaufwand,307956.0,295132.0,307620.0,GR,2014,12824.0
+36,Transferaufwand,1161182.0,1128941.0,1185060.0,GR,2014,32241.0
+37,Durchlaufende Beiträge,390927.0,424647.0,421975.0,GR,2014,-33720.0
+39,Interne Verrechungen,153176.0,153458.0,153216.0,GR,2014,-282.0
+41,Regalien und Konzessionen,80022.0,73693.0,68830.0,GR,2014,6329.0
+42,Entgelte,154779.0,176282.0,165221.0,GR,2014,-21503.0
+46,Transferertrag,764033.0,765224.0,795217.0,GR,2014,-1191.0
+47,Durchlaufende Beiträge,390927.0,424647.0,421975.0,GR,2014,-33720.0
+49,Interne Verrechnungen,153176.0,153458.0,153216.0,GR,2014,-282.0
+50,Sachanlagen,171010.0,156817.0,188979.0,GR,2014,14193.0
+51,Investitionen auf Rechnung Dritter,0.0,0.0,0.0,GR,2014,0.0
+52,Immaterielle Anlagen,9980.0,5738.0,10893.0,GR,2014,4242.0
+54,Darlehen,18098.0,5427.0,16890.0,GR,2014,12671.0
+55,Beteiligungen und Grundkapitalien,0.0,0.0,0.0,GR,2014,0.0
+56,Eigene Investitionsbeiträge,120498.0,96216.0,123508.0,GR,2014,24282.0
+57,Durchlaufende Investitionsbeiträge,87921.0,114744.0,97472.0,GR,2014,-26823.0
+60,Übertragung von Sachanlagen in das FV,0.0,0.0,0.0,GR,2014,0.0
+61,Rückerstattungen Dritter für Investitionen,7622.0,3725.0,7400.0,GR,2014,3897.0
+62,Abgang immaterielle Anlagen,0.0,0.0,0.0,GR,2014,0.0
+63,Investitionsbeiträge für eigene Rechnung,114064.0,128464.0,119914.0,GR,2014,-14400.0
+64,Rückzahlung von Darlehen,6002.0,3802.0,4914.0,GR,2014,2200.0
+65,Übertragung von Beteiligungen,0.0,5.0,0.0,GR,2014,0.0
+66,Rückzahlung eigener Investitionsbeiträge,364.0,182.0,373.0,GR,2014,182.0
+67,Durchlaufende Investitionsbeiträge,87921.0,114744.0,97472.0,GR,2014,-26823.0
+10,Finanzvermögen,0.0,2794013.0,0.0,GR,2014,0.0
+14,Verwaltungsvermögen,0.0,1023060.0,0.0,GR,2014,0.0
+20,Fremdkapital,0.0,1084659.0,0.0,GR,2014,0.0
+29,Eigenkapital,0.0,2732414.0,0.0,GR,2014,0.0
+30,Personalaufwand,1629823.0,1632056.36215,1607797.012,AG,2014,-2233.3621499999426
+31,Sach- und übriger Betriebsaufwand,367201.0,372969.30954,371422.081,AG,2014,-5768.3095399999875
 36,Transferaufwand,2278579.2,2281100.78334,2302243.507,AG,2014,-2521.5833399998955
 37,Durchlaufende Beiträge,293196.6,254995.21963,294824.6,AG,2014,38201.38036999997
 39,Interne Verrechungen,222336.2,201908.9806,227074.1,AG,2014,20427.2194
-41,Regalien und Konzessionen,118232,65846.99031,233395.0,AG,2014,52385.009690000006
-42,Entgelte,265900,278563.59537,280702.02,AG,2014,-12663.595369999995
+41,Regalien und Konzessionen,118232.0,65846.99031,233395.0,AG,2014,52385.009690000006
+42,Entgelte,265900.0,278563.59537,280702.02,AG,2014,-12663.595369999995
 46,Transferertrag,1517691.9,1506000.9361,1534069.88433,AG,2014,11690.963899999857
 47,Durchlaufende Beiträge,293196.6,254995.21963,294824.6,AG,2014,38201.38036999997
 49,Interne Verrechnungen,222336.2,201908.9806,227074.1,AG,2014,20427.2194
 50,Sachanlagen,250288.6,194216.95009,287211.862,AG,2014,56071.64991000001
-51,Investitionen auf Rechnung Dritter,0,80.02909,0.0,AG,2014,0
-52,Immaterielle Anlagen,0,0.0,0.0,AG,2014,0
-54,Darlehen,0,0.0,0.0,AG,2014,0
-55,Beteiligungen und Grundkapitalien,0,0.0,0.0,AG,2014,0
+51,Investitionen auf Rechnung Dritter,0.0,80.02909,0.0,AG,2014,0.0
+52,Immaterielle Anlagen,0.0,0.0,0.0,AG,2014,0.0
+54,Darlehen,0.0,0.0,0.0,AG,2014,0.0
+55,Beteiligungen und Grundkapitalien,0.0,0.0,0.0,AG,2014,0.0
 56,Eigene Investitionsbeiträge,20336.5,20269.29685,30663.648,AG,2014,67.20315000000119
 57,Durchlaufende Investitionsbeiträge,5758.5,2670.03715,4172.0,AG,2014,3088.46285
-60,Übertragung von Sachanlagen in das FV,4250,0.0,5669.0,AG,2014,4250.0
-61,Rückerstattungen Dritter für Investitionen,0,80.02909,0.0,AG,2014,0
-62,Abgang immaterielle Anlagen,0,0.0,0.0,AG,2014,0
+60,Übertragung von Sachanlagen in das FV,4250.0,0.0,5669.0,AG,2014,4250.0
+61,Rückerstattungen Dritter für Investitionen,0.0,80.02909,0.0,AG,2014,0.0
+62,Abgang immaterielle Anlagen,0.0,0.0,0.0,AG,2014,0.0
 63,Investitionsbeiträge für eigene Rechnung,83121.7,60823.16879,94613.69,AG,2014,22298.531209999994
-64,Rückzahlung von Darlehen,0,0.0,0.0,AG,2014,0
-65,Übertragung von Beteiligungen,0,0.0,0.0,AG,2014,0
-66,Rückzahlung eigener Investitionsbeiträge,20,0.0,0.0,AG,2014,20.0
+64,Rückzahlung von Darlehen,0.0,0.0,0.0,AG,2014,0.0
+65,Übertragung von Beteiligungen,0.0,0.0,0.0,AG,2014,0.0
+66,Rückzahlung eigener Investitionsbeiträge,20.0,0.0,0.0,AG,2014,20.0
 67,Durchlaufende Investitionsbeiträge,5758.5,2670.03715,4172.0,AG,2014,3088.46285
-10,Finanzvermögen,0,1344006.3283199996,0.0,AG,2014,0
-14,Verwaltungsvermögen,0,2028408.01732,0.0,AG,2014,0
-20,Fremdkapital,0,2957866.98767,0.0,AG,2014,0
-29,Eigenkapital,,414547.3579700001,,AG,2014,
-30,Personalaufwand,375735,375615.0,377622,TG,2014,120.0
-31,Sach- und übriger Betriebsaufwand,147482,146196.0,159773,TG,2014,1286.0
-36,Transferaufwand,915595,930674.0,937740,TG,2014,-15079.0
-37,Durchlaufende Beiträge,281089,270194.0,286104,TG,2014,10895.0
-39,Interne Verrechungen,146190,145109.0,151835,TG,2014,1081.0
-41,Regalien und Konzessionen,34808,14102.0,34630,TG,2014,20706.0
-42,Entgelte,141022,144755.0,143338,TG,2014,-3733.0
-46,Transferertrag,460325,462587.0,472065,TG,2014,-2262.0
-47,Durchlaufende Beiträge,281089,270194.0,286104,TG,2014,10895.0
-49,Interne Verrechnungen,146190,145109.0,151835,TG,2014,1081.0
-50,Sachanlagen,98119,87842.0,79925,TG,2014,10277.0
-51,Investitionen auf Rechnung Dritter,0,0.0,0,TG,2014,0
-52,Immaterielle Anlagen,0,0.0,0,TG,2014,0
-54,Darlehen,900,401.0,700,TG,2014,499.0
-55,Beteiligungen und Grundkapitalien,0,0.0,0,TG,2014,0
-56,Eigene Investitionsbeiträge,20756,17633.0,17188,TG,2014,3123.0
-57,Durchlaufende Investitionsbeiträge,3440,3451.0,4270,TG,2014,-11.0
-60,Übertragung von Sachanlagen in das FV,30,36.0,30,TG,2014,-6.0
-61,Rückerstattungen Dritter für Investitionen,0,0.0,0,TG,2014,0
-62,Abgang immaterielle Anlagen,0,0.0,0,TG,2014,0
-63,Investitionsbeiträge für eigene Rechnung,32705,30892.0,28419,TG,2014,1813.0
-64,Rückzahlung von Darlehen,0,0.0,0,TG,2014,0
-65,Übertragung von Beteiligungen,0,0.0,0,TG,2014,0
-66,Rückzahlung eigener Investitionsbeiträge,600,652.0,500,TG,2014,-52.0
-67,Durchlaufende Investitionsbeiträge,3440,3451.0,4270,TG,2014,-11.0
-10,Finanzvermögen,0,647090.0,0,TG,2014,0
-14,Verwaltungsvermögen,0,999866.0,0,TG,2014,0
-20,Fremdkapital,0,1140190.0,0,TG,2014,0
-29,Eigenkapital,,506766.0,,TG,2014,
+10,Finanzvermögen,0.0,1344006.3283199996,0.0,AG,2014,0.0
+14,Verwaltungsvermögen,0.0,2028408.01732,0.0,AG,2014,0.0
+20,Fremdkapital,0.0,2957866.98767,0.0,AG,2014,0.0
+29,Eigenkapital,0.0,414547.3579700001,0.0,AG,2014,0.0
+30,Personalaufwand,375735.0,375615.0,377622.0,TG,2014,120.0
+31,Sach- und übriger Betriebsaufwand,147482.0,146196.0,159773.0,TG,2014,1286.0
+36,Transferaufwand,915595.0,930674.0,937740.0,TG,2014,-15079.0
+37,Durchlaufende Beiträge,281089.0,270194.0,286104.0,TG,2014,10895.0
+39,Interne Verrechungen,146190.0,145109.0,151835.0,TG,2014,1081.0
+41,Regalien und Konzessionen,34808.0,14102.0,34630.0,TG,2014,20706.0
+42,Entgelte,141022.0,144755.0,143338.0,TG,2014,-3733.0
+46,Transferertrag,460325.0,462587.0,472065.0,TG,2014,-2262.0
+47,Durchlaufende Beiträge,281089.0,270194.0,286104.0,TG,2014,10895.0
+49,Interne Verrechnungen,146190.0,145109.0,151835.0,TG,2014,1081.0
+50,Sachanlagen,98119.0,87842.0,79925.0,TG,2014,10277.0
+51,Investitionen auf Rechnung Dritter,0.0,0.0,0.0,TG,2014,0.0
+52,Immaterielle Anlagen,0.0,0.0,0.0,TG,2014,0.0
+54,Darlehen,900.0,401.0,700.0,TG,2014,499.0
+55,Beteiligungen und Grundkapitalien,0.0,0.0,0.0,TG,2014,0.0
+56,Eigene Investitionsbeiträge,20756.0,17633.0,17188.0,TG,2014,3123.0
+57,Durchlaufende Investitionsbeiträge,3440.0,3451.0,4270.0,TG,2014,-11.0
+60,Übertragung von Sachanlagen in das FV,30.0,36.0,30.0,TG,2014,-6.0
+61,Rückerstattungen Dritter für Investitionen,0.0,0.0,0.0,TG,2014,0.0
+62,Abgang immaterielle Anlagen,0.0,0.0,0.0,TG,2014,0.0
+63,Investitionsbeiträge für eigene Rechnung,32705.0,30892.0,28419.0,TG,2014,1813.0
+64,Rückzahlung von Darlehen,0.0,0.0,0.0,TG,2014,0.0
+65,Übertragung von Beteiligungen,0.0,0.0,0.0,TG,2014,0.0
+66,Rückzahlung eigener Investitionsbeiträge,600.0,652.0,500.0,TG,2014,-52.0
+67,Durchlaufende Investitionsbeiträge,3440.0,3451.0,4270.0,TG,2014,-11.0
+10,Finanzvermögen,0.0,647090.0,0.0,TG,2014,0.0
+14,Verwaltungsvermögen,0.0,999866.0,0.0,TG,2014,0.0
+20,Fremdkapital,0.0,1140190.0,0.0,TG,2014,0.0
+29,Eigenkapital,0.0,506766.0,0.0,TG,2014,0.0
 30,Charges de personnel,998703.6,990458.6885900006,1000452.21,TI,2014,8244.91140999936
 31,Charges de biens et services et autres charges d'exploitation,269455.44,278511.61605,269481.91,TI,2014,-9056.17605000001
 36,Charges de transfert,1760153.48,1799459.1465000003,1809574.67,TI,2014,-39305.66650000028
@@ -595,25 +595,25 @@ Acc-ID,Name,Budget y,Realized,Budget y+1,Region,Year,Slack
 46,Revenus de transferts,837294.57,835837.81437,860662.55,TI,2014,1456.7556299999123
 47,Subventions à redistribuer,74797.3,119238.37395000001,119121.22,TI,2014,-44441.073950000005
 49,Imputations internes,196057.9,194673.05239,192285.05,TI,2014,1384.847609999997
-50,Immobilisations corporelles,179555,148802.28576000003,173084.0,TI,2014,30752.714239999972
-51,Investissements pour le compte de tiers,1000,616.07725,1000.0,TI,2014,383.92274999999995
-52,Immobilisations incorporelles,0,0.0,0.0,TI,2014,0
-54,Prêts,9088,3747.066,6843.0,TI,2014,5340.934
-55,Participations et capital social,0,40000.0,0.0,TI,2014,0
+50,Immobilisations corporelles,179555.0,148802.28576000003,173084.0,TI,2014,30752.714239999972
+51,Investissements pour le compte de tiers,1000.0,616.07725,1000.0,TI,2014,383.92274999999995
+52,Immobilisations incorporelles,0.0,0.0,0.0,TI,2014,0.0
+54,Prêts,9088.0,3747.066,6843.0,TI,2014,5340.934
+55,Participations et capital social,0.0,40000.0,0.0,TI,2014,0.0
 56,Propres subventions d'investissement,99148.3,88016.2262,109283.1,TI,2014,11132.073799999998
 57,Subventions d'investissements à redistribuer,51711.4,45571.01609999999,45942.9,TI,2014,6140.383900000008
-60,Transfert d'immobilisations corporelles dans le patrimoine financier,500,316.88245,500.0,TI,2014,183.11755
-61,Remboursements pour les investissements sur le compte des tiers,1000,616.08388,1000.0,TI,2014,383.91612
-62,Vente d'immobilisations incorporelles,0,0.0,0.0,TI,2014,0
-63,Subventions d'investissements acquises,53311,45956.909949999994,48196.75,TI,2014,7354.090050000006
-64,Remboursement de prêts,9924,12574.243,11294.3,TI,2014,-2650.2430000000004
-65,Transfert de participations,0,0.0,0.0,TI,2014,0
-66,Remboursement de propres subventions d'investissement,18520,13236.742219999998,18600.0,TI,2014,5283.257780000002
+60,Transfert d'immobilisations corporelles dans le patrimoine financier,500.0,316.88245,500.0,TI,2014,183.11755
+61,Remboursements pour les investissements sur le compte des tiers,1000.0,616.08388,1000.0,TI,2014,383.91612
+62,Vente d'immobilisations incorporelles,0.0,0.0,0.0,TI,2014,0.0
+63,Subventions d'investissements acquises,53311.0,45956.909949999994,48196.75,TI,2014,7354.090050000006
+64,Remboursement de prêts,9924.0,12574.243,11294.3,TI,2014,-2650.2430000000004
+65,Transfert de participations,0.0,0.0,0.0,TI,2014,0.0
+66,Remboursement de propres subventions d'investissement,18520.0,13236.742219999998,18600.0,TI,2014,5283.257780000002
 67,Subventions d'investissements à redistribuer,51711.4,45571.01609999999,45942.9,TI,2014,6140.383900000008
-10,Patrimoine Financier,0,4677306.85427,0.0,TI,2014,0
-14,Patrimoine administratif,0,1425265.65245,0.0,TI,2014,0
-20,Capitaux de tiers,0,6450349.77474,0.0,TI,2014,0
-29,Capital propre,,-347777.26801999996,,TI,2014,
+10,Patrimoine Financier,0.0,4677306.85427,0.0,TI,2014,0.0
+14,Patrimoine administratif,0.0,1425265.65245,0.0,TI,2014,0.0
+20,Capitaux de tiers,0.0,6450349.77474,0.0,TI,2014,0.0
+29,Capital propre,0.0,-347777.26801999996,0.0,TI,2014,0.0
 30,Charges de personnel,2419168.5,2463959.26779,2407976.7,VD,2014,-44790.767789999954
 31,Charges de biens et services et autres charges d'exploitation,806909.6,872251.1124199999,833525.5,VD,2014,-65341.512419999926
 36,Charges de transfert,4946831.8,5328294.41691,5145509.4,VD,2014,-381462.61691000033
@@ -624,25 +624,25 @@ Acc-ID,Name,Budget y,Realized,Budget y+1,Region,Year,Slack
 46,Revenus de transferts,2226682.3,2338288.41667,2222246.7,VD,2014,-111606.11667000037
 47,Subventions à redistribuer,460576.4,482011.47336,557492.2,VD,2014,-21435.07335999998
 49,Imputations internes,7032.8,7884.29863,4408.0,VD,2014,-851.49863
-50,Immobilisations corporelles,388763,263292.29571000003,453049.0,VD,2014,125470.70428999997
-51,Investissements pour le compte de tiers,,,0.0,VD,2014,
-52,Immobilisations incorporelles,,22618.97807,0.0,VD,2014,
-54,Prêts,,17948.35,0.0,VD,2014,
-55,Participations et capital social,,17000.2,0.0,VD,2014,
-56,Propres subventions d'investissement,,49267.563969999996,0.0,VD,2014,
-57,Subventions d'investissements à redistribuer,,6088.323,0.0,VD,2014,
-60,Transfert d'immobilisations corporelles dans le patrimoine financier,19543,,31575.0,VD,2014,
-61,Remboursements pour les investissements sur le compte des tiers,,,,VD,2014,
-62,Vente d'immobilisations incorporelles,,,,VD,2014,
-63,Subventions d'investissements acquises,,2123.26223,,VD,2014,
-64,Remboursement de prêts,,24276.759550000002,,VD,2014,
-65,Transfert de participations,,360.5,,VD,2014,
-66,Remboursement de propres subventions d'investissement,,53.323,,VD,2014,
-67,Subventions d'investissements à redistribuer,,6088.323,,VD,2014,
-10,Patrimoine Financier,0,5714263.52748,0.0,VD,2014,0
-14,Patrimoine administratif,0,2469024.0025500003,0.0,VD,2014,0
-20,Capitaux de tiers,0,6319057.4962,0.0,VD,2014,0
-29,Capital propre,,1864230.0338299999,,VD,2014,
+50,Immobilisations corporelles,388763.0,263292.29571000003,453049.0,VD,2014,125470.70428999997
+51,Investissements pour le compte de tiers,0.0,0.0,0.0,VD,2014,0.0
+52,Immobilisations incorporelles,0.0,22618.97807,0.0,VD,2014,0.0
+54,Prêts,0.0,17948.35,0.0,VD,2014,0.0
+55,Participations et capital social,0.0,17000.2,0.0,VD,2014,0.0
+56,Propres subventions d'investissement,0.0,49267.563969999996,0.0,VD,2014,0.0
+57,Subventions d'investissements à redistribuer,0.0,6088.323,0.0,VD,2014,0.0
+60,Transfert d'immobilisations corporelles dans le patrimoine financier,19543.0,0.0,31575.0,VD,2014,0.0
+61,Remboursements pour les investissements sur le compte des tiers,0.0,0.0,0.0,VD,2014,0.0
+62,Vente d'immobilisations incorporelles,0.0,0.0,0.0,VD,2014,0.0
+63,Subventions d'investissements acquises,0.0,2123.26223,0.0,VD,2014,0.0
+64,Remboursement de prêts,0.0,24276.759550000002,0.0,VD,2014,0.0
+65,Transfert de participations,0.0,360.5,0.0,VD,2014,0.0
+66,Remboursement de propres subventions d'investissement,0.0,53.323,0.0,VD,2014,0.0
+67,Subventions d'investissements à redistribuer,0.0,6088.323,0.0,VD,2014,0.0
+10,Patrimoine Financier,0.0,5714263.52748,0.0,VD,2014,0.0
+14,Patrimoine administratif,0.0,2469024.0025500003,0.0,VD,2014,0.0
+20,Capitaux de tiers,0.0,6319057.4962,0.0,VD,2014,0.0
+29,Capital propre,0.0,1864230.0338299999,0.0,VD,2014,0.0
 30,Charges de personnel,989672.6,983807.3,937673.8,VS,2014,5865.29999999993
 31,"Biens, services et marchandises",223781.3,219345.9,222393.0,VS,2014,4435.399999999994
 34,Intérêts passifs,35099.8,36081.5,29506.5,VS,2014,-981.6999999999971
@@ -716,24 +716,24 @@ Acc-ID,Name,Budget y,Realized,Budget y+1,Region,Year,Slack
 47,Subventions à redistribuer,27701.15,271594.59779,27308.65,GE,2014,-243893.44779000003
 49,Imputations internes,16452.89,13590.064610000001,15588.75,GE,2014,2862.825389999998
 50,Immobilisations corporelles,394247.116,358094.72349,439181.356,GE,2014,36152.392509999976
-51,Investissements pour le compte de tiers,,,0.0,GE,2014,
+51,Investissements pour le compte de tiers,0.0,0.0,0.0,GE,2014,0.0
 52,Immobilisations incorporelles,50733.721,39685.623849999996,25282.9,GE,2014,11048.097150000001
-54,Prêts,111400,122920.01319999999,174400.0,GE,2014,-11520.013199999987
-55,Participations et capital social,40277,35591.313,25000.0,GE,2014,4685.686999999998
+54,Prêts,111400.0,122920.01319999999,174400.0,GE,2014,-11520.013199999987
+55,Participations et capital social,40277.0,35591.313,25000.0,GE,2014,4685.686999999998
 56,Propres subventions d'investissement,118497.5,79161.76901,138387.9,GE,2014,39335.73099
-57,Subventions d'investissements à redistribuer,,,0.0,GE,2014,
-60,Transfert d'immobilisations corporelles dans le patrimoine financier,22000,26531.24121,22000.0,GE,2014,-4531.24121
-61,Remboursements pour les investissements sur le compte des tiers,,,,GE,2014,
-62,Vente d'immobilisations incorporelles,,,,GE,2014,
+57,Subventions d'investissements à redistribuer,0.0,0.0,0.0,GE,2014,0.0
+60,Transfert d'immobilisations corporelles dans le patrimoine financier,22000.0,26531.24121,22000.0,GE,2014,-4531.24121
+61,Remboursements pour les investissements sur le compte des tiers,0.0,0.0,0.0,GE,2014,0.0
+62,Vente d'immobilisations incorporelles,0.0,0.0,0.0,GE,2014,0.0
 63,Subventions d'investissements acquises,43832.5,51405.124429999996,40984.0,GE,2014,-7572.624429999996
-64,Remboursement de prêts,3477,1511.52479,3562.0,GE,2014,1965.47521
-65,Transfert de participations,,6.0,,GE,2014,
-66,Remboursement de propres subventions d'investissement,,,,GE,2014,
-67,Subventions d'investissements à redistribuer,,,,GE,2014,
-10,Patrimoine Financier,0,4901365.025209989,0.0,GE,2014,0
-14,Patrimoine administratif,0,15286614.59606,0.0,GE,2014,0
-20,Capitaux de tiers,0,17540489.46419,0.0,GE,2014,0
-29,Capital propre,,2647490.15681,,GE,2014,
+64,Remboursement de prêts,3477.0,1511.52479,3562.0,GE,2014,1965.47521
+65,Transfert de participations,0.0,6.0,0.0,GE,2014,0.0
+66,Remboursement de propres subventions d'investissement,0.0,0.0,0.0,GE,2014,0.0
+67,Subventions d'investissements à redistribuer,0.0,0.0,0.0,GE,2014,0.0
+10,Patrimoine Financier,0.0,4901365.025209989,0.0,GE,2014,0.0
+14,Patrimoine administratif,0.0,15286614.59606,0.0,GE,2014,0.0
+20,Capitaux de tiers,0.0,17540489.46419,0.0,GE,2014,0.0
+29,Capital propre,0.0,2647490.15681,0.0,GE,2014,0.0
 30,,260902.7,259259.10959,263646.8,JU,2014,1643.5904100000043
 31,,74410.4,71302.87547,75598.1,JU,2014,3107.524529999995
 36,,425279.8,410933.58814,427382.7,JU,2014,14346.211859999981
@@ -744,22 +744,22 @@ Acc-ID,Name,Budget y,Realized,Budget y+1,Region,Year,Slack
 46,,397040.2,381870.598,400890.45,JU,2014,15169.602000000014
 47,,105128.4,110912.9916,99064.6,JU,2014,-5784.5916
 49,,334.5,297.0,334.5,JU,2014,37.5
-50,,29802,29438.29523,31750.5,JU,2014,363.7047700000003
-51,,0,0.0,0.0,JU,2014,0
-52,,0,0.0,0.0,JU,2014,0
-54,,1000,928.025,1396.0,JU,2014,71.97500000000002
-55,,0,200.0,150.0,JU,2014,0
-56,,12853,10992.66775,10695.0,JU,2014,1860.3322499999995
+50,,29802.0,29438.29523,31750.5,JU,2014,363.7047700000003
+51,,0.0,0.0,0.0,JU,2014,0.0
+52,,0.0,0.0,0.0,JU,2014,0.0
+54,,1000.0,928.025,1396.0,JU,2014,71.97500000000002
+55,,0.0,200.0,150.0,JU,2014,0.0
+56,,12853.0,10992.66775,10695.0,JU,2014,1860.3322499999995
 57,,8093.9,11948.96185,7513.8,JU,2014,-3855.06185
-60,,0,16.0794,0.0,JU,2014,0
-61,,0,49.676,0.0,JU,2014,0
-62,,0,0.0,0.0,JU,2014,0
+60,,0.0,16.0794,0.0,JU,2014,0.0
+61,,0.0,49.676,0.0,JU,2014,0.0
+62,,0.0,0.0,0.0,JU,2014,0.0
 63,,1809.8,1840.1222,2028.3,JU,2014,-30.322200000000066
 64,,2660.7,2428.12975,2374.5,JU,2014,232.57024999999976
-65,,0,0.0,0.0,JU,2014,0
-66,,10,50.717,40.0,JU,2014,-40.717
+65,,0.0,0.0,0.0,JU,2014,0.0
+66,,10.0,50.717,40.0,JU,2014,-40.717
 67,,8093.9,11948.96185,7513.8,JU,2014,-3855.06185
-10,,0,242397.88986999998,0.0,JU,2014,0
-14,,0,473284.132,0.0,JU,2014,0
-20,,0,539193.15494,0.0,JU,2014,0
-29,,,176488.86693,,JU,2014,
+10,,0.0,242397.88986999998,0.0,JU,2014,0.0
+14,,0.0,473284.132,0.0,JU,2014,0.0
+20,,0.0,539193.15494,0.0,JU,2014,0.0
+29,,0.0,176488.86693,0.0,JU,2014,0.0

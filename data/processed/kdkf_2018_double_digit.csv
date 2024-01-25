@@ -103,13 +103,13 @@ Acc-ID,Name,Budget y,Realized,Budget y+1,Region,Year,Slack
 55,Beteiligungen und Grundkapitalien,0.0,1680.511,2400.0,UR,2018,0.0
 56,Eigene Investitionsbeiträge,11787.5,12377.432,9430.5,UR,2018,-589.9320000000007
 57,Durchlaufende Investitionsbeiträge,1887.0,1109.095,1837.0,UR,2018,777.905
-60,Übertragung von Sachanlagen in das FV,,,,UR,2018,
-61,Rückerstattungen Dritter für Investitionen,,,,UR,2018,
-62,Abgang immaterielle Anlagen,,,,UR,2018,
+60,Übertragung von Sachanlagen in das FV,0.0,0.0,0.0,UR,2018,0.0
+61,Rückerstattungen Dritter für Investitionen,0.0,0.0,0.0,UR,2018,0.0
+62,Abgang immaterielle Anlagen,0.0,0.0,0.0,UR,2018,0.0
 63,Investitionsbeiträge für eigene Rechnung,15313.5,9232.462,14463.0,UR,2018,6081.0380000000005
 64,Rückzahlung von Darlehen,3958.9,14790.166,3694.55,UR,2018,-10831.266
-65,Übertragung von Beteiligungen,,1.9,,UR,2018,
-66,Rückzahlung eigener Investitionsbeiträge,,,,UR,2018,
+65,Übertragung von Beteiligungen,0.0,1.9,0.0,UR,2018,0.0
+66,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,0.0,UR,2018,0.0
 67,Durchlaufende Investitionsbeiträge,1887.0,1109.095,1837.0,UR,2018,777.905
 10,Finanzvermögen,124672.494,152096.06499999997,126327.0,UR,2018,-27423.570999999967
 14,Verwaltungsvermögen,304678.591,292569.02499999997,327713.0,UR,2018,12109.56600000005
@@ -172,9 +172,9 @@ Acc-ID,Name,Budget y,Realized,Budget y+1,Region,Year,Slack
 10,Finanzvermögen,0.0,133072.0,0.0,OW,2018,0.0
 14,Verwaltungsvermögen,0.0,40810.7,0.0,OW,2018,0.0
 20,Fremdkapital,0.0,122697.79999999999,0.0,OW,2018,0.0
-29,Eigenkapital,,51185.3,,OW,2018,
+29,Eigenkapital,0.0,51185.3,0.0,OW,2018,0.0
 30,Personalaufwand,78892.1,77225.5,80359.2,NW,2018,1666.6000000000058
-31,Sach- und übriger Betriebsaufwand,29688.1,30261,30280.7,NW,2018,-572.9000000000015
+31,Sach- und übriger Betriebsaufwand,29688.1,30261.0,30280.7,NW,2018,-572.9000000000015
 36,Transferaufwand,238143.1,241830.3,247797.9,NW,2018,-3687.1999999999825
 37,Durchlaufende Beiträge,22085.1,22549.6,22305.1,NW,2018,-464.5
 39,Interne Verrechungen,34711.8,35568.7,34528.5,NW,2018,-856.8999999999942
@@ -184,24 +184,24 @@ Acc-ID,Name,Budget y,Realized,Budget y+1,Region,Year,Slack
 47,Durchlaufende Beiträge,22085.1,22549.6,22305.1,NW,2018,-464.5
 49,Interne Verrechnungen,34711.8,35568.7,34528.5,NW,2018,-856.8999999999942
 50,Sachanlagen,11334.0,7725.5,20997.8,NW,2018,3608.5
-51,Investitionen auf Rechnung Dritter,0.0,0,0.0,NW,2018,0
+51,Investitionen auf Rechnung Dritter,0.0,0.0,0.0,NW,2018,0.0
 52,Immaterielle Anlagen,1358.0,711.2,1636.0,NW,2018,646.8
 54,Darlehen,1030.0,864.8,1571.0,NW,2018,165.20000000000005
-55,Beteiligungen und Grundkapitalien,0.0,10000,0.0,NW,2018,0
+55,Beteiligungen und Grundkapitalien,0.0,10000.0,0.0,NW,2018,0.0
 56,Eigene Investitionsbeiträge,16834.0,11759.7,18734.7,NW,2018,5074.299999999999
 57,Durchlaufende Investitionsbeiträge,1050.0,824.8,1790.0,NW,2018,225.20000000000005
-60,Übertragung von Sachanlagen in das FV,0.0,1435.2,0.0,NW,2018,0
-61,Rückerstattungen Dritter für Investitionen,0.0,0,0.0,NW,2018,0
-62,Abgang immaterielle Anlagen,0.0,0,0.0,NW,2018,0
+60,Übertragung von Sachanlagen in das FV,0.0,1435.2,0.0,NW,2018,0.0
+61,Rückerstattungen Dritter für Investitionen,0.0,0.0,0.0,NW,2018,0.0
+62,Abgang immaterielle Anlagen,0.0,0.0,0.0,NW,2018,0.0
 63,Investitionsbeiträge für eigene Rechnung,8770.0,6211.5,9297.0,NW,2018,2558.5
 64,Rückzahlung von Darlehen,1508.5,2746.4,2559.5,NW,2018,-1237.9
-65,Übertragung von Beteiligungen,0.0,0,0.0,NW,2018,0
-66,Rückzahlung eigener Investitionsbeiträge,0.0,0,0.0,NW,2018,0
+65,Übertragung von Beteiligungen,0.0,0.0,0.0,NW,2018,0.0
+66,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,0.0,NW,2018,0.0
 67,Durchlaufende Investitionsbeiträge,1050.0,824.8,1790.0,NW,2018,225.20000000000005
 10,Finanzvermögen,257102.0,317093.5,225042.0,NW,2018,-59991.5
 14,Verwaltungsvermögen,330949.0,327214.5,346934.0,NW,2018,3734.5
 20,Fremdkapital,313222.0,350228.2,311611.0,NW,2018,-37006.20000000001
-29,Eigenkapital,274829.0,294080,260364.0,NW,2018,-19251.0
+29,Eigenkapital,274829.0,294080.0,260364.0,NW,2018,-19251.0
 30,Personalaufwand,74423.0,72891.0,76079.0,GL,2018,1532.0
 31,Sach- und übriger Betriebsaufwand,29594.9,28152.0,29900.0,GL,2018,1442.9000000000015
 36,Transferaufwand,193169.0,189672.0,195780.0,GL,2018,3497.0
@@ -230,7 +230,7 @@ Acc-ID,Name,Budget y,Realized,Budget y+1,Region,Year,Slack
 10,Finanzvermögen,0.0,390062.0,0.0,GL,2018,0.0
 14,Verwaltungsvermögen,0.0,172880.0,0.0,GL,2018,0.0
 20,Fremdkapital,0.0,201407.0,0.0,GL,2018,0.0
-29,Eigenkapital,,361535.0,,GL,2018,
+29,Eigenkapital,0.0,361535.0,0.0,GL,2018,0.0
 30,Personalaufwand,316101.7,308009.95,315841.57,ZG,2018,8091.75
 31,Sach- und übriger Betriebsaufwand,100113.479,94812.2,100005.94,ZG,2018,5301.27900000001
 36,Transferaufwand,858496.876,858483.59,891716.66,ZG,2018,13.286000000080094
@@ -242,53 +242,53 @@ Acc-ID,Name,Budget y,Realized,Budget y+1,Region,Year,Slack
 47,Durchlaufende Beiträge,87694.4,88612.12,89998.4,ZG,2018,-917.7200000000012
 49,Interne Verrechnungen,3010.1,4300.59,10045.64,ZG,2018,-1290.4900000000002
 50,Sachanlagen,117706.00000000001,90818.88,85201.5,ZG,2018,26887.12000000001
-51,Investitionen auf Rechnung Dritter,0.0,0.0,0,ZG,2018,0.0
-52,Immaterielle Anlagen,0.0,0.0,0,ZG,2018,0.0
-54,Darlehen,3925.0,3394.6,3955,ZG,2018,530.4000000000001
-55,Beteiligungen und Grundkapitalien,0.0,0.3,4,ZG,2018,0.0
-56,Eigene Investitionsbeiträge,10274.0,7871.29,11539,ZG,2018,2402.71
-57,Durchlaufende Investitionsbeiträge,5750.0,3514.35,6088,ZG,2018,2235.65
-60,Übertragung von Sachanlagen in das FV,7.999999999999999,0.0,2,ZG,2018,7.999999999999999
-61,Rückerstattungen Dritter für Investitionen,0.0,0.0,0,ZG,2018,0.0
-62,Abgang immaterielle Anlagen,0.0,0.0,0,ZG,2018,0.0
-63,Investitionsbeiträge für eigene Rechnung,1701.9999999999998,3064.75,1822,ZG,2018,-1362.7500000000002
-64,Rückzahlung von Darlehen,3160.0,3840.46,4210,ZG,2018,-680.46
-65,Übertragung von Beteiligungen,0.0,0.0,0,ZG,2018,0.0
-66,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,0,ZG,2018,0.0
-67,Durchlaufende Investitionsbeiträge,5750.0,3514.35,6088,ZG,2018,2235.65
-10,Finanzvermögen,0.0,1288181.1399999997,0,ZG,2018,0.0
-14,Verwaltungsvermögen,0.0,521791.74,0,ZG,2018,0.0
-20,Fremdkapital,0.0,959272.3500000001,0,ZG,2018,0.0
-29,Eigenkapital,,850700.53,,ZG,2018,
-30,Charges de personnel,1279725,1286547,1302073,FR,2018,-6822
-31,Charges de biens et services et autres charges d'exploitation,364058,359473,369265,FR,2018,4585
-36,Charges de transfert,1491996,1493433,1524649,FR,2018,-1437
-37,Subventions à redistribuer,221666,218705,222698,FR,2018,2961
-39,Imputations internes,32089,31128,38521,FR,2018,961
-41,Patentes et concessions,38507,90030,37622,FR,2018,-51523
-42,Taxes,232760,237590,236999,FR,2018,-4830
-46,Revenus de transferts,1436632,1469066,1469437,FR,2018,-32434
-47,Subventions à redistribuer,221666,219174,222698,FR,2018,2492
-49,Imputations internes,32089,31128,38521,FR,2018,961
-50,Immobilisations corporelles,139682,136116,126834,FR,2018,3566
-51,Investissements pour le compte de tiers,0,0,0,FR,2018,0
-52,Immobilisations incorporelles,0,0,0,FR,2018,0
-54,Prêts,11812,6383,20620,FR,2018,5429
-55,Participations et capital social,2000,2196,6000,FR,2018,-196
-56,Propres subventions d'investissement,37182,25147,34737,FR,2018,12035
-57,Subventions d'investissements à redistribuer,16420,9501,16961,FR,2018,6919
-60,Transfert d'immobilisations corporelles dans le patrimoine financier,0,0,0,FR,2018,0
-61,Remboursements pour les investissements sur le compte des tiers,0,34,0,FR,2018,0
-62,Vente d'immobilisations incorporelles,0,0,0,FR,2018,0
-63,Subventions d'investissements acquises,19918,22826,7756,FR,2018,-2908
-64,Remboursement de prêts,11754,10573,11657,FR,2018,1181
-65,Transfert de participations,0,0,0,FR,2018,0
-66,Remboursement de propres subventions d'investissement,50,18,50,FR,2018,32
-67,Subventions d'investissements à redistribuer,16420,9501,16961,FR,2018,6919
-10,Patrimoine Financier,0,2402724,0,FR,2018,0
-14,Patrimoine administratif,0,922736,0,FR,2018,0
-20,Capitaux de tiers,0,1724064,0,FR,2018,0
-29,Capital propre,,1601396,,FR,2018,
+51,Investitionen auf Rechnung Dritter,0.0,0.0,0.0,ZG,2018,0.0
+52,Immaterielle Anlagen,0.0,0.0,0.0,ZG,2018,0.0
+54,Darlehen,3925.0,3394.6,3955.0,ZG,2018,530.4000000000001
+55,Beteiligungen und Grundkapitalien,0.0,0.3,4.0,ZG,2018,0.0
+56,Eigene Investitionsbeiträge,10274.0,7871.29,11539.0,ZG,2018,2402.71
+57,Durchlaufende Investitionsbeiträge,5750.0,3514.35,6088.0,ZG,2018,2235.65
+60,Übertragung von Sachanlagen in das FV,7.999999999999999,0.0,2.0,ZG,2018,7.999999999999999
+61,Rückerstattungen Dritter für Investitionen,0.0,0.0,0.0,ZG,2018,0.0
+62,Abgang immaterielle Anlagen,0.0,0.0,0.0,ZG,2018,0.0
+63,Investitionsbeiträge für eigene Rechnung,1701.9999999999998,3064.75,1822.0,ZG,2018,-1362.7500000000002
+64,Rückzahlung von Darlehen,3160.0,3840.46,4210.0,ZG,2018,-680.46
+65,Übertragung von Beteiligungen,0.0,0.0,0.0,ZG,2018,0.0
+66,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,0.0,ZG,2018,0.0
+67,Durchlaufende Investitionsbeiträge,5750.0,3514.35,6088.0,ZG,2018,2235.65
+10,Finanzvermögen,0.0,1288181.1399999997,0.0,ZG,2018,0.0
+14,Verwaltungsvermögen,0.0,521791.74,0.0,ZG,2018,0.0
+20,Fremdkapital,0.0,959272.3500000001,0.0,ZG,2018,0.0
+29,Eigenkapital,0.0,850700.53,0.0,ZG,2018,0.0
+30,Charges de personnel,1279725.0,1286547.0,1302073.0,FR,2018,-6822.0
+31,Charges de biens et services et autres charges d'exploitation,364058.0,359473.0,369265.0,FR,2018,4585.0
+36,Charges de transfert,1491996.0,1493433.0,1524649.0,FR,2018,-1437.0
+37,Subventions à redistribuer,221666.0,218705.0,222698.0,FR,2018,2961.0
+39,Imputations internes,32089.0,31128.0,38521.0,FR,2018,961.0
+41,Patentes et concessions,38507.0,90030.0,37622.0,FR,2018,-51523.0
+42,Taxes,232760.0,237590.0,236999.0,FR,2018,-4830.0
+46,Revenus de transferts,1436632.0,1469066.0,1469437.0,FR,2018,-32434.0
+47,Subventions à redistribuer,221666.0,219174.0,222698.0,FR,2018,2492.0
+49,Imputations internes,32089.0,31128.0,38521.0,FR,2018,961.0
+50,Immobilisations corporelles,139682.0,136116.0,126834.0,FR,2018,3566.0
+51,Investissements pour le compte de tiers,0.0,0.0,0.0,FR,2018,0.0
+52,Immobilisations incorporelles,0.0,0.0,0.0,FR,2018,0.0
+54,Prêts,11812.0,6383.0,20620.0,FR,2018,5429.0
+55,Participations et capital social,2000.0,2196.0,6000.0,FR,2018,-196.0
+56,Propres subventions d'investissement,37182.0,25147.0,34737.0,FR,2018,12035.0
+57,Subventions d'investissements à redistribuer,16420.0,9501.0,16961.0,FR,2018,6919.0
+60,Transfert d'immobilisations corporelles dans le patrimoine financier,0.0,0.0,0.0,FR,2018,0.0
+61,Remboursements pour les investissements sur le compte des tiers,0.0,34.0,0.0,FR,2018,0.0
+62,Vente d'immobilisations incorporelles,0.0,0.0,0.0,FR,2018,0.0
+63,Subventions d'investissements acquises,19918.0,22826.0,7756.0,FR,2018,-2908.0
+64,Remboursement de prêts,11754.0,10573.0,11657.0,FR,2018,1181.0
+65,Transfert de participations,0.0,0.0,0.0,FR,2018,0.0
+66,Remboursement de propres subventions d'investissement,50.0,18.0,50.0,FR,2018,32.0
+67,Subventions d'investissements à redistribuer,16420.0,9501.0,16961.0,FR,2018,6919.0
+10,Patrimoine Financier,0.0,2402724.0,0.0,FR,2018,0.0
+14,Patrimoine administratif,0.0,922736.0,0.0,FR,2018,0.0
+20,Capitaux de tiers,0.0,1724064.0,0.0,FR,2018,0.0
+29,Capital propre,0.0,1601396.0,0.0,FR,2018,0.0
 30,Personalaufwand,444466.969,441452.5,456500.4,SO,2018,3014.4689999999828
 31,Sach- und übriger Betriebsaufwand,186797.409,178141.1,183799.6,SO,2018,8656.309000000008
 36,Transferaufwand,1389988.713,1355134.9,1425922.1,SO,2018,34853.81300000008
@@ -317,7 +317,7 @@ Acc-ID,Name,Budget y,Realized,Budget y+1,Region,Year,Slack
 10,Finanzvermögen,0.0,1169811.9000000001,0.0,SO,2018,0.0
 14,Verwaltungsvermögen,0.0,1686667.8,0.0,SO,2018,0.0
 20,Fremdkapital,0.0,2655143.863,0.0,SO,2018,0.0
-29,Eigenkapital,,201335.65,,SO,2018,
+29,Eigenkapital,0.0,201335.65,0.0,SO,2018,0.0
 30,Personalaufwand,1232898.0,1222578.743,1265415.904,BS,2018,10319.256999999983
 31,Sach- und übriger Betriebsaufwand,442303.0,439950.85,439195.739,BS,2018,2352.1500000000233
 36,Transferaufwand,2027031.0,1999389.087,2104014.551,BS,2018,27641.912999999942
@@ -336,46 +336,46 @@ Acc-ID,Name,Budget y,Realized,Budget y+1,Region,Year,Slack
 56,Eigene Investitionsbeiträge,0.0,19066.356,0.0,BS,2018,0.0
 57,Durchlaufende Investitionsbeiträge,0.0,0.0,0.0,BS,2018,0.0
 60,Übertragung von Sachanlagen in das FV,4000.0,34629.546,4202.646,BS,2018,-30629.546000000002
-61,Rückerstattungen Dritter für Investitionen,0.0,600.627,,BS,2018,0.0
-62,Abgang immaterielle Anlagen,0.0,,,BS,2018,0.0
+61,Rückerstattungen Dritter für Investitionen,0.0,600.627,0.0,BS,2018,0.0
+62,Abgang immaterielle Anlagen,0.0,0.0,0.0,BS,2018,0.0
 63,Investitionsbeiträge für eigene Rechnung,2200.0,9811.686,2537.85,BS,2018,-7611.686
 64,Rückzahlung von Darlehen,10600.79,16016.189,17902.68,BS,2018,-5415.398999999999
-65,Übertragung von Beteiligungen,0.0,800.0,,BS,2018,0.0
-66,Rückzahlung eigener Investitionsbeiträge,,,,BS,2018,
-67,Durchlaufende Investitionsbeiträge,,,,BS,2018,
+65,Übertragung von Beteiligungen,0.0,800.0,0.0,BS,2018,0.0
+66,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,0.0,BS,2018,0.0
+67,Durchlaufende Investitionsbeiträge,0.0,0.0,0.0,BS,2018,0.0
 10,Finanzvermögen,0.0,5572116.8028,0.0,BS,2018,0.0
 14,Verwaltungsvermögen,0.0,5951012.90335,0.0,BS,2018,0.0
 20,Fremdkapital,0.0,7298298.82301,0.0,BS,2018,0.0
-29,Eigenkapital,,4224830.88314,,BS,2018,
+29,Eigenkapital,0.0,4224830.88314,0.0,BS,2018,0.0
 30,Personalaufwand,605414.3,588532.0,625770.2,BL,2018,16882.300000000047
 31,Sach- und übriger Betriebsaufwand,236280.4,263307.1,249301.2,BL,2018,-27026.699999999983
 36,Transferaufwand,1621784.5,1657657.9,1632915.4,BL,2018,-35873.39999999991
 37,Durchlaufende Beiträge,78498.8,96644.1,82254.4,BL,2018,-18145.300000000003
 39,Interne Verrechungen,22421.9,24636.1,28580.6,BL,2018,-2214.199999999997
-41,Regalien und Konzessionen,44994.5,66122.8,44983,BL,2018,-21128.300000000003
+41,Regalien und Konzessionen,44994.5,66122.8,44983.0,BL,2018,-21128.300000000003
 42,Entgelte,136651.5,129763.0,135266.1,BL,2018,6888.5
 46,Transferertrag,546728.4,598135.7,560968.2,BL,2018,-51407.29999999993
 47,Durchlaufende Beiträge,78498.8,96644.1,82254.4,BL,2018,-18145.300000000003
 49,Interne Verrechnungen,22421.9,24636.1,28580.6,BL,2018,-2214.199999999997
-50,Sachanlagen,229491,210171.3,175851.9,BL,2018,19319.70000000001
-51,Investitionen auf Rechnung Dritter,0,0.0,20000,BL,2018,0
-52,Immaterielle Anlagen,0,0.0,0,BL,2018,0
-54,Darlehen,21770,27453.9,7700,BL,2018,-5683.9000000000015
-55,Beteiligungen und Grundkapitalien,0,50.0,152883.5,BL,2018,0
-56,Eigene Investitionsbeiträge,25566,9918.5,17094,BL,2018,15647.5
-57,Durchlaufende Investitionsbeiträge,0,0.0,0,BL,2018,0
-60,Übertragung von Sachanlagen in das FV,0,0.0,0,BL,2018,0
-61,Rückerstattungen Dritter für Investitionen,192,0.0,20000,BL,2018,192.0
-62,Abgang immaterielle Anlagen,0,0.0,0,BL,2018,0
-63,Investitionsbeiträge für eigene Rechnung,22090,28028.1,17030,BL,2018,-5938.0999999999985
-64,Rückzahlung von Darlehen,0,0.0,157985.5,BL,2018,0
-65,Übertragung von Beteiligungen,0,3810.0,0,BL,2018,0
-66,Rückzahlung eigener Investitionsbeiträge,0,0.0,100,BL,2018,0
-67,Durchlaufende Investitionsbeiträge,0,0.0,0,BL,2018,0
-10,Finanzvermögen,0,2268146.8,0,BL,2018,0
-14,Verwaltungsvermögen,0,2524907.1999999997,0,BL,2018,0
-20,Fremdkapital,0,5076717.5,0,BL,2018,0
-29,Eigenkapital,0,-283663.5,,BL,2018,0
+50,Sachanlagen,229491.0,210171.3,175851.9,BL,2018,19319.70000000001
+51,Investitionen auf Rechnung Dritter,0.0,0.0,20000.0,BL,2018,0.0
+52,Immaterielle Anlagen,0.0,0.0,0.0,BL,2018,0.0
+54,Darlehen,21770.0,27453.9,7700.0,BL,2018,-5683.9000000000015
+55,Beteiligungen und Grundkapitalien,0.0,50.0,152883.5,BL,2018,0.0
+56,Eigene Investitionsbeiträge,25566.0,9918.5,17094.0,BL,2018,15647.5
+57,Durchlaufende Investitionsbeiträge,0.0,0.0,0.0,BL,2018,0.0
+60,Übertragung von Sachanlagen in das FV,0.0,0.0,0.0,BL,2018,0.0
+61,Rückerstattungen Dritter für Investitionen,192.0,0.0,20000.0,BL,2018,192.0
+62,Abgang immaterielle Anlagen,0.0,0.0,0.0,BL,2018,0.0
+63,Investitionsbeiträge für eigene Rechnung,22090.0,28028.1,17030.0,BL,2018,-5938.0999999999985
+64,Rückzahlung von Darlehen,0.0,0.0,157985.5,BL,2018,0.0
+65,Übertragung von Beteiligungen,0.0,3810.0,0.0,BL,2018,0.0
+66,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,100.0,BL,2018,0.0
+67,Durchlaufende Investitionsbeiträge,0.0,0.0,0.0,BL,2018,0.0
+10,Finanzvermögen,0.0,2268146.8,0.0,BL,2018,0.0
+14,Verwaltungsvermögen,0.0,2524907.1999999997,0.0,BL,2018,0.0
+20,Fremdkapital,0.0,5076717.5,0.0,BL,2018,0.0
+29,Eigenkapital,0.0,-283663.5,0.0,BL,2018,0.0
 30,Personalaufwand,179376.9,182498.0,181619.0,SH,2018,-3121.100000000006
 31,Sach- und übriger Betriebsaufwand,65605.5,66530.0,68038.0,SH,2018,-924.5
 36,Transferaufwand,353587.6,337259.0,364190.0,SH,2018,16328.599999999977
@@ -434,35 +434,35 @@ Acc-ID,Name,Budget y,Realized,Budget y+1,Region,Year,Slack
 14,Verwaltungsvermögen,273578.6,218985.90000000002,224270.1,AR,2018,54592.69999999995
 20,Fremdkapital,312724.0,213574.80000000002,228771.7,AR,2018,99149.19999999998
 29,Eigenkapital,145108.4,161337.1,153960.3,AR,2018,-16228.700000000012
-30,Personalaufwand,25241.3,25382.661010000003,26372,AI,2018,-141.36101000000417
+30,Personalaufwand,25241.3,25382.661010000003,26372.0,AI,2018,-141.36101000000417
 31,Sach- und übriger Betriebsaufwand,17644.3,15847.62855,17296.8,AI,2018,1796.6714499999998
 36,Transferaufwand,78284.9,80298.95419000002,81579.9,AI,2018,-2014.0541900000244
-37,Durchlaufende Beiträge,22854,23121.88798,23854,AI,2018,-267.8879799999995
-39,Interne Verrechungen,8946.5,8844.222609999999,8623,AI,2018,102.2773900000011
-41,Regalien und Konzessionen,2373,3554.8659,3547,AI,2018,-1181.8658999999998
-42,Entgelte,12385,13852.914110000002,13793.5,AI,2018,-1467.9141100000015
+37,Durchlaufende Beiträge,22854.0,23121.88798,23854.0,AI,2018,-267.8879799999995
+39,Interne Verrechungen,8946.5,8844.222609999999,8623.0,AI,2018,102.2773900000011
+41,Regalien und Konzessionen,2373.0,3554.8659,3547.0,AI,2018,-1181.8658999999998
+42,Entgelte,12385.0,13852.914110000002,13793.5,AI,2018,-1467.9141100000015
 46,Transferertrag,45315.5,47456.28935,43446.6,AI,2018,-2140.789349999999
-47,Durchlaufende Beiträge,22854,23121.88798,23854,AI,2018,-267.8879799999995
-49,Interne Verrechnungen,8946.5,8844.222609999999,8623,AI,2018,102.2773900000011
-50,Sachanlagen,15305,7215.403080000001,16447,AI,2018,8089.596919999999
-51,Investitionen auf Rechnung Dritter,0,0.0,0,AI,2018,0
-52,Immaterielle Anlagen,0,0.0,0,AI,2018,0
-54,Darlehen,0,187.732,0,AI,2018,0
-55,Beteiligungen und Grundkapitalien,0,0.3,0,AI,2018,0
-56,Eigene Investitionsbeiträge,968,1003.638,1064,AI,2018,-35.638000000000034
-57,Durchlaufende Investitionsbeiträge,0,0.0,0,AI,2018,0
-60,Übertragung von Sachanlagen in das FV,0,0.0,0,AI,2018,0
-61,Rückerstattungen Dritter für Investitionen,0,0.0,0,AI,2018,0
-62,Abgang immaterielle Anlagen,0,0.0,0,AI,2018,0
-63,Investitionsbeiträge für eigene Rechnung,725,592.76602,720,AI,2018,132.23397999999997
-64,Rückzahlung von Darlehen,0,74.5116,0,AI,2018,0
-65,Übertragung von Beteiligungen,0,0.0,0,AI,2018,0
-66,Rückzahlung eigener Investitionsbeiträge,1588,736.70826,1195,AI,2018,851.29174
-67,Durchlaufende Investitionsbeiträge,0,0.0,0,AI,2018,0
-10,Finanzvermögen,0,140002.326,0,AI,2018,0
-14,Verwaltungsvermögen,0,61248.207930000004,0,AI,2018,0
-20,Fremdkapital,0,63656.13658000005,0,AI,2018,0
-29,Eigenkapital,0,137594.39734999998,,AI,2018,0
+47,Durchlaufende Beiträge,22854.0,23121.88798,23854.0,AI,2018,-267.8879799999995
+49,Interne Verrechnungen,8946.5,8844.222609999999,8623.0,AI,2018,102.2773900000011
+50,Sachanlagen,15305.0,7215.403080000001,16447.0,AI,2018,8089.596919999999
+51,Investitionen auf Rechnung Dritter,0.0,0.0,0.0,AI,2018,0.0
+52,Immaterielle Anlagen,0.0,0.0,0.0,AI,2018,0.0
+54,Darlehen,0.0,187.732,0.0,AI,2018,0.0
+55,Beteiligungen und Grundkapitalien,0.0,0.3,0.0,AI,2018,0.0
+56,Eigene Investitionsbeiträge,968.0,1003.638,1064.0,AI,2018,-35.638000000000034
+57,Durchlaufende Investitionsbeiträge,0.0,0.0,0.0,AI,2018,0.0
+60,Übertragung von Sachanlagen in das FV,0.0,0.0,0.0,AI,2018,0.0
+61,Rückerstattungen Dritter für Investitionen,0.0,0.0,0.0,AI,2018,0.0
+62,Abgang immaterielle Anlagen,0.0,0.0,0.0,AI,2018,0.0
+63,Investitionsbeiträge für eigene Rechnung,725.0,592.76602,720.0,AI,2018,132.23397999999997
+64,Rückzahlung von Darlehen,0.0,74.5116,0.0,AI,2018,0.0
+65,Übertragung von Beteiligungen,0.0,0.0,0.0,AI,2018,0.0
+66,Rückzahlung eigener Investitionsbeiträge,1588.0,736.70826,1195.0,AI,2018,851.29174
+67,Durchlaufende Investitionsbeiträge,0.0,0.0,0.0,AI,2018,0.0
+10,Finanzvermögen,0.0,140002.326,0.0,AI,2018,0.0
+14,Verwaltungsvermögen,0.0,61248.207930000004,0.0,AI,2018,0.0
+20,Fremdkapital,0.0,63656.13658000005,0.0,AI,2018,0.0
+29,Eigenkapital,0.0,137594.39734999998,0.0,AI,2018,0.0
 30,Personalaufwand,725318.0,712865.1,740353.7,SG,2018,12452.900000000023
 31,Sach- und übriger Betriebsaufwand,465592.1,447675.5,486283.6,SG,2018,17916.599999999977
 36,Transferaufwand,2924897.0,2929608.5,3041759.0,SG,2018,-4711.5
@@ -480,7 +480,7 @@ Acc-ID,Name,Budget y,Realized,Budget y+1,Region,Year,Slack
 55,Beteiligungen und Grundkapitalien,0.0,0.0,113515.0,SG,2018,0.0
 56,Eigene Investitionsbeiträge,14917.6,13904.7,26446.7,SG,2018,1012.8999999999996
 57,Durchlaufende Investitionsbeiträge,0.0,2804.2,0.0,SG,2018,0.0
-60,Übertragung von Sachanlagen in das FV,0.0,140.2,,SG,2018,0.0
+60,Übertragung von Sachanlagen in das FV,0.0,140.2,0.0,SG,2018,0.0
 61,Rückerstattungen Dritter für Investitionen,2931.0,2408.0,1812.5,SG,2018,523.0
 62,Abgang immaterielle Anlagen,0.0,0.0,0.0,SG,2018,0.0
 63,Investitionsbeiträge für eigene Rechnung,18379.0,19918.6,28408.0,SG,2018,-1539.5999999999985
@@ -491,7 +491,7 @@ Acc-ID,Name,Budget y,Realized,Budget y+1,Region,Year,Slack
 10,Finanzvermögen,0.0,2288256.8000000003,0.0,SG,2018,0.0
 14,Verwaltungsvermögen,0.0,1321059.9000000001,0.0,SG,2018,0.0
 20,Fremdkapital,0.0,2331141.3,0.0,SG,2018,0.0
-29,Eigenkapital,,1278175.6,,SG,2018,
+29,Eigenkapital,0.0,1278175.6,0.0,SG,2018,0.0
 30,Personalaufwand,388159.0,380629.3,394718.0,GR,2018,7529.700000000012
 31,Sach- und übriger Betriebsaufwand,325694.0,297330.1,318963.0,GR,2018,28363.900000000023
 36,Transferaufwand,1130694.0,1069198.8,1149292.0,GR,2018,61495.19999999995
@@ -520,7 +520,7 @@ Acc-ID,Name,Budget y,Realized,Budget y+1,Region,Year,Slack
 10,Finanzvermögen,0.0,2862737.2,0.0,GR,2018,0.0
 14,Verwaltungsvermögen,0.0,1119261.1,0.0,GR,2018,0.0
 20,Fremdkapital,0.0,1505399.0,0.0,GR,2018,0.0
-29,Eigenkapital,,2476599.4,,GR,2018,
+29,Eigenkapital,0.0,2476599.4,0.0,GR,2018,0.0
 30,Personalaufwand,1622391.228,1591412.1184,1652946.81,AG,2018,30979.10959999985
 31,Sach- und übriger Betriebsaufwand,406301.6167,376240.65035,427424.3518,AG,2018,30060.966350000002
 36,Transferaufwand,2505940.886,2468926.54291,2587021.515,AG,2018,37014.3430900001
@@ -549,36 +549,36 @@ Acc-ID,Name,Budget y,Realized,Budget y+1,Region,Year,Slack
 10,Finanzvermögen,0.0,1742261.2789500002,0.0,AG,2018,0.0
 14,Verwaltungsvermögen,0.0,1824724.43152,0.0,AG,2018,0.0
 20,Fremdkapital,0.0,2829173.67612,0.0,AG,2018,0.0
-29,Eigenkapital,,737812.0343500001,,AG,2018,
-30,Personalaufwand,398472,395256,401101,TG,2018,3216
-31,Sach- und übriger Betriebsaufwand,171961,180179,181946,TG,2018,-8218
-36,Transferaufwand,1003310,1002764,1025030,TG,2018,546
-37,Durchlaufende Beiträge,311310,315121,323103,TG,2018,-3811
-39,Interne Verrechungen,160612,157210,165915,TG,2018,3402
-41,Regalien und Konzessionen,46420,57312,51914,TG,2018,-10892
-42,Entgelte,152072,146219,150209,TG,2018,5853
-46,Transferertrag,474934,486516,494758,TG,2018,-11582
-47,Durchlaufende Beiträge,311310,315121,323103,TG,2018,-3811
-49,Interne Verrechnungen,160612,157210,165915,TG,2018,3402
-50,Sachanlagen,75992,58390,76197,TG,2018,17602
-51,Investitionen auf Rechnung Dritter,0,0,0,TG,2018,0
-52,Immaterielle Anlagen,0,0,0,TG,2018,0
-54,Darlehen,500,25557,500,TG,2018,-25057
-55,Beteiligungen und Grundkapitalien,0,0,0,TG,2018,0
-56,Eigene Investitionsbeiträge,19516,16417,20826,TG,2018,3099
-57,Durchlaufende Investitionsbeiträge,1480,1555,1670,TG,2018,-75
-60,Übertragung von Sachanlagen in das FV,50,119,50,TG,2018,-69
-61,Rückerstattungen Dritter für Investitionen,0,0,0,TG,2018,0
-62,Abgang immaterielle Anlagen,0,0,0,TG,2018,0
-63,Investitionsbeiträge für eigene Rechnung,33292,25532,28749,TG,2018,7760
-64,Rückzahlung von Darlehen,0,0,0,TG,2018,0
-65,Übertragung von Beteiligungen,0,0,0,TG,2018,0
-66,Rückzahlung eigener Investitionsbeiträge,400,463,300,TG,2018,-63
-67,Durchlaufende Investitionsbeiträge,1480,1555,1670,TG,2018,-75
-10,Finanzvermögen,0,807324,0,TG,2018,0
-14,Verwaltungsvermögen,0,1092020,0,TG,2018,0
-20,Fremdkapital,0,1242494,0,TG,2018,0
-29,Eigenkapital,,656850,,TG,2018,
+29,Eigenkapital,0.0,737812.0343500001,0.0,AG,2018,0.0
+30,Personalaufwand,398472.0,395256.0,401101.0,TG,2018,3216.0
+31,Sach- und übriger Betriebsaufwand,171961.0,180179.0,181946.0,TG,2018,-8218.0
+36,Transferaufwand,1003310.0,1002764.0,1025030.0,TG,2018,546.0
+37,Durchlaufende Beiträge,311310.0,315121.0,323103.0,TG,2018,-3811.0
+39,Interne Verrechungen,160612.0,157210.0,165915.0,TG,2018,3402.0
+41,Regalien und Konzessionen,46420.0,57312.0,51914.0,TG,2018,-10892.0
+42,Entgelte,152072.0,146219.0,150209.0,TG,2018,5853.0
+46,Transferertrag,474934.0,486516.0,494758.0,TG,2018,-11582.0
+47,Durchlaufende Beiträge,311310.0,315121.0,323103.0,TG,2018,-3811.0
+49,Interne Verrechnungen,160612.0,157210.0,165915.0,TG,2018,3402.0
+50,Sachanlagen,75992.0,58390.0,76197.0,TG,2018,17602.0
+51,Investitionen auf Rechnung Dritter,0.0,0.0,0.0,TG,2018,0.0
+52,Immaterielle Anlagen,0.0,0.0,0.0,TG,2018,0.0
+54,Darlehen,500.0,25557.0,500.0,TG,2018,-25057.0
+55,Beteiligungen und Grundkapitalien,0.0,0.0,0.0,TG,2018,0.0
+56,Eigene Investitionsbeiträge,19516.0,16417.0,20826.0,TG,2018,3099.0
+57,Durchlaufende Investitionsbeiträge,1480.0,1555.0,1670.0,TG,2018,-75.0
+60,Übertragung von Sachanlagen in das FV,50.0,119.0,50.0,TG,2018,-69.0
+61,Rückerstattungen Dritter für Investitionen,0.0,0.0,0.0,TG,2018,0.0
+62,Abgang immaterielle Anlagen,0.0,0.0,0.0,TG,2018,0.0
+63,Investitionsbeiträge für eigene Rechnung,33292.0,25532.0,28749.0,TG,2018,7760.0
+64,Rückzahlung von Darlehen,0.0,0.0,0.0,TG,2018,0.0
+65,Übertragung von Beteiligungen,0.0,0.0,0.0,TG,2018,0.0
+66,Rückzahlung eigener Investitionsbeiträge,400.0,463.0,300.0,TG,2018,-63.0
+67,Durchlaufende Investitionsbeiträge,1480.0,1555.0,1670.0,TG,2018,-75.0
+10,Finanzvermögen,0.0,807324.0,0.0,TG,2018,0.0
+14,Verwaltungsvermögen,0.0,1092020.0,0.0,TG,2018,0.0
+20,Fremdkapital,0.0,1242494.0,0.0,TG,2018,0.0
+29,Eigenkapital,0.0,656850.0,0.0,TG,2018,0.0
 30,Charges de personnel,1023527.0,1021696.2,1032708.5,TI,2018,1830.8000000000466
 31,Charges de biens et services et autres charges d'exploitation,288167.6,295173.6,303061.2,TI,2018,-7006.0
 36,Charges de transfert,1906389.0,1862540.3,1974737.1,TI,2018,43848.69999999995
@@ -597,104 +597,104 @@ Acc-ID,Name,Budget y,Realized,Budget y+1,Region,Year,Slack
 56,Propres subventions d'investissement,145300.3,122714.9,153202.2,TI,2018,22585.399999999994
 57,Subventions d'investissements à redistribuer,46612.3,36057.9,42558.2,TI,2018,10554.400000000001
 60,Transfert d'immobilisations corporelles dans le patrimoine financier,500.0,184.7,500.0,TI,2018,315.3
-61,Remboursements pour les investissements sur le compte des tiers,,,,TI,2018,
-62,Vente d'immobilisations incorporelles,,,,TI,2018,
+61,Remboursements pour les investissements sur le compte des tiers,0.0,0.0,0.0,TI,2018,0.0
+62,Vente d'immobilisations incorporelles,0.0,0.0,0.0,TI,2018,0.0
 63,Subventions d'investissements acquises,50039.3,69702.9,68082.2,TI,2018,-19663.59999999999
 64,Remboursement de prêts,11357.3,10588.8,10509.1,TI,2018,768.5
-65,Transfert de participations,,,,TI,2018,
+65,Transfert de participations,0.0,0.0,0.0,TI,2018,0.0
 66,Remboursement de propres subventions d'investissement,18837.0,12737.7,18601.2,TI,2018,6099.299999999999
 67,Subventions d'investissements à redistribuer,127346.1,36057.9,42558.2,TI,2018,91288.20000000001
 10,Patrimoine Financier,0.0,5090686.2,0.0,TI,2018,0.0
 14,Patrimoine administratif,0.0,1610794.0,0.0,TI,2018,0.0
 20,Capitaux de tiers,0.0,6969445.2,0.0,TI,2018,0.0
-29,Capital propre,,-267965.1,,TI,2018,
+29,Capital propre,0.0,-267965.1,0.0,TI,2018,0.0
 30,Charges de personnel,2447668.6,2430731.7,2485444.5,VD,2018,16936.899999999907
 31,Charges de biens et services et autres charges d'exploitation,717674.1,742236.2,719558.7,VD,2018,-24562.099999999977
 36,Charges de transfert,5530613.3,5987804.4,5746105.1,VD,2018,-457191.10000000056
 37,Subventions à redistribuer,572901.3,615359.7,602892.8,VD,2018,-42458.39999999991
 39,Imputations internes,5057.3,4888.7,4973.3,VD,2018,168.60000000000036
-41,Patentes et concessions,103613.7,165866,103811.5,VD,2018,-62252.3
+41,Patentes et concessions,103613.7,165866.0,103811.5,VD,2018,-62252.3
 42,Taxes,387073.2,404492.5,397652.8,VD,2018,-17419.29999999999
 46,Revenus de transferts,2314396.7,2556659.2,2409004.6,VD,2018,-242262.5
 47,Subventions à redistribuer,572901.3,615359.7,602892.8,VD,2018,-42458.39999999991
 49,Imputations internes,5057.3,4888.7,4973.3,VD,2018,168.60000000000036
-50,Immobilisations corporelles,428644.2,230347.1,470887,VD,2018,198297.1
-51,Investissements pour le compte de tiers,0.0,7942.6,0,VD,2018,0
-52,Immobilisations incorporelles,0.0,19524.5,0,VD,2018,0
-54,Prêts,0.0,29268.9,0,VD,2018,0
-55,Participations et capital social,0.0,0,0,VD,2018,0
-56,Propres subventions d'investissement,0.0,68421.9,0,VD,2018,0
-57,Subventions d'investissements à redistribuer,0.0,14361.5,0,VD,2018,0
-60,Transfert d'immobilisations corporelles dans le patrimoine financier,33576.0,0,50602,VD,2018,33576.0
-61,Remboursements pour les investissements sur le compte des tiers,,7942.6,0,VD,2018,
-62,Vente d'immobilisations incorporelles,,0,0,VD,2018,
-63,Subventions d'investissements acquises,,35554.1,0,VD,2018,
-64,Remboursement de prêts,,30203,0,VD,2018,
-65,Transfert de participations,,0,0,VD,2018,
-66,Remboursement de propres subventions d'investissement,,12651.3,0,VD,2018,
-67,Subventions d'investissements à redistribuer,,14361.5,0,VD,2018,
-10,Patrimoine Financier,0.0,7270372.8,0,VD,2018,0
-14,Patrimoine administratif,0.0,1575531.5000000002,0,VD,2018,0
-20,Capitaux de tiers,0.0,5791419.4,0,VD,2018,0
-29,Capital propre,,3054484.9,,VD,2018,
+50,Immobilisations corporelles,428644.2,230347.1,470887.0,VD,2018,198297.1
+51,Investissements pour le compte de tiers,0.0,7942.6,0.0,VD,2018,0.0
+52,Immobilisations incorporelles,0.0,19524.5,0.0,VD,2018,0.0
+54,Prêts,0.0,29268.9,0.0,VD,2018,0.0
+55,Participations et capital social,0.0,0.0,0.0,VD,2018,0.0
+56,Propres subventions d'investissement,0.0,68421.9,0.0,VD,2018,0.0
+57,Subventions d'investissements à redistribuer,0.0,14361.5,0.0,VD,2018,0.0
+60,Transfert d'immobilisations corporelles dans le patrimoine financier,33576.0,0.0,50602.0,VD,2018,33576.0
+61,Remboursements pour les investissements sur le compte des tiers,0.0,7942.6,0.0,VD,2018,0.0
+62,Vente d'immobilisations incorporelles,0.0,0.0,0.0,VD,2018,0.0
+63,Subventions d'investissements acquises,0.0,35554.1,0.0,VD,2018,0.0
+64,Remboursement de prêts,0.0,30203.0,0.0,VD,2018,0.0
+65,Transfert de participations,0.0,0.0,0.0,VD,2018,0.0
+66,Remboursement de propres subventions d'investissement,0.0,12651.3,0.0,VD,2018,0.0
+67,Subventions d'investissements à redistribuer,0.0,14361.5,0.0,VD,2018,0.0
+10,Patrimoine Financier,0.0,7270372.8,0.0,VD,2018,0.0
+14,Patrimoine administratif,0.0,1575531.5000000002,0.0,VD,2018,0.0
+20,Capitaux de tiers,0.0,5791419.4,0.0,VD,2018,0.0
+29,Capital propre,0.0,3054484.9,0.0,VD,2018,0.0
 30,Charges de personnel,1038527.7,1069091.95218,1060990.1,VS,2018,-30564.25218000007
 31,Charges de biens et services et autres charges d'exploitation,297426.8,304258.60368,337841.1,VS,2018,-6831.803680000012
 36,Charges de transfert,1617869.1,1652422.40133,1657644.3,VS,2018,-34553.30132999993
-37,Subventions à redistribuer,144705,200921.06863,198117.1,VS,2018,-56216.068629999994
-39,Imputations internes,128497,138826.26576,103251,VS,2018,-10329.26576000001
-41,Patentes et concessions,70012,98383.83247,69370,VS,2018,-28371.832469999994
-42,Taxes,211577,215234.41885,211438,VS,2018,-3657.4188499999873
+37,Subventions à redistribuer,144705.0,200921.06863,198117.1,VS,2018,-56216.068629999994
+39,Imputations internes,128497.0,138826.26576,103251.0,VS,2018,-10329.26576000001
+41,Patentes et concessions,70012.0,98383.83247,69370.0,VS,2018,-28371.832469999994
+42,Taxes,211577.0,215234.41885,211438.0,VS,2018,-3657.4188499999873
 46,Revenus de transferts,1529703.7,1519383.46151,1531836.7,VS,2018,10320.238489999902
-47,Subventions à redistribuer,144705,200921.06863,198117.1,VS,2018,-56216.068629999994
-49,Imputations internes,128497,138826.26576,103251,VS,2018,-10329.26576000001
+47,Subventions à redistribuer,144705.0,200921.06863,198117.1,VS,2018,-56216.068629999994
+49,Imputations internes,128497.0,138826.26576,103251.0,VS,2018,-10329.26576000001
 50,Immobilisations corporelles,297193.4,237503.49939,226733.4,VS,2018,59689.90061000001
-51,Investissements pour le compte de tiers,0,0,0,VS,2018,0
+51,Investissements pour le compte de tiers,0.0,0.0,0.0,VS,2018,0.0
 52,Immobilisations incorporelles,20953.6,13911.73283,18238.3,VS,2018,7041.867169999998
-54,Prêts,49661.4,47468.7992,64975,VS,2018,2192.6008
-55,Participations et capital social,0,4,10250,VS,2018,0
+54,Prêts,49661.4,47468.7992,64975.0,VS,2018,2192.6008
+55,Participations et capital social,0.0,4.0,10250.0,VS,2018,0.0
 56,Propres subventions d'investissement,148837.1,118437.75504,159912.6,VS,2018,30399.344960000002
-57,Subventions d'investissements à redistribuer,16466.4,13652.5492,19711,VS,2018,2813.850800000002
-60,Transfert d'immobilisations corporelles dans le patrimoine financier,,0.655,0,VS,2018,
-61,Remboursements pour les investissements sur le compte des tiers,,0,0,VS,2018,
-62,Vente d'immobilisations incorporelles,,0,0,VS,2018,
+57,Subventions d'investissements à redistribuer,16466.4,13652.5492,19711.0,VS,2018,2813.850800000002
+60,Transfert d'immobilisations corporelles dans le patrimoine financier,0.0,0.655,0.0,VS,2018,0.0
+61,Remboursements pour les investissements sur le compte des tiers,0.0,0.0,0.0,VS,2018,0.0
+62,Vente d'immobilisations incorporelles,0.0,0.0,0.0,VS,2018,0.0
 63,Subventions d'investissements acquises,265622.9,190946.17927,246994.3,VS,2018,74676.72073000003
 64,Remboursement de prêts,37478.7,38427.46029,35537.2,VS,2018,-948.7602900000056
-65,Transfert de participations,0,0.002,0,VS,2018,0
+65,Transfert de participations,0.0,0.002,0.0,VS,2018,0.0
 66,Remboursement de propres subventions d'investissement,641.1,825.3701,646.5,VS,2018,-184.27009999999996
-67,Subventions d'investissements à redistribuer,16466.4,13652.5492,19711,VS,2018,2813.850800000002
-10,Patrimoine Financier,0,2170814.6744600004,0,VS,2018,0
-14,Patrimoine administratif,0,2015813.9548399998,0,VS,2018,0
-20,Capitaux de tiers,0,3320183.0376199996,0,VS,2018,0
-29,Capital propre,,866445.59168,,VS,2018,
+67,Subventions d'investissements à redistribuer,16466.4,13652.5492,19711.0,VS,2018,2813.850800000002
+10,Patrimoine Financier,0.0,2170814.6744600004,0.0,VS,2018,0.0
+14,Patrimoine administratif,0.0,2015813.9548399998,0.0,VS,2018,0.0
+20,Capitaux de tiers,0.0,3320183.0376199996,0.0,VS,2018,0.0
+29,Capital propre,0.0,866445.59168,0.0,VS,2018,0.0
 30,Charges de personnel,432828.811,499876.042,443675.91,NE,2018,-67047.23100000003
 31,Charges de biens et services et autres charges d'exploitation,164520.006,150207.32,168110.053,NE,2018,14312.685999999987
 36,Charges de transfert,1276699.118,1320953.723,1321180.914,NE,2018,-44254.60499999998
 37,Subventions à redistribuer,184158.531,173459.392,184400.104,NE,2018,10699.138999999996
 39,Imputations internes,83483.087,91209.3,76508.394,NE,2018,-7726.213000000003
-41,Patentes et concessions,45485,45697.985,38542,NE,2018,-212.98500000000058
+41,Patentes et concessions,45485.0,45697.985,38542.0,NE,2018,-212.98500000000058
 42,Taxes,129338.335,125994.974,148847.222,NE,2018,3343.3610000000044
 46,Revenus de transferts,550086.211,553667.699,573011.991,NE,2018,-3581.488000000012
 47,Subventions à redistribuer,184158.531,173459.392,184400.104,NE,2018,10699.138999999996
 49,Imputations internes,83483.087,91209.3,76508.394,NE,2018,-7726.213000000003
 50,Immobilisations corporelles,54137.041,45963.872,62115.132,NE,2018,8173.168999999994
-51,Investissements pour le compte de tiers,0,0.0,0,NE,2018,0
+51,Investissements pour le compte de tiers,0.0,0.0,0.0,NE,2018,0.0
 52,Immobilisations incorporelles,7283.5,8598.324,9811.5,NE,2018,-1314.8240000000005
-54,Prêts,6019.5,18653.046,9150,NE,2018,-12633.545999999998
-55,Participations et capital social,12000,196.0,15950,NE,2018,11804.0
+54,Prêts,6019.5,18653.046,9150.0,NE,2018,-12633.545999999998
+55,Participations et capital social,12000.0,196.0,15950.0,NE,2018,11804.0
 56,Propres subventions d'investissement,15106.55,6018.324,17743.615,NE,2018,9088.225999999999
-57,Subventions d'investissements à redistribuer,3160,1455.994,2408.5,NE,2018,1704.006
-60,Transfert d'immobilisations corporelles dans le patrimoine financier,,18.179,0,NE,2018,
-61,Remboursements pour les investissements sur le compte des tiers,,0.0,0,NE,2018,
-62,Vente d'immobilisations incorporelles,,0.0,0,NE,2018,
+57,Subventions d'investissements à redistribuer,3160.0,1455.994,2408.5,NE,2018,1704.006
+60,Transfert d'immobilisations corporelles dans le patrimoine financier,0.0,18.179,0.0,NE,2018,0.0
+61,Remboursements pour les investissements sur le compte des tiers,0.0,0.0,0.0,NE,2018,0.0
+62,Vente d'immobilisations incorporelles,0.0,0.0,0.0,NE,2018,0.0
 63,Subventions d'investissements acquises,1168.3,-280.158,1755.8,NE,2018,1448.458
 64,Remboursement de prêts,893.265,19585.241,4389.415,NE,2018,-18691.976000000002
-65,Transfert de participations,0,90.435,0,NE,2018,0
+65,Transfert de participations,0.0,90.435,0.0,NE,2018,0.0
 66,Remboursement de propres subventions d'investissement,15841.035,10851.604,19222.7,NE,2018,4989.4310000000005
-67,Subventions d'investissements à redistribuer,3160,1455.994,2408.5,NE,2018,1704.006
-10,Patrimoine Financier,0,1026467.1869999999,0,NE,2018,0
-14,Patrimoine administratif,0,1643699.941,0,NE,2018,0
-20,Capitaux de tiers,0,2375861.193,0,NE,2018,0
-29,Capital propre,,294306.036,,NE,2018,
+67,Subventions d'investissements à redistribuer,3160.0,1455.994,2408.5,NE,2018,1704.006
+10,Patrimoine Financier,0.0,1026467.1869999999,0.0,NE,2018,0.0
+14,Patrimoine administratif,0.0,1643699.941,0.0,NE,2018,0.0
+20,Capitaux de tiers,0.0,2375861.193,0.0,NE,2018,0.0
+29,Capital propre,0.0,294306.036,0.0,NE,2018,0.0
 30,Charges de personnel,2462976.869,2509144.13679,2535413.523,GE,2018,-46167.267789999954
 31,Charges de biens et services et autres charges d'exploitation,567124.634,630427.6821399998,582261.0490009999,GE,2018,-63303.04813999985
 36,Charges de transfert,4707659.253,4758906.910700001,4870800.038,GE,2018,-51247.65770000126
@@ -706,24 +706,24 @@ Acc-ID,Name,Budget y,Realized,Budget y+1,Region,Year,Slack
 47,Subventions à redistribuer,40707.682,48486.830980000006,45760.09,GE,2018,-7779.148980000005
 49,Imputations internes,13356.21,14997.6169,14169.69,GE,2018,-1641.4069000000018
 50,Immobilisations corporelles,511306.696,332178.42417000025,546473.551,GE,2018,179128.27182999975
-51,Investissements pour le compte de tiers,0,0.0,0,GE,2018,0
+51,Investissements pour le compte de tiers,0.0,0.0,0.0,GE,2018,0.0
 52,Immobilisations incorporelles,39395.302,35016.67241000001,36875.276,GE,2018,4378.629589999997
 54,Prêts,80629.195,57183.1665,59802.33,GE,2018,23446.028500000008
-55,Participations et capital social,26500,12781.4432,17000,GE,2018,13718.5568
+55,Participations et capital social,26500.0,12781.4432,17000.0,GE,2018,13718.5568
 56,Propres subventions d'investissement,132483.151,99432.27235999999,164748.511,GE,2018,33050.878640000024
-57,Subventions d'investissements à redistribuer,0,0.0,0,GE,2018,0
-60,Transfert d'immobilisations corporelles dans le patrimoine financier,,23868.623140000003,,GE,2018,
-61,Remboursements pour les investissements sur le compte des tiers,,,,GE,2018,
-62,Vente d'immobilisations incorporelles,,,,GE,2018,
+57,Subventions d'investissements à redistribuer,0.0,0.0,0.0,GE,2018,0.0
+60,Transfert d'immobilisations corporelles dans le patrimoine financier,0.0,23868.623140000003,0.0,GE,2018,0.0
+61,Remboursements pour les investissements sur le compte des tiers,0.0,0.0,0.0,GE,2018,0.0
+62,Vente d'immobilisations incorporelles,0.0,0.0,0.0,GE,2018,0.0
 63,Subventions d'investissements acquises,22369.63,22926.98531,25993.568,GE,2018,-557.355309999999
 64,Remboursement de prêts,6557.093,5243.90798,4877.199,GE,2018,1313.18502
-65,Transfert de participations,,,,GE,2018,
-66,Remboursement de propres subventions d'investissement,,,,GE,2018,
-67,Subventions d'investissements à redistribuer,,,,GE,2018,
-10,Patrimoine Financier,0,4342728.92625,0,GE,2018,0
-14,Patrimoine administratif,0,15399754.90997,0,GE,2018,0
-20,Capitaux de tiers,0,16742915.182509998,0,GE,2018,0
-29,Capital propre,,2999568.6538199997,,GE,2018,
+65,Transfert de participations,0.0,0.0,0.0,GE,2018,0.0
+66,Remboursement de propres subventions d'investissement,0.0,0.0,0.0,GE,2018,0.0
+67,Subventions d'investissements à redistribuer,0.0,0.0,0.0,GE,2018,0.0
+10,Patrimoine Financier,0.0,4342728.92625,0.0,GE,2018,0.0
+14,Patrimoine administratif,0.0,15399754.90997,0.0,GE,2018,0.0
+20,Capitaux de tiers,0.0,16742915.182509998,0.0,GE,2018,0.0
+29,Capital propre,0.0,2999568.6538199997,0.0,GE,2018,0.0
 30,,261691.3,261518.80732,267205.2,JU,2018,172.49267999999574
 31,,77912.7,73666.99286,78752.3,JU,2018,4245.707139999999
 36,,450013.1,445065.03649,457536.4,JU,2018,4948.063509999949
@@ -752,4 +752,4 @@ Acc-ID,Name,Budget y,Realized,Budget y+1,Region,Year,Slack
 10,,0.0,367330.89209000004,0.0,JU,2018,0.0
 14,,0.0,466312.91971,0.0,JU,2018,0.0
 20,,0.0,734153.9369999999,0.0,JU,2018,0.0
-29,,,99489.87479999999,,JU,2018,
+29,,0.0,99489.87479999999,0.0,JU,2018,0.0

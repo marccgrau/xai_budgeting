@@ -91,6 +91,12 @@ class HRM1Processor(SheetProcessor):
         df["Year"] = self.current_year
         df["Slack"] = np.where(df["Budget y"] != 0, df["Budget y"] - df["Realized"], 0)
 
+        # Replace numeric data NA with 0
+        numeric_columns = ["Budget y", "Realized", "Budget y+1", "Slack"]
+        for column in numeric_columns:
+            df[column] = pd.to_numeric(df[column], errors="coerce")
+        df[numeric_columns] = df[numeric_columns].fillna(0)
+
         # Separate into single and double digit DataFrames
         df_single_digit = df[df["Acc-ID"].str.len() == 1].copy()
         df_double_digit = df[df["Acc-ID"].str.len() == 2].copy()
@@ -155,6 +161,12 @@ class HRM2Processor2019Plus(SheetProcessor):
         df["Year"] = self.current_year
         df["Slack"] = np.where(df["Budget y"] != 0, df["Budget y"] - df["Realized"], 0)
 
+        # Replace numeric data NA with 0
+        numeric_columns = ["Budget y", "Realized", "Budget y+1", "Slack"]
+        for column in numeric_columns:
+            df[column] = pd.to_numeric(df[column], errors="coerce")
+        df[numeric_columns] = df[numeric_columns].fillna(0)
+
         # Separate into single and double digit DataFrames
         df_single_digit = df[df["Acc-ID"].str.len() == 1].copy()
         df_double_digit = df[df["Acc-ID"].str.len() == 2].copy()
@@ -215,6 +227,12 @@ class HRM2ProcessorTo2018(SheetProcessor):
         df["Region"] = self.region
         df["Year"] = self.current_year
         df["Slack"] = np.where(df["Budget y"] != 0, df["Budget y"] - df["Realized"], 0)
+
+        # Replace numeric data NA with 0
+        numeric_columns = ["Budget y", "Realized", "Budget y+1", "Slack"]
+        for column in numeric_columns:
+            df[column] = pd.to_numeric(df[column], errors="coerce")
+        df[numeric_columns] = df[numeric_columns].fillna(0)
 
         # Separate into single and double digit DataFrames
         df_single_digit = df[df["Acc-ID"].str.len() == 1].copy()

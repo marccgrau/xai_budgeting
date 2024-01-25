@@ -20,13 +20,13 @@ def determine_year_from_filename(file_path: str) -> str:
 
 
 def extract_hrm_region(sheet_name: str) -> Tuple[str, str]:
-    # Regular expression to match various sheet naming conventions
-    pattern = re.compile(r"(HRM\d)[_ ]?(KT_)?([A-Z]{2})|([A-Z]{2})[_ ](HRM\d)")
+    # Regular expression to strictly match two-character regions followed by HRM patterns
+    pattern = re.compile(r"(HRM\d)[_ ]?KT_([A-Z]{2})|([A-Z]{2})[_ ](HRM\d)")
     match = pattern.search(sheet_name)
     if match:
         # Extract HRM type and region from the matched groups
-        hrm_type = match.group(1) if match.group(1) else match.group(5)
-        region = match.group(3) if match.group(3) else match.group(4)
+        hrm_type = match.group(1) if match.group(1) else match.group(4)
+        region = match.group(2) if match.group(2) else match.group(3)
         return hrm_type, region
     else:
         raise ValueError(f"Invalid sheet name format: {sheet_name}")

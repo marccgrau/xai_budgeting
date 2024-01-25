@@ -3,7 +3,6 @@ import os
 
 from src.data_fetching.csv_clients.fetch_kdkf import process_excel_file
 from src.logging_config import setup_logging
-from src.process_data import merge_double_digit_files, merge_single_digit_files
 
 setup_logging()
 logger = logging.getLogger(__name__)
@@ -31,10 +30,6 @@ def main():
             )
         else:
             logger.info(f"Skipping non-Excel file: {filename}")
-
-    # Merge the processed files
-    merge_single_digit_files()
-    merge_double_digit_files()
 
 
 if __name__ == "__main__":

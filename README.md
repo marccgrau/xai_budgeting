@@ -8,7 +8,7 @@ XAI Budgeting is focused on forecasting realized values of accounts in public ad
 This project implements a data processing and machine learning pipeline using a Makefile for automation. The pipeline includes steps for fetching data, merging, transforming, tuning and training a CatBoost model, and finally evaluating the model's performance.
 
 ## Dependencies
-Install all necessar dependencies, make sure you have poetry installed. 
+Install all necessary dependencies, make sure you have poetry installed. 
 
 Command:
 ```shell

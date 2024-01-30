@@ -31,10 +31,10 @@ train_data = apply_feature_engineering(train_data)
 test_data = apply_feature_engineering(test_data)
 
 
-X_train = train_data.drop(columns=["Realized", "Budget y", "Budget y+1"])
+X_train = train_data.drop(columns=["Realized", "Budget y", "Budget y+1", "Slack"])
 y_train = train_data["Realized"]
 
-X_test = test_data.drop(columns=["Realized", "Budget y", "Budget y+1"])
+X_test = test_data.drop(columns=["Realized", "Budget y", "Budget y+1", "Slack"])
 y_test = test_data["Realized"]
 
 

@@ -2,6 +2,7 @@ import json
 import logging
 from pathlib import Path
 
+import joblib
 import numpy as np
 import pandas as pd
 from sklearn.metrics import (
@@ -10,7 +11,7 @@ from sklearn.metrics import (
     mean_squared_error,
 )
 
-import catboost as cb
+import xgboost as xgb
 from src.feature_engineering import (
     apply_feature_engineering,
     choose_acc_ids,
@@ -22,7 +23,7 @@ setup_logging()
 logger = logging.getLogger(__name__)
 
 # Load the best hyperparameters
-hyperparams_path = Path("hyperparameters/hyperparams_catboost.json")
+hyperparams_path = Path("hyperparameters/hyperparams_xgboost.json")
 with open(hyperparams_path, "r") as file:
     best_hyperparams = json.load(file)
 
@@ -33,39 +34,38 @@ df = pd.read_csv(data_path)
 # Convert 'Year' to a relative year
 df["Year"] = df["Year"] - df["Year"].min()
 
-# Sort dataframe and apply feature engineerings
+# Sort dataframe and apply feature engineering
 df = df.sort_values(by="Year")
 df = apply_feature_engineering(df)
 df = drop_all_zero_entries(df)
 df = choose_acc_ids(df=df, acc_ids=[40, 41, 42, 43, 45, 46, 47, 49])
 
+# Load the label encoders
+region_encoder_path = Path("models/le_region.joblib")
+acc_id_encoder_path = Path("models/le_acc_id.joblib")
+le_region = joblib.load(region_encoder_path)
+le_acc_id = joblib.load(acc_id_encoder_path)
+
+# Apply the label encoders to the dataframe
+df["Region"] = le_region.transform(df["Region"])
+df["Acc-ID"] = le_acc_id.transform(df["Acc-ID"])
+
 # Define the cutoff year
 cutoff_year = df["Year"].max() - 1
-logger.info(f"Cutoff year: {cutoff_year}")
 
 train_data = df[df["Year"] <= cutoff_year]
 test_data = df[df["Year"] > cutoff_year]
 
-logger.info(f"Train data shape: {train_data.shape}")
-logger.info(f"Test data shape: {test_data.shape}")
-logger.info(f"Train years: {train_data['Year'].unique()}")
-logger.info(f"Test years: {test_data['Year'].unique()}")
-logger.info(f"Train columns: {train_data.columns}")
-logger.info(f"Test columns: {test_data.columns}")
-logger.info(f"Train data head: {train_data.head()}")
-logger.info(f"Test data head: {test_data.head()}")
-
 X_train = train_data.drop(columns=["Realized", "Budget y", "Budget y+1", "Slack"])
 y_train = train_data["Realized"]
-budget_y_train = train_data["Budget y"]
 
 X_test = test_data.drop(columns=["Realized", "Budget y", "Budget y+1", "Slack"])
 y_test = test_data["Realized"]
 budget_y_test = test_data["Budget y"]
 
 # Load the model
-model_save_path = Path("models/best_model_catboost.cbm")
-model = cb.CatBoostRegressor()
+model_save_path = Path("models/best_model_xgboost.json")
+model = xgb.XGBRegressor(**best_hyperparams)
 model.load_model(model_save_path)
 
 # Predict on X_test
@@ -83,16 +83,13 @@ comparison_mse = round(mean_squared_error(y_test, budget_y_test), 2)
 comparison_rmse = round(np.sqrt(comparison_mse), 2)
 comparison_mape = round(mean_absolute_percentage_error(y_test, budget_y_test), 2)
 
-# Log the results
+# Log and save the results
 logger.info(f"Model Evaluation: MAE: {mae}, MSE: {mse}, RMSE: {rmse}, MAPE: {mape}")
 logger.info(
-    f"Budget Comparison: MAE: {comparison_mae}, MSE: {comparison_mse}, \
-        RMSE: {comparison_rmse}, MAPE: {comparison_mape}"
+    f"Budget Comparison: MAE: {comparison_mae}, MSE: {comparison_mse}, RMSE: {comparison_rmse}, MAPE: {comparison_mape}"
 )
 
-results_file_path = Path("evaluations/evaluation_catboost.txt")
-
-# Write the evaluation results to the file
+results_file_path = Path("evaluations/evaluation_xgboost.txt")
 with open(results_file_path, "w") as file:
     file.write(f"Model saved successfully at {model_save_path}\n")
     file.write(

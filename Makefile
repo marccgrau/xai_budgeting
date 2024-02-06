@@ -27,6 +27,15 @@ tune_and_train_catboost:
 evaluate_catboost:
 	$(POETRY) python src/catboost/evaluate.py
 
+tune_and_train_xgboost:
+	$(POETRY) python src/xgboost/tune_and_train.py
+
+evaluate_xgboost:
+	$(POETRY) python src/xgboost/evaluate.py
+
+evaluate_ensemble:
+	$(POETRY) python src/ensemble/evaluate.py
+
 # You can also add targets for installing dependencies, running tests, etc.
 install_deps:
 	poetry install

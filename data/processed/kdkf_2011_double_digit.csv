@@ -70,86 +70,148 @@ Acc-ID,Name,Budget y,Realized,Budget y+1,Region,Year,Slack
 65,"Rückzahlung,Rückerstattung,Invest.-Beitr.",76944.70840833333,80433.49571666667,71595.46666666666,BE,2011,-3488.7873083333398
 66,"Rückzahlung,Rückerstattung,Invest.-Beitr.",76944.70840833333,80433.49571666667,71595.46666666666,BE,2011,-3488.7873083333398
 67,"Rückzahlung,Rückerstattung,Invest.-Beitr.",76944.70840833333,80433.49571666667,71595.46666666666,BE,2011,-3488.7873083333398
-30,Personalaufwand,0.0,0.0,620155.19101,LU,2011,0.0
-31,Sach- und übriger Betriebsaufwand,0.0,0.0,223471.6151,LU,2011,0.0
-33,Abschreibungen Verwaltungsvermögen,0.0,0.0,121442.671,LU,2011,0.0
-35,Einlagen in Fonds und Spezialfinanzierungen,0.0,0.0,0.0,LU,2011,0.0
-36,Transferaufwand,0.0,0.0,1631953.334,LU,2011,0.0
-37,Durchlaufende Beiträge,0.0,0.0,436322.55,LU,2011,0.0
-39,Interne Verrechungen,0.0,0.0,403009.064,LU,2011,0.0
-40,Fiskaleinnahmen,0.0,0.0,1060509.0,LU,2011,0.0
-41,Regalien und Konzessionen,0.0,0.0,51519.0,LU,2011,0.0
-42,Entgelte,0.0,0.0,203043.787,LU,2011,0.0
-43,Verschiedene Erträge,0.0,0.0,250.0,LU,2011,0.0
-45,Entnahmen aus Fonds und Spezialfinanzierungen,0.0,0.0,2492.522,LU,2011,0.0
-46,Transferertrag,0.0,0.0,1189788.112,LU,2011,0.0
-47,Durchlaufende Beiträge,0.0,0.0,436322.55,LU,2011,0.0
-49,Interne Verrechnungen,0.0,0.0,403009.06407,LU,2011,0.0
-34,Finanzaufwand,0.0,0.0,42153.319,LU,2011,0.0
-38,Ausserordentlicher Aufwand,0.0,0.0,0.0,LU,2011,0.0
-48,Ausserordentlicher Ertrag,0.0,0.0,0.0,LU,2011,0.0
-57,Durchlaufende Investitionsbeiträge,0.0,0.0,12675.0,LU,2011,0.0
-58,a.o Investitionsausgaben,0.0,0.0,0.0,LU,2011,0.0
-67,Durchlaufende Investitionsbeiträge,0.0,0.0,12675.0,LU,2011,0.0
-68,a.o Investitionseinnahmen,0.0,0.0,0.0,LU,2011,0.0
-10,Finanzvermögen,0.0,0.0,0.0,LU,2011,0.0
-14,Verwaltungsvermögen,0.0,0.0,0.0,LU,2011,0.0
-20,Fremdkapital,0.0,0.0,0.0,LU,2011,0.0
-29,Eigenkapital,0.0,0.0,0.0,LU,2011,0.0
-39,Selbstfinanzierung,0.0,0.0,121240.20695999954,LU,2011,0.0
-40,Selbstfinanzierungsanteil,0.0,0.0,0.0483971609422791,LU,2011,0.0
-31,Bruttoschulden,0.0,0.0,0.0,LU,2011,0.0
-32,Bruttoverschuldungsanteil,0.0,0.0,0.0,LU,2011,0.0
-33,Nettoschuld I,0.0,0.0,0.0,LU,2011,0.0
-34,Nettoschuld II,0.0,0.0,0.0,LU,2011,0.0
-36,Nettoverschuldungsquotient,0.0,0.0,0.0,LU,2011,0.0
-37,Eigenkapital,0.0,0.0,0.0,LU,2011,0.0
-38,Eigenkapitaldeckungsgrad,0.0,0.0,0.0,LU,2011,0.0
-42,Kapitaldienstanteil,0.0,0.0,0.0592694440508456,LU,2011,0.0
-43,Saldo der Finanzerträge,0.0,0.0,82716.66799999999,LU,2011,0.0
-44,Bruttorendite des Finanzvermögens,0.0,0.0,0.0,LU,2011,0.0
-45,Zinsbelastungsanteil,0.0,0.0,0.010791462686244408,LU,2011,0.0
-47,Investitionsanteil,0.0,0.0,0.07951983724696655,LU,2011,0.0
-30,Personalaufwand,0.0,0.0,100828.0,UR,2011,0.0
-31,Sach- und übriger Betriebsaufwand,0.0,0.0,54768.0,UR,2011,0.0
-33,Abschreibungen Verwaltungsvermögen,0.0,0.0,9159.0,UR,2011,0.0
-35,Einlagen in Fonds und Spezialfinanzierungen,0.0,0.0,765.0,UR,2011,0.0
-36,Transferaufwand,0.0,0.0,172285.0,UR,2011,0.0
-37,Durchlaufende Beiträge,0.0,0.0,27470.0,UR,2011,0.0
-39,Interne Verrechungen,0.0,0.0,15042.0,UR,2011,0.0
-40,Fiskaleinnahmen,0.0,0.0,79136.0,UR,2011,0.0
-41,Regalien und Konzessionen,0.0,0.0,31701.0,UR,2011,0.0
-42,Entgelte,0.0,0.0,21219.0,UR,2011,0.0
-43,Verschiedene Erträge,0.0,0.0,1544.0,UR,2011,0.0
-45,Entnahmen aus Fonds und Spezialfinanzierungen,0.0,0.0,1292.0,UR,2011,0.0
-46,Transferertrag,0.0,0.0,193528.0,UR,2011,0.0
-47,Durchlaufende Beiträge,0.0,0.0,27470.0,UR,2011,0.0
-49,Interne Verrechnungen,0.0,0.0,15042.0,UR,2011,0.0
-34,Finanzaufwand,0.0,0.0,2921.0,UR,2011,0.0
-38,Ausserordentlicher Aufwand,0.0,0.0,0.0,UR,2011,0.0
-48,Ausserordentlicher Ertrag,0.0,0.0,0.0,UR,2011,0.0
-57,Durchlaufende Investitionsbeiträge,0.0,0.0,1971.0,UR,2011,0.0
-58,a.o Investitionsausgaben,0.0,0.0,0.0,UR,2011,0.0
-67,Durchlaufende Investitionsbeiträge,0.0,0.0,1971.0,UR,2011,0.0
-68,a.o Investitionseinnahmen,0.0,0.0,0.0,UR,2011,0.0
-10,Finanzvermögen,0.0,0.0,0.0,UR,2011,0.0
-14,Verwaltungsvermögen,0.0,0.0,0.0,UR,2011,0.0
-20,Fremdkapital,0.0,0.0,0.0,UR,2011,0.0
-29,Eigenkapital,0.0,0.0,0.0,UR,2011,0.0
-39,Selbstfinanzierung,0.0,0.0,14042.0,UR,2011,0.0
-40,Selbstfinanzierungsanteil,0.0,0.0,0.04292509354136607,UR,2011,0.0
-31,Bruttoschulden,0.0,0.0,0.0,UR,2011,0.0
-32,Bruttoverschuldungsanteil,0.0,0.0,0.0,UR,2011,0.0
-33,Nettoschuld I,0.0,0.0,0.0,UR,2011,0.0
-34,Nettoschuld II,0.0,0.0,0.0,UR,2011,0.0
-36,Nettoverschuldungsquotient,0.0,0.0,0.0,UR,2011,0.0
-37,Eigenkapital,0.0,0.0,0.0,UR,2011,0.0
-38,Eigenkapitaldeckungsgrad,0.0,0.0,0.0,UR,2011,0.0
-42,Kapitaldienstanteil,0.0,0.0,0.035454011885255925,UR,2011,0.0
-43,Saldo der Finanzerträge,0.0,0.0,12301.0,UR,2011,0.0
-44,Bruttorendite des Finanzvermögens,0.0,0.0,0.0,UR,2011,0.0
-45,Zinsbelastungsanteil,0.0,0.0,0.007455797119170477,UR,2011,0.0
-47,Investitionsanteil,0.0,0.0,0.16565274414850686,UR,2011,0.0
+30,Personalaufwand,598443.96692,610426.22003,0.0,LU,2011,-11982.253109999932
+31,Sachaufwand,210213.32445,208071.25977,0.0,LU,2011,2142.0646799999813
+34,Passivzinsen,37361.5,33390.02383,0.0,LU,2011,3971.4761700000017
+34,"Anteile, Entschädigungen, Beiträge",497418.33075,496948.2108625,0.0,LU,2011,470.1198875000118
+35,"Anteile, Entschädigungen, Beiträge",497418.33075,496948.2108625,0.0,LU,2011,470.1198875000118
+36,"Anteile, Entschädigungen, Beiträge",497418.33075,496948.2108625,0.0,LU,2011,470.1198875000118
+37,"Anteile, Entschädigungen, Beiträge",497418.33075,496948.2108625,0.0,LU,2011,470.1198875000118
+35,Einlagen in Spezialfinanzierungen/Fonds,4500.0,26135.50764,0.0,LU,2011,-21635.50764
+39,Interne Verrechnungen (Aufwand),335530.585,372249.66067,0.0,LU,2011,-36719.07566999999
+42,Vermögenserträge,112304.156,128722.39535,0.0,LU,2011,-16418.239350000003
+41,Konzessionen/Entgelte (Gebühren),108300.1765,113779.0,0.0,LU,2011,-5478.823499999999
+43,Konzessionen/Entgelte (Gebühren),108300.1765,113779.0,0.0,LU,2011,-5478.823499999999
+44,"Anteile, Rückerstattungen, Beiträge",412589.23025,411068.11842,0.0,LU,2011,1521.111830000009
+45,"Anteile, Rückerstattungen, Beiträge",412589.23025,411068.11842,0.0,LU,2011,1521.111830000009
+46,"Anteile, Rückerstattungen, Beiträge",412589.23025,411068.11842,0.0,LU,2011,1521.111830000009
+47,"Anteile, Rückerstattungen, Beiträge",412589.23025,411068.11842,0.0,LU,2011,1521.111830000009
+45,Entnahme aus Spezialfinanzierungen,4362.8359199999995,24656.68862,0.0,LU,2011,-20293.852700000003
+49,Interne Verrechnungen (Ertrag),335530.585,372251.91067,0.0,LU,2011,-36721.32566999999
+50,Sachgüter,250763.398,262599.98598,0.0,LU,2011,-11836.587980000011
+54,Darlehen und Beteiligungen,1579.15905,3934.25585,0.0,LU,2011,-2355.0968000000003
+56,"Investitionsbeiträge,übrige Investitionen",19607.634,14572.369179999998,0.0,LU,2011,5035.26482
+57,"Investitionsbeiträge,übrige Investitionen",19607.634,14572.369179999998,0.0,LU,2011,5035.26482
+58,"Investitionsbeiträge,übrige Investitionen",19607.634,14572.369179999998,0.0,LU,2011,5035.26482
+60,"Abgang Sachgüter, Nutzungsabgaben",0.0,903.563125,0.0,LU,2011,0.0
+61,"Abgang Sachgüter, Nutzungsabgaben",0.0,903.563125,0.0,LU,2011,0.0
+62,"Rückzahlung,Rückerstattung,Invest.-Beitr.",22493.4025,21347.047411666666,0.0,LU,2011,1146.3550883333337
+63,"Rückzahlung,Rückerstattung,Invest.-Beitr.",22493.4025,21347.047411666666,0.0,LU,2011,1146.3550883333337
+64,"Rückzahlung,Rückerstattung,Invest.-Beitr.",22493.4025,21347.047411666666,0.0,LU,2011,1146.3550883333337
+65,"Rückzahlung,Rückerstattung,Invest.-Beitr.",22493.4025,21347.047411666666,0.0,LU,2011,1146.3550883333337
+66,"Rückzahlung,Rückerstattung,Invest.-Beitr.",22493.4025,21347.047411666666,0.0,LU,2011,1146.3550883333337
+67,"Rückzahlung,Rückerstattung,Invest.-Beitr.",22493.4025,21347.047411666666,0.0,LU,2011,1146.3550883333337
+30,,0.0,0.0,620155.19101,LU,2011,0.0
+31,,0.0,0.0,223471.6151,LU,2011,0.0
+33,,0.0,0.0,121442.671,LU,2011,0.0
+35,,0.0,0.0,0.0,LU,2011,0.0
+36,,0.0,0.0,1631953.334,LU,2011,0.0
+37,,0.0,0.0,436322.55,LU,2011,0.0
+39,,0.0,0.0,403009.064,LU,2011,0.0
+40,,0.0,0.0,1060509.0,LU,2011,0.0
+41,,0.0,0.0,51519.0,LU,2011,0.0
+42,,0.0,0.0,203043.787,LU,2011,0.0
+43,,0.0,0.0,250.0,LU,2011,0.0
+45,,0.0,0.0,2492.522,LU,2011,0.0
+46,,0.0,0.0,1189788.112,LU,2011,0.0
+47,,0.0,0.0,436322.55,LU,2011,0.0
+49,,0.0,0.0,403009.06407,LU,2011,0.0
+34,,0.0,0.0,42153.319,LU,2011,0.0
+38,,0.0,0.0,0.0,LU,2011,0.0
+48,,0.0,0.0,0.0,LU,2011,0.0
+57,,0.0,0.0,12675.0,LU,2011,0.0
+58,,0.0,0.0,0.0,LU,2011,0.0
+67,,0.0,0.0,12675.0,LU,2011,0.0
+68,,0.0,0.0,0.0,LU,2011,0.0
+10,,0.0,0.0,0.0,LU,2011,0.0
+14,,0.0,0.0,0.0,LU,2011,0.0
+20,,0.0,0.0,0.0,LU,2011,0.0
+29,,0.0,0.0,0.0,LU,2011,0.0
+39,,0.0,0.0,121240.20695999954,LU,2011,0.0
+40,,0.0,0.0,0.0483971609422791,LU,2011,0.0
+31,,0.0,0.0,0.0,LU,2011,0.0
+32,,0.0,0.0,0.0,LU,2011,0.0
+33,,0.0,0.0,0.0,LU,2011,0.0
+34,,0.0,0.0,0.0,LU,2011,0.0
+36,,0.0,0.0,0.0,LU,2011,0.0
+37,,0.0,0.0,0.0,LU,2011,0.0
+38,,0.0,0.0,0.0,LU,2011,0.0
+42,,0.0,0.0,0.0592694440508456,LU,2011,0.0
+43,,0.0,0.0,82716.66799999999,LU,2011,0.0
+44,,0.0,0.0,0.0,LU,2011,0.0
+45,,0.0,0.0,0.010791462686244408,LU,2011,0.0
+47,,0.0,0.0,0.07951983724696655,LU,2011,0.0
+30,Personalaufwand,102574.0,102857.0,0.0,UR,2011,-283.0
+31,Sachaufwand,54540.0,52730.0,0.0,UR,2011,1810.0
+34,Passivzinsen,2780.0,2867.0,0.0,UR,2011,-87.0
+34,"Anteile, Entschädigungen, Beiträge",45342.0,45092.25,0.0,UR,2011,249.75
+35,"Anteile, Entschädigungen, Beiträge",45342.0,45092.25,0.0,UR,2011,249.75
+36,"Anteile, Entschädigungen, Beiträge",45342.0,45092.25,0.0,UR,2011,249.75
+37,"Anteile, Entschädigungen, Beiträge",45342.0,45092.25,0.0,UR,2011,249.75
+35,Einlagen in Spezialfinanzierungen/Fonds,610.0,2708.0,0.0,UR,2011,-2098.0
+39,Interne Verrechnungen (Aufwand),19285.0,19308.0,0.0,UR,2011,-23.0
+42,Vermögenserträge,13016.0,10867.0,0.0,UR,2011,2149.0
+41,Konzessionen/Entgelte (Gebühren),29713.0,30832.0,0.0,UR,2011,-1119.0
+43,Konzessionen/Entgelte (Gebühren),29713.0,30832.0,0.0,UR,2011,-1119.0
+44,"Anteile, Rückerstattungen, Beiträge",52480.25,54112.0,0.0,UR,2011,-1631.75
+45,"Anteile, Rückerstattungen, Beiträge",52480.25,54112.0,0.0,UR,2011,-1631.75
+46,"Anteile, Rückerstattungen, Beiträge",52480.25,54112.0,0.0,UR,2011,-1631.75
+47,"Anteile, Rückerstattungen, Beiträge",52480.25,54112.0,0.0,UR,2011,-1631.75
+45,Entnahme aus Spezialfinanzierungen,3208.0,5077.0,0.0,UR,2011,-1869.0
+49,Interne Verrechnungen (Ertrag),19285.0,19308.0,0.0,UR,2011,-23.0
+50,Sachgüter,58880.0,47685.0,0.0,UR,2011,11195.0
+54,Darlehen und Beteiligungen,490.0,1063.0,0.0,UR,2011,-573.0
+56,"Investitionsbeiträge,übrige Investitionen",5953.666666666666,5399.0,0.0,UR,2011,554.6666666666661
+57,"Investitionsbeiträge,übrige Investitionen",5953.666666666666,5399.0,0.0,UR,2011,554.6666666666661
+58,"Investitionsbeiträge,übrige Investitionen",5953.666666666666,5399.0,0.0,UR,2011,554.6666666666661
+60,"Abgang Sachgüter, Nutzungsabgaben",0.0,0.0,0.0,UR,2011,0.0
+61,"Abgang Sachgüter, Nutzungsabgaben",0.0,0.0,0.0,UR,2011,0.0
+62,"Rückzahlung,Rückerstattung,Invest.-Beitr.",6855.666666666666,6686.166666666666,0.0,UR,2011,169.5
+63,"Rückzahlung,Rückerstattung,Invest.-Beitr.",6855.666666666666,6686.166666666666,0.0,UR,2011,169.5
+64,"Rückzahlung,Rückerstattung,Invest.-Beitr.",6855.666666666666,6686.166666666666,0.0,UR,2011,169.5
+65,"Rückzahlung,Rückerstattung,Invest.-Beitr.",6855.666666666666,6686.166666666666,0.0,UR,2011,169.5
+66,"Rückzahlung,Rückerstattung,Invest.-Beitr.",6855.666666666666,6686.166666666666,0.0,UR,2011,169.5
+67,"Rückzahlung,Rückerstattung,Invest.-Beitr.",6855.666666666666,6686.166666666666,0.0,UR,2011,169.5
+30,,0.0,0.0,100828.0,UR,2011,0.0
+31,,0.0,0.0,54768.0,UR,2011,0.0
+33,,0.0,0.0,9159.0,UR,2011,0.0
+35,,0.0,0.0,765.0,UR,2011,0.0
+36,,0.0,0.0,172285.0,UR,2011,0.0
+37,,0.0,0.0,27470.0,UR,2011,0.0
+39,,0.0,0.0,15042.0,UR,2011,0.0
+40,,0.0,0.0,79136.0,UR,2011,0.0
+41,,0.0,0.0,31701.0,UR,2011,0.0
+42,,0.0,0.0,21219.0,UR,2011,0.0
+43,,0.0,0.0,1544.0,UR,2011,0.0
+45,,0.0,0.0,1292.0,UR,2011,0.0
+46,,0.0,0.0,193528.0,UR,2011,0.0
+47,,0.0,0.0,27470.0,UR,2011,0.0
+49,,0.0,0.0,15042.0,UR,2011,0.0
+34,,0.0,0.0,2921.0,UR,2011,0.0
+38,,0.0,0.0,0.0,UR,2011,0.0
+48,,0.0,0.0,0.0,UR,2011,0.0
+57,,0.0,0.0,1971.0,UR,2011,0.0
+58,,0.0,0.0,0.0,UR,2011,0.0
+67,,0.0,0.0,1971.0,UR,2011,0.0
+68,,0.0,0.0,0.0,UR,2011,0.0
+10,,0.0,0.0,0.0,UR,2011,0.0
+14,,0.0,0.0,0.0,UR,2011,0.0
+20,,0.0,0.0,0.0,UR,2011,0.0
+29,,0.0,0.0,0.0,UR,2011,0.0
+39,,0.0,0.0,14042.0,UR,2011,0.0
+40,,0.0,0.0,0.04292509354136607,UR,2011,0.0
+31,,0.0,0.0,0.0,UR,2011,0.0
+32,,0.0,0.0,0.0,UR,2011,0.0
+33,,0.0,0.0,0.0,UR,2011,0.0
+34,,0.0,0.0,0.0,UR,2011,0.0
+36,,0.0,0.0,0.0,UR,2011,0.0
+37,,0.0,0.0,0.0,UR,2011,0.0
+38,,0.0,0.0,0.0,UR,2011,0.0
+42,,0.0,0.0,0.035454011885255925,UR,2011,0.0
+43,,0.0,0.0,12301.0,UR,2011,0.0
+44,,0.0,0.0,0.0,UR,2011,0.0
+45,,0.0,0.0,0.007455797119170477,UR,2011,0.0
+47,,0.0,0.0,0.16565274414850686,UR,2011,0.0
 30,Personalaufwand,208485.9,203762.6,212229.0,SZ,2011,4723.299999999988
 31,Sachaufwand,83042.4,79377.8,89867.3,SZ,2011,3664.5999999999913
 34,Passivzinsen,6010.0,6390.0,5600.0,SZ,2011,-380.0
@@ -252,6 +314,37 @@ Acc-ID,Name,Budget y,Realized,Budget y+1,Region,Year,Slack
 44,Bruttorendite des Finanzvermögens,0.0,0.012234479129441055,0.0,NW,2011,0.0
 45,Zinsbelastungsanteil,0.007831564197086232,0.003535146041217201,0.0019355069099739313,NW,2011,0.004296418155869031
 47,Investitionsanteil,0.15750291685712073,0.2514955513274643,0.11269421817818581,NW,2011,-0.09399263447034359
+30,Personalaufwand,0.0,0.0,0.0,GL,2011,0.0
+31,Sachaufwand,0.0,0.0,0.0,GL,2011,0.0
+34,Passivzinsen,0.0,0.0,0.0,GL,2011,0.0
+34,"Anteile, Entschädigungen, Beiträge",0.0,0.0,0.0,GL,2011,0.0
+35,"Anteile, Entschädigungen, Beiträge",0.0,0.0,0.0,GL,2011,0.0
+36,"Anteile, Entschädigungen, Beiträge",0.0,0.0,0.0,GL,2011,0.0
+37,"Anteile, Entschädigungen, Beiträge",0.0,0.0,0.0,GL,2011,0.0
+35,Einlagen in Spezialfinanzierungen/Fonds,0.0,0.0,0.0,GL,2011,0.0
+39,Interne Verrechnungen (Aufwand),0.0,0.0,0.0,GL,2011,0.0
+42,Vermögenserträge,0.0,0.0,0.0,GL,2011,0.0
+41,Konzessionen/Entgelte (Gebühren),0.0,0.0,0.0,GL,2011,0.0
+43,Konzessionen/Entgelte (Gebühren),0.0,0.0,0.0,GL,2011,0.0
+44,"Anteile, Rückerstattungen, Beiträge",0.0,0.0,0.0,GL,2011,0.0
+45,"Anteile, Rückerstattungen, Beiträge",0.0,0.0,0.0,GL,2011,0.0
+46,"Anteile, Rückerstattungen, Beiträge",0.0,0.0,0.0,GL,2011,0.0
+47,"Anteile, Rückerstattungen, Beiträge",0.0,0.0,0.0,GL,2011,0.0
+45,Entnahme aus Spezialfinanzierungen,0.0,0.0,0.0,GL,2011,0.0
+49,Interne Verrechnungen (Ertrag),0.0,0.0,0.0,GL,2011,0.0
+50,Sachgüter,0.0,0.0,0.0,GL,2011,0.0
+54,Darlehen und Beteiligungen,0.0,0.0,0.0,GL,2011,0.0
+56,"Investitionsbeiträge,übrige Investitionen",0.0,0.0,0.0,GL,2011,0.0
+57,"Investitionsbeiträge,übrige Investitionen",0.0,0.0,0.0,GL,2011,0.0
+58,"Investitionsbeiträge,übrige Investitionen",0.0,0.0,0.0,GL,2011,0.0
+60,"Abgang Sachgüter, Nutzungsabgaben",0.0,0.0,0.0,GL,2011,0.0
+61,"Abgang Sachgüter, Nutzungsabgaben",0.0,0.0,0.0,GL,2011,0.0
+62,"Rückzahlung,Rückerstattung,Invest.-Beitr.",0.0,0.0,0.0,GL,2011,0.0
+63,"Rückzahlung,Rückerstattung,Invest.-Beitr.",0.0,0.0,0.0,GL,2011,0.0
+64,"Rückzahlung,Rückerstattung,Invest.-Beitr.",0.0,0.0,0.0,GL,2011,0.0
+65,"Rückzahlung,Rückerstattung,Invest.-Beitr.",0.0,0.0,0.0,GL,2011,0.0
+66,"Rückzahlung,Rückerstattung,Invest.-Beitr.",0.0,0.0,0.0,GL,2011,0.0
+67,"Rückzahlung,Rückerstattung,Invest.-Beitr.",0.0,0.0,0.0,GL,2011,0.0
 30,Personalaufwand,71142.0,71379.2,67758.5,GL,2011,-237.1999999999971
 31,Sach- und übriger Betriebsaufwand,29846.0,31330.8,29880.5,GL,2011,-1484.7999999999993
 33,Abschreibungen Verwaltungsvermögen,14266.0,9019.0,13896.2,GL,2011,5247.0
@@ -292,86 +385,147 @@ Acc-ID,Name,Budget y,Realized,Budget y+1,Region,Year,Slack
 44,Bruttorendite des Finanzvermögens,0.0,0.028374045699463852,0.0,GL,2011,0.0
 45,Zinsbelastungsanteil,-0.012581255353049617,-0.012743083181194258,-0.01555103036701598,GL,2011,0.0001618278281446412
 47,Investitionsanteil,0.08436010765697918,0.08169483655675207,0.09140470750624924,GL,2011,0.002665271100227115
-30,Personalaufwand,0.0,0.0,305417.09,ZG,2011,0.0
-31,Sach- und übriger Betriebsaufwand,0.0,0.0,112700.4556,ZG,2011,0.0
-33,Abschreibungen Verwaltungsvermögen,0.0,0.0,64301.0,ZG,2011,0.0
-35,Einlagen in Fonds und Spezialfinanzierungen,0.0,0.0,8170.5,ZG,2011,0.0
-36,Transferaufwand,0.0,0.0,776025.224,ZG,2011,0.0
-37,Durchlaufende Beiträge,0.0,0.0,79002.8,ZG,2011,0.0
-39,Interne Verrechungen,0.0,0.0,4977.583,ZG,2011,0.0
-40,Fiskaleinnahmen,0.0,0.0,694800.0,ZG,2011,0.0
-41,Regalien und Konzessionen,0.0,0.0,11757.0,ZG,2011,0.0
-42,Entgelte,0.0,0.0,65493.4,ZG,2011,0.0
-43,Verschiedene Erträge,0.0,0.0,6453.0,ZG,2011,0.0
-45,Entnahmen aus Fonds und Spezialfinanzierungen,0.0,0.0,42.412,ZG,2011,0.0
-46,Transferertrag,0.0,0.0,444405.574,ZG,2011,0.0
-47,Durchlaufende Beiträge,0.0,0.0,79002.8,ZG,2011,0.0
-49,Interne Verrechnungen,0.0,0.0,4977.583,ZG,2011,0.0
-34,Finanzaufwand,0.0,0.0,11737.38,ZG,2011,0.0
-38,Ausserordentlicher Aufwand,0.0,0.0,3572.9,ZG,2011,0.0
-48,Ausserordentlicher Ertrag,0.0,0.0,3796.0,ZG,2011,0.0
-57,Durchlaufende Investitionsbeiträge,0.0,0.0,2424.0,ZG,2011,0.0
-58,a.o Investitionsausgaben,0.0,0.0,0.0,ZG,2011,0.0
-67,Durchlaufende Investitionsbeiträge,0.0,0.0,2424.0,ZG,2011,0.0
-68,a.o Investitionseinnahmen,0.0,0.0,0.0,ZG,2011,0.0
-10,Finanzvermögen,0.0,0.0,0.0,ZG,2011,0.0
-14,Verwaltungsvermögen,0.0,0.0,0.0,ZG,2011,0.0
-20,Fremdkapital,0.0,0.0,0.0,ZG,2011,0.0
-29,Eigenkapital,0.0,0.0,0.0,ZG,2011,0.0
-39,Selbstfinanzierung,0.0,0.0,80048.63839999994,ZG,2011,0.0
-40,Selbstfinanzierungsanteil,0.0,0.0,0.06545756070312388,ZG,2011,0.0
-31,Bruttoschulden,0.0,0.0,0.0,ZG,2011,0.0
-32,Bruttoverschuldungsanteil,0.0,0.0,0.0,ZG,2011,0.0
-33,Nettoschuld I,0.0,0.0,0.0,ZG,2011,0.0
-34,Nettoschuld II,0.0,0.0,0.0,ZG,2011,0.0
-36,Nettoverschuldungsquotient,0.0,0.0,0.0,ZG,2011,0.0
-37,Eigenkapital,0.0,0.0,0.0,ZG,2011,0.0
-38,Eigenkapitaldeckungsgrad,0.0,0.0,0.0,ZG,2011,0.0
-42,Kapitaldienstanteil,0.0,0.0,0.04327648347112383,ZG,2011,0.0
-43,Saldo der Finanzerträge,0.0,0.0,39640.434,ZG,2011,0.0
-44,Bruttorendite des Finanzvermögens,0.0,0.0,0.0,ZG,2011,0.0
-45,Zinsbelastungsanteil,0.0,0.0,-0.009303881353314855,ZG,2011,0.0
-47,Investitionsanteil,0.0,0.0,0.08440881385389451,ZG,2011,0.0
-30,Personalaufwand,0.0,0.0,423924.64,SO,2011,0.0
-31,Sach- und übriger Betriebsaufwand,0.0,0.0,174985.48,SO,2011,0.0
-33,Abschreibungen Verwaltungsvermögen,0.0,0.0,52004.9,SO,2011,0.0
-35,Einlagen in Fonds und Spezialfinanzierungen,0.0,0.0,29300.7,SO,2011,0.0
-36,Transferaufwand,0.0,0.0,1173429.3,SO,2011,0.0
-37,Durchlaufende Beiträge,0.0,0.0,77400.0,SO,2011,0.0
-39,Interne Verrechungen,0.0,0.0,0.0,SO,2011,0.0
-40,Fiskaleinnahmen,0.0,0.0,920970.0,SO,2011,0.0
-41,Regalien und Konzessionen,0.0,0.0,9026.0,SO,2011,0.0
-42,Entgelte,0.0,0.0,154268.65,SO,2011,0.0
-43,Verschiedene Erträge,0.0,0.0,3180.1,SO,2011,0.0
-45,Entnahmen aus Fonds und Spezialfinanzierungen,0.0,0.0,9573.5,SO,2011,0.0
-46,Transferertrag,0.0,0.0,604072.4,SO,2011,0.0
-47,Durchlaufende Beiträge,0.0,0.0,77400.0,SO,2011,0.0
-49,Interne Verrechnungen,0.0,0.0,0.0,SO,2011,0.0
-34,Finanzaufwand,0.0,0.0,19446.5,SO,2011,0.0
-38,Ausserordentlicher Aufwand,0.0,0.0,-3700.0,SO,2011,0.0
-48,Ausserordentlicher Ertrag,0.0,0.0,0.0,SO,2011,0.0
-57,Durchlaufende Investitionsbeiträge,0.0,0.0,6580.0,SO,2011,0.0
-58,a.o Investitionsausgaben,0.0,0.0,0.0,SO,2011,0.0
-67,Durchlaufende Investitionsbeiträge,0.0,0.0,6580.0,SO,2011,0.0
-68,a.o Investitionseinnahmen,0.0,0.0,0.0,SO,2011,0.0
-10,Finanzvermögen,0.0,0.0,0.0,SO,2011,0.0
-14,Verwaltungsvermögen,0.0,0.0,0.0,SO,2011,0.0
-20,Fremdkapital,0.0,0.0,0.0,SO,2011,0.0
-29,Eigenkapital,0.0,0.0,0.0,SO,2011,0.0
-39,Selbstfinanzierung,0.0,0.0,-51031.87000000011,SO,2011,0.0
-40,Selbstfinanzierungsanteil,0.0,0.0,-0.03016928914968442,SO,2011,0.0
-31,Bruttoschulden,0.0,0.0,0.0,SO,2011,0.0
-32,Bruttoverschuldungsanteil,0.0,0.0,0.0,SO,2011,0.0
-33,Nettoschuld I,0.0,0.0,0.0,SO,2011,0.0
-34,Nettoschuld II,0.0,0.0,0.0,SO,2011,0.0
-36,Nettoverschuldungsquotient,0.0,0.0,0.0,SO,2011,0.0
-37,Eigenkapital,0.0,0.0,0.0,SO,2011,0.0
-38,Eigenkapitaldeckungsgrad,0.0,0.0,0.0,SO,2011,0.0
-42,Kapitaldienstanteil,0.0,0.0,0.03258666339859457,SO,2011,0.0
-43,Saldo der Finanzerträge,0.0,0.0,38279.7,SO,2011,0.0
-44,Bruttorendite des Finanzvermögens,0.0,0.0,0.0,SO,2011,0.0
-45,Zinsbelastungsanteil,0.0,0.0,0.001842133258891286,SO,2011,0.0
-47,Investitionsanteil,0.0,0.0,0.09209312597316494,SO,2011,0.0
+30,Personalaufwand,295400.028,298004.2,0.0,ZG,2011,-2604.1720000000205
+31,Sachaufwand,115723.586,109846.4,0.0,ZG,2011,5877.1860000000015
+34,Passivzinsen,8369.9,11147.3,0.0,ZG,2011,-2777.3999999999996
+34,"Anteile, Entschädigungen, Beiträge",198175.35025,196365.35,0.0,ZG,2011,1810.0002499999828
+35,"Anteile, Entschädigungen, Beiträge",198175.35025,196365.35,0.0,ZG,2011,1810.0002499999828
+36,"Anteile, Entschädigungen, Beiträge",198175.35025,196365.35,0.0,ZG,2011,1810.0002499999828
+37,"Anteile, Entschädigungen, Beiträge",198175.35025,196365.35,0.0,ZG,2011,1810.0002499999828
+35,Einlagen in Spezialfinanzierungen/Fonds,9345.9,14500.1,0.0,ZG,2011,-5154.200000000001
+39,Interne Verrechnungen (Aufwand),5663.569,4264.3,0.0,ZG,2011,1399.2690000000002
+42,Vermögenserträge,51349.021,61364.0,0.0,ZG,2011,-10014.979
+41,Konzessionen/Entgelte (Gebühren),48471.641,48481.6,0.0,ZG,2011,-9.958999999995285
+43,Konzessionen/Entgelte (Gebühren),48471.641,48481.6,0.0,ZG,2011,-9.958999999995285
+44,"Anteile, Rückerstattungen, Beiträge",114128.87525,127201.275,0.0,ZG,2011,-13072.399749999997
+45,"Anteile, Rückerstattungen, Beiträge",114128.87525,127201.275,0.0,ZG,2011,-13072.399749999997
+46,"Anteile, Rückerstattungen, Beiträge",114128.87525,127201.275,0.0,ZG,2011,-13072.399749999997
+47,"Anteile, Rückerstattungen, Beiträge",114128.87525,127201.275,0.0,ZG,2011,-13072.399749999997
+45,Entnahme aus Spezialfinanzierungen,54251.993,3854.5,0.0,ZG,2011,50397.493
+49,Interne Verrechnungen (Ertrag),5663.569,4264.3,0.0,ZG,2011,1399.2690000000002
+50,Sachgüter,96583.0,79928.0,0.0,ZG,2011,16655.0
+54,Darlehen und Beteiligungen,23807.0,32720.1,0.0,ZG,2011,-8913.099999999999
+56,"Investitionsbeiträge,übrige Investitionen",8270.466666666667,6564.599999999999,0.0,ZG,2011,1705.8666666666677
+57,"Investitionsbeiträge,übrige Investitionen",8270.466666666667,6564.599999999999,0.0,ZG,2011,1705.8666666666677
+58,"Investitionsbeiträge,übrige Investitionen",8270.466666666667,6564.599999999999,0.0,ZG,2011,1705.8666666666677
+60,"Abgang Sachgüter, Nutzungsabgaben",0.0,0.0,0.0,ZG,2011,0.0
+61,"Abgang Sachgüter, Nutzungsabgaben",0.0,0.0,0.0,ZG,2011,0.0
+62,"Rückzahlung,Rückerstattung,Invest.-Beitr.",2675.833333333333,4329.466666666666,0.0,ZG,2011,-1653.6333333333332
+63,"Rückzahlung,Rückerstattung,Invest.-Beitr.",2675.833333333333,4329.466666666666,0.0,ZG,2011,-1653.6333333333332
+64,"Rückzahlung,Rückerstattung,Invest.-Beitr.",2675.833333333333,4329.466666666666,0.0,ZG,2011,-1653.6333333333332
+65,"Rückzahlung,Rückerstattung,Invest.-Beitr.",2675.833333333333,4329.466666666666,0.0,ZG,2011,-1653.6333333333332
+66,"Rückzahlung,Rückerstattung,Invest.-Beitr.",2675.833333333333,4329.466666666666,0.0,ZG,2011,-1653.6333333333332
+67,"Rückzahlung,Rückerstattung,Invest.-Beitr.",2675.833333333333,4329.466666666666,0.0,ZG,2011,-1653.6333333333332
+30,,0.0,0.0,305417.09,ZG,2011,0.0
+31,,0.0,0.0,112700.4556,ZG,2011,0.0
+33,,0.0,0.0,64301.0,ZG,2011,0.0
+35,,0.0,0.0,8170.5,ZG,2011,0.0
+36,,0.0,0.0,776025.224,ZG,2011,0.0
+37,,0.0,0.0,79002.8,ZG,2011,0.0
+39,,0.0,0.0,4977.583,ZG,2011,0.0
+40,,0.0,0.0,694800.0,ZG,2011,0.0
+41,,0.0,0.0,11757.0,ZG,2011,0.0
+42,,0.0,0.0,65493.4,ZG,2011,0.0
+43,,0.0,0.0,6453.0,ZG,2011,0.0
+45,,0.0,0.0,42.412,ZG,2011,0.0
+46,,0.0,0.0,444405.574,ZG,2011,0.0
+47,,0.0,0.0,79002.8,ZG,2011,0.0
+49,,0.0,0.0,4977.583,ZG,2011,0.0
+34,,0.0,0.0,11737.38,ZG,2011,0.0
+38,,0.0,0.0,3572.9,ZG,2011,0.0
+48,,0.0,0.0,3796.0,ZG,2011,0.0
+57,,0.0,0.0,2424.0,ZG,2011,0.0
+58,,0.0,0.0,0.0,ZG,2011,0.0
+67,,0.0,0.0,2424.0,ZG,2011,0.0
+68,,0.0,0.0,0.0,ZG,2011,0.0
+10,,0.0,0.0,0.0,ZG,2011,0.0
+14,,0.0,0.0,0.0,ZG,2011,0.0
+20,,0.0,0.0,0.0,ZG,2011,0.0
+29,,0.0,0.0,0.0,ZG,2011,0.0
+39,,0.0,0.0,80048.63839999994,ZG,2011,0.0
+40,,0.0,0.0,0.06545756070312388,ZG,2011,0.0
+31,,0.0,0.0,0.0,ZG,2011,0.0
+32,,0.0,0.0,0.0,ZG,2011,0.0
+33,,0.0,0.0,0.0,ZG,2011,0.0
+34,,0.0,0.0,0.0,ZG,2011,0.0
+36,,0.0,0.0,0.0,ZG,2011,0.0
+37,,0.0,0.0,0.0,ZG,2011,0.0
+38,,0.0,0.0,0.0,ZG,2011,0.0
+42,,0.0,0.0,0.04327648347112383,ZG,2011,0.0
+43,,0.0,0.0,39640.434,ZG,2011,0.0
+44,,0.0,0.0,0.0,ZG,2011,0.0
+45,,0.0,0.0,-0.009303881353314855,ZG,2011,0.0
+47,,0.0,0.0,0.08440881385389451,ZG,2011,0.0
+30,Personalaufwand,416122.3,411860.2,0.0,SO,2011,4262.099999999977
+31,Sachaufwand,155518.0,156981.2,0.0,SO,2011,-1463.2000000000116
+34,Passivzinsen,20096.0,15916.5,0.0,SO,2011,4179.5
+34,"Anteile, Entschädigungen, Beiträge",288804.0,298205.185,0.0,SO,2011,-9401.184999999998
+35,"Anteile, Entschädigungen, Beiträge",288804.0,298205.185,0.0,SO,2011,-9401.184999999998
+36,"Anteile, Entschädigungen, Beiträge",288804.0,298205.185,0.0,SO,2011,-9401.184999999998
+37,"Anteile, Entschädigungen, Beiträge",288804.0,298205.185,0.0,SO,2011,-9401.184999999998
+39,Interne Verrechnungen (Aufwand),0.0,0.0,0.0,SO,2011,0.0
+42,Vermögenserträge,70501.6,74178.9,0.0,SO,2011,-3677.2999999999884
+41,Konzessionen/Entgelte (Gebühren),81714.9,89796.1,0.0,SO,2011,-8081.200000000012
+43,Konzessionen/Entgelte (Gebühren),81714.9,89796.1,0.0,SO,2011,-8081.200000000012
+44,"Anteile, Rückerstattungen, Beiträge",179515.25,189724.585,0.0,SO,2011,-10209.334999999992
+45,"Anteile, Rückerstattungen, Beiträge",179515.25,189724.585,0.0,SO,2011,-10209.334999999992
+46,"Anteile, Rückerstattungen, Beiträge",179515.25,189724.585,0.0,SO,2011,-10209.334999999992
+47,"Anteile, Rückerstattungen, Beiträge",179515.25,189724.585,0.0,SO,2011,-10209.334999999992
+45,Entnahme aus Spezialfinanzierungen,28911.6,20395.04,0.0,SO,2011,8516.559999999998
+49,Interne Verrechnungen (Ertrag),0.0,0.0,0.0,SO,2011,0.0
+50,Sachgüter,187205.0,170294.17,0.0,SO,2011,16910.829999999987
+54,Darlehen und Beteiligungen,11900.0,8644.54,0.0,SO,2011,3255.459999999999
+56,"Investitionsbeiträge,übrige Investitionen",4586.666666666666,5421.766666666666,0.0,SO,2011,-835.1000000000004
+57,"Investitionsbeiträge,übrige Investitionen",4586.666666666666,5421.766666666666,0.0,SO,2011,-835.1000000000004
+58,"Investitionsbeiträge,übrige Investitionen",4586.666666666666,5421.766666666666,0.0,SO,2011,-835.1000000000004
+60,"Abgang Sachgüter, Nutzungsabgaben",0.0,0.0,0.0,SO,2011,0.0
+61,"Abgang Sachgüter, Nutzungsabgaben",0.0,0.0,0.0,SO,2011,0.0
+62,"Rückzahlung,Rückerstattung,Invest.-Beitr.",12330.833333333332,10272.449999999999,0.0,SO,2011,2058.383333333333
+63,"Rückzahlung,Rückerstattung,Invest.-Beitr.",12330.833333333332,10272.449999999999,0.0,SO,2011,2058.383333333333
+64,"Rückzahlung,Rückerstattung,Invest.-Beitr.",12330.833333333332,10272.449999999999,0.0,SO,2011,2058.383333333333
+65,"Rückzahlung,Rückerstattung,Invest.-Beitr.",12330.833333333332,10272.449999999999,0.0,SO,2011,2058.383333333333
+66,"Rückzahlung,Rückerstattung,Invest.-Beitr.",12330.833333333332,10272.449999999999,0.0,SO,2011,2058.383333333333
+67,"Rückzahlung,Rückerstattung,Invest.-Beitr.",12330.833333333332,10272.449999999999,0.0,SO,2011,2058.383333333333
+30,,0.0,0.0,423924.64,SO,2011,0.0
+31,,0.0,0.0,174985.48,SO,2011,0.0
+33,,0.0,0.0,52004.9,SO,2011,0.0
+35,,0.0,0.0,29300.7,SO,2011,0.0
+36,,0.0,0.0,1173429.3,SO,2011,0.0
+37,,0.0,0.0,77400.0,SO,2011,0.0
+39,,0.0,0.0,0.0,SO,2011,0.0
+40,,0.0,0.0,920970.0,SO,2011,0.0
+41,,0.0,0.0,9026.0,SO,2011,0.0
+42,,0.0,0.0,154268.65,SO,2011,0.0
+43,,0.0,0.0,3180.1,SO,2011,0.0
+45,,0.0,0.0,9573.5,SO,2011,0.0
+46,,0.0,0.0,604072.4,SO,2011,0.0
+47,,0.0,0.0,77400.0,SO,2011,0.0
+49,,0.0,0.0,0.0,SO,2011,0.0
+34,,0.0,0.0,19446.5,SO,2011,0.0
+38,,0.0,0.0,-3700.0,SO,2011,0.0
+48,,0.0,0.0,0.0,SO,2011,0.0
+57,,0.0,0.0,6580.0,SO,2011,0.0
+58,,0.0,0.0,0.0,SO,2011,0.0
+67,,0.0,0.0,6580.0,SO,2011,0.0
+68,,0.0,0.0,0.0,SO,2011,0.0
+10,,0.0,0.0,0.0,SO,2011,0.0
+14,,0.0,0.0,0.0,SO,2011,0.0
+20,,0.0,0.0,0.0,SO,2011,0.0
+29,,0.0,0.0,0.0,SO,2011,0.0
+39,,0.0,0.0,-51031.87000000011,SO,2011,0.0
+40,,0.0,0.0,-0.03016928914968442,SO,2011,0.0
+31,,0.0,0.0,0.0,SO,2011,0.0
+32,,0.0,0.0,0.0,SO,2011,0.0
+33,,0.0,0.0,0.0,SO,2011,0.0
+34,,0.0,0.0,0.0,SO,2011,0.0
+36,,0.0,0.0,0.0,SO,2011,0.0
+37,,0.0,0.0,0.0,SO,2011,0.0
+38,,0.0,0.0,0.0,SO,2011,0.0
+42,,0.0,0.0,0.03258666339859457,SO,2011,0.0
+43,,0.0,0.0,38279.7,SO,2011,0.0
+44,,0.0,0.0,0.0,SO,2011,0.0
+45,,0.0,0.0,0.001842133258891286,SO,2011,0.0
+47,,0.0,0.0,0.09209312597316494,SO,2011,0.0
 30,Personalaufwand,1744919.906,1913338.38,1109405.7,BS,2011,-168418.47399999993
 31,Sachaufwand,701796.99,732142.47,409795.15,BS,2011,-30345.47999999998
 34,Passivzinsen,78153.45,70395.48,70069.7,BS,2011,7757.970000000001
@@ -629,46 +783,71 @@ Acc-ID,Name,Budget y,Realized,Budget y+1,Region,Year,Slack
 65,"Rückzahlung,Rückerstattung,Invest.-Beitr.",14364.486666666666,15270.338591666667,13799.091666666667,AG,2011,-905.8519250000008
 66,"Rückzahlung,Rückerstattung,Invest.-Beitr.",14364.486666666666,15270.338591666667,13799.091666666667,AG,2011,-905.8519250000008
 67,"Rückzahlung,Rückerstattung,Invest.-Beitr.",14364.486666666666,15270.338591666667,13799.091666666667,AG,2011,-905.8519250000008
-30,Personalaufwand,0.0,0.0,363937.0,TG,2011,0.0
-31,Sach- und übriger Betriebsaufwand,0.0,0.0,139427.0,TG,2011,0.0
-33,Abschreibungen Verwaltungsvermögen,0.0,0.0,74018.0,TG,2011,0.0
-35,Einlagen in Fonds und Spezialfinanzierungen,0.0,0.0,3358.5,TG,2011,0.0
-36,Transferaufwand,0.0,0.0,879566.0,TG,2011,0.0
-37,Durchlaufende Beiträge,0.0,0.0,276686.0,TG,2011,0.0
-39,Interne Verrechungen,0.0,0.0,144400.0,TG,2011,0.0
-40,Fiskaleinnahmen,0.0,0.0,737249.0,TG,2011,0.0
-41,Regalien und Konzessionen,0.0,0.0,13016.0,TG,2011,0.0
-42,Entgelte,0.0,0.0,134436.0,TG,2011,0.0
-43,Verschiedene Erträge,0.0,0.0,3945.0,TG,2011,0.0
-45,Entnahmen aus Fonds und Spezialfinanzierungen,0.0,0.0,26495.0,TG,2011,0.0
-46,Transferertrag,0.0,0.0,432993.0,TG,2011,0.0
-47,Durchlaufende Beiträge,0.0,0.0,276686.0,TG,2011,0.0
-49,Interne Verrechnungen,0.0,0.0,144400.0,TG,2011,0.0
-34,Finanzaufwand,0.0,0.0,14549.6,TG,2011,0.0
-38,Ausserordentlicher Aufwand,0.0,0.0,0.0,TG,2011,0.0
-48,Ausserordentlicher Ertrag,0.0,0.0,43000.0,TG,2011,0.0
-57,Durchlaufende Investitionsbeiträge,0.0,0.0,3220.0,TG,2011,0.0
-58,a.o Investitionsausgaben,0.0,0.0,0.0,TG,2011,0.0
-67,Durchlaufende Investitionsbeiträge,0.0,0.0,3220.0,TG,2011,0.0
-68,a.o Investitionseinnahmen,0.0,0.0,22130.0,TG,2011,0.0
-10,Finanzvermögen,0.0,0.0,0.0,TG,2011,0.0
-14,Verwaltungsvermögen,0.0,0.0,0.0,TG,2011,0.0
-20,Fremdkapital,0.0,0.0,0.0,TG,2011,0.0
-29,Eigenkapital,0.0,0.0,0.0,TG,2011,0.0
-39,Selbstfinanzierung,0.0,0.0,17671.700000000004,TG,2011,0.0
-40,Selbstfinanzierungsanteil,0.0,0.0,0.013371049129149491,TG,2011,0.0
-31,Bruttoschulden,0.0,0.0,0.0,TG,2011,0.0
-32,Bruttoverschuldungsanteil,0.0,0.0,0.0,TG,2011,0.0
-33,Nettoschuld I,0.0,0.0,0.0,TG,2011,0.0
-34,Nettoschuld II,0.0,0.0,0.0,TG,2011,0.0
-36,Nettoverschuldungsquotient,0.0,0.0,0.0,TG,2011,0.0
-37,Eigenkapital,0.0,0.0,0.0,TG,2011,0.0
-38,Eigenkapitaldeckungsgrad,0.0,0.0,0.0,TG,2011,0.0
-42,Kapitaldienstanteil,0.0,0.0,0.05457526601439577,TG,2011,0.0
-43,Saldo der Finanzerträge,0.0,0.0,55662.200000000004,TG,2011,0.0
-44,Bruttorendite des Finanzvermögens,0.0,0.0,0.0,TG,2011,0.0
-45,Zinsbelastungsanteil,0.0,0.0,-0.0014294372366432883,TG,2011,0.0
-47,Investitionsanteil,0.0,0.0,0.10467022360699067,TG,2011,0.0
+30,Personalaufwand,356898.0,356597.0,0.0,TG,2011,301.0
+31,Sachaufwand,138286.0,136705.0,0.0,TG,2011,1581.0
+34,Passivzinsen,11969.0,11170.0,0.0,TG,2011,799.0
+34,"Anteile, Entschädigungen, Beiträge",259126.0,263904.25,0.0,TG,2011,-4778.25
+35,"Anteile, Entschädigungen, Beiträge",259126.0,263904.25,0.0,TG,2011,-4778.25
+36,"Anteile, Entschädigungen, Beiträge",259126.0,263904.25,0.0,TG,2011,-4778.25
+37,"Anteile, Entschädigungen, Beiträge",259126.0,263904.25,0.0,TG,2011,-4778.25
+35,Einlagen in Spezialfinanzierungen/Fonds,1407.0,3911.0,0.0,TG,2011,-2504.0
+39,Interne Verrechnungen (Aufwand),130716.0,128188.0,0.0,TG,2011,2528.0
+42,Vermögenserträge,65757.0,62308.0,0.0,TG,2011,3449.0
+41,Konzessionen/Entgelte (Gebühren),70272.0,75428.0,0.0,TG,2011,-5156.0
+43,Konzessionen/Entgelte (Gebühren),70272.0,75428.0,0.0,TG,2011,-5156.0
+44,"Anteile, Rückerstattungen, Beiträge",183789.5,187709.25,0.0,TG,2011,-3919.75
+45,"Anteile, Rückerstattungen, Beiträge",183789.5,187709.25,0.0,TG,2011,-3919.75
+46,"Anteile, Rückerstattungen, Beiträge",183789.5,187709.25,0.0,TG,2011,-3919.75
+47,"Anteile, Rückerstattungen, Beiträge",183789.5,187709.25,0.0,TG,2011,-3919.75
+45,Entnahme aus Spezialfinanzierungen,17366.0,10482.0,0.0,TG,2011,6884.0
+49,Interne Verrechnungen (Ertrag),130716.0,128188.0,0.0,TG,2011,2528.0
+50,Sachgüter,116870.0,100202.0,0.0,TG,2011,16668.0
+54,Darlehen und Beteiligungen,900.0,176.0,0.0,TG,2011,724.0
+56,"Investitionsbeiträge,übrige Investitionen",7693.333333333333,6434.333333333333,0.0,TG,2011,1259.0
+57,"Investitionsbeiträge,übrige Investitionen",7693.333333333333,6434.333333333333,0.0,TG,2011,1259.0
+58,"Investitionsbeiträge,übrige Investitionen",7693.333333333333,6434.333333333333,0.0,TG,2011,1259.0
+60,"Abgang Sachgüter, Nutzungsabgaben",15.0,70.0,0.0,TG,2011,-55.0
+61,"Abgang Sachgüter, Nutzungsabgaben",15.0,70.0,0.0,TG,2011,-55.0
+30,,0.0,0.0,363937.0,TG,2011,0.0
+31,,0.0,0.0,139427.0,TG,2011,0.0
+33,,0.0,0.0,74018.0,TG,2011,0.0
+35,,0.0,0.0,3358.5,TG,2011,0.0
+36,,0.0,0.0,879566.0,TG,2011,0.0
+37,,0.0,0.0,276686.0,TG,2011,0.0
+39,,0.0,0.0,144400.0,TG,2011,0.0
+40,,0.0,0.0,737249.0,TG,2011,0.0
+41,,0.0,0.0,13016.0,TG,2011,0.0
+42,,0.0,0.0,134436.0,TG,2011,0.0
+43,,0.0,0.0,3945.0,TG,2011,0.0
+45,,0.0,0.0,26495.0,TG,2011,0.0
+46,,0.0,0.0,432993.0,TG,2011,0.0
+47,,0.0,0.0,276686.0,TG,2011,0.0
+49,,0.0,0.0,144400.0,TG,2011,0.0
+34,,0.0,0.0,14549.6,TG,2011,0.0
+38,,0.0,0.0,0.0,TG,2011,0.0
+48,,0.0,0.0,43000.0,TG,2011,0.0
+57,,0.0,0.0,3220.0,TG,2011,0.0
+58,,0.0,0.0,0.0,TG,2011,0.0
+67,,0.0,0.0,3220.0,TG,2011,0.0
+68,,0.0,0.0,22130.0,TG,2011,0.0
+10,,0.0,0.0,0.0,TG,2011,0.0
+14,,0.0,0.0,0.0,TG,2011,0.0
+20,,0.0,0.0,0.0,TG,2011,0.0
+29,,0.0,0.0,0.0,TG,2011,0.0
+39,,0.0,0.0,17671.700000000004,TG,2011,0.0
+40,,0.0,0.0,0.013371049129149491,TG,2011,0.0
+31,,0.0,0.0,0.0,TG,2011,0.0
+32,,0.0,0.0,0.0,TG,2011,0.0
+33,,0.0,0.0,0.0,TG,2011,0.0
+34,,0.0,0.0,0.0,TG,2011,0.0
+36,,0.0,0.0,0.0,TG,2011,0.0
+37,,0.0,0.0,0.0,TG,2011,0.0
+38,,0.0,0.0,0.0,TG,2011,0.0
+42,,0.0,0.0,0.05457526601439577,TG,2011,0.0
+43,,0.0,0.0,55662.200000000004,TG,2011,0.0
+44,,0.0,0.0,0.0,TG,2011,0.0
+45,,0.0,0.0,-0.0014294372366432883,TG,2011,0.0
+47,,0.0,0.0,0.10467022360699067,TG,2011,0.0
 30,Personalaufwand,934458.054,919950.93385,930112.0,TI,2011,14507.120149999973
 31,Sachaufwand,269640.29,264786.53783,278124.0,TI,2011,4853.7521699999925
 34,Passivzinsen,47473.0,48604.253840000005,51176.0,TI,2011,-1131.2538400000049

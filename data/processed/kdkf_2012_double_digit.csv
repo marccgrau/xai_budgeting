@@ -59,6 +59,37 @@ Acc-ID,Name,Budget y,Realized,Budget y+1,Region,Year,Slack
 65,"Rückzahlung,Rückerstattung,Invest.-Beitr.",71595.46666666666,73872.04999999999,67875.95883333332,BE,2012,-2276.5833333333285
 66,"Rückzahlung,Rückerstattung,Invest.-Beitr.",71595.46666666666,73872.04999999999,67875.95883333332,BE,2012,-2276.5833333333285
 67,"Rückzahlung,Rückerstattung,Invest.-Beitr.",71595.46666666666,73872.04999999999,67875.95883333332,BE,2012,-2276.5833333333285
+30,Personalaufwand,0.0,0.0,0.0,LU,2012,0.0
+31,Sachaufwand,0.0,0.0,0.0,LU,2012,0.0
+34,Passivzinsen,0.0,0.0,0.0,LU,2012,0.0
+34,"Anteile, Entschädigungen, Beiträge",0.0,0.0,0.0,LU,2012,0.0
+35,"Anteile, Entschädigungen, Beiträge",0.0,0.0,0.0,LU,2012,0.0
+36,"Anteile, Entschädigungen, Beiträge",0.0,0.0,0.0,LU,2012,0.0
+37,"Anteile, Entschädigungen, Beiträge",0.0,0.0,0.0,LU,2012,0.0
+35,Einlagen in Spezialfinanzierungen/Fonds,0.0,0.0,0.0,LU,2012,0.0
+39,Interne Verrechnungen (Aufwand),0.0,0.0,0.0,LU,2012,0.0
+42,Vermögenserträge,0.0,0.0,0.0,LU,2012,0.0
+41,Konzessionen/Entgelte (Gebühren),0.0,0.0,0.0,LU,2012,0.0
+43,Konzessionen/Entgelte (Gebühren),0.0,0.0,0.0,LU,2012,0.0
+44,"Anteile, Rückerstattungen, Beiträge",0.0,0.0,0.0,LU,2012,0.0
+45,"Anteile, Rückerstattungen, Beiträge",0.0,0.0,0.0,LU,2012,0.0
+46,"Anteile, Rückerstattungen, Beiträge",0.0,0.0,0.0,LU,2012,0.0
+47,"Anteile, Rückerstattungen, Beiträge",0.0,0.0,0.0,LU,2012,0.0
+45,Entnahme aus Spezialfinanzierungen,0.0,0.0,0.0,LU,2012,0.0
+49,Interne Verrechnungen (Ertrag),0.0,0.0,0.0,LU,2012,0.0
+50,Sachgüter,0.0,0.0,0.0,LU,2012,0.0
+54,Darlehen und Beteiligungen,0.0,0.0,0.0,LU,2012,0.0
+56,"Investitionsbeiträge,übrige Investitionen",0.0,0.0,0.0,LU,2012,0.0
+57,"Investitionsbeiträge,übrige Investitionen",0.0,0.0,0.0,LU,2012,0.0
+58,"Investitionsbeiträge,übrige Investitionen",0.0,0.0,0.0,LU,2012,0.0
+60,"Abgang Sachgüter, Nutzungsabgaben",0.0,0.0,0.0,LU,2012,0.0
+61,"Abgang Sachgüter, Nutzungsabgaben",0.0,0.0,0.0,LU,2012,0.0
+62,"Rückzahlung,Rückerstattung,Invest.-Beitr.",0.0,0.0,0.0,LU,2012,0.0
+63,"Rückzahlung,Rückerstattung,Invest.-Beitr.",0.0,0.0,0.0,LU,2012,0.0
+64,"Rückzahlung,Rückerstattung,Invest.-Beitr.",0.0,0.0,0.0,LU,2012,0.0
+65,"Rückzahlung,Rückerstattung,Invest.-Beitr.",0.0,0.0,0.0,LU,2012,0.0
+66,"Rückzahlung,Rückerstattung,Invest.-Beitr.",0.0,0.0,0.0,LU,2012,0.0
+67,"Rückzahlung,Rückerstattung,Invest.-Beitr.",0.0,0.0,0.0,LU,2012,0.0
 30,Personalaufwand,620155.19101,627218.83746,632104.238,LU,2012,-7063.64645
 31,Sach- und übriger Betriebsaufwand,223471.6151,219817.70624,227524.795,LU,2012,3653.908859999996
 36,Transferaufwand,1631953.334,1656856.02,1684018.718,LU,2012,-24902.685999999987
@@ -88,6 +119,37 @@ Acc-ID,Name,Budget y,Realized,Budget y+1,Region,Year,Slack
 14,Verwaltungsvermögen,0.0,4708089.526459999,0.0,LU,2012,0.0
 20,Fremdkapital,0.0,2343222.32984,0.0,LU,2012,0.0
 29,Eigenkapital,0.0,3830288.36536,0.0,LU,2012,0.0
+30,Personalaufwand,0.0,0.0,0.0,UR,2012,0.0
+31,Sachaufwand,0.0,0.0,0.0,UR,2012,0.0
+34,Passivzinsen,0.0,0.0,0.0,UR,2012,0.0
+34,"Anteile, Entschädigungen, Beiträge",0.0,0.0,0.0,UR,2012,0.0
+35,"Anteile, Entschädigungen, Beiträge",0.0,0.0,0.0,UR,2012,0.0
+36,"Anteile, Entschädigungen, Beiträge",0.0,0.0,0.0,UR,2012,0.0
+37,"Anteile, Entschädigungen, Beiträge",0.0,0.0,0.0,UR,2012,0.0
+35,Einlagen in Spezialfinanzierungen/Fonds,0.0,0.0,0.0,UR,2012,0.0
+39,Interne Verrechnungen (Aufwand),0.0,0.0,0.0,UR,2012,0.0
+42,Vermögenserträge,0.0,0.0,0.0,UR,2012,0.0
+41,Konzessionen/Entgelte (Gebühren),0.0,0.0,0.0,UR,2012,0.0
+43,Konzessionen/Entgelte (Gebühren),0.0,0.0,0.0,UR,2012,0.0
+44,"Anteile, Rückerstattungen, Beiträge",0.0,0.0,0.0,UR,2012,0.0
+45,"Anteile, Rückerstattungen, Beiträge",0.0,0.0,0.0,UR,2012,0.0
+46,"Anteile, Rückerstattungen, Beiträge",0.0,0.0,0.0,UR,2012,0.0
+47,"Anteile, Rückerstattungen, Beiträge",0.0,0.0,0.0,UR,2012,0.0
+45,Entnahme aus Spezialfinanzierungen,0.0,0.0,0.0,UR,2012,0.0
+49,Interne Verrechnungen (Ertrag),0.0,0.0,0.0,UR,2012,0.0
+50,Sachgüter,0.0,0.0,0.0,UR,2012,0.0
+54,Darlehen und Beteiligungen,0.0,0.0,0.0,UR,2012,0.0
+56,"Investitionsbeiträge,übrige Investitionen",0.0,0.0,0.0,UR,2012,0.0
+57,"Investitionsbeiträge,übrige Investitionen",0.0,0.0,0.0,UR,2012,0.0
+58,"Investitionsbeiträge,übrige Investitionen",0.0,0.0,0.0,UR,2012,0.0
+60,"Abgang Sachgüter, Nutzungsabgaben",0.0,0.0,0.0,UR,2012,0.0
+61,"Abgang Sachgüter, Nutzungsabgaben",0.0,0.0,0.0,UR,2012,0.0
+62,"Rückzahlung,Rückerstattung,Invest.-Beitr.",0.0,0.0,0.0,UR,2012,0.0
+63,"Rückzahlung,Rückerstattung,Invest.-Beitr.",0.0,0.0,0.0,UR,2012,0.0
+64,"Rückzahlung,Rückerstattung,Invest.-Beitr.",0.0,0.0,0.0,UR,2012,0.0
+65,"Rückzahlung,Rückerstattung,Invest.-Beitr.",0.0,0.0,0.0,UR,2012,0.0
+66,"Rückzahlung,Rückerstattung,Invest.-Beitr.",0.0,0.0,0.0,UR,2012,0.0
+67,"Rückzahlung,Rückerstattung,Invest.-Beitr.",0.0,0.0,0.0,UR,2012,0.0
 30,Personalaufwand,100828.45,100649.915,101983.79,UR,2012,178.5350000000035
 31,Sach- und übriger Betriebsaufwand,55064.972,54073.151,55992.025,UR,2012,991.8210000000036
 36,Transferaufwand,172304.699,172953.539,178394.783,UR,2012,-648.8399999999965
@@ -148,6 +210,37 @@ Acc-ID,Name,Budget y,Realized,Budget y+1,Region,Year,Slack
 65,"Rückzahlung,Rückerstattung,Invest.-Beitr.",5936.216666666667,6079.333333333333,6489.833333333333,SZ,2012,-143.11666666666588
 66,"Rückzahlung,Rückerstattung,Invest.-Beitr.",5936.216666666667,6079.333333333333,6489.833333333333,SZ,2012,-143.11666666666588
 67,"Rückzahlung,Rückerstattung,Invest.-Beitr.",5936.216666666667,6079.333333333333,6489.833333333333,SZ,2012,-143.11666666666588
+30,Personalaufwand,0.0,0.0,0.0,OW,2012,0.0
+31,Sachaufwand,0.0,0.0,0.0,OW,2012,0.0
+34,Passivzinsen,0.0,0.0,0.0,OW,2012,0.0
+34,"Anteile, Entschädigungen, Beiträge",0.0,0.0,0.0,OW,2012,0.0
+35,"Anteile, Entschädigungen, Beiträge",0.0,0.0,0.0,OW,2012,0.0
+36,"Anteile, Entschädigungen, Beiträge",0.0,0.0,0.0,OW,2012,0.0
+37,"Anteile, Entschädigungen, Beiträge",0.0,0.0,0.0,OW,2012,0.0
+35,Einlagen in Spezialfinanzierungen/Fonds,0.0,0.0,0.0,OW,2012,0.0
+39,Interne Verrechnungen (Aufwand),0.0,0.0,0.0,OW,2012,0.0
+42,Vermögenserträge,0.0,0.0,0.0,OW,2012,0.0
+41,Konzessionen/Entgelte (Gebühren),0.0,0.0,0.0,OW,2012,0.0
+43,Konzessionen/Entgelte (Gebühren),0.0,0.0,0.0,OW,2012,0.0
+44,"Anteile, Rückerstattungen, Beiträge",0.0,0.0,0.0,OW,2012,0.0
+45,"Anteile, Rückerstattungen, Beiträge",0.0,0.0,0.0,OW,2012,0.0
+46,"Anteile, Rückerstattungen, Beiträge",0.0,0.0,0.0,OW,2012,0.0
+47,"Anteile, Rückerstattungen, Beiträge",0.0,0.0,0.0,OW,2012,0.0
+45,Entnahme aus Spezialfinanzierungen,0.0,0.0,0.0,OW,2012,0.0
+49,Interne Verrechnungen (Ertrag),0.0,0.0,0.0,OW,2012,0.0
+50,Sachgüter,0.0,0.0,0.0,OW,2012,0.0
+54,Darlehen und Beteiligungen,0.0,0.0,0.0,OW,2012,0.0
+56,"Investitionsbeiträge,übrige Investitionen",0.0,0.0,0.0,OW,2012,0.0
+57,"Investitionsbeiträge,übrige Investitionen",0.0,0.0,0.0,OW,2012,0.0
+58,"Investitionsbeiträge,übrige Investitionen",0.0,0.0,0.0,OW,2012,0.0
+60,"Abgang Sachgüter, Nutzungsabgaben",0.0,0.0,0.0,OW,2012,0.0
+61,"Abgang Sachgüter, Nutzungsabgaben",0.0,0.0,0.0,OW,2012,0.0
+62,"Rückzahlung,Rückerstattung,Invest.-Beitr.",0.0,0.0,0.0,OW,2012,0.0
+63,"Rückzahlung,Rückerstattung,Invest.-Beitr.",0.0,0.0,0.0,OW,2012,0.0
+64,"Rückzahlung,Rückerstattung,Invest.-Beitr.",0.0,0.0,0.0,OW,2012,0.0
+65,"Rückzahlung,Rückerstattung,Invest.-Beitr.",0.0,0.0,0.0,OW,2012,0.0
+66,"Rückzahlung,Rückerstattung,Invest.-Beitr.",0.0,0.0,0.0,OW,2012,0.0
+67,"Rückzahlung,Rückerstattung,Invest.-Beitr.",0.0,0.0,0.0,OW,2012,0.0
 30,Personalaufwand,54007.0,52737.0,54248.0,OW,2012,1270.0
 31,Sach- und übriger Betriebsaufwand,25908.0,26066.0,25921.0,OW,2012,-158.0
 36,Transferaufwand,130619.0,133887.0,135479.0,OW,2012,-3268.0
@@ -235,6 +328,37 @@ Acc-ID,Name,Budget y,Realized,Budget y+1,Region,Year,Slack
 14,Verwaltungsvermögen,0.0,202299.8,0.0,GL,2012,0.0
 20,Fremdkapital,0.0,189156.6,0.0,GL,2012,0.0
 29,Eigenkapital,0.0,381762.9,0.0,GL,2012,0.0
+30,Personalaufwand,0.0,0.0,0.0,ZG,2012,0.0
+31,Sachaufwand,0.0,0.0,0.0,ZG,2012,0.0
+34,Passivzinsen,0.0,0.0,0.0,ZG,2012,0.0
+34,"Anteile, Entschädigungen, Beiträge",0.0,0.0,0.0,ZG,2012,0.0
+35,"Anteile, Entschädigungen, Beiträge",0.0,0.0,0.0,ZG,2012,0.0
+36,"Anteile, Entschädigungen, Beiträge",0.0,0.0,0.0,ZG,2012,0.0
+37,"Anteile, Entschädigungen, Beiträge",0.0,0.0,0.0,ZG,2012,0.0
+35,Einlagen in Spezialfinanzierungen/Fonds,0.0,0.0,0.0,ZG,2012,0.0
+39,Interne Verrechnungen (Aufwand),0.0,0.0,0.0,ZG,2012,0.0
+42,Vermögenserträge,0.0,0.0,0.0,ZG,2012,0.0
+41,Konzessionen/Entgelte (Gebühren),0.0,0.0,0.0,ZG,2012,0.0
+43,Konzessionen/Entgelte (Gebühren),0.0,0.0,0.0,ZG,2012,0.0
+44,"Anteile, Rückerstattungen, Beiträge",0.0,0.0,0.0,ZG,2012,0.0
+45,"Anteile, Rückerstattungen, Beiträge",0.0,0.0,0.0,ZG,2012,0.0
+46,"Anteile, Rückerstattungen, Beiträge",0.0,0.0,0.0,ZG,2012,0.0
+47,"Anteile, Rückerstattungen, Beiträge",0.0,0.0,0.0,ZG,2012,0.0
+45,Entnahme aus Spezialfinanzierungen,0.0,0.0,0.0,ZG,2012,0.0
+49,Interne Verrechnungen (Ertrag),0.0,0.0,0.0,ZG,2012,0.0
+50,Sachgüter,0.0,0.0,0.0,ZG,2012,0.0
+54,Darlehen und Beteiligungen,0.0,0.0,0.0,ZG,2012,0.0
+56,"Investitionsbeiträge,übrige Investitionen",0.0,0.0,0.0,ZG,2012,0.0
+57,"Investitionsbeiträge,übrige Investitionen",0.0,0.0,0.0,ZG,2012,0.0
+58,"Investitionsbeiträge,übrige Investitionen",0.0,0.0,0.0,ZG,2012,0.0
+60,"Abgang Sachgüter, Nutzungsabgaben",0.0,0.0,0.0,ZG,2012,0.0
+61,"Abgang Sachgüter, Nutzungsabgaben",0.0,0.0,0.0,ZG,2012,0.0
+62,"Rückzahlung,Rückerstattung,Invest.-Beitr.",0.0,0.0,0.0,ZG,2012,0.0
+63,"Rückzahlung,Rückerstattung,Invest.-Beitr.",0.0,0.0,0.0,ZG,2012,0.0
+64,"Rückzahlung,Rückerstattung,Invest.-Beitr.",0.0,0.0,0.0,ZG,2012,0.0
+65,"Rückzahlung,Rückerstattung,Invest.-Beitr.",0.0,0.0,0.0,ZG,2012,0.0
+66,"Rückzahlung,Rückerstattung,Invest.-Beitr.",0.0,0.0,0.0,ZG,2012,0.0
+67,"Rückzahlung,Rückerstattung,Invest.-Beitr.",0.0,0.0,0.0,ZG,2012,0.0
 30,Personalaufwand,305417.09,295886.69,310180.71,ZG,2012,9530.400000000023
 31,Sach- und übriger Betriebsaufwand,112700.456,110727.85,115666.07,ZG,2012,1972.6059999999998
 36,Transferaufwand,776025.224,757703.91,824296.14,ZG,2012,18321.314000000013
@@ -264,6 +388,36 @@ Acc-ID,Name,Budget y,Realized,Budget y+1,Region,Year,Slack
 14,Verwaltungsvermögen,0.0,442439.37,0.0,ZG,2012,0.0
 20,Fremdkapital,0.0,721913.79,0.0,ZG,2012,0.0
 29,Eigenkapital,0.0,1203993.13,0.0,ZG,2012,0.0
+30,Personalaufwand,0.0,0.0,0.0,SO,2012,0.0
+31,Sachaufwand,0.0,0.0,0.0,SO,2012,0.0
+34,Passivzinsen,0.0,0.0,0.0,SO,2012,0.0
+34,"Anteile, Entschädigungen, Beiträge",0.0,0.0,0.0,SO,2012,0.0
+35,"Anteile, Entschädigungen, Beiträge",0.0,0.0,0.0,SO,2012,0.0
+36,"Anteile, Entschädigungen, Beiträge",0.0,0.0,0.0,SO,2012,0.0
+37,"Anteile, Entschädigungen, Beiträge",0.0,0.0,0.0,SO,2012,0.0
+39,Interne Verrechnungen (Aufwand),0.0,0.0,0.0,SO,2012,0.0
+42,Vermögenserträge,0.0,0.0,0.0,SO,2012,0.0
+41,Konzessionen/Entgelte (Gebühren),0.0,0.0,0.0,SO,2012,0.0
+43,Konzessionen/Entgelte (Gebühren),0.0,0.0,0.0,SO,2012,0.0
+44,"Anteile, Rückerstattungen, Beiträge",0.0,0.0,0.0,SO,2012,0.0
+45,"Anteile, Rückerstattungen, Beiträge",0.0,0.0,0.0,SO,2012,0.0
+46,"Anteile, Rückerstattungen, Beiträge",0.0,0.0,0.0,SO,2012,0.0
+47,"Anteile, Rückerstattungen, Beiträge",0.0,0.0,0.0,SO,2012,0.0
+45,Entnahme aus Spezialfinanzierungen,0.0,0.0,0.0,SO,2012,0.0
+49,Interne Verrechnungen (Ertrag),0.0,0.0,0.0,SO,2012,0.0
+50,Sachgüter,0.0,0.0,0.0,SO,2012,0.0
+54,Darlehen und Beteiligungen,0.0,0.0,0.0,SO,2012,0.0
+56,"Investitionsbeiträge,übrige Investitionen",0.0,0.0,0.0,SO,2012,0.0
+57,"Investitionsbeiträge,übrige Investitionen",0.0,0.0,0.0,SO,2012,0.0
+58,"Investitionsbeiträge,übrige Investitionen",0.0,0.0,0.0,SO,2012,0.0
+60,"Abgang Sachgüter, Nutzungsabgaben",0.0,0.0,0.0,SO,2012,0.0
+61,"Abgang Sachgüter, Nutzungsabgaben",0.0,0.0,0.0,SO,2012,0.0
+62,"Rückzahlung,Rückerstattung,Invest.-Beitr.",0.0,0.0,0.0,SO,2012,0.0
+63,"Rückzahlung,Rückerstattung,Invest.-Beitr.",0.0,0.0,0.0,SO,2012,0.0
+64,"Rückzahlung,Rückerstattung,Invest.-Beitr.",0.0,0.0,0.0,SO,2012,0.0
+65,"Rückzahlung,Rückerstattung,Invest.-Beitr.",0.0,0.0,0.0,SO,2012,0.0
+66,"Rückzahlung,Rückerstattung,Invest.-Beitr.",0.0,0.0,0.0,SO,2012,0.0
+67,"Rückzahlung,Rückerstattung,Invest.-Beitr.",0.0,0.0,0.0,SO,2012,0.0
 30,Personalaufwand,423924.6,417071.0,427423.4,SO,2012,6853.599999999977
 31,Sach- und übriger Betriebsaufwand,174985.479,174701.4,180056.1,SO,2012,284.0789999999979
 36,Transferaufwand,1173429.3,1167535.2,1220548.3,SO,2012,5894.100000000093
@@ -293,35 +447,66 @@ Acc-ID,Name,Budget y,Realized,Budget y+1,Region,Year,Slack
 14,Verwaltungsvermögen,0.0,1476684.446,0.0,SO,2012,0.0
 20,Fremdkapital,0.0,1613989.8199999998,0.0,SO,2012,0.0
 29,Eigenkapital,0.0,943967.9,0.0,SO,2012,0.0
-30,Personalaufwand,0.0,0.0,1180026.645,BS,2012,0.0
-31,Sach- und übriger Betriebsaufwand,0.0,0.0,436528.245,BS,2012,0.0
-36,Transferaufwand,0.0,0.0,1813092.092,BS,2012,0.0
-37,Durchlaufende Beiträge,0.0,0.0,0.0,BS,2012,0.0
-39,Interne Verrechungen,0.0,0.0,211037.39,BS,2012,0.0
-41,Regalien und Konzessionen,0.0,0.0,34235.6,BS,2012,0.0
-42,Entgelte,0.0,0.0,358379.79,BS,2012,0.0
-46,Transferertrag,0.0,0.0,508151.419,BS,2012,0.0
-47,Durchlaufende Beiträge,0.0,0.0,0.0,BS,2012,0.0
-49,Interne Verrechnungen,0.0,0.0,211037.39,BS,2012,0.0
-50,Sachanlagen,0.0,0.0,339127.0,BS,2012,0.0
-51,Investitionen auf Rechnung Dritter,0.0,0.0,0.0,BS,2012,0.0
-52,Immaterielle Anlagen,0.0,0.0,160.0,BS,2012,0.0
-54,Darlehen,0.0,0.0,46000.0,BS,2012,0.0
-55,Beteiligungen und Grundkapitalien,0.0,0.0,15900.0,BS,2012,0.0
-56,Eigene Investitionsbeiträge,0.0,0.0,0.0,BS,2012,0.0
-57,Durchlaufende Investitionsbeiträge,0.0,0.0,0.0,BS,2012,0.0
-60,Übertragung von Sachanlagen in das FV,0.0,0.0,0.0,BS,2012,0.0
-61,Rückerstattungen Dritter für Investitionen,0.0,0.0,0.0,BS,2012,0.0
-62,Abgang immaterielle Anlagen,0.0,0.0,0.0,BS,2012,0.0
-63,Investitionsbeiträge für eigene Rechnung,0.0,0.0,28250.0,BS,2012,0.0
-64,Rückzahlung von Darlehen,0.0,0.0,0.0,BS,2012,0.0
-65,Übertragung von Beteiligungen,0.0,0.0,0.0,BS,2012,0.0
-66,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,0.0,BS,2012,0.0
-67,Durchlaufende Investitionsbeiträge,0.0,0.0,0.0,BS,2012,0.0
-10,Finanzvermögen,0.0,0.0,0.0,BS,2012,0.0
-14,Verwaltungsvermögen,0.0,0.0,0.0,BS,2012,0.0
-20,Fremdkapital,0.0,0.0,0.0,BS,2012,0.0
-29,Eigenkapital,0.0,0.0,0.0,BS,2012,0.0
+30,Personalaufwand,1100946.915,1041370.473,0.0,BS,2012,59576.44200000004
+31,Sachaufwand,410110.153,475598.764,0.0,BS,2012,-65488.61100000003
+34,Passivzinsen,70069.711,58585.833,0.0,BS,2012,11483.877999999997
+34,"Anteile, Entschädigungen, Beiträge",439518.028,439113.264,0.0,BS,2012,404.7639999999665
+35,"Anteile, Entschädigungen, Beiträge",439518.028,439113.264,0.0,BS,2012,404.7639999999665
+36,"Anteile, Entschädigungen, Beiträge",439518.028,439113.264,0.0,BS,2012,404.7639999999665
+37,"Anteile, Entschädigungen, Beiträge",439518.028,439113.264,0.0,BS,2012,404.7639999999665
+35,Einlagen in Spezialfinanzierungen/Fonds,70384.4,89542.549,0.0,BS,2012,-19158.149000000005
+39,Interne Verrechnungen (Aufwand),217259.435,240007.13,0.0,BS,2012,-22747.695000000007
+42,Vermögenserträge,220744.57,257739.266,0.0,BS,2012,-36994.695999999996
+41,Konzessionen/Entgelte (Gebühren),203919.71149999998,247004.2685,0.0,BS,2012,-43084.55700000003
+43,Konzessionen/Entgelte (Gebühren),203919.71149999998,247004.2685,0.0,BS,2012,-43084.55700000003
+44,"Anteile, Rückerstattungen, Beiträge",122264.55374999999,125005.725,0.0,BS,2012,-2741.171250000014
+45,"Anteile, Rückerstattungen, Beiträge",122264.55374999999,125005.725,0.0,BS,2012,-2741.171250000014
+46,"Anteile, Rückerstattungen, Beiträge",122264.55374999999,125005.725,0.0,BS,2012,-2741.171250000014
+47,"Anteile, Rückerstattungen, Beiträge",122264.55374999999,125005.725,0.0,BS,2012,-2741.171250000014
+45,Entnahme aus Spezialfinanzierungen,17213.808,18750.727,0.0,BS,2012,-1536.918999999998
+49,Interne Verrechnungen (Ertrag),217296.695,240007.13,0.0,BS,2012,-22710.434999999998
+50,Sachgüter,277650.0,250676.72,0.0,BS,2012,26973.28
+54,Darlehen und Beteiligungen,60000.0,366912.816,0.0,BS,2012,-306912.816
+56,"Investitionsbeiträge,übrige Investitionen",0.0,2083.3033333333333,0.0,BS,2012,0.0
+57,"Investitionsbeiträge,übrige Investitionen",0.0,2083.3033333333333,0.0,BS,2012,0.0
+58,"Investitionsbeiträge,übrige Investitionen",0.0,2083.3033333333333,0.0,BS,2012,0.0
+60,"Abgang Sachgüter, Nutzungsabgaben",0.0,3386.6695,0.0,BS,2012,0.0
+61,"Abgang Sachgüter, Nutzungsabgaben",0.0,3386.6695,0.0,BS,2012,0.0
+62,"Rückzahlung,Rückerstattung,Invest.-Beitr.",4875.0,7371.660499999999,0.0,BS,2012,-2496.660499999999
+63,"Rückzahlung,Rückerstattung,Invest.-Beitr.",4875.0,7371.660499999999,0.0,BS,2012,-2496.660499999999
+64,"Rückzahlung,Rückerstattung,Invest.-Beitr.",4875.0,7371.660499999999,0.0,BS,2012,-2496.660499999999
+65,"Rückzahlung,Rückerstattung,Invest.-Beitr.",4875.0,7371.660499999999,0.0,BS,2012,-2496.660499999999
+66,"Rückzahlung,Rückerstattung,Invest.-Beitr.",4875.0,7371.660499999999,0.0,BS,2012,-2496.660499999999
+67,"Rückzahlung,Rückerstattung,Invest.-Beitr.",4875.0,7371.660499999999,0.0,BS,2012,-2496.660499999999
+30,,0.0,0.0,1180026.645,BS,2012,0.0
+31,,0.0,0.0,436528.245,BS,2012,0.0
+36,,0.0,0.0,1813092.092,BS,2012,0.0
+37,,0.0,0.0,0.0,BS,2012,0.0
+39,,0.0,0.0,211037.39,BS,2012,0.0
+41,,0.0,0.0,34235.6,BS,2012,0.0
+42,,0.0,0.0,358379.79,BS,2012,0.0
+46,,0.0,0.0,508151.419,BS,2012,0.0
+47,,0.0,0.0,0.0,BS,2012,0.0
+49,,0.0,0.0,211037.39,BS,2012,0.0
+50,,0.0,0.0,339127.0,BS,2012,0.0
+51,,0.0,0.0,0.0,BS,2012,0.0
+52,,0.0,0.0,160.0,BS,2012,0.0
+54,,0.0,0.0,46000.0,BS,2012,0.0
+55,,0.0,0.0,15900.0,BS,2012,0.0
+56,,0.0,0.0,0.0,BS,2012,0.0
+57,,0.0,0.0,0.0,BS,2012,0.0
+60,,0.0,0.0,0.0,BS,2012,0.0
+61,,0.0,0.0,0.0,BS,2012,0.0
+62,,0.0,0.0,0.0,BS,2012,0.0
+63,,0.0,0.0,28250.0,BS,2012,0.0
+64,,0.0,0.0,0.0,BS,2012,0.0
+65,,0.0,0.0,0.0,BS,2012,0.0
+66,,0.0,0.0,0.0,BS,2012,0.0
+67,,0.0,0.0,0.0,BS,2012,0.0
+10,,0.0,0.0,0.0,BS,2012,0.0
+14,,0.0,0.0,0.0,BS,2012,0.0
+20,,0.0,0.0,0.0,BS,2012,0.0
+29,,0.0,0.0,0.0,BS,2012,0.0
 30,Personalaufwand,638694.7,633135.5,641853.9,BL,2012,5559.199999999953
 31,Sach- und übriger Betriebsaufwand,260648.3,236174.2,254949.7,BL,2012,24474.099999999977
 36,Transferaufwand,1407236.4,1393313.0,1391278.0,BL,2012,13923.399999999907
@@ -382,35 +567,66 @@ Acc-ID,Name,Budget y,Realized,Budget y+1,Region,Year,Slack
 65,"Rückzahlung,Rückerstattung,Invest.-Beitr.",2155.6666666666665,2178.266568333333,2527.333333333333,SH,2012,-22.599901666666483
 66,"Rückzahlung,Rückerstattung,Invest.-Beitr.",2155.6666666666665,2178.266568333333,2527.333333333333,SH,2012,-22.599901666666483
 67,"Rückzahlung,Rückerstattung,Invest.-Beitr.",2155.6666666666665,2178.266568333333,2527.333333333333,SH,2012,-22.599901666666483
-30,Personalaufwand,0.0,0.0,77524.1,AR,2012,0.0
-31,Sach- und übriger Betriebsaufwand,0.0,0.0,36921.2,AR,2012,0.0
-36,Transferaufwand,0.0,0.0,233423.1,AR,2012,0.0
-37,Durchlaufende Beiträge,0.0,0.0,36366.0,AR,2012,0.0
-39,Interne Verrechungen,0.0,0.0,36051.5,AR,2012,0.0
-41,Regalien und Konzessionen,0.0,0.0,3141.3,AR,2012,0.0
-42,Entgelte,0.0,0.0,18879.1,AR,2012,0.0
-46,Transferertrag,0.0,0.0,155818.7,AR,2012,0.0
-47,Durchlaufende Beiträge,0.0,0.0,36366.0,AR,2012,0.0
-49,Interne Verrechnungen,0.0,0.0,36051.5,AR,2012,0.0
-50,Sachanlagen,0.0,0.0,40148.5,AR,2012,0.0
-51,Investitionen auf Rechnung Dritter,0.0,0.0,0.0,AR,2012,0.0
-52,Immaterielle Anlagen,0.0,0.0,845.0,AR,2012,0.0
-54,Darlehen,0.0,0.0,1120.0,AR,2012,0.0
-55,Beteiligungen und Grundkapitalien,0.0,0.0,0.0,AR,2012,0.0
-56,Eigene Investitionsbeiträge,0.0,0.0,5336.0,AR,2012,0.0
-57,Durchlaufende Investitionsbeiträge,0.0,0.0,3705.3,AR,2012,0.0
-60,Übertragung von Sachanlagen in das FV,0.0,0.0,0.0,AR,2012,0.0
-61,Rückerstattungen Dritter für Investitionen,0.0,0.0,2406.0,AR,2012,0.0
-62,Abgang immaterielle Anlagen,0.0,0.0,0.0,AR,2012,0.0
-63,Investitionsbeiträge für eigene Rechnung,0.0,0.0,4754.0,AR,2012,0.0
-64,Rückzahlung von Darlehen,0.0,0.0,1110.0,AR,2012,0.0
-65,Übertragung von Beteiligungen,0.0,0.0,0.0,AR,2012,0.0
-66,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,0.0,AR,2012,0.0
-67,Durchlaufende Investitionsbeiträge,0.0,0.0,3705.3,AR,2012,0.0
-10,Finanzvermögen,0.0,0.0,0.0,AR,2012,0.0
-14,Verwaltungsvermögen,0.0,0.0,0.0,AR,2012,0.0
-20,Fremdkapital,0.0,0.0,0.0,AR,2012,0.0
-29,Eigenkapital,0.0,0.0,0.0,AR,2012,0.0
+30,Personalaufwand,77273.1,77785.7,0.0,AR,2012,-512.5999999999913
+31,Sachaufwand,38682.5,37974.1,0.0,AR,2012,708.4000000000015
+34,Passivzinsen,751.0,676.5,0.0,AR,2012,74.5
+34,"Anteile, Entschädigungen, Beiträge",66947.075,67106.9,0.0,AR,2012,-159.8249999999971
+35,"Anteile, Entschädigungen, Beiträge",66947.075,67106.9,0.0,AR,2012,-159.8249999999971
+36,"Anteile, Entschädigungen, Beiträge",66947.075,67106.9,0.0,AR,2012,-159.8249999999971
+37,"Anteile, Entschädigungen, Beiträge",66947.075,67106.9,0.0,AR,2012,-159.8249999999971
+35,Einlagen in Spezialfinanzierungen/Fonds,327.6,53345.5,0.0,AR,2012,-53017.9
+39,Interne Verrechnungen (Aufwand),41226.7,40426.6,0.0,AR,2012,800.0999999999985
+42,Vermögenserträge,17217.2,65874.1,0.0,AR,2012,-48656.90000000001
+41,Konzessionen/Entgelte (Gebühren),12277.8,15542.2,0.0,AR,2012,-3264.4000000000015
+43,Konzessionen/Entgelte (Gebühren),12277.8,15542.2,0.0,AR,2012,-3264.4000000000015
+44,"Anteile, Rückerstattungen, Beiträge",50603.725,49683.350000000006,0.0,AR,2012,920.3749999999927
+45,"Anteile, Rückerstattungen, Beiträge",50603.725,49683.350000000006,0.0,AR,2012,920.3749999999927
+46,"Anteile, Rückerstattungen, Beiträge",50603.725,49683.350000000006,0.0,AR,2012,920.3749999999927
+47,"Anteile, Rückerstattungen, Beiträge",50603.725,49683.350000000006,0.0,AR,2012,920.3749999999927
+45,Entnahme aus Spezialfinanzierungen,5272.3,4173.7,0.0,AR,2012,1098.6000000000004
+49,Interne Verrechnungen (Ertrag),41226.7,40426.6,0.0,AR,2012,800.0999999999985
+50,Sachgüter,45730.0,46550.9,0.0,AR,2012,-820.9000000000015
+54,Darlehen und Beteiligungen,140.0,83745.5,0.0,AR,2012,-83605.5
+56,"Investitionsbeiträge,übrige Investitionen",1990.0,2233.333333333333,0.0,AR,2012,-243.33333333333303
+57,"Investitionsbeiträge,übrige Investitionen",1990.0,2233.333333333333,0.0,AR,2012,-243.33333333333303
+58,"Investitionsbeiträge,übrige Investitionen",1990.0,2233.333333333333,0.0,AR,2012,-243.33333333333303
+60,"Abgang Sachgüter, Nutzungsabgaben",283.0,4741.65,0.0,AR,2012,-4458.65
+61,"Abgang Sachgüter, Nutzungsabgaben",283.0,4741.65,0.0,AR,2012,-4458.65
+62,"Rückzahlung,Rückerstattung,Invest.-Beitr.",1409.8333333333333,1875.1499999999999,0.0,AR,2012,-465.3166666666666
+63,"Rückzahlung,Rückerstattung,Invest.-Beitr.",1409.8333333333333,1875.1499999999999,0.0,AR,2012,-465.3166666666666
+64,"Rückzahlung,Rückerstattung,Invest.-Beitr.",1409.8333333333333,1875.1499999999999,0.0,AR,2012,-465.3166666666666
+65,"Rückzahlung,Rückerstattung,Invest.-Beitr.",1409.8333333333333,1875.1499999999999,0.0,AR,2012,-465.3166666666666
+66,"Rückzahlung,Rückerstattung,Invest.-Beitr.",1409.8333333333333,1875.1499999999999,0.0,AR,2012,-465.3166666666666
+67,"Rückzahlung,Rückerstattung,Invest.-Beitr.",1409.8333333333333,1875.1499999999999,0.0,AR,2012,-465.3166666666666
+30,,0.0,0.0,77524.1,AR,2012,0.0
+31,,0.0,0.0,36921.2,AR,2012,0.0
+36,,0.0,0.0,233423.1,AR,2012,0.0
+37,,0.0,0.0,36366.0,AR,2012,0.0
+39,,0.0,0.0,36051.5,AR,2012,0.0
+41,,0.0,0.0,3141.3,AR,2012,0.0
+42,,0.0,0.0,18879.1,AR,2012,0.0
+46,,0.0,0.0,155818.7,AR,2012,0.0
+47,,0.0,0.0,36366.0,AR,2012,0.0
+49,,0.0,0.0,36051.5,AR,2012,0.0
+50,,0.0,0.0,40148.5,AR,2012,0.0
+51,,0.0,0.0,0.0,AR,2012,0.0
+52,,0.0,0.0,845.0,AR,2012,0.0
+54,,0.0,0.0,1120.0,AR,2012,0.0
+55,,0.0,0.0,0.0,AR,2012,0.0
+56,,0.0,0.0,5336.0,AR,2012,0.0
+57,,0.0,0.0,3705.3,AR,2012,0.0
+60,,0.0,0.0,0.0,AR,2012,0.0
+61,,0.0,0.0,2406.0,AR,2012,0.0
+62,,0.0,0.0,0.0,AR,2012,0.0
+63,,0.0,0.0,4754.0,AR,2012,0.0
+64,,0.0,0.0,1110.0,AR,2012,0.0
+65,,0.0,0.0,0.0,AR,2012,0.0
+66,,0.0,0.0,0.0,AR,2012,0.0
+67,,0.0,0.0,3705.3,AR,2012,0.0
+10,,0.0,0.0,0.0,AR,2012,0.0
+14,,0.0,0.0,0.0,AR,2012,0.0
+20,,0.0,0.0,0.0,AR,2012,0.0
+29,,0.0,0.0,0.0,AR,2012,0.0
 30,Personalaufwand,21003.0,21094.3,21683.0,AI,2012,-91.29999999999927
 31,Sachaufwand,11944.0,10701.6,12054.5,AI,2012,1242.3999999999996
 34,Passivzinsen,67.0,15.1,30.0,AI,2012,51.9
@@ -473,35 +689,66 @@ Acc-ID,Name,Budget y,Realized,Budget y+1,Region,Year,Slack
 65,"Rückzahlung,Rückerstattung,Invest.-Beitr.",8064.9333333333325,6160.699999999999,5256.049999999999,SG,2012,1904.2333333333336
 66,"Rückzahlung,Rückerstattung,Invest.-Beitr.",8064.9333333333325,6160.699999999999,5256.049999999999,SG,2012,1904.2333333333336
 67,"Rückzahlung,Rückerstattung,Invest.-Beitr.",8064.9333333333325,6160.699999999999,5256.049999999999,SG,2012,1904.2333333333336
-30,Personalaufwand,0.0,0.0,358527.0,GR,2012,0.0
-31,Sach- und übriger Betriebsaufwand,0.0,0.0,316093.0,GR,2012,0.0
-36,Transferaufwand,0.0,0.0,1130122.0,GR,2012,0.0
-37,Durchlaufende Beiträge,0.0,0.0,388137.0,GR,2012,0.0
-39,Interne Verrechungen,0.0,0.0,154324.0,GR,2012,0.0
-41,Regalien und Konzessionen,0.0,0.0,67960.0,GR,2012,0.0
-42,Entgelte,0.0,0.0,153350.0,GR,2012,0.0
-46,Transferertrag,0.0,0.0,780426.0,GR,2012,0.0
-47,Durchlaufende Beiträge,0.0,0.0,388137.0,GR,2012,0.0
-49,Interne Verrechnungen,0.0,0.0,154324.0,GR,2012,0.0
-50,Sachanlagen,0.0,0.0,180339.0,GR,2012,0.0
-51,Investitionen auf Rechnung Dritter,0.0,0.0,0.0,GR,2012,0.0
-52,Immaterielle Anlagen,0.0,0.0,9366.0,GR,2012,0.0
-54,Darlehen,0.0,0.0,17350.0,GR,2012,0.0
-55,Beteiligungen und Grundkapitalien,0.0,0.0,0.0,GR,2012,0.0
-56,Eigene Investitionsbeiträge,0.0,0.0,118057.0,GR,2012,0.0
-57,Durchlaufende Investitionsbeiträge,0.0,0.0,71486.0,GR,2012,0.0
-60,Übertragung von Sachanlagen in das FV,0.0,0.0,0.0,GR,2012,0.0
-61,Rückerstattungen Dritter für Investitionen,0.0,0.0,3815.0,GR,2012,0.0
-62,Abgang immaterielle Anlagen,0.0,0.0,0.0,GR,2012,0.0
-63,Investitionsbeiträge für eigene Rechnung,0.0,0.0,107508.0,GR,2012,0.0
-64,Rückzahlung von Darlehen,0.0,0.0,5815.0,GR,2012,0.0
-65,Übertragung von Beteiligungen,0.0,0.0,0.0,GR,2012,0.0
-66,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,250.0,GR,2012,0.0
-67,Durchlaufende Investitionsbeiträge,0.0,0.0,71486.0,GR,2012,0.0
-10,Finanzvermögen,0.0,0.0,0.0,GR,2012,0.0
-14,Verwaltungsvermögen,0.0,0.0,0.0,GR,2012,0.0
-20,Fremdkapital,0.0,0.0,0.0,GR,2012,0.0
-29,Eigenkapital,0.0,0.0,0.0,GR,2012,0.0
+30,Personalaufwand,357045.0,345067.0,0.0,GR,2012,11978.0
+31,Sachaufwand,310792.0,299677.0,0.0,GR,2012,11115.0
+34,Passivzinsen,5750.0,5452.0,0.0,GR,2012,298.0
+34,"Anteile, Entschädigungen, Beiträge",352553.0,353566.5,0.0,GR,2012,-1013.5
+35,"Anteile, Entschädigungen, Beiträge",352553.0,353566.5,0.0,GR,2012,-1013.5
+36,"Anteile, Entschädigungen, Beiträge",352553.0,353566.5,0.0,GR,2012,-1013.5
+37,"Anteile, Entschädigungen, Beiträge",352553.0,353566.5,0.0,GR,2012,-1013.5
+35,Einlagen in Spezialfinanzierungen/Fonds,287.0,10475.0,0.0,GR,2012,-10188.0
+39,Interne Verrechnungen (Aufwand),257393.0,231882.0,0.0,GR,2012,25511.0
+42,Vermögenserträge,126696.0,121410.0,0.0,GR,2012,5286.0
+41,Konzessionen/Entgelte (Gebühren),120084.5,130588.0,0.0,GR,2012,-10503.5
+43,Konzessionen/Entgelte (Gebühren),120084.5,130588.0,0.0,GR,2012,-10503.5
+44,"Anteile, Rückerstattungen, Beiträge",287547.75,297962.25,0.0,GR,2012,-10414.5
+45,"Anteile, Rückerstattungen, Beiträge",287547.75,297962.25,0.0,GR,2012,-10414.5
+46,"Anteile, Rückerstattungen, Beiträge",287547.75,297962.25,0.0,GR,2012,-10414.5
+47,"Anteile, Rückerstattungen, Beiträge",287547.75,297962.25,0.0,GR,2012,-10414.5
+45,Entnahme aus Spezialfinanzierungen,54819.0,29994.0,0.0,GR,2012,24825.0
+49,Interne Verrechnungen (Ertrag),257393.0,231882.0,0.0,GR,2012,25511.0
+50,Sachgüter,192067.0,160518.0,0.0,GR,2012,31549.0
+54,Darlehen und Beteiligungen,3868.0,3674.0,0.0,GR,2012,194.0
+56,"Investitionsbeiträge,übrige Investitionen",66765.0,66872.0,0.0,GR,2012,-107.0
+57,"Investitionsbeiträge,übrige Investitionen",66765.0,66872.0,0.0,GR,2012,-107.0
+58,"Investitionsbeiträge,übrige Investitionen",66765.0,66872.0,0.0,GR,2012,-107.0
+60,"Abgang Sachgüter, Nutzungsabgaben",0.0,0.0,0.0,GR,2012,0.0
+61,"Abgang Sachgüter, Nutzungsabgaben",0.0,0.0,0.0,GR,2012,0.0
+62,"Rückzahlung,Rückerstattung,Invest.-Beitr.",32877.0,31707.5,0.0,GR,2012,1169.5
+63,"Rückzahlung,Rückerstattung,Invest.-Beitr.",32877.0,31707.5,0.0,GR,2012,1169.5
+64,"Rückzahlung,Rückerstattung,Invest.-Beitr.",32877.0,31707.5,0.0,GR,2012,1169.5
+65,"Rückzahlung,Rückerstattung,Invest.-Beitr.",32877.0,31707.5,0.0,GR,2012,1169.5
+66,"Rückzahlung,Rückerstattung,Invest.-Beitr.",32877.0,31707.5,0.0,GR,2012,1169.5
+67,"Rückzahlung,Rückerstattung,Invest.-Beitr.",32877.0,31707.5,0.0,GR,2012,1169.5
+30,,0.0,0.0,358527.0,GR,2012,0.0
+31,,0.0,0.0,316093.0,GR,2012,0.0
+36,,0.0,0.0,1130122.0,GR,2012,0.0
+37,,0.0,0.0,388137.0,GR,2012,0.0
+39,,0.0,0.0,154324.0,GR,2012,0.0
+41,,0.0,0.0,67960.0,GR,2012,0.0
+42,,0.0,0.0,153350.0,GR,2012,0.0
+46,,0.0,0.0,780426.0,GR,2012,0.0
+47,,0.0,0.0,388137.0,GR,2012,0.0
+49,,0.0,0.0,154324.0,GR,2012,0.0
+50,,0.0,0.0,180339.0,GR,2012,0.0
+51,,0.0,0.0,0.0,GR,2012,0.0
+52,,0.0,0.0,9366.0,GR,2012,0.0
+54,,0.0,0.0,17350.0,GR,2012,0.0
+55,,0.0,0.0,0.0,GR,2012,0.0
+56,,0.0,0.0,118057.0,GR,2012,0.0
+57,,0.0,0.0,71486.0,GR,2012,0.0
+60,,0.0,0.0,0.0,GR,2012,0.0
+61,,0.0,0.0,3815.0,GR,2012,0.0
+62,,0.0,0.0,0.0,GR,2012,0.0
+63,,0.0,0.0,107508.0,GR,2012,0.0
+64,,0.0,0.0,5815.0,GR,2012,0.0
+65,,0.0,0.0,0.0,GR,2012,0.0
+66,,0.0,0.0,250.0,GR,2012,0.0
+67,,0.0,0.0,71486.0,GR,2012,0.0
+10,,0.0,0.0,0.0,GR,2012,0.0
+14,,0.0,0.0,0.0,GR,2012,0.0
+20,,0.0,0.0,0.0,GR,2012,0.0
+29,,0.0,0.0,0.0,GR,2012,0.0
 30,Personalaufwand,1576616.02,1561508.628,1593247.65,AG,2012,15107.391999999993
 31,Sachaufwand,369519.868,328018.329,337659.21,AG,2012,41501.53899999999
 34,Passivzinsen,58242.123,59164.111,49626.0,AG,2012,-921.9879999999976
@@ -533,6 +780,31 @@ Acc-ID,Name,Budget y,Realized,Budget y+1,Region,Year,Slack
 65,"Rückzahlung,Rückerstattung,Invest.-Beitr.",13799.091666666667,14627.733166666667,14706.9875,AG,2012,-828.6414999999997
 66,"Rückzahlung,Rückerstattung,Invest.-Beitr.",13799.091666666667,14627.733166666667,14706.9875,AG,2012,-828.6414999999997
 67,"Rückzahlung,Rückerstattung,Invest.-Beitr.",13799.091666666667,14627.733166666667,14706.9875,AG,2012,-828.6414999999997
+30,Personalaufwand,0.0,0.0,0.0,TG,2012,0.0
+31,Sachaufwand,0.0,0.0,0.0,TG,2012,0.0
+34,Passivzinsen,0.0,0.0,0.0,TG,2012,0.0
+34,"Anteile, Entschädigungen, Beiträge",0.0,0.0,0.0,TG,2012,0.0
+35,"Anteile, Entschädigungen, Beiträge",0.0,0.0,0.0,TG,2012,0.0
+36,"Anteile, Entschädigungen, Beiträge",0.0,0.0,0.0,TG,2012,0.0
+37,"Anteile, Entschädigungen, Beiträge",0.0,0.0,0.0,TG,2012,0.0
+35,Einlagen in Spezialfinanzierungen/Fonds,0.0,0.0,0.0,TG,2012,0.0
+39,Interne Verrechnungen (Aufwand),0.0,0.0,0.0,TG,2012,0.0
+42,Vermögenserträge,0.0,0.0,0.0,TG,2012,0.0
+41,Konzessionen/Entgelte (Gebühren),0.0,0.0,0.0,TG,2012,0.0
+43,Konzessionen/Entgelte (Gebühren),0.0,0.0,0.0,TG,2012,0.0
+44,"Anteile, Rückerstattungen, Beiträge",0.0,0.0,0.0,TG,2012,0.0
+45,"Anteile, Rückerstattungen, Beiträge",0.0,0.0,0.0,TG,2012,0.0
+46,"Anteile, Rückerstattungen, Beiträge",0.0,0.0,0.0,TG,2012,0.0
+47,"Anteile, Rückerstattungen, Beiträge",0.0,0.0,0.0,TG,2012,0.0
+45,Entnahme aus Spezialfinanzierungen,0.0,0.0,0.0,TG,2012,0.0
+49,Interne Verrechnungen (Ertrag),0.0,0.0,0.0,TG,2012,0.0
+50,Sachgüter,0.0,0.0,0.0,TG,2012,0.0
+54,Darlehen und Beteiligungen,0.0,0.0,0.0,TG,2012,0.0
+56,"Investitionsbeiträge,übrige Investitionen",0.0,0.0,0.0,TG,2012,0.0
+57,"Investitionsbeiträge,übrige Investitionen",0.0,0.0,0.0,TG,2012,0.0
+58,"Investitionsbeiträge,übrige Investitionen",0.0,0.0,0.0,TG,2012,0.0
+60,"Abgang Sachgüter, Nutzungsabgaben",0.0,0.0,0.0,TG,2012,0.0
+61,"Abgang Sachgüter, Nutzungsabgaben",0.0,0.0,0.0,TG,2012,0.0
 30,Personalaufwand,363937.0,362410.0,371282.0,TG,2012,1527.0
 31,Sach- und übriger Betriebsaufwand,139547.0,140502.0,143526.0,TG,2012,-955.0
 36,Transferaufwand,879475.0,928719.0,904183.0,TG,2012,-49244.0

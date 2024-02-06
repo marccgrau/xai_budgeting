@@ -117,35 +117,66 @@ Acc-ID,Name,Budget y,Realized,Budget y+1,Region,Year,Slack
 14,Verwaltungsvermögen,0.0,214357.50000000003,0.0,UR,2015,0.0
 20,Fremdkapital,0.0,155634.6,0.0,UR,2015,0.0
 29,Eigenkapital,0.0,244612.8,0.0,UR,2015,0.0
-30,Personalaufwand,0.0,0.0,218051.8,SZ,2015,0.0
-31,Sach- und übriger Betriebsaufwand,0.0,0.0,93766.9,SZ,2015,0.0
-36,Transferaufwand,0.0,0.0,878160.9,SZ,2015,0.0
-37,Durchlaufende Beiträge,0.0,0.0,101991.6,SZ,2015,0.0
-39,Interne Verrechungen,0.0,0.0,86329.3,SZ,2015,0.0
-41,Regalien und Konzessionen,0.0,0.0,6518.7,SZ,2015,0.0
-42,Entgelte,0.0,0.0,48405.6,SZ,2015,0.0
-46,Transferertrag,0.0,0.0,414213.0,SZ,2015,0.0
-47,Durchlaufende Beiträge,0.0,0.0,101991.6,SZ,2015,0.0
-49,Interne Verrechnungen,0.0,0.0,86329.3,SZ,2015,0.0
-50,Sachanlagen,0.0,0.0,75650.0,SZ,2015,0.0
-51,Investitionen auf Rechnung Dritter,0.0,0.0,0.0,SZ,2015,0.0
-52,Immaterielle Anlagen,0.0,0.0,0.0,SZ,2015,0.0
-54,Darlehen,0.0,0.0,0.0,SZ,2015,0.0
-55,Beteiligungen und Grundkapitalien,0.0,0.0,1650.0,SZ,2015,0.0
-56,Eigene Investitionsbeiträge,0.0,0.0,0.0,SZ,2015,0.0
-57,Durchlaufende Investitionsbeiträge,0.0,0.0,0.0,SZ,2015,0.0
-60,Übertragung von Sachanlagen in das FV,0.0,0.0,0.0,SZ,2015,0.0
-61,Rückerstattungen Dritter für Investitionen,0.0,0.0,15855.0,SZ,2015,0.0
-62,Abgang immaterielle Anlagen,0.0,0.0,0.0,SZ,2015,0.0
-63,Investitionsbeiträge für eigene Rechnung,0.0,0.0,4923.0,SZ,2015,0.0
-64,Rückzahlung von Darlehen,0.0,0.0,10800.0,SZ,2015,0.0
-65,Übertragung von Beteiligungen,0.0,0.0,0.0,SZ,2015,0.0
-66,Rückzahlung eigener Investitionsbeiträge,0.0,0.0,0.0,SZ,2015,0.0
-67,Durchlaufende Investitionsbeiträge,0.0,0.0,0.0,SZ,2015,0.0
-10,Finanzvermögen,0.0,0.0,0.0,SZ,2015,0.0
-14,Verwaltungsvermögen,0.0,0.0,0.0,SZ,2015,0.0
-20,Fremdkapital,0.0,0.0,0.0,SZ,2015,0.0
-29,Eigenkapital,0.0,0.0,0.0,SZ,2015,0.0
+30,Personalaufwand,224787.0,220052.6,218051.8,SZ,2015,4734.399999999994
+31,Sachaufwand,88524.0,81085.6,94526.5,SZ,2015,7438.399999999994
+34,Passivzinsen,5281.0,3642.2,4325.9,SZ,2015,1638.8000000000002
+34,"Anteile, Entschädigungen, Beiträge",229080.5,229977.725,234195.375,SZ,2015,-897.2250000000058
+35,"Anteile, Entschädigungen, Beiträge",229080.5,229977.725,234195.375,SZ,2015,-897.2250000000058
+36,"Anteile, Entschädigungen, Beiträge",229080.5,229977.725,234195.375,SZ,2015,-897.2250000000058
+37,"Anteile, Entschädigungen, Beiträge",229080.5,229977.725,234195.375,SZ,2015,-897.2250000000058
+35,Einlagen in Spezialfinanzierungen/Fonds,770.0,990.3,12900.6,SZ,2015,-220.29999999999995
+39,Interne Verrechnungen (Aufwand),83282.0,94606.6,86329.3,SZ,2015,-11324.600000000006
+42,Vermögenserträge,42898.0,72896.3,44181.8,SZ,2015,-29998.300000000003
+41,Konzessionen/Entgelte (Gebühren),36849.0,38104.9,31508.3,SZ,2015,-1255.9000000000015
+43,Konzessionen/Entgelte (Gebühren),36849.0,38104.9,31508.3,SZ,2015,-1255.9000000000015
+44,"Anteile, Rückerstattungen, Beiträge",110444.5,116679.9,129051.15,SZ,2015,-6235.399999999994
+45,"Anteile, Rückerstattungen, Beiträge",110444.5,116679.9,129051.15,SZ,2015,-6235.399999999994
+46,"Anteile, Rückerstattungen, Beiträge",110444.5,116679.9,129051.15,SZ,2015,-6235.399999999994
+47,"Anteile, Rückerstattungen, Beiträge",110444.5,116679.9,129051.15,SZ,2015,-6235.399999999994
+45,Entnahme aus Spezialfinanzierungen,34504.0,25435.7,18504.0,SZ,2015,9068.3
+49,Interne Verrechnungen (Ertrag),83282.0,94606.6,86329.3,SZ,2015,-11324.600000000006
+50,Sachgüter,101620.0,64312.8,75650.0,SZ,2015,37307.2
+54,Darlehen und Beteiligungen,0.0,604.2,1650.0,SZ,2015,0.0
+56,"Investitionsbeiträge,übrige Investitionen",13270.666666666666,11591.899999999998,0.0,SZ,2015,1678.7666666666682
+57,"Investitionsbeiträge,übrige Investitionen",13270.666666666666,11591.899999999998,0.0,SZ,2015,1678.7666666666682
+58,"Investitionsbeiträge,übrige Investitionen",13270.666666666666,11591.899999999998,0.0,SZ,2015,1678.7666666666682
+60,"Abgang Sachgüter, Nutzungsabgaben",0.0,9.6,0.0,SZ,2015,0.0
+61,"Abgang Sachgüter, Nutzungsabgaben",0.0,9.6,0.0,SZ,2015,0.0
+62,"Rückzahlung,Rückerstattung,Invest.-Beitr.",7709.666666666666,5894.616666666666,5263.0,SZ,2015,1815.0500000000002
+63,"Rückzahlung,Rückerstattung,Invest.-Beitr.",7709.666666666666,5894.616666666666,5263.0,SZ,2015,1815.0500000000002
+64,"Rückzahlung,Rückerstattung,Invest.-Beitr.",7709.666666666666,5894.616666666666,5263.0,SZ,2015,1815.0500000000002
+65,"Rückzahlung,Rückerstattung,Invest.-Beitr.",7709.666666666666,5894.616666666666,5263.0,SZ,2015,1815.0500000000002
+66,"Rückzahlung,Rückerstattung,Invest.-Beitr.",7709.666666666666,5894.616666666666,5263.0,SZ,2015,1815.0500000000002
+67,"Rückzahlung,Rückerstattung,Invest.-Beitr.",7709.666666666666,5894.616666666666,5263.0,SZ,2015,1815.0500000000002
+30,,0.0,0.0,218051.8,SZ,2015,0.0
+31,,0.0,0.0,93766.9,SZ,2015,0.0
+36,,0.0,0.0,878160.9,SZ,2015,0.0
+37,,0.0,0.0,101991.6,SZ,2015,0.0
+39,,0.0,0.0,86329.3,SZ,2015,0.0
+41,,0.0,0.0,6518.7,SZ,2015,0.0
+42,,0.0,0.0,48405.6,SZ,2015,0.0
+46,,0.0,0.0,414213.0,SZ,2015,0.0
+47,,0.0,0.0,101991.6,SZ,2015,0.0
+49,,0.0,0.0,86329.3,SZ,2015,0.0
+50,,0.0,0.0,75650.0,SZ,2015,0.0
+51,,0.0,0.0,0.0,SZ,2015,0.0
+52,,0.0,0.0,0.0,SZ,2015,0.0
+54,,0.0,0.0,0.0,SZ,2015,0.0
+55,,0.0,0.0,1650.0,SZ,2015,0.0
+56,,0.0,0.0,0.0,SZ,2015,0.0
+57,,0.0,0.0,0.0,SZ,2015,0.0
+60,,0.0,0.0,0.0,SZ,2015,0.0
+61,,0.0,0.0,15855.0,SZ,2015,0.0
+62,,0.0,0.0,0.0,SZ,2015,0.0
+63,,0.0,0.0,4923.0,SZ,2015,0.0
+64,,0.0,0.0,10800.0,SZ,2015,0.0
+65,,0.0,0.0,0.0,SZ,2015,0.0
+66,,0.0,0.0,0.0,SZ,2015,0.0
+67,,0.0,0.0,0.0,SZ,2015,0.0
+10,,0.0,0.0,0.0,SZ,2015,0.0
+14,,0.0,0.0,0.0,SZ,2015,0.0
+20,,0.0,0.0,0.0,SZ,2015,0.0
+29,,0.0,0.0,0.0,SZ,2015,0.0
 30,Personalaufwand,55866.0,55636.0,55971.0,OW,2015,230.0
 31,Sach- und übriger Betriebsaufwand,29009.0,31838.0,28030.0,OW,2015,-2829.0
 36,Transferaufwand,148985.0,146532.0,150117.0,OW,2015,2453.0
@@ -438,6 +469,37 @@ Acc-ID,Name,Budget y,Realized,Budget y+1,Region,Year,Slack
 14,Verwaltungsvermögen,0.0,252740.50000000003,0.0,AR,2015,0.0
 20,Fremdkapital,0.0,252219.8,0.0,AR,2015,0.0
 29,Eigenkapital,0.0,177252.0,0.0,AR,2015,0.0
+30,Personalaufwand,22448.5,22673.4,23750.5,AI,2015,-224.90000000000146
+31,Sachaufwand,12542.0,13654.0,16230.2,AI,2015,-1112.0
+34,Passivzinsen,36.0,0.0,0.0,AI,2015,36.0
+34,"Anteile, Entschädigungen, Beiträge",25062.075,24710.5,23955.825,AI,2015,351.5750000000007
+35,"Anteile, Entschädigungen, Beiträge",25062.075,24710.5,23955.825,AI,2015,351.5750000000007
+36,"Anteile, Entschädigungen, Beiträge",25062.075,24710.5,23955.825,AI,2015,351.5750000000007
+37,"Anteile, Entschädigungen, Beiträge",25062.075,24710.5,23955.825,AI,2015,351.5750000000007
+35,Einlagen in Spezialfinanzierungen/Fonds,1177.5,1466.9,446.5,AI,2015,-289.4000000000001
+39,Interne Verrechnungen (Aufwand),6988.0,7808.7,8018.0,AI,2015,-820.6999999999998
+42,Vermögenserträge,13095.0,12370.7,11752.0,AI,2015,724.2999999999993
+41,Konzessionen/Entgelte (Gebühren),6390.0,8366.65,7064.75,AI,2015,-1976.6499999999996
+43,Konzessionen/Entgelte (Gebühren),6390.0,8366.65,7064.75,AI,2015,-1976.6499999999996
+44,"Anteile, Rückerstattungen, Beiträge",15692.0,17428.225,16349.625,AI,2015,-1736.2249999999985
+45,"Anteile, Rückerstattungen, Beiträge",15692.0,17428.225,16349.625,AI,2015,-1736.2249999999985
+46,"Anteile, Rückerstattungen, Beiträge",15692.0,17428.225,16349.625,AI,2015,-1736.2249999999985
+47,"Anteile, Rückerstattungen, Beiträge",15692.0,17428.225,16349.625,AI,2015,-1736.2249999999985
+45,Entnahme aus Spezialfinanzierungen,1227.0,341.8,1042.0,AI,2015,885.2
+49,Interne Verrechnungen (Ertrag),6988.0,7808.7,8018.0,AI,2015,-820.6999999999998
+50,Sachgüter,4104.0,10637.3,17765.0,AI,2015,-6533.299999999999
+54,Darlehen und Beteiligungen,0.0,69.5,0.0,AI,2015,0.0
+56,"Investitionsbeiträge,übrige Investitionen",6233.333333333333,873.0666666666666,1070.0,AI,2015,5360.266666666666
+57,"Investitionsbeiträge,übrige Investitionen",6233.333333333333,873.0666666666666,1070.0,AI,2015,5360.266666666666
+58,"Investitionsbeiträge,übrige Investitionen",6233.333333333333,873.0666666666666,1070.0,AI,2015,5360.266666666666
+60,"Abgang Sachgüter, Nutzungsabgaben",0.0,0.0,0.0,AI,2015,0.0
+61,"Abgang Sachgüter, Nutzungsabgaben",0.0,0.0,0.0,AI,2015,0.0
+62,"Rückzahlung,Rückerstattung,Invest.-Beitr.",1049.6666666666665,526.9499999999999,363.3333333333333,AI,2015,522.7166666666666
+63,"Rückzahlung,Rückerstattung,Invest.-Beitr.",1049.6666666666665,526.9499999999999,363.3333333333333,AI,2015,522.7166666666666
+64,"Rückzahlung,Rückerstattung,Invest.-Beitr.",1049.6666666666665,526.9499999999999,363.3333333333333,AI,2015,522.7166666666666
+65,"Rückzahlung,Rückerstattung,Invest.-Beitr.",1049.6666666666665,526.9499999999999,363.3333333333333,AI,2015,522.7166666666666
+66,"Rückzahlung,Rückerstattung,Invest.-Beitr.",1049.6666666666665,526.9499999999999,363.3333333333333,AI,2015,522.7166666666666
+67,"Rückzahlung,Rückerstattung,Invest.-Beitr.",1049.6666666666665,526.9499999999999,363.3333333333333,AI,2015,522.7166666666666
 30,Personalaufwand,22961.5,22673.4,23750.5,AI,2015,288.09999999999854
 31,Sach- und übriger Betriebsaufwand,16270.7,13597.6,16026.2,AI,2015,2673.1000000000004
 36,Transferaufwand,72441.6,75826.3,73292.3,AI,2015,-3384.699999999997

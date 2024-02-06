@@ -1,6 +1,6 @@
 import logging
 import re
-from typing import Tuple
+from typing import Optional, Tuple
 
 import pandas as pd
 
@@ -30,6 +30,17 @@ def extract_hrm_region(sheet_name: str) -> Tuple[str, str]:
         return hrm_type, region
     else:
         raise ValueError(f"Invalid sheet name format: {sheet_name}")
+
+
+def is_hrm2_adequately_populated(
+    df: pd.DataFrame, key_columns: Optional[list] = None
+) -> bool:
+    if key_columns is None:
+        key_columns = ["Realized", "Budget y"]  # Default column to check
+    for column in key_columns:
+        if df[column].sum() != 0:  # Check if there's any non-zero sum in key columns
+            return True
+    return False
 
 
 def process_excel_file(
@@ -67,10 +78,33 @@ def process_excel_file(
             if (
                 "HRM1" in region_hrm_presence[region]
                 and "HRM2" in region_hrm_presence[region]
-                and hrm_type == "HRM1"
             ):
-                logger.info(f"Skipping HRM1 for region: {region}")
-                continue  # Skip HRM1 if both types are present
+                if hrm_type == "HRM2":
+                    processor = get_hrm_processor(
+                        hrm_type, file_path, sheet_name, region, current_year
+                    )
+                    (
+                        temp_single_digit_df,
+                        temp_double_digit_df,
+                    ) = processor.process_sheet()
+                    if is_hrm2_adequately_populated(
+                        temp_single_digit_df
+                    ) or is_hrm2_adequately_populated(temp_double_digit_df):
+                        single_digit_master = pd.concat(
+                            [single_digit_master, temp_single_digit_df],
+                            ignore_index=True,
+                        )
+                        double_digit_master = pd.concat(
+                            [double_digit_master, temp_double_digit_df],
+                            ignore_index=True,
+                        )
+                        continue
+                    else:
+                        # Fallback to HRM1 if HRM2 is not adequately populated
+                        logger.info(
+                            f"HRM2 sheet for {region} not adequately populated. Falling back to HRM1."
+                        )
+                        hrm_type = "HRM1"  # Adjust hrm_type to HRM1 for processing
             processor = get_hrm_processor(
                 hrm_type, file_path, sheet_name, region, current_year
             )

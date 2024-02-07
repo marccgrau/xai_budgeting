@@ -1,3 +1,9 @@
-Model saved successfully at models/best_model_xgboost.json
-Model Evaluation: MAE: 63278.45, MSE: 21686577698.52, RMSE: 147263.63, MAPE: 1.79
-Budget Comparison: MAE: 47591.37, MSE: 23168009333.86,             RMSE: 152210.41, MAPE: 0.3
+Model Evaluation - MAE: 46097.38
+Model Evaluation - MSE: 16704167340.01
+Model Evaluation - RMSE: 129244.6
+Model Evaluation - MAPE: 5.190231131045885e+17
+Budget Comparison - MAE: 33637.78
+Budget Comparison - MSE: 14403992522.89
+Budget Comparison - RMSE: 120016.63
+Budget Comparison - MAPE: 2.7939451595809133e+17
+Model saved successfully at: models/best_model_xgboost.json

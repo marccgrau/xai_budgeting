@@ -77,3 +77,23 @@ def choose_acc_ids(df: pd.DataFrame, acc_ids: Optional[List[int]]) -> pd.DataFra
     if acc_ids is None:
         return df_mod
     return df_mod[df_mod["Acc-ID"].isin(acc_ids)]
+
+
+def engineer_df(df: pd.DataFrame, acc_ids: Optional[List[int]]) -> pd.DataFrame:
+    """
+    Apply feature engineering to the DataFrame.
+
+    Parameters:
+    df (pandas.DataFrame): The input DataFrame.
+    acc_ids (list): The list of Account IDs to choose.
+
+    Returns:
+    pandas.DataFrame: The DataFrame with added lag features and specified Account IDs.
+    """
+    df_mod = df.copy()
+    df_mod["Year"] = df_mod["Year"] - df_mod["Year"].min()
+    df_mod = df_mod.sort_values(by="Year")
+    df_mod = apply_feature_engineering(df_mod)
+    df_mod = drop_all_zero_entries(df_mod)
+    df_mod = choose_acc_ids(df_mod, acc_ids)
+    return df_mod

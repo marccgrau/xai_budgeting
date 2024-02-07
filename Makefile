@@ -4,16 +4,23 @@ SHELL := /bin/bash
 # Define the command to run Poetry
 POETRY := poetry run
 
+# python args
+CATEGORY ?= "Alle"
+FILE_PATH ?= "data/final/merged_double_digit.csv"
+
 # Pipeline steps
 main:
 	make fetch_data
 	make merge_data
 	make transform_data
-	make tune_and_train_catboost
-	make evaluate_catboost
+	make tune_and_train_catboost FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)
+	make evaluate_catboost FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)v
+	make tune_and_train_xgboost FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)
+	make evaluate_xgboost FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)
+	make evaluate_ensemble FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)
 
 fetch_data:
-	$(POETRY) python scripts/fetch_data.py
+	$(POETRY) python scripts/fetch_data.py 
 
 merge_data:
 	$(POETRY) python scripts/merge_data.py
@@ -22,19 +29,19 @@ transform_data:
 	$(POETRY) python scripts/transform_data.py
 
 tune_and_train_catboost:
-	$(POETRY) python src/catboost/tune_and_train.py
+	$(POETRY) python src/catboost/tune_and_train.py --file_path $(FILE_PATH) --category $(CATEGORY)
 
 evaluate_catboost:
-	$(POETRY) python src/catboost/evaluate.py
+	$(POETRY) python src/catboost/evaluate.py --file_path $(FILE_PATH) --category $(CATEGORY)
 
 tune_and_train_xgboost:
-	$(POETRY) python src/xgboost/tune_and_train.py
+	$(POETRY) python src/xgboost/tune_and_train.py --file_path $(FILE_PATH) --category $(CATEGORY)
 
 evaluate_xgboost:
-	$(POETRY) python src/xgboost/evaluate.py
+	$(POETRY) python src/xgboost/evaluate.py --file_path $(FILE_PATH) --category $(CATEGORY)
 
 evaluate_ensemble:
-	$(POETRY) python src/ensemble/evaluate.py
+	$(POETRY) python src/ensemble/evaluate.py --file_path $(FILE_PATH) --category $(CATEGORY)
 
 # You can also add targets for installing dependencies, running tests, etc.
 install_deps:

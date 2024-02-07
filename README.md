@@ -1,58 +1,79 @@
+
 # XAI Budgeting
 
 ## Project Description
-XAI Budgeting is focused on forecasting realized values of accounts in public administration, specifically targeting Swiss cantons. The project encompasses a range of financial metrics including expenditures, expenses, and assets, extracted from public data adhering to HRM1 and HRM2 standards. The temporal scope of the data spans from the year 2010 onwards, incorporating financial documents such as income statements and balance sheets. The aim is to provide accurate and explainable predictions that can aid in fiscal planning and analysis.
+XAI Budgeting focuses on forecasting realized values for accounts in public administration, with a specific focus on Swiss cantons. This project analyzes a range of financial metrics including expenditures, expenses, and assets, using public data that adheres to HRM1 and HRM2 standards. The analysis covers data from 2010 onwards, including financial documents like income statements and balance sheets. The goal is to deliver accurate and explainable predictions to support fiscal planning and analysis.
 
 ## Overview
 
-This project implements a data processing and machine learning pipeline using a Makefile for automation. The pipeline includes steps for fetching data, merging, transforming, tuning and training a CatBoost model, and finally evaluating the model's performance.
+This project features a data processing and machine learning pipeline automated with a Makefile. The pipeline encompasses steps for data fetching, merging, transforming, model tuning and training using both CatBoost and XGBoost models, and evaluating these models' performance. It also includes the capability to construct a simple average ensemble model for improved prediction accuracy.
 
 ## Dependencies
-Install all necessary dependencies, make sure you have poetry installed. 
+To install all necessary dependencies, ensure you have Poetry installed on your system.
 
-Command:
+Command to install dependencies:
 ```shell
 make install_deps
 ```
 
 ## Pipeline Steps
 
-### 1. `fetch_data`
-Fetches the necessary data for the project.
-
-Command:
+### Fetching Data
+Fetches necessary data for the project.
 ```shell
 make fetch_data
 ```
 
-### 2. `merge_data`
-Merges the fetched data into a unified format.
-
-Command:
+### Merging Data
+Merges fetched data into a unified format suitable for analysis.
 ```shell
 make merge_data
 ```
 
-### 3. `transform_data`
-Applies necessary transformations to the data to prepare it for modeling.
-
-Command:
+### Transforming Data
+Applies required transformations to prepare the data for modeling.
 ```shell
 make transform_data
 ```
 
-### 4. `tune_and_train_catboost`
-Tunes the hyperparameters of the CatBoost model and trains the final model based on the best setting.
+### Tuning and Training Models
+Tunes hyperparameters and trains models using both CatBoost and XGBoost algorithms. These steps allow specifying a `FILE_PATH` to the dataset and a `CATEGORY` for targeted feature engineering.
 
-Command:
+#### CatBoost Model
 ```shell
-make tune_and_train_catboost
+make tune_and_train_catboost FILE_PATH="path/to/your/data.csv" CATEGORY="YourCategory"
 ```
 
-### 5. `evaluate_catboost`
-Evaluates the performance of the best CatBoost model compared to budgets. 
-
-Command:
+#### XGBoost Model
 ```shell
-make evaluate_catboost
+make tune_and_train_xgboost FILE_PATH="path/to/your/data.csv" CATEGORY="YourCategory"
 ```
+
+### Evaluating Models
+Evaluates the performance of the trained models against actual data and budget figures. Supports specifying `FILE_PATH` and `CATEGORY` for targeted evaluation.
+
+#### CatBoost Model
+```shell
+make evaluate_catboost FILE_PATH="path/to/your/data.csv" CATEGORY="YourCategory"
+```
+
+#### XGBoost Model
+```shell
+make evaluate_xgboost FILE_PATH="path/to/your/data.csv" CATEGORY="YourCategory"
+```
+
+### Evaluating Ensemble Model
+Evaluates the performance of a simple average ensemble constructed from the CatBoost and XGBoost model predictions.
+```shell
+make evaluate_ensemble FILE_PATH="path/to/your/data.csv" CATEGORY="YourCategory"
+```
+
+### Additional Commands
+
+#### Running Tests
+Runs tests to ensure the pipeline's components are functioning as expected.
+```shell
+make test
+```
+
+This README outlines the steps to utilize the automated pipeline for financial forecasting within the XAI Budgeting project. It specifies how to run each component of the pipeline, including fetching and processing data, tuning and training models, and evaluating their performance.

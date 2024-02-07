@@ -1,3 +1,4 @@
+import argparse
 import json
 import logging
 from pathlib import Path
@@ -95,18 +96,18 @@ def log_and_save_evaluation_results(
 
 
 def main(
-    data_path: Path = Path("data/final/merged_double_digit.csv"), category: str = "Alle"
+    file_path: Path = Path("data/final/merged_double_digit.csv"), category: str = "Alle"
 ) -> None:
 
     # Paths configuration
     xgb_model_path = Path("models/best_model_xgboost.json")
     cat_model_path = Path("models/best_model_catboost.cbm")
-    data_path = Path(data_path)
+    file_path = Path(file_path)
     results_file_path = Path("evaluations/evaluation_ensemble.txt")
 
     # Data preparation
-    df_xgb = prepare_data(data_path, encode_for_xgb=True, category=category)
-    df_cat = prepare_data(data_path, encode_for_xgb=False, category=category)
+    df_xgb = prepare_data(file_path, encode_for_xgb=True, category=category)
+    df_cat = prepare_data(file_path, encode_for_xgb=False, category=category)
 
     cutoff_year = df_xgb["Year"].max() - 1
     X_test_xgb = df_xgb[df_xgb["Year"] > cutoff_year].drop(
@@ -140,4 +141,18 @@ def main(
 
 
 if __name__ == "__main__":
-    main()
+    parser = argparse.ArgumentParser(description="Evaluate an ensemble model")
+    parser.add_argument(
+        "--file_path",
+        type=Path,
+        default=Path("data/final/merged_double_digit.csv"),
+        help="Path to the dataset",
+    )
+    parser.add_argument(
+        "--category",
+        type=str,
+        default="Alle",
+        help="Category of the dataset to use for training",
+    )
+    args = parser.parse_args()
+    main(file_path=args.file_path, category=args.category)

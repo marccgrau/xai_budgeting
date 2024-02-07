@@ -1,3 +1,4 @@
+import argparse
 import json
 import logging
 from pathlib import Path
@@ -115,4 +116,18 @@ def main(
 
 
 if __name__ == "__main__":
-    main()
+    parser = argparse.ArgumentParser(description="Train and tune an XGBoost model")
+    parser.add_argument(
+        "--file_path",
+        type=str,
+        default="data/final/merged_double_digit.csv",
+        help="Path to the dataset",
+    )
+    parser.add_argument(
+        "--category",
+        type=str,
+        default="Alle",
+        help="Category of the dataset to use for training",
+    )
+    args = parser.parse_args()
+    main(file_path=args.file_path, category=args.category)

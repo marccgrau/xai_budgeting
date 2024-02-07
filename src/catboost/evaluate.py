@@ -1,3 +1,4 @@
+import argparse
 import json
 import logging
 from pathlib import Path
@@ -61,7 +62,7 @@ def log_and_save_evaluation_results(
 
 
 def main(
-    data_path: Path = Path("data/final/merged_double_digit.csv"), category: str = "Alle"
+    file_path: Path = Path("data/final/merged_double_digit.csv"), category: str = "Alle"
 ) -> None:
 
     hyperparams_path: Path = Path("hyperparameters/hyperparams_catboost.json")
@@ -71,7 +72,7 @@ def main(
     with open(hyperparams_path, "r") as file:
         best_hyperparams: Dict[str, Any] = json.load(file)
 
-    df: pd.DataFrame = pd.read_csv(data_path)
+    df: pd.DataFrame = pd.read_csv(file_path)
 
     df = engineer_df(df, acc_config.get(category))
 
@@ -108,4 +109,18 @@ def main(
 
 
 if __name__ == "__main__":
-    main()
+    parser = argparse.ArgumentParser(description="Evaluate the CatBoost model.")
+    parser.add_argument(
+        "--file_path",
+        type=str,
+        default="data/final/merged_double_digit.csv",
+        help="Path to the dataset",
+    )
+    parser.add_argument(
+        "--category",
+        type=str,
+        default="Alle",
+        help="Category of the dataset to use for training",
+    )
+    args = parser.parse_args()
+    main(file_path=args.file_path, category=args.category)

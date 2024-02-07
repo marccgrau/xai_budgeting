@@ -1,3 +1,4 @@
+import argparse
 import json
 import logging
 from pathlib import Path
@@ -67,11 +68,11 @@ def log_and_save_evaluation_results(results_file_path: Path, **kwargs):
 
 
 def main(
-    data_path: Path = Path("data/final/merged_double_digit.csv"), category: str = "Alle"
+    file_path: Path = Path("data/final/merged_double_digit.csv"), category: str = "Alle"
 ):
     # Configuration and Paths
     hyperparams_path = Path("hyperparameters/hyperparams_xgboost.json")
-    data_path = Path(data_path)
+    file_path = Path(file_path)
     region_encoder_path = Path("models/le_Region.joblib")
     acc_id_encoder_path = Path("models/le_Acc-ID.joblib")
     model_save_path = Path("models/best_model_xgboost.json")
@@ -80,7 +81,7 @@ def main(
     # Load hyperparameters and data
     with open(hyperparams_path, "r") as file:
         best_hyperparams = json.load(file)
-    df = pd.read_csv(data_path)
+    df = pd.read_csv(file_path)
 
     # Feature Engineering
     df = engineer_df(df, acc_config.get(category))
@@ -124,4 +125,18 @@ def main(
 
 
 if __name__ == "__main__":
-    main()
+    parser = argparse.ArgumentParser(description="Evaluate the XGBoost model.")
+    parser.add_argument(
+        "--file_path",
+        type=str,
+        default="data/final/merged_double_digit.csv",
+        help="Path to the dataset",
+    )
+    parser.add_argument(
+        "--category",
+        type=str,
+        default="Alle",
+        help="Category to evaluate",
+    )
+    args = parser.parse_args()
+    main(file_path=args.file_path, category=args.category)

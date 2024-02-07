@@ -40,6 +40,12 @@ tune_and_train_xgboost:
 evaluate_xgboost:
 	$(POETRY) python src/xgboost/evaluate.py --file_path $(FILE_PATH) --category $(CATEGORY)
 
+tune_and_train_svm:
+	$(POETRY) python src/svm/tune_and_train.py --file_path $(FILE_PATH) --category $(CATEGORY)
+
+evaluate_svm:
+	$(POETRY) python src/svm/evaluate.py --file_path $(FILE_PATH) --category $(CATEGORY)
+
 evaluate_ensemble:
 	$(POETRY) python src/ensemble/evaluate.py --file_path $(FILE_PATH) --category $(CATEGORY)
 

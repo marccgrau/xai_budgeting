@@ -3,13 +3,13 @@ import json
 import logging
 from pathlib import Path
 
-import joblib
 import optuna
 import pandas as pd
 import yaml
 from optuna.integration import XGBoostPruningCallback
+from sklearn.compose import ColumnTransformer
 from sklearn.metrics import mean_squared_error
-from sklearn.preprocessing import LabelEncoder
+from sklearn.preprocessing import OneHotEncoder
 
 import xgboost as xgb
 from src.feature_engineering import engineer_df
@@ -23,14 +23,22 @@ with open(acc_config_path, "r") as yaml_file:
     acc_config = yaml.safe_load(yaml_file)
 
 
-# Function to apply label encoding
-def encode_categorical_columns(df, categorical_columns):
-    encoders = {}
-    for col in categorical_columns:
-        le = LabelEncoder()
-        df[col] = le.fit_transform(df[col])
-        encoders[col] = le
-    return df, encoders
+def apply_one_hot_encoding(df, categorical_columns):
+    # Apply OneHotEncoding to categorical columns
+    column_transformer = ColumnTransformer(
+        transformers=[
+            (
+                "onehot",
+                OneHotEncoder(handle_unknown="ignore"),
+                categorical_columns,
+            )
+        ],
+        remainder="passthrough",
+    )
+    df_transformed = column_transformer.fit_transform(df)
+    # feature_names = column_transformer.get_feature_names_out()
+    # df_encoded = pd.DataFrame(df_transformed, columns=feature_names)
+    return df_transformed, column_transformer
 
 
 def main(
@@ -44,11 +52,8 @@ def main(
 
     # Encode categorical variables
     categorical_columns = ["Region", "Acc-ID"]
-    df, encoders = encode_categorical_columns(df, categorical_columns)
-
-    # Save the encoders for future use (prediction phase)
-    for col, le in encoders.items():
-        joblib.dump(le, Path(f"models/le_{col}.joblib"))
+    for col in categorical_columns:
+        df[col] = df[col].astype("category")
 
     # Define the cutoff year
     cutoff_year = df["Year"].max() - 1
@@ -76,7 +81,7 @@ def main(
             "n_estimators": trial.suggest_int("n_estimators", 100, 1000),
         }
 
-        model = xgb.XGBRegressor(**param)
+        model = xgb.XGBRegressor(**param, enable_categorical=True)
         pruning_callback = XGBoostPruningCallback(trial, "validation_0-rmse")
         model.fit(
             X_train,

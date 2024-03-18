@@ -1,0 +1,9 @@
+Model Evaluation - MAE: 69603.55
+Model Evaluation - MSE: 20611862551.69
+Model Evaluation - RMSE: 143568.32
+Model Evaluation - MAPE: 458.36
+Budget Comparison - MAE: 94729.6
+Budget Comparison - MSE: 43907578606.18
+Budget Comparison - RMSE: 209541.35
+Budget Comparison - MAPE: 0.77
+Model saved successfully at: models/best_model_hgb_Ausserordentlicher_Aufwand.joblib

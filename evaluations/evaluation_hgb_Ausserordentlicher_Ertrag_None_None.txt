@@ -1,0 +1,9 @@
+Model Evaluation - MAE: 22333.41
+Model Evaluation - MSE: 1258541700.21
+Model Evaluation - RMSE: 35475.93
+Model Evaluation - MAPE: 3.8734898911492884e+18
+Budget Comparison - MAE: 53139.07
+Budget Comparison - MSE: 11837704023.57
+Budget Comparison - RMSE: 108801.21
+Budget Comparison - MAPE: 2.917689187160743e+17
+Model saved successfully at: models/best_model_hgb_Ausserordentlicher_Ertrag.joblib

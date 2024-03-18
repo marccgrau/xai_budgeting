@@ -1,0 +1,1 @@
+{"learning_rate": 0.2853180689325748, "colsample_bylevel": 0.1685981020138827, "depth": 10, "boosting_type": "Ordered", "l2_leaf_reg": 1.9393114849214819, "iterations": 485, "bootstrap_type": "Bayesian", "bagging_temperature": 1.4449299475398256}

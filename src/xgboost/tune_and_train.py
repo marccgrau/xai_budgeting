@@ -1,8 +1,10 @@
 import argparse
 import json
 import logging
+import random
 from pathlib import Path
 
+import numpy as np
 import optuna
 import pandas as pd
 import yaml
@@ -44,6 +46,9 @@ def apply_one_hot_encoding(df, categorical_columns):
 def main(
     file_path: Path = Path("data/final/merged_double_digit.csv"), category: str = "Alle"
 ) -> None:
+    random.seed(acc_config.get("SEED"))
+    np.random.seed(acc_config.get("SEED"))
+
     file_path = Path(file_path)
     df = pd.read_csv(file_path, index_col=None, header=0)
 
@@ -81,7 +86,9 @@ def main(
             "n_estimators": trial.suggest_int("n_estimators", 100, 1000),
         }
 
-        model = xgb.XGBRegressor(**param, enable_categorical=True)
+        model = xgb.XGBRegressor(
+            **param, enable_categorical=True, random_state=acc_config.get("SEED")
+        )
         pruning_callback = XGBoostPruningCallback(trial, "validation_0-rmse")
         model.fit(
             X_train,
@@ -97,7 +104,10 @@ def main(
         mse = mean_squared_error(y_test, preds)
         return mse
 
-    study = optuna.create_study(direction="minimize")
+    study = optuna.create_study(
+        direction="minimize",
+        sampler=optuna.samplers.TPESampler(seed=acc_config.get("SEED")),
+    )
     study.optimize(objective, n_trials=100, timeout=1200)
 
     logger.info("Best trial:")
@@ -109,14 +119,16 @@ def main(
 
     # Save the best hyperparameters
     best_hyperparams = trial.params
-    with open("hyperparameters/hyperparams_xgboost.json", "w") as f:
+    with open(f"hyperparameters/hyperparams_xgboost_{category}.json", "w") as f:
         json.dump(best_hyperparams, f)
     logger.info("Best hyperparameters of XGBoost saved successfully")
 
     # Train and save the best model
-    best_model = xgb.XGBRegressor(**best_hyperparams)
+    best_model = xgb.XGBRegressor(
+        **best_hyperparams, enable_categorical=True, random_state=acc_config.get("SEED")
+    )
     best_model.fit(X_train, y_train)
-    best_model.save_model("models/best_model_xgboost.json")
+    best_model.save_model(f"models/best_model_xgboost_{category}.json")
     logger.info("Best XGBoost model saved successfully")
 
 

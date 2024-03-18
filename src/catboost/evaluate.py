@@ -65,9 +65,11 @@ def main(
     file_path: Path = Path("data/final/merged_double_digit.csv"), category: str = "Alle"
 ) -> None:
 
-    hyperparams_path: Path = Path("hyperparameters/hyperparams_catboost.json")
-    model_save_path: Path = Path("models/best_model_catboost.cbm")
-    results_file_path: Path = Path("evaluations/evaluation_catboost.txt")
+    hyperparams_path: Path = Path(
+        f"hyperparameters/hyperparams_catboost_{category}.json"
+    )
+    model_save_path: Path = Path(f"models/best_model_catboost_{category}.cbm")
+    results_file_path: Path = Path(f"evaluations/evaluation_catboost_{category}.txt")
 
     with open(hyperparams_path, "r") as file:
         best_hyperparams: Dict[str, Any] = json.load(file)

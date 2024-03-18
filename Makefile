@@ -7,6 +7,8 @@ POETRY := poetry run
 # python args
 CATEGORY ?= "Alle"
 FILE_PATH ?= "data/final/merged_double_digit.csv"
+ACC_ID ?= None
+REGION ?= None
 
 # Pipeline steps
 main:
@@ -38,13 +40,13 @@ tune_and_train_xgboost:
 	$(POETRY) python src/xgboost/tune_and_train.py --file_path $(FILE_PATH) --category $(CATEGORY)
 
 evaluate_xgboost:
-	$(POETRY) python src/xgboost/evaluate.py --file_path $(FILE_PATH) --category $(CATEGORY)
+	$(POETRY) python src/xgboost/evaluate.py --file_path $(FILE_PATH) --category $(CATEGORY) --acc_id $(ACC_ID) --region $(REGION)
 
 tune_and_train_svm:
 	$(POETRY) python src/svm/tune_and_train.py --file_path $(FILE_PATH) --category $(CATEGORY)
 
 evaluate_svm:
-	$(POETRY) python src/svm/evaluate.py --file_path $(FILE_PATH) --category $(CATEGORY)
+	$(POETRY) python src/svm/evaluate.py --file_path $(FILE_PATH) --category $(CATEGORY) --acc_id $(ACC_ID) --region $(REGION)
 
 evaluate_ensemble:
 	$(POETRY) python src/ensemble/evaluate.py --file_path $(FILE_PATH) --category $(CATEGORY)

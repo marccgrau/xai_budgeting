@@ -1,8 +1,10 @@
 import argparse
 import json
 import logging
+import random
 from pathlib import Path
 
+import numpy as np
 import optuna
 import pandas as pd
 import yaml
@@ -25,6 +27,8 @@ def main(
     file_path: Path = Path("data/final/merged_double_digit.csv"),
     category: str = "Alle",
 ) -> None:
+    random.seed(acc_config.get("SEED"))
+    np.random.seed(acc_config.get("SEED"))
     # Replace with your actual data loading code
     file_path = Path(file_path)
     df = pd.read_csv(file_path, index_col=None, header=0)
@@ -49,6 +53,7 @@ def main(
     study = optuna.create_study(
         pruner=optuna.pruners.MedianPruner(n_warmup_steps=5),
         direction="minimize",
+        sampler=optuna.samplers.TPESampler(seed=acc_config.get("SEED")),
     )
 
     def objective(
@@ -80,7 +85,11 @@ def main(
         elif param["bootstrap_type"] == "Bernoulli":
             param["subsample"] = trial.suggest_float("subsample", 0.1, 1, log=True)
 
-        gbm = cb.CatBoostRegressor(**param, cat_features=["Region", "Acc-ID"])
+        gbm = cb.CatBoostRegressor(
+            **param,
+            cat_features=["Region", "Acc-ID"],
+            random_seed=acc_config.get("SEED"),
+        )
 
         pruning_callback = CatBoostPruningCallback(trial, metric="RMSE")
         gbm.fit(
@@ -112,15 +121,17 @@ def main(
 
     # Save the best hyperparameters
     best_hyperparams = trial.params
-    with open("hyperparameters/hyperparams_catboost.json", "w") as f:
+    with open(f"hyperparameters/hyperparams_catboost_{category}.json", "w") as f:
         json.dump(best_hyperparams, f)
     logger.info("Best hyperparameters of catboost saved successfully")
 
     best_model = cb.CatBoostRegressor(
-        **best_hyperparams, cat_features=["Region", "Acc-ID"]
+        **best_hyperparams,
+        cat_features=["Region", "Acc-ID"],
+        random_seed=acc_config.get("SEED"),
     )
     best_model.fit(X_train, y_train)
-    best_model.save_model("models/best_model_catboost.cbm", format="cbm")
+    best_model.save_model(f"models/best_model_catboost_{category}.cbm", format="cbm")
     logger.info("Best model saved successfully")
     logger.info(f"Train data shape: {X_train.shape}")
     logger.info(f"Test data shape: {X_test.shape}")

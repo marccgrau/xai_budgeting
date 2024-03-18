@@ -1,9 +1,11 @@
 import argparse
 import json
 import logging
+import random
 from pathlib import Path
 
 import joblib
+import numpy as np
 import optuna
 import pandas as pd
 import yaml
@@ -43,6 +45,9 @@ def encode_features(df: pd.DataFrame, encoders: dict) -> pd.DataFrame:
 def main(
     file_path: Path = Path("data/final/merged_double_digit.csv"), category: str = "Alle"
 ) -> None:
+    random.seed(acc_config.get("SEED"))
+    np.random.seed(acc_config.get("SEED"))
+
     file_path = Path(file_path)
     df = pd.read_csv(file_path, index_col=None, header=0)
 
@@ -80,7 +85,7 @@ def main(
     X_test = preprocessor.transform(X_test)
 
     # Save preprocessor
-    joblib.dump(preprocessor, Path("models/preprocessor_hgb.joblib"))
+    joblib.dump(preprocessor, Path(f"models/preprocessor_hgb_{category}.joblib"))
 
     def objective(trial: optuna.Trial) -> float:
         param = {
@@ -90,14 +95,19 @@ def main(
             "min_samples_leaf": trial.suggest_int("min_samples_leaf", 4, 200),
         }
 
-        model = HistGradientBoostingRegressor(**param)
+        model = HistGradientBoostingRegressor(
+            **param, random_state=acc_config.get("SEED")
+        )
         model.fit(X_train, y_train)
 
         preds = model.predict(X_test)
         mse = mean_squared_error(y_test, preds)
         return mse
 
-    study = optuna.create_study(direction="minimize")
+    study = optuna.create_study(
+        direction="minimize",
+        sampler=optuna.samplers.TPESampler(seed=acc_config.get("SEED")),
+    )
     study.optimize(objective, n_trials=100, timeout=3600)
 
     logger.info("Best trial:")
@@ -108,14 +118,16 @@ def main(
 
     # Save the best hyperparameters
     best_hyperparams = trial.params
-    with open("hyperparameters/hyperparams_hgb.json", "w") as f:
+    with open(f"hyperparameters/hyperparams_hgb_{category}.json", "w") as f:
         json.dump(best_hyperparams, f)
     logger.info("Best hyperparameters saved successfully")
 
     # Train and save the best model
-    best_model = HistGradientBoostingRegressor(**best_hyperparams)
+    best_model = HistGradientBoostingRegressor(
+        **best_hyperparams, random_state=acc_config.get("SEED")
+    )
     best_model.fit(X_train, y_train)
-    joblib.dump(best_model, Path("models/best_model_hgb.joblib"))
+    joblib.dump(best_model, Path(f"models/best_model_hgb_{category}.joblib"))
     logger.info("Best model saved successfully")
 
 

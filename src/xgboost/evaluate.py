@@ -2,6 +2,7 @@ import argparse
 import json
 import logging
 from pathlib import Path
+from typing import Optional
 
 import joblib
 import numpy as np
@@ -67,14 +68,29 @@ def log_and_save_evaluation_results(results_file_path: Path, **kwargs):
             file.write(f"{key}: {value}\n")
 
 
+def save_results_to_csv(
+    file_path: Path, y_test, y_pred, budget_y, category, acc_id, region, **kwargs
+):
+    results_df = pd.DataFrame(
+        {"y_test": y_test, "y_pred": y_pred, "Budget y": budget_y}
+    )
+    results_df.to_csv(file_path, index=False)
+    log_and_save_evaluation_results(
+        Path(f"evaluations/evaluation_xgboost_{category}_{acc_id}_{region}.txt"),
+        **kwargs,
+    )
+
+
 def main(
-    file_path: Path = Path("data/final/merged_double_digit.csv"), category: str = "Alle"
+    file_path: Path = Path("data/final/merged_double_digit.csv"),
+    category: str = "Alle",
+    acc_id: Optional[str] = None,
+    region: Optional[str] = None,
 ):
     # Configuration and Paths
-    hyperparams_path = Path("hyperparameters/hyperparams_xgboost.json")
+    hyperparams_path = Path(f"hyperparameters/hyperparams_xgboost_{category}.json")
     file_path = Path(file_path)
-    model_save_path = Path("models/best_model_xgboost.json")
-    results_file_path = Path("evaluations/evaluation_xgboost.txt")
+    model_save_path = Path(f"models/best_model_xgboost_{category}.json")
 
     # Load hyperparameters and data
     with open(hyperparams_path, "r") as file:
@@ -87,6 +103,11 @@ def main(
     categorical_columns = ["Region", "Acc-ID"]
     for col in categorical_columns:
         df[col] = df[col].astype("category")
+
+    if acc_id is not None:
+        df = df[df["Acc-ID"] == int(acc_id)]
+    if region is not None:
+        df = df[df["Region"] == region]
 
     # Split Data
     cutoff_year = df["Year"].max() - 1
@@ -106,8 +127,14 @@ def main(
     evaluation_results = evaluate_model(y_test, y_pred, budget_y_test)
 
     # Log and Save Results
-    log_and_save_evaluation_results(
-        results_file_path,
+    save_results_to_csv(
+        Path(f"evaluations/xgb_predictions_{acc_id}_{region}.csv"),
+        y_test=y_test,
+        y_pred=y_pred,
+        budget_y=test_data["Budget y"],
+        category=category,
+        acc_id=acc_id,
+        region=region,
         **{
             "Model Evaluation - MAE": evaluation_results[0],
             "Model Evaluation - MSE": evaluation_results[1],
@@ -117,13 +144,19 @@ def main(
             "Budget Comparison - MSE": evaluation_results[5],
             "Budget Comparison - RMSE": evaluation_results[6],
             "Budget Comparison - MAPE": evaluation_results[7],
-            "Model saved successfully at": str(model_save_path),
+            "Model saved successfully at": str(Path("models/best_model_hgb.joblib")),
         },
     )
 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Evaluate the XGBoost model.")
+
+    def none_or_str(value):
+        if value == "None":
+            return None
+        return value
+
     parser.add_argument(
         "--file_path",
         type=str,
@@ -136,5 +169,16 @@ if __name__ == "__main__":
         default="Alle",
         help="Category to evaluate",
     )
+    parser.add_argument(
+        "--acc_id", type=none_or_str, default=None, help="Account ID to evaluate"
+    )
+    parser.add_argument(
+        "--region", type=none_or_str, default=None, help="Region to evaluate"
+    )
     args = parser.parse_args()
-    main(file_path=args.file_path, category=args.category)
+    main(
+        file_path=args.file_path,
+        category=args.category,
+        acc_id=args.acc_id,
+        region=args.region,
+    )

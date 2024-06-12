@@ -35,6 +35,9 @@ def apply_feature_engineering(df: pd.DataFrame) -> pd.DataFrame:
         two_year_lag
     )
 
+    df_mod['Budget_Realized_Interaction'] = df_mod['Budget y+1'] * df_mod['Realized_1yr_lag']
+    # df_mod['Yearly_Budget_Change'] = df_mod['Budget y+1'] - df_mod['Budget y']
+
     return df_mod
 
 

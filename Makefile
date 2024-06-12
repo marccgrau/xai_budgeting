@@ -6,7 +6,11 @@ POETRY := poetry run
 
 # python args
 CATEGORY ?= "Alle"
-FILE_PATH ?= "data/final/merged_double_digit.csv"
+ FILE_PATH ?= "data/final/merged_complete.csv"
+# FILE_PATH ?= "data/final/merged_double_digit.csv"
+#FILE_PATH ?= "data/final/merged_complete_preprocessed.csv"
+#FILE_PATH ?= "data/final/subsets2006to2021.csv"
+
 ACC_ID ?= None
 REGION ?= None
 
@@ -18,8 +22,11 @@ main:
 	make tune_and_train_catboost FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)
 	make evaluate_catboost FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)v
 	make tune_and_train_xgboost FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)
+	make dartsEvaluationScript FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)
 	make evaluate_xgboost FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)
 	make evaluate_ensemble FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)
+	make tune_and_train_lstm FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)v
+
 
 fetch_data:
 	$(POETRY) python scripts/fetch_data.py 
@@ -42,6 +49,9 @@ tune_and_train_xgboost:
 evaluate_xgboost:
 	$(POETRY) python src/xgboost/evaluate.py --file_path $(FILE_PATH) --category $(CATEGORY) --acc_id $(ACC_ID) --region $(REGION)
 
+dartsEvaluationScript:
+	$(POETRY) python src/dartsEvaluation/dartsEvaluationScript.py --file_path $(FILE_PATH) --category $(CATEGORY)
+
 tune_and_train_svm:
 	$(POETRY) python src/svm/tune_and_train.py --file_path $(FILE_PATH) --category $(CATEGORY)
 
@@ -50,6 +60,9 @@ evaluate_svm:
 
 evaluate_ensemble:
 	$(POETRY) python src/ensemble/evaluate.py --file_path $(FILE_PATH) --category $(CATEGORY)
+
+tune_and_train_lstm:
+	$(POETRY) python src/lstm/tune_and_train.py --file_path $(FILE_PATH) --category $(CATEGORY)
 
 # You can also add targets for installing dependencies, running tests, etc.
 install_deps:

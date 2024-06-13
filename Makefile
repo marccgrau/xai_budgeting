@@ -26,6 +26,8 @@ main:
 	make evaluate_xgboost FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)
 	make evaluate_ensemble FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)
 	make tune_and_train_lstm FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)v
+	make train_rforest FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)
+	make evaluate_rforest FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)
 
 
 fetch_data:
@@ -63,6 +65,14 @@ evaluate_ensemble:
 
 tune_and_train_lstm:
 	$(POETRY) python src/lstm/tune_and_train.py --file_path $(FILE_PATH) --category $(CATEGORY)
+
+train_rforest:
+	$(POETRY) python src/rforestregression/tune_and_train.py --file_path $(FILE_PATH) --category $(CATEGORY)
+
+evaluate_rforest:
+	$(POETRY) python src/rforestregression/evaluate.py --file_path $(FILE_PATH) --category $(CATEGORY) --acc_id $(ACC_ID) --region $(REGION)
+
+
 
 # You can also add targets for installing dependencies, running tests, etc.
 install_deps:

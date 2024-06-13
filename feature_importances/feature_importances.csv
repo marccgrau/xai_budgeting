@@ -1,53 +1,117 @@
 Feature,Importance
-Budget y+1,0.84683925
-Budget y,0.0555142
-Zivilstand Verwitwet,0.041021615
-Realized_1yr_lag,0.012486846
-Acc-ID,0.009466776
-BWS Öffentliche Verwaltung,0.00883771
-Budget_Realized_Interaction,0.003993381
-Staatsangehörigkeit Ausländer,0.0034125235
-Region,0.002974682
-Slack,0.0017347673
-Staatsangehörigkeit Schweiz,0.0011800044
-"BWS Landwirtschaft, Forstwirtschaft und Fischerei",0.0011696281
-"BWS Bergbau und Gewinnung von Steinen und Erden, Herstellung von Waren, Bau",0.0011491787
-Einwanderung,0.0009822843
-Realized_2yr_lag,0.00087990373
-Alter 0–19,0.0008333595
-Einflussgebiet städtischer Kerne,0.00082037237
-Zivilstand Verheiratet ,0.0007127094
-Alter 20–64,0.00067413994
-Zivilstand Unverheiratet ,0.00066852535
-Transferzahlungen von Kantonen an andere Kantone (und Konkordate),0.0006186074
-Betreibungshandlungen  Pfändungsvollzüge,0.00046414763
-Year,0.00042396202
-Transferzahlungen von Kantonen an Gemeinden (und Gemeindezweckverbände),0.00031521323
-Kulturausgaben Gemeinden,0.00031373452
-Gebiete ausserhalb des Einflusses städtischer Kerne,0.00027737813
-Betreibungshandlungen Zahlungsbefehle,0.00024242679
-Auswanderung,0.00023793524
-Zivilstand In eingetragene Partnerschaft ,0.00022616184
-Wanderungssaldo.1,0.000205348
-Kulturausgaben Kanton,0.0001532349
-Zivilstand Aufgelöste Partnerschaft ,0.0001475041
-BWS Erbringung von Finanzdienstleistungen und Versicherungen,0.00014633336
-Betreibungshandlungen Verwertungen,0.00013938452
-Zuzüge,9.085271e-05
-BWS Private Haushalte als Hersteller,8.792623e-05
-Wanderungssaldo,8.150881e-05
-"BWS Handel und Reparatur von Fahrzeugen, Transport, Informationsdienstleistungen und Telekommunikation, Beherbergung und Gastronomie",5.986983e-05
-Transferzahlungen von Kantonen an Bund,5.7229678e-05
-"BWS Energieversorgung, Wasserversorgung, Sammlung, Behandlung und Beseitigung von Abfällen, Erziehung und Unterricht, Gesundheitswesen",5.632676e-05
-Zivilstand Geschieden ,4.3218733e-05
-"BWS Grundstücks- und Wohnungswesen, sonstige freiberufliche, wissenschaftliche und technische Tätigkeiten, wirtschaftlichen Dienstleistungen, Kunst, Unterhaltung und Erholung, sonstige Dienstleistungen",4.317342e-05
-Alter 65 und mehr,3.5691795e-05
-Geschlecht Mann,3.46417e-05
-Transferzahlungen von Gemeinden an Kantone (und Konkordate),3.0068153e-05
-Kulturausgaben Kantone und Gemeinde,2.6467838e-05
-Städtischer Kernraum,2.1233418e-05
-Wegzüge,2.0773048e-05
-Öffentliche Bildugnsausgaben,1.865599e-05
-BIP,1.2681812e-05
-Zivilstand Ledig,1.0491833e-05
-Geschlecht Frau,5.8340133e-06
+onehot__Region_AG,
+onehot__Region_AI,
+onehot__Region_AR,
+onehot__Region_BE,
+onehot__Region_BL,
+onehot__Region_BS,
+onehot__Region_FR,
+onehot__Region_GE,
+onehot__Region_GL,
+onehot__Region_GR,
+onehot__Region_JU,
+onehot__Region_LU,
+onehot__Region_NE,
+onehot__Region_NW,
+onehot__Region_OW,
+onehot__Region_SG,
+onehot__Region_SH,
+onehot__Region_SO,
+onehot__Region_SZ,
+onehot__Region_TG,
+onehot__Region_TI,
+onehot__Region_UR,
+onehot__Region_VD,
+onehot__Region_VS,
+onehot__Region_ZG,
+onehot__Region_ZH,
+onehot__Acc-ID_10.0,
+onehot__Acc-ID_14.0,
+onehot__Acc-ID_20.0,
+onehot__Acc-ID_29.0,
+onehot__Acc-ID_30.0,
+onehot__Acc-ID_31.0,
+onehot__Acc-ID_33.0,
+onehot__Acc-ID_34.0,
+onehot__Acc-ID_35.0,
+onehot__Acc-ID_36.0,
+onehot__Acc-ID_37.0,
+onehot__Acc-ID_38.0,
+onehot__Acc-ID_39.0,
+onehot__Acc-ID_40.0,
+onehot__Acc-ID_41.0,
+onehot__Acc-ID_42.0,
+onehot__Acc-ID_43.0,
+onehot__Acc-ID_44.0,
+onehot__Acc-ID_45.0,
+onehot__Acc-ID_46.0,
+onehot__Acc-ID_47.0,
+onehot__Acc-ID_48.0,
+onehot__Acc-ID_49.0,
+onehot__Acc-ID_50.0,
+onehot__Acc-ID_51.0,
+onehot__Acc-ID_52.0,
+onehot__Acc-ID_54.0,
+onehot__Acc-ID_55.0,
+onehot__Acc-ID_56.0,
+onehot__Acc-ID_57.0,
+onehot__Acc-ID_58.0,
+onehot__Acc-ID_60.0,
+onehot__Acc-ID_61.0,
+onehot__Acc-ID_62.0,
+onehot__Acc-ID_63.0,
+onehot__Acc-ID_64.0,
+onehot__Acc-ID_65.0,
+onehot__Acc-ID_66.0,
+onehot__Acc-ID_67.0,
+onehot__Acc-ID_68.0,
+remainder__Year,
+remainder__Budget y,
+remainder__Budget y+1,
+remainder__Slack,
+remainder__Alter 0–19,
+remainder__Alter 20–64,
+remainder__Alter 65 und mehr,
+remainder__Geschlecht Mann,
+remainder__Geschlecht Frau,
+remainder__Staatsangehörigkeit Schweiz,
+remainder__Staatsangehörigkeit Ausländer,
+remainder__Zivilstand Ledig,
+remainder__Zivilstand Verheiratet ,
+remainder__Zivilstand Verwitwet,
+remainder__Zivilstand Geschieden ,
+remainder__Zivilstand Unverheiratet ,
+remainder__Zivilstand In eingetragene Partnerschaft ,
+remainder__Zivilstand Aufgelöste Partnerschaft ,
+remainder__Städtischer Kernraum,
+remainder__Einflussgebiet städtischer Kerne,
+remainder__Gebiete ausserhalb des Einflusses städtischer Kerne,
+remainder__Einwanderung,
+remainder__Auswanderung,
+remainder__Wanderungssaldo Ein-und Auswanderung,
+remainder__Zuzüge,
+remainder__Wegzüge,
+remainder__Wanderungssaldo Zu-und Wegzüge,
+remainder__Betreibungshandlungen Verwertungen,
+remainder__Betreibungshandlungen Pfändungsvollzüge,
+remainder__Betreibungshandlungen Zahlungsbefehle,
+remainder__Transferzahlungen von Kantonen an Bund,
+remainder__Transferzahlungen von Kantonen an andere Kantone,
+remainder__Transferzahlungen von Kantonen an Gemeinden,
+remainder__Transferzahlungen von Gemeinden an Kantone,
+remainder__Öffentliche Bildugnsausgaben,
+remainder__Kulturausgaben Kanton,
+remainder__Kulturausgaben Gemeinden,
+remainder__Kulturausgaben Kantone und Gemeinde,
+"remainder__BWS Landwirtschaft, Forstwirtschaft und Fischerei",
+remainder__BWS Bergbau und Gewinnung von Steinen und Erden,
+"remainder__BWS Versorgung, Sammlung, Entsorgung",
+"remainder__BWS Transport, IT-Dienstleistung",
+remainder__BWS Finanzdienstleistungen und Versicherungen,
+remainder__BWS Wissenschaft und Kunst sowie sonstige Dienstleistungen,
+remainder__BWS Öffentliche Verwaltung,
+remainder__BWS Private Haushalte als Hersteller,
+remainder__BIP,
+remainder__Realized_1yr_lag,
+remainder__Realized_2yr_lag,
+remainder__Budget_Realized_Interaction,

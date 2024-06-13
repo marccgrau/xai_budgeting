@@ -44,7 +44,7 @@ def apply_one_hot_encoding(df, categorical_columns):
 
 
 def main(
-        file_path: Path = Path("data/final/merged_complete_preprocessed.csv"), category: str = "Alle"
+        file_path: Path = Path("data/final/merged_double_digit.csv"), category: str = "Alle"
 ) -> None:
     file_path = Path(file_path)
     df = pd.read_csv(file_path, index_col=None, header=0)

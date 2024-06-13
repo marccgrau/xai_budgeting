@@ -6,8 +6,8 @@ POETRY := poetry run
 
 # python args
 CATEGORY ?= "Alle"
- FILE_PATH ?= "data/final/merged_complete.csv"
-# FILE_PATH ?= "data/final/merged_double_digit.csv"
+# FILE_PATH ?= "data/final/merged_complete.csv"
+ FILE_PATH ?= "data/final/merged_double_digit.csv"
 #FILE_PATH ?= "data/final/merged_complete_preprocessed.csv"
 #FILE_PATH ?= "data/final/subsets2006to2021.csv"
 

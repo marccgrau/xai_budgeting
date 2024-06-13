@@ -117,20 +117,6 @@ def main(
     joblib.dump(best_model, f"models/best_model_rf_{category}.joblib")
     logger.info("Best RandomForest model saved successfully")
 
-    feature_importances = best_model.feature_importances_
-    importance_df = pd.DataFrame({
-        'Feature': column_transformer.get_feature_names_out(),
-        'Importance': feature_importances
-    }).sort_values(by='Importance', ascending=False)
-
-    feature_importances = "feature_importances"
-    if not os.path.exists(feature_importances):
-        os.makedirs(feature_importances)
-
-    importance_df_path = os.path.join(feature_importances, "feature_importances.csv")
-    importance_df.to_csv(importance_df_path, index=False)
-    logger.info(f"Feature importances saved successfully to {importance_df_path}")
-
     sorted_mse_values = sorted(mse_values, reverse=True)
 
     # Convert the list into a DataFrame for seaborn

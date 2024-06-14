@@ -1,49 +1,49 @@
 Feature,Importance
-Zivilstand In eingetragene Partnerschaft ,0.32307297
-BWS Wissenschaft und Kunst sowie sonstige Dienstleistungen,0.1599038
-Realized_1yr_lag,0.118721694
-"BWS Versorgung, Sammlung, Entsorgung",0.09928635
-Einflussgebiet städtischer Kerne,0.045806475
-Kulturausgaben Gemeinden,0.03259835
-BIP,0.020962244
-BWS Bergbau und Gewinnung von Steinen und Erden,0.019929593
-Acc-ID,0.014498298
-Staatsangehörigkeit Ausländer,0.013819314
-Wanderungssaldo Zu-und Wegzüge,0.01264725
-Transferzahlungen von Gemeinden an Kantone,0.011421128
-Kulturausgaben Kantone und Gemeinde,0.010520791
-Auswanderung,0.009930324
-Betreibungshandlungen Zahlungsbefehle,0.008430355
-Zivilstand Verwitwet,0.008325997
-Region,0.008291319
-Zivilstand Aufgelöste Partnerschaft ,0.005968849
-Realized_2yr_lag,0.0056368485
-Wanderungssaldo Ein-und Auswanderung,0.005456323
-Kulturausgaben Kanton,0.0048720795
-Year,0.0048571154
-Transferzahlungen von Kantonen an andere Kantone,0.004590383
-Öffentliche Bildugnsausgaben,0.004402659
-Betreibungshandlungen Pfändungsvollzüge,0.0035583845
-Zivilstand Verheiratet ,0.0034087566
-Gebiete ausserhalb des Einflusses städtischer Kerne,0.0032045548
-BWS Öffentliche Verwaltung,0.0031678146
-"BWS Landwirtschaft, Forstwirtschaft und Fischerei",0.0030891579
-Alter 20–64,0.0028357669
-Geschlecht Frau,0.0027209981
-Einwanderung,0.002623544
-Zuzüge,0.0024471884
-Transferzahlungen von Kantonen an Bund,0.0021628835
-Alter 0–19,0.0019098865
-BWS Finanzdienstleistungen und Versicherungen,0.0018580727
-Wegzüge,0.001826503
-Zivilstand Geschieden ,0.0017580688
-"BWS Transport, IT-Dienstleistung",0.001518486
-Betreibungshandlungen Verwertungen,0.0014233754
-Staatsangehörigkeit Schweiz,0.0013794297
-BWS Private Haushalte als Hersteller,0.0012923016
-Zivilstand Unverheiratet ,0.0011788489
-Transferzahlungen von Kantonen an Gemeinden,0.0010944074
-Alter 65 und mehr,0.0010503436
-Städtischer Kernraum,0.0003997793
-Zivilstand Ledig,0.00014092932
+Realized_1yr_lag,0.19185984
+BIP,0.14388928
+Betreibungshandlungen Zahlungsbefehle,0.1022883
+Zivilstand In eingetragene Partnerschaft ,0.07212946
+Öffentliche Bildugnsausgaben,0.06971915
+Alter 20–64,0.042393297
+Einflussgebiet städtischer Kerne,0.030837368
+Alter 65 und mehr,0.028688915
+Acc-ID,0.02220357
+Realized_2yr_lag,0.021103572
+Zivilstand Verwitwet,0.020572519
+Staatsangehörigkeit Ausländer,0.020390166
+Year,0.020143561
+Kulturausgaben Gemeinden,0.017999325
+Zivilstand Aufgelöste Partnerschaft ,0.017225357
+Zivilstand Verheiratet ,0.016080849
+Transferzahlungen von Kantonen an Gemeinden,0.015847452
+Zivilstand Ledig,0.011623476
+Zivilstand Unverheiratet ,0.009857084
+"BWS Landwirtschaft, Forstwirtschaft und Fischerei",0.009392409
+BWS Finanzdienstleistungen und Versicherungen,0.0083117625
+Region,0.008080141
+Betreibungshandlungen Pfändungsvollzüge,0.007881819
+Gebiete ausserhalb des Einflusses städtischer Kerne,0.007420903
+BWS Bergbau und Gewinnung von Steinen und Erden,0.0072391387
+BWS Öffentliche Verwaltung,0.0066999155
+Einwanderung,0.005894407
+Transferzahlungen von Kantonen an andere Kantone,0.0058714366
+Wanderungssaldo Zu-und Wegzüge,0.0054246807
+Alter 0–19,0.005168044
+Wanderungssaldo Ein-und Auswanderung,0.005157688
+Auswanderung,0.0047166343
+Zivilstand Geschieden ,0.004265259
+"BWS Transport, IT-Dienstleistung",0.0042338246
+Betreibungshandlungen Verwertungen,0.003977361
+Zuzüge,0.0038859306
+Kulturausgaben Kantone und Gemeinde,0.003487163
+BWS Wissenschaft und Kunst sowie sonstige Dienstleistungen,0.003172514
+Wegzüge,0.0028087217
+Kulturausgaben Kanton,0.0025772525
+BWS Private Haushalte als Hersteller,0.0024627522
+"BWS Versorgung, Sammlung, Entsorgung",0.0021311617
+Transferzahlungen von Kantonen an Bund,0.0019888012
+Transferzahlungen von Gemeinden an Kantone,0.0015065027
+Staatsangehörigkeit Schweiz,0.0009828008
+Städtischer Kernraum,0.00040849048
+Geschlecht Frau,0.0
 Geschlecht Mann,0.0

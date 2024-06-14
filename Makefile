@@ -5,7 +5,7 @@ SHELL := /bin/bash
 POETRY := poetry run
 
 # python args
-CATEGORY ?= "Ertrag"
+CATEGORY ?= "Alle"
 
 
  FILE_PATH ?= "data/final/merged_complete.csv"

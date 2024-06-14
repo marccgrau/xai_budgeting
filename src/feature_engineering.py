@@ -35,9 +35,6 @@ def apply_feature_engineering(df: pd.DataFrame) -> pd.DataFrame:
         two_year_lag
     )
 
-    df_mod['Budget_Realized_Interaction'] = df_mod['Budget y+1'] * df_mod['Realized_1yr_lag']
-    # df_mod['Yearly_Budget_Change'] = df_mod['Budget y+1'] - df_mod['Budget y']
-
     return df_mod
 
 
@@ -94,7 +91,7 @@ def engineer_df(df: pd.DataFrame, acc_ids: Optional[List[int]]) -> pd.DataFrame:
     pandas.DataFrame: The DataFrame with added lag features and specified Account IDs.
     """
     df_mod = df.copy()
-    df_mod["Year"] = df_mod["Year"] - df_mod["Year"].min()
+    # df_mod["Year"] = df_mod["Year"] - df_mod["Year"].min() #Comment this line when using Prophet
     df_mod = df_mod.sort_values(by="Year")
     df_mod = apply_feature_engineering(df_mod)
     df_mod = drop_all_zero_entries(df_mod)

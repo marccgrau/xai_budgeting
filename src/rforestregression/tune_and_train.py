@@ -64,7 +64,7 @@ def main(
     test_data = df[df["Year"] > cutoff_year]
 
     target_column = "Realized"
-    exclude_columns = []
+    exclude_columns = ["Budget y", "Budget y+1", "Slack"]
 
     feature_columns = [col for col in df.columns if col not in exclude_columns + [target_column]]
 
@@ -86,10 +86,8 @@ def main(
             "bootstrap": trial.suggest_categorical("bootstrap", [True, False]),
         }
 
-        model = RandomForestRegressor(**param)
-
+        model = RandomForestRegressor(**param, random_state=acc_config.get("SEED"))
         model.fit(X_train, y_train)
-
         preds = model.predict(X_test)
         mse = mean_squared_error(y_test, preds)
         mse_values.append(mse)

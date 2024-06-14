@@ -5,11 +5,12 @@ SHELL := /bin/bash
 POETRY := poetry run
 
 # python args
-CATEGORY ?= "Alle"
-# FILE_PATH ?= "data/final/merged_complete.csv"
- FILE_PATH ?= "data/final/merged_double_digit.csv"
+CATEGORY ?= "Ertrag"
+
+
+ FILE_PATH ?= "data/final/merged_complete.csv"
+# FILE_PATH ?= "data/final/merged_double_digit.csv"
 #FILE_PATH ?= "data/final/merged_complete_preprocessed.csv"
-#FILE_PATH ?= "data/final/subsets2006to2021.csv"
 
 ACC_ID ?= None
 REGION ?= None
@@ -26,8 +27,10 @@ main:
 	make evaluate_xgboost FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)
 	make evaluate_ensemble FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)
 	make tune_and_train_lstm FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)v
-	make train_rforest FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)
+	make train_and_train_rforest FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)
 	make evaluate_rforest FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)
+	make tune_and_train_prophet FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)
+
 
 
 fetch_data:
@@ -66,11 +69,14 @@ evaluate_ensemble:
 tune_and_train_lstm:
 	$(POETRY) python src/lstm/tune_and_train.py --file_path $(FILE_PATH) --category $(CATEGORY)
 
-train_rforest:
+tune_and_train_rforest:
 	$(POETRY) python src/rforestregression/tune_and_train.py --file_path $(FILE_PATH) --category $(CATEGORY)
 
 evaluate_rforest:
 	$(POETRY) python src/rforestregression/evaluate.py --file_path $(FILE_PATH) --category $(CATEGORY) --acc_id $(ACC_ID) --region $(REGION)
+
+tune_and_train_prophet:
+	$(POETRY) python src/prophet/tune_and_train.py --file_path $(FILE_PATH) --category $(CATEGORY)
 
 
 

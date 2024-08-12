@@ -13,12 +13,9 @@ import optuna
 from src.feature_engineering import engineer_df
 from src.logging_config import setup_logging
 
-# Setup logging
 setup_logging()
 logger = logging.getLogger(__name__)
 
-
-# Define the LSTM model
 class LSTMModel(nn.Module):
     def __init__(self, input_size, hidden_size, num_layers, dropout, output_size=1):
         super(LSTMModel, self).__init__()
@@ -27,9 +24,8 @@ class LSTMModel(nn.Module):
 
     def forward(self, x):
         x, (hn, cn) = self.lstm(x)
-        x = self.fc(x[:, -1, :])  # Taking the output of the last time step
+        x = self.fc(x[:, -1, :])
         return x
-
 
 def preprocess_data(df, categorical_features, numerical_features):
     preprocessor = ColumnTransformer(transformers=[
@@ -40,9 +36,7 @@ def preprocess_data(df, categorical_features, numerical_features):
     y = df['Realized'].values
     return X, y
 
-
 def train_model_with_optuna(trial, X_train, y_train, X_val, y_val):
-    # Hyperparameters to be tuned by Optuna
     hidden_size = trial.suggest_int('hidden_size', 20, 100)
     num_layers = trial.suggest_int('num_layers', 1, 3)
     dropout = trial.suggest_float('dropout', 0.1, 0.5)
@@ -51,8 +45,6 @@ def train_model_with_optuna(trial, X_train, y_train, X_val, y_val):
     model = LSTMModel(input_size=X_train.shape[2], hidden_size=hidden_size, num_layers=num_layers, dropout=dropout)
     criterion = nn.MSELoss()
     optimizer = optim.Adam(model.parameters(), lr=learning_rate)
-
-    # Gradient clipping to prevent exploding gradients
     torch.nn.utils.clip_grad_norm_(model.parameters(), max_norm=1.0)
 
     for epoch in range(50):
@@ -73,12 +65,19 @@ def train_model_with_optuna(trial, X_train, y_train, X_val, y_val):
         if torch.isnan(mse):
             logger.warning(f"NaN MSE encountered")
             return float('inf')
-    return mse.item()
 
+    # Save predictions and actual values to a CSV file
+    result_df = pd.DataFrame({
+        'Actual': y_val,
+        'Predicted': predictions.numpy().flatten()
+    })
+    result_df.to_csv('predictions_vs_actuals.csv', index=False)
+    logger.info("Predictions and actual values saved to predictions_vs_actuals.csv")
+
+    return mse.item()
 
 def objective(trial, X_train, y_train, X_val, y_val):
     return train_model_with_optuna(trial, X_train, y_train, X_val, y_val)
-
 
 def main(file_path, category):
     acc_config_path = Path("config/acc_config.yaml")
@@ -87,21 +86,17 @@ def main(file_path, category):
 
     df = pd.read_csv(file_path)
     df = engineer_df(df, acc_config.get(category, {}))
-
-    # Ensure there are no NaN values in the dataset
     df = df.dropna()
 
     cutoff_year = df["Year"].max() - 1
 
-    # Split the data into train and test sets
     train_data = df[df["Year"] <= cutoff_year]
     test_data = df[df["Year"] > cutoff_year]
 
     target_column = "Realized"
-    exclude_columns = []
+    exclude_columns = ["Budget y", "Budget y+1", "Slack"]
 
     feature_columns = [col for col in df.columns if col not in exclude_columns + [target_column]]
-
     categorical_features = [col for col in feature_columns if df[col].dtype == 'object']
     numerical_features = [col for col in feature_columns if col not in categorical_features]
 
@@ -109,18 +104,15 @@ def main(file_path, category):
                                        numerical_features=numerical_features)
     X_val, y_val = preprocess_data(test_data, categorical_features=categorical_features,
                                    numerical_features=numerical_features)
-
-    # Adding a sequence dimension (assuming each row is a sequence for simplicity)
     X_train = X_train.reshape((X_train.shape[0], 1, X_train.shape[1]))
     X_val = X_val.reshape((X_val.shape[0], 1, X_val.shape[1]))
 
     study = optuna.create_study(direction='minimize')
-    study.optimize(lambda trial: objective(trial, X_train, y_train, X_val, y_val), n_trials=1000)
+    study.optimize(lambda trial: objective(trial, X_train, y_train, X_val, y_val), n_trials=10)
 
     logger.info(f"Best trial: {study.best_trial.number}")
     logger.info(f"Best value (MSE): {study.best_trial.value}")
     logger.info(f"Best hyperparameters: {study.best_trial.params}")
-
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Train an LSTM model with Optuna optimization")

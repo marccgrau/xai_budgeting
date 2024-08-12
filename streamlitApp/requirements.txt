@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+optuna
+xgboost
+catboost
+scikit-learn
+matplotlib
+seaborn

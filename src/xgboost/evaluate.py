@@ -131,7 +131,7 @@ def main(
         Path(f"evaluations/xgb_predictions_{acc_id}_{region}.csv"),
         y_test=y_test,
         y_pred=y_pred,
-        budget_y=test_data["Budget y"],
+        budget_y=budget_y_test,
         category=category,
         acc_id=acc_id,
         region=region,
@@ -144,7 +144,6 @@ def main(
             "Budget Comparison - MSE": evaluation_results[5],
             "Budget Comparison - RMSE": evaluation_results[6],
             "Budget Comparison - MAPE": evaluation_results[7],
-            "Model saved successfully at": str(Path("models/best_model_hgb.joblib")),
         },
     )
 

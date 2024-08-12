@@ -93,20 +93,22 @@ def main(
             "lambda": trial.suggest_float("lambda", 1e-8, 10.0, log=True),
             "subsample": trial.suggest_float("subsample", 0.5, 1.0),
             "n_estimators": trial.suggest_int("n_estimators", 100, 1000),
+            "eval_metric": "rmse",
+            "early_stopping_rounds": 100,
         }
 
         model = xgb.XGBRegressor(
-            **param, enable_categorical=True, random_state=acc_config.get("SEED")
+            **param,
+            enable_categorical=True,
+            random_state=acc_config.get("SEED"),
+            callbacks=[XGBoostPruningCallback(trial, "validation_0-rmse")]
         )
-        pruning_callback = XGBoostPruningCallback(trial, "validation_0-rmse")
+
         model.fit(
             X_train,
             y_train,
             eval_set=[(X_test, y_test)],
-            eval_metric="rmse",
-            early_stopping_rounds=100,
             verbose=False,
-            callbacks=[pruning_callback],
         )
 
         preds = model.predict(X_test)
@@ -132,7 +134,9 @@ def main(
 
     # Train and save the best model
     best_model = xgb.XGBRegressor(
-        **best_hyperparams, enable_categorical=True, random_state=acc_config.get("SEED")
+        **best_hyperparams,
+        enable_categorical=True,
+        random_state=acc_config.get("SEED")
     )
     best_model.fit(X_train, y_train)
     best_model.save_model(f"models/best_model_xgboost_{category}.json")
@@ -166,11 +170,11 @@ def main(
 
     # Create the plot
     plt.figure(figsize=(12, 7))
-    plot = sns.lineplot(x='Trial', y='MSE', data=df, marker='o', color='coral', linewidth=2.5, markersize=8, alpha=0.85,
+    plot = sns.lineplot(x='Trial', y='MSE', data=df, marker='o', linewidth=2.5, markersize=8, alpha=0.85,
                         label='MSE per Trial')
 
     # Filling the area under the plot line
-    plt.fill_between(df['Trial'], df['MSE'], color='coral', alpha=0.3)
+    plt.fill_between(df['Trial'], df['MSE'], alpha=0.3)
 
     # Enhancing the plot with seaborn's and matplotlib's functionalities
     plot.set_title('Optuna Optimization Progress - MSE Minimization', fontsize=16, fontweight='bold', color='#333333')

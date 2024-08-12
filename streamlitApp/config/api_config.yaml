@@ -1,0 +1,12 @@
+hydra:
+  job:
+    chdir: False
+
+api_urls:
+  sg: "https://stgallen.opendatasoft.com/api/explore/v2.1"
+  zh: "https://api.stadt-zuerich.ch/rpkk-rs/v1"
+
+api_keys:
+  sg: None
+  zh: "vopVcmhIMkeUCf8gQjk1GgU2wK+fKihAdlCl0WKJ"
+

@@ -1,17 +1,16 @@
 import argparse
-import json
 import logging
 import os
 import yaml
 
 from pathlib import Path
 
-import optuna
 import pandas as pd
-from matplotlib import pyplot as plt
-from matplotlib.ticker import ScalarFormatter
+import numpy as np
+import matplotlib.pyplot as plt
+import matplotlib.dates as mdates
 from prophet import Prophet
-from prophet.serialize import model_to_json
+from sklearn.preprocessing import StandardScaler
 
 from src.feature_engineering import engineer_df
 from src.logging_config import setup_logging
@@ -20,114 +19,141 @@ from src.logging_config import setup_logging
 setup_logging()
 logger = logging.getLogger(__name__)
 
-# Load account configuration
 acc_config_path = Path("config/acc_config.yaml")
 with open(acc_config_path, "r") as yaml_file:
     acc_config = yaml.safe_load(yaml_file)
 
 
-def main(file_path: Path = Path("data/final/merged_complete_preprocessed.csv"), category: str = "Alle") -> None:
-    """
-    Main function to train and tune a Prophet model.
+def prepare_data(df, acc_config):
+    # Apply feature engineering
+    df = engineer_df(df, acc_config)
 
-    Parameters:
-    file_path (Path): The path to the dataset.
-    category (str): The category of the dataset to use for training.
+    # Ensure 'ds' is datetime
+    df['ds'] = pd.to_datetime(df['Year'].astype(str) + '-01-01')
+    df = df.rename(columns={'Realized': 'y'})
 
-    Returns:
-    None
-    """
+    # Select a subset of potentially important features
+    # selected_features = ['Alter 20–64', 'Staatsangehörigkeit Ausländer', 'Einwanderung',
+    #                          'BWS Transport, IT-Dienstleistung', 'BIP']
+
+    # Prepare the dataframe for Prophet
+    prophet_columns = ['ds', 'y'] #+ selected_features
+    df = df[prophet_columns].sort_values('ds')
+
+    # Remove duplicate dates, keeping the last occurrence
+    df = df.drop_duplicates(subset='ds', keep='last')
+
+    # Scale the features
+    # scaler = StandardScaler()
+    # df[selected_features] = scaler.fit_transform(df[selected_features])
+
+    # Log the columns being used
+    logger.info(f"Columns used for Prophet: {df.columns.tolist()}")
+
+    return df
+
+
+def create_prophet_forecast(train_data, test_data):
+    # Create and fit the model
+    model = Prophet()
+
+    # Add all columns except 'ds' and 'y' as regressors
+    for column in train_data.columns:
+        if column not in ['ds', 'y']:
+            model.add_regressor(column)
+
+    model.fit(train_data)
+
+    # Create future dataframe for predictions
+    future = model.make_future_dataframe(periods=len(test_data), freq='YS')
+
+    # Add regressor values to the future dataframe
+    for column in train_data.columns:
+        if column not in ['ds', 'y']:
+            # For historical dates, use values from train_data
+            future.loc[future['ds'].isin(train_data['ds']), column] = train_data[column].values
+            # For forecast dates, use values from test_data if available
+            if column in test_data.columns:
+                future.loc[future['ds'].isin(test_data['ds']), column] = test_data[column].values
+            else:
+                # If the column is not in test_data, use the last value from train_data
+                future.loc[future['ds'].isin(test_data['ds']), column] = train_data[column].iloc[-1]
+
+    # Make predictions
+    forecast = model.predict(future)
+
+    return forecast
+
+
+def main(file_path: Path = Path("data/final/merged_complete_preprocessed.csv"), category: str = "Alle"):
     file_path = Path(file_path)
     df = pd.read_csv(file_path, index_col=None, header=0)
     df['Year'] = df['Year'].astype(int)
-    df = engineer_df(df, acc_config.get(category))
 
-    df = df[df['Year'].apply(lambda x: str(x).isdigit())]
+    total_combinations = df.groupby(['Region', 'Acc-ID']).ngroups
+    processed_combinations = 0
 
-    df['Year'] = df['Year'].astype(str)
-    df['ds'] = pd.to_datetime(df['Year'], format='%Y')
-    df = df.rename(columns={'Realized': 'y'})
+    # DataFrame to store all test data and forecasts
+    all_results = pd.DataFrame()
 
-    cutoff_year = df['ds'].max() - pd.DateOffset(years=1)
-    train_data = df[df['ds'] <= cutoff_year]
-    test_data = df[df['ds'] > cutoff_year]
+    for (region, acc_id), group_df in df.groupby(['Region', 'Acc-ID']):
+        processed_combinations += 1
+        logger.info(f"Processing combination {processed_combinations} of {total_combinations}")
+        logger.info(f"Processing data for Region: {region}, Account ID: {acc_id}")
 
-    exclude_columns = ["Budget y", "Budget y+1", "Slack"]
-    feature_columns = [col for col in df.columns if col not in exclude_columns]
-    train_data = train_data[feature_columns]
-    test_data = test_data[feature_columns]
+        group_df = group_df[group_df['Year'].apply(lambda x: str(x).isdigit())]
 
-    def objective(trial: optuna.Trial) -> float:
-        """
-        Objective function for Optuna hyperparameter optimization.
+        if len(group_df) < 2:
+            logger.warning(f"Insufficient data for Region: {region}, Account ID: {acc_id}. Skipping.")
+            continue
 
-        Parameters:
-        trial (optuna.Trial): A trial object for hyperparameter suggestions.
+        try:
+            group_df = prepare_data(group_df, acc_config.get(category))
 
-        Returns:
-        float: Mean Squared Error of the forecast.
-        """
-        param = {
-            "seasonality_mode": trial.suggest_categorical("seasonality_mode", ["additive", "multiplicative"]),
-            "changepoint_prior_scale": trial.suggest_float("changepoint_prior_scale", 0.001, 0.5, log=True),
-            "seasonality_prior_scale": 0.01,
-            "holidays_prior_scale": 0.01,
-            "yearly_seasonality": False,
-            "weekly_seasonality": False,
-            "daily_seasonality": False
-        }
-        model = Prophet(**param)
-        model.fit(train_data)
+            # Split into train and test
+            train_data = group_df[group_df['ds'].dt.year < 2022]
+            test_data = group_df[group_df['ds'].dt.year >= 2022]
 
-        forecast = model.predict(train_data)
-        mse = ((forecast['yhat'] - train_data['y']) ** 2).mean()
-        return mse
+            if len(train_data) < 2 or len(test_data) == 0:
+                logger.warning(f"Insufficient train or test data for Region: {region}, Account ID: {acc_id}. Skipping.")
+                continue
 
-    # Optimize hyperparameters using Optuna
-    study = optuna.create_study(direction="minimize")
-    study.optimize(objective, n_trials=100, timeout=1200, n_jobs=-1)
+            # Create forecast
+            forecast = create_prophet_forecast(train_data, test_data)
 
-    logger.info("Best trial:")
-    trial = study.best_trial
-    logger.info(f"Value (MSE): {trial.value}")
-    for key, value in trial.params.items():
-        logger.info(f"    {key}: {value}")
+            # Merge forecast with actual values
+            results = pd.merge(test_data, forecast[['ds', 'yhat', 'yhat_lower', 'yhat_upper']], on='ds', how='left')
+            results['Region'] = region
+            results['Acc-ID'] = acc_id
 
-    # Save best hyperparameters
-    best_hyperparams = trial.params
-    with open(f"hyperparameters/hyperparams_prophet_{category}.json", "w") as f:
-        json.dump(best_hyperparams, f)
-    logger.info("Best hyperparameters of Prophet saved successfully")
+            # Append to all_results
+            all_results = pd.concat([all_results, results], ignore_index=True)
 
-    # Train best model and save it
-    best_model = Prophet(**best_hyperparams)
-    best_model.fit(train_data)
-    with open(f"models/best_model_prophet_{category}.json", 'w') as fout:
-        json.dump(model_to_json(best_model), fout)
-    logger.info("Best Prophet model saved successfully")
+            all_results.to_csv("data/final/all_results.csv", index=False)
 
-    # Forecast and plot results
-    future_periods = min(len(test_data), 1)
-    future = best_model.make_future_dataframe(periods=future_periods, freq='Y')
-    forecast = best_model.predict(future)
-    fig = best_model.plot(forecast)
-    plt.title('Forecasted vs Actual')
-    plt.xlabel('Date')
-    plt.ylabel('Value')
-    plt.legend(['Actual', 'Forecasted'])
-    plt.show()
+        except Exception as e:
+            logger.error(f"Error processing Region: {region}, Account ID: {acc_id}. Error: {str(e)}")
+            continue
 
-    # Save the plot
-    plots_dir = "plots"
-    if not os.path.exists(plots_dir):
-        os.makedirs(plots_dir)
+    # Calculate combined metrics
+    if not all_results.empty:
+        mse = np.mean((all_results['y'] - all_results['yhat']) ** 2)
+        mae = np.mean(np.abs(all_results['y'] - all_results['yhat']))
+        rmse = np.sqrt(mse)
 
-    plot_path = os.path.join(plots_dir, "Prophet_Model_Optimization_Forecast.png")
-    fig.savefig(plot_path, format='png', dpi=300, bbox_inches='tight')
+        logger.info("Combined metrics across all processed combinations:")
+        logger.info(f"Combined MSE: {mse}")
+        logger.info(f"Combined MAE: {mae}")
+        logger.info(f"Combined RMSE: {rmse}")
+
+    else:
+        logger.warning("No results were calculated. Check if any combinations were successfully processed.")
+
+    logger.info("Processing completed for all regions and account combinations.")
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Train and tune a Prophet model")
+    parser = argparse.ArgumentParser(description="Create Prophet forecast and calculate combined metrics")
     parser.add_argument(
         "--file_path",
         type=str,

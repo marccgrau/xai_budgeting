@@ -35,6 +35,8 @@ def main(
 
     # Sort dataframe and apply feature engineering
     df = engineer_df(df, acc_config.get(category))
+    cat_features = ["Region", "Acc-ID"]
+    df[cat_features] = df[cat_features].astype(str)
 
     # Define the cutoff year
     cutoff_year = df["Year"].max() - 1

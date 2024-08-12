@@ -21,15 +21,17 @@ main:
 	make merge_data
 	make transform_data
 	make tune_and_train_catboost FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)
-	make evaluate_catboost FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)v
+	make evaluate_catboost FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)
 	make tune_and_train_xgboost FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)
 	make dartsEvaluationScript FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)
 	make evaluate_xgboost FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)
 	make evaluate_ensemble FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)
-	make tune_and_train_lstm FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)v
-	make train_and_train_rforest FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)
+	make tune_and_train_lstm FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)
+	make tune_and_train_rforest FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)
 	make evaluate_rforest FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)
 	make tune_and_train_prophet FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)
+	make evaluate_prophet FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)
+	make aggregated_evaluation FILE_PATH=$(FILE_PATH)
 
 
 
@@ -67,7 +69,7 @@ evaluate_ensemble:
 	$(POETRY) python src/ensemble/evaluate.py --file_path $(FILE_PATH) --category $(CATEGORY)
 
 tune_and_train_lstm:
-	$(POETRY) python src/lstm/tune_and_train.py --file_path $(FILE_PATH) --category $(CATEGORY)
+	$(POETRY) python src/lstm/tune_and_train2.py --file_path $(FILE_PATH) --category $(CATEGORY)
 
 tune_and_train_rforest:
 	$(POETRY) python src/rforestregression/tune_and_train.py --file_path $(FILE_PATH) --category $(CATEGORY)
@@ -77,6 +79,12 @@ evaluate_rforest:
 
 tune_and_train_prophet:
 	$(POETRY) python src/prophet/tune_and_train.py --file_path $(FILE_PATH) --category $(CATEGORY)
+
+evaluate_prophet:
+	$(POETRY) python src/prophet/evaluate.py --file_path $(FILE_PATH) --category $(CATEGORY) --acc_id $(ACC_ID) --region $(REGION)
+
+aggregated_evaluation:
+	$(POETRY) python src/xgboost/aggregeated_evaluation.py --file_path $(FILE_PATH)
 
 
 

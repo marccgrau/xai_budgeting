@@ -1,0 +1,1 @@
+{"learning_rate": 0.2674115350167627, "colsample_bylevel": 0.1599748151822495, "depth": 6, "boosting_type": "Plain", "l2_leaf_reg": 1.293447587307672, "iterations": 300, "bootstrap_type": "MVS"}

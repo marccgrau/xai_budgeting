@@ -27,14 +27,9 @@ with open(acc_config_path, "r") as yaml_file:
 
 
 def apply_one_hot_encoding(df, categorical_columns):
-    # Apply OneHotEncoding to categorical columns
     column_transformer = ColumnTransformer(
         transformers=[
-            (
-                "onehot",
-                OneHotEncoder(handle_unknown="ignore"),
-                categorical_columns,
-            )
+            ("onehot", OneHotEncoder(handle_unknown="ignore"), categorical_columns)
         ],
         remainder="passthrough",
     )
@@ -51,10 +46,10 @@ def main(
     # Apply feature engineering based on YAML configuration
     df = engineer_df(df, acc_config.get(category))
 
-    # Encode categorical variables
     categorical_columns = ["Region", "Acc-ID"]
     for col in categorical_columns:
         df[col] = df[col].astype("category")
+    df = pd.get_dummies(df, columns=["Region", "Acc-ID"])
 
     # Define the cutoff year
     cutoff_year = df["Year"].max() - 1
@@ -68,13 +63,18 @@ def main(
 
     feature_columns = [col for col in df.columns if col not in exclude_columns + [target_column]]
 
-    # One-hot encode the categorical features
-    X_train, column_transformer = apply_one_hot_encoding(train_data[feature_columns], categorical_columns)
+    # Then use these lists to split your data
+    X_train = train_data[feature_columns]
     y_train = train_data[target_column]
 
-    X_test = column_transformer.transform(test_data[feature_columns])
+    X_train.to_csv("data/final/X_train.csv", index=False)
+
+    X_test = test_data[feature_columns]
     y_test = test_data[target_column]
     mse_values = []
+
+    # Save the ColumnTransformer
+    # joblib.dump(column_transformer, f"models/column_transformer_{category}.joblib")
 
     def objective(trial: optuna.Trial) -> float:
         param = {
@@ -94,7 +94,7 @@ def main(
         return mse
 
     study = optuna.create_study(direction="minimize")
-    study.optimize(objective, n_trials=50, timeout=1200, n_jobs=-1)
+    study.optimize(objective, n_trials=100, timeout=1200, n_jobs=-1)
 
     logger.info("Best trial:")
     trial = study.best_trial

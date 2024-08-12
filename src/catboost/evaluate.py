@@ -77,6 +77,8 @@ def main(
     df: pd.DataFrame = pd.read_csv(file_path)
 
     df = engineer_df(df, acc_config.get(category))
+    cat_features = ["Region", "Acc-ID"]
+    df[cat_features] = df[cat_features].astype(str)
 
     cutoff_year: int = df["Year"].max() - 1
     test_data: pd.DataFrame = df[df["Year"] > cutoff_year]

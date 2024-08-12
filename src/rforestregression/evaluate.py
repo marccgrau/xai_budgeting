@@ -81,7 +81,7 @@ def save_results_to_csv(
 
 
 def main(
-    file_path: Path = Path("data/final/merged_double_digit.csv"),
+    file_path: Path = Path("data/final/merged_complete.csv"),
     category: str = "Alle",
     acc_id: Optional[str] = None,
     region: Optional[str] = None,
@@ -90,6 +90,7 @@ def main(
     hyperparams_path = Path(f"hyperparameters/hyperparams_rf_{category}.json")
     file_path = Path(file_path)
     model_save_path = Path(f"models/best_model_rf_{category}.joblib")
+    column_transformer_path = Path(f"models/column_transformer_{category}.joblib")
 
     # Load hyperparameters and data
     with open(hyperparams_path, "r") as file:
@@ -107,10 +108,12 @@ def main(
         df = df[df["Acc-ID"] == int(acc_id)]
     if region is not None:
         df = df[df["Region"] == region]
+    df = pd.get_dummies(df, columns=["Region", "Acc-ID"])
 
     # Split Data
     cutoff_year = df["Year"].max() - 1
     test_data = df[df["Year"] > cutoff_year]
+
     X_test, y_test = (
         test_data.drop(columns=["Realized", "Budget y", "Budget y+1", "Slack"]),
         test_data["Realized"],
@@ -129,7 +132,7 @@ def main(
         Path(f"evaluations/rf_predictions_{acc_id}_{region}.csv"),
         y_test=y_test,
         y_pred=y_pred,
-        budget_y=test_data["Budget y"],
+        budget_y=budget_y_test,
         category=category,
         acc_id=acc_id,
         region=region,
@@ -157,7 +160,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--file_path",
         type=str,
-        default="data/final/merged_double_digit.csv",
+        default="data/final/merged_complete.csv",
         help="Path to the dataset",
     )
     parser.add_argument(

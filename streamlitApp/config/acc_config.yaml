@@ -1,0 +1,49 @@
+Alle:
+  [10, 14, 20, 29, 30, 31, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 54, 55, 56, 57, 58, 60, 61, 62, 63, 64, 65, 66, 67, 68]
+
+Ertrag:
+  [40, 41, 42, 43, 44, 45, 46, 47, 48, 49]
+
+Aufwand:
+  [30, 31, 33, 34, 35, 36, 37, 38, 39]
+
+Betrieblicher_Aufwand:
+  [30, 31, 33, 35, 36, 37, 39]
+
+Betrieblicher_Ertrag:
+  [40, 41, 42, 43, 45, 46, 47, 49]
+
+Finanz_Aufwand:
+  [34]
+
+Finanz_Ertrag:
+  [44]
+
+Ausserordentlicher_Aufwand:
+  [38]
+
+Ausserordentlicher_Ertrag:
+  [48]
+
+Investitionsausgaben:
+  [50, 51, 52, 54, 55, 56, 57, 58]
+
+Investitionseinnahmen:
+  [60, 61, 62, 63, 64, 65, 66, 67, 68]
+
+Finanzvermögen:
+  [10]
+
+Verwaltungsvermögen:
+  [14]
+
+Fremdkapital:
+  [20]
+
+Eigenkapital:
+  [29]
+
+
+
+
+

@@ -6,12 +6,11 @@ import matplotlib.pyplot as plt
 def load_data(file_path):
     return pd.read_csv(file_path)
 
-# Function to combine predictions from different models
 def combine_predictions():
-    # Load LSTM results
-    df = pd.read_csv('results/lstm_results.csv')
+    # Load RNN results
+    df = pd.read_csv('results/rnn_results.csv')
     df = df[['Year', 'Region', 'Acc-ID', 'y', 'Budget y', 'yhat']]
-    df = df.rename(columns={'yhat': 'yhat_lstm'})
+    df = df.rename(columns={'yhat': 'yhat_rnn'})
 
     # Load CatBoost results
     dfcat = pd.read_csv('results/catboost_results.csv')
@@ -72,7 +71,7 @@ def plot_forecasts(region, acc_id, df, df_hist):
         plt.plot(filtered_hist['Year'], filtered_hist['y'], label='Historical Realized', marker='x')
     if not filtered_df.empty:
         plt.plot(filtered_df['Year'], filtered_df['Budget y'], label='Actual Budget y', marker='o')
-        plt.plot(filtered_df['Year'], filtered_df['yhat_lstm'], label='LSTM Prediction', marker='x')
+        plt.plot(filtered_df['Year'], filtered_df['yhat_rnn'], label='RNN Prediction', marker='x')
         plt.plot(filtered_df['Year'], filtered_df['yhat_cat'], label='CatBoost Prediction', marker='x')
         plt.plot(filtered_df['Year'], filtered_df['yhat_xg'], label='XGBoost Prediction', marker='x')
         plt.plot(filtered_df['Year'], filtered_df['yhat_rf'], label='RandomForest Prediction', marker='x')

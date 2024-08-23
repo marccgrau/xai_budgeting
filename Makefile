@@ -8,13 +8,13 @@ POETRY := poetry run
 CATEGORY ?= "Alle"
 
 
- FILE_PATH ?= "data/final/merged_complete.csv"
-# FILE_PATH ?= "data/final/merged_double_digit.csv"
+# FILE_PATH ?= "data/final/merged_complete.csv"
+ FILE_PATH ?= "data/final/merged_double_digit.csv"
 #FILE_PATH ?= "data/final/merged_complete_preprocessed.csv"
+#FILE_PATH ?= "data/final/merged_complete_filtered.csv"
 
 ACC_ID ?= None
 REGION ?= None
-
 # Pipeline steps
 main:
 	make fetch_data
@@ -23,9 +23,12 @@ main:
 	make tune_and_train_catboost FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)
 	make evaluate_catboost FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)
 	make tune_and_train_xgboost FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)
-	make dartsEvaluationScript FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)
 	make evaluate_xgboost FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)
 	make evaluate_ensemble FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)
+	make tune_and_train_svm FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)
+	make evaluate_svm FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)
+	make tune_and_train_lasso_svm FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)
+	make evaluate_lasso_svm FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)
 	make tune_and_train_lstm FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)
 	make tune_and_train_rforest FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)
 	make evaluate_rforest FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)
@@ -65,6 +68,12 @@ tune_and_train_svm:
 evaluate_svm:
 	$(POETRY) python src/svm/evaluate.py --file_path $(FILE_PATH) --category $(CATEGORY) --acc_id $(ACC_ID) --region $(REGION)
 
+
+tune_and_train_lasso_svm:
+	$(POETRY) python src/lassosvm/tune_and_train.py --file_path $(FILE_PATH) --category $(CATEGORY)
+
+evaluate_lasso_svm:
+	$(POETRY) python src/lassosvm/evaluate.py --file_path $(FILE_PATH) --category $(CATEGORY) --acc_id $(ACC_ID) --region $(REGION)
 evaluate_ensemble:
 	$(POETRY) python src/ensemble/evaluate.py --file_path $(FILE_PATH) --category $(CATEGORY)
 

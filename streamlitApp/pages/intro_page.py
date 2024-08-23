@@ -75,7 +75,7 @@ def intro_page():
                 <li><strong>XGBoost</strong></li>
                 <li><strong>RandomForest</strong></li>
                 <li><strong>CatBoost</strong></li>
-                <li><strong>LSTM</strong></li>
+                <li><strong>RNN</strong></li>
                 <li><strong>Prophet</strong></li>
             </ol>
             After selecting a model, you can tune its hyperparameters. The app will then train the model and display:

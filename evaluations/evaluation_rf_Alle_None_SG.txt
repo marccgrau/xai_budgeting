@@ -1,0 +1,8 @@
+Model Evaluation - MAE: 190751.67
+Model Evaluation - MSE: 65596833836.7
+Model Evaluation - RMSE: 256118.79
+Model Evaluation - MAPE: 2.4056004267409326e+19
+Budget Comparison - MAE: 42964.88
+Budget Comparison - MSE: 7066219033.01
+Budget Comparison - RMSE: 84060.81
+Budget Comparison - MAPE: 1.907724802154142e+17

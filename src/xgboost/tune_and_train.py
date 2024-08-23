@@ -117,7 +117,7 @@ def main(
         return mse
 
     study = optuna.create_study(direction="minimize")
-    study.optimize(objective, n_trials=100, timeout=1200, n_jobs=-1)
+    study.optimize(objective, n_trials=200, timeout=1200, n_jobs=-1)
 
     logger.info("Best trial:")
     trial = study.best_trial

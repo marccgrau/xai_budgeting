@@ -78,11 +78,11 @@ def main(
 
     def objective(trial: optuna.Trial) -> float:
         param = {
-            "n_estimators": trial.suggest_int("n_estimators", 100, 500),
-            "max_depth": trial.suggest_int("max_depth", 3, 10),
-            "min_samples_split": trial.suggest_int("min_samples_split", 5, 20),
-            "min_samples_leaf": trial.suggest_int("min_samples_leaf", 5, 20),
-            "max_features": trial.suggest_categorical("max_features", ["sqrt", "log2", None]),
+            "n_estimators": trial.suggest_int("n_estimators", 100, 1000),
+            "max_depth": trial.suggest_int("max_depth", 5, 30),
+            "min_samples_split": trial.suggest_int("min_samples_split", 2, 15),
+            "min_samples_leaf": trial.suggest_int("min_samples_leaf", 1, 10),
+            "max_features": trial.suggest_categorical("max_features", ["sqrt", "log2", 0.5, None]),
             "bootstrap": trial.suggest_categorical("bootstrap", [True, False]),
         }
 

@@ -12,7 +12,7 @@ import joblib
 from models.catboost_model import train_catboost
 from models.random_forest_model import train_random_forest
 from models.xgboost_model import train_xgboost
-from models.lstm_model import run_lstm_model
+from models.rnn_model import run_rnn_model
 from utils.feature_engineering import engineer_df
 from utils.metrics import calculate_metrics
 from models.prophet_model import run_prophet_model
@@ -77,7 +77,7 @@ def forecasting_page():
         st.write("Dataset:")
         st.write(df.head())
 
-        model_type = st.selectbox("Select model", ["XGBoost", "RandomForest", "CatBoost", "LSTM", "Prophet"])
+        model_type = st.selectbox("Select model", ["XGBoost", "RandomForest", "CatBoost", "RNN", "Prophet"])
 
         if model_type == "XGBoost":
             learning_rate = st.slider("Learning Rate", 0.01, 0.3, (0.01, 0.3))
@@ -94,8 +94,8 @@ def forecasting_page():
             learning_rate = st.slider("Learning Rate", 0.01, 0.3, (0.01, 0.3))
             iterations = st.slider("Iterations", 100, 1000, (100, 1000))
             depth = st.slider("Depth", 4, 10, (4, 10))
-        elif model_type == "LSTM":
-            num_layers = st.slider("Number of LSTM Layers", 1, 100, 50)
+        elif model_type == "RNN":
+            num_layers = st.slider("Number of RNN Layers", 1, 100, 50)
             activation = st.selectbox("Activation Function", ["relu", "tanh", "sigmoid"],
                                       index=0)
         if model_type == "Prophet":
@@ -162,7 +162,7 @@ def forecasting_page():
                         logging.error(f"Error during trial: {str(e)}")
                         return np.inf
 
-                if model_type != "Prophet" and model_type != "LSTM":
+                if model_type != "Prophet" and model_type != "RNN":
                     study = optuna.create_study(direction="minimize")
                     study.optimize(objective, n_trials=n_trials, timeout=1200, n_jobs=-1)
 
@@ -219,18 +219,24 @@ def forecasting_page():
                         for key, value in trial.params.items():
                             st.write(f"{key}: {value}")
 
+                    def format_number(num):
+                        return f"{num:,.0f}".replace(",", "'")
+
                     with st.expander("Model Performance", expanded=True):
                         st.subheader("Evaluation Metrics")
                         col1, col2, col3 = st.columns(3)
-                        col1.metric("MAE", f"{mae:.4f}", delta=f"{comparison_mae - mae:.4f}", delta_color="normal")
-                        col2.metric("MSE", f"{mse:.4f}", delta=f"{comparison_mse - mse:.4f}", delta_color="normal")
-                        col3.metric("RMSE", f"{rmse:.4f}", delta=f"{comparison_rmse - rmse:.4f}", delta_color="normal")
+                        col1.metric("MAE", format_number(mae), delta=format_number(comparison_mae - mae),
+                                    delta_color="normal")
+                        col2.metric("MSE", format_number(mse), delta=format_number(comparison_mse - mse),
+                                    delta_color="normal")
+                        col3.metric("RMSE", format_number(rmse), delta=format_number(comparison_rmse - rmse),
+                                    delta_color="normal")
 
                         st.subheader("Baseline (Budget) Metrics")
                         col1, col2, col3 = st.columns(3)
-                        col1.metric("Baseline MAE", f"{comparison_mae:.4f}")
-                        col2.metric("Baseline MSE", f"{comparison_mse:.4f}")
-                        col3.metric("Baseline RMSE", f"{comparison_rmse:.4f}")
+                        col1.metric("Baseline MAE", format_number(comparison_mae))
+                        col2.metric("Baseline MSE", format_number(comparison_mse))
+                        col3.metric("Baseline RMSE", format_number(comparison_rmse))
 
                     with st.expander("Feature Importances", expanded=True):
                         st.subheader("Feature Importances")
@@ -269,21 +275,21 @@ def forecasting_page():
                                 col3.metric("RMSE", f"{rmse:.4f}")
                             except Exception as e:
                                 st.error(f"Error running Prophet model: {e}")
-                        elif model_type == "LSTM":
+                        elif model_type == "RNN":
                             try:
-                                mae, mse, rmse = run_lstm_model(df, n_trials=n_trials, num_layers=num_layers,
+                                mae, mse, rmse = run_rnn_model(df, n_trials=n_trials, num_layers=num_layers,
                                                                  activation=activation)
                                 if mae is None or mse is None or rmse is None:
                                     st.error("No valid data groups to process.")
                                 else:
-                                    st.success("LSTM model run successfully!")
+                                    st.success("RNN model run successfully!")
                                     st.subheader("Evaluation Metrics")
                                     col1, col2, col3 = st.columns(3)
                                     col1.metric("MAE", f"{mae:.4f}")
                                     col2.metric("MSE", f"{mse:.4f}")
                                     col3.metric("RMSE", f"{rmse:.4f}")
                             except Exception as e:
-                                st.error(f"Error running LSTM model: {e}")
+                                st.error(f"Error running RNN model: {e}")
 
 
 if __name__ == "__main__":

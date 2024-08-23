@@ -60,8 +60,9 @@ def main(
     test_data = df[df["Year"] > cutoff_year]
 
     categorical_features = ["Region", "Acc-ID"]
-    numeric_features = ["Realized_1yr_lag", "Realized_2yr_lag"]
-
+    numeric_features = [
+        col for col in df.columns if col not in categorical_features + ["Realized", "Budget y", "Budget y+1", "Slack"]
+    ]
     preprocessor = ColumnTransformer(
         transformers=[
             ("num", StandardScaler(), numeric_features),
@@ -70,15 +71,17 @@ def main(
         remainder="drop",
     )
 
-    X_train, y_train = (
-        train_data.drop(columns=["Realized", "Budget y", "Budget y+1", "Slack"]),
-        train_data["Realized"],
-    )
+    target_column = "Realized"
+    exclude_columns = ["Budget y", "Budget y+1", "Slack"]
 
-    X_test, y_test = (
-        test_data.drop(columns=["Realized", "Budget y", "Budget y+1", "Slack"]),
-        test_data["Realized"],
-    )
+    feature_columns = [col for col in df.columns if col not in exclude_columns + [target_column]]
+
+    # Then use these lists to split your data
+    X_train = train_data[feature_columns]
+    y_train = train_data[target_column]
+
+    X_test = test_data[feature_columns]
+    y_test = test_data[target_column]
 
     X_train = preprocessor.fit_transform(X_train)
 

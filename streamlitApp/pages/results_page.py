@@ -65,7 +65,7 @@ def plot_forecasts(region, acc_id, df, df_hist):
     filtered_hist = filtered_hist.sort_values(by='Year')
 
     # Plot the actual budget values, historical data, and predictions
-    plt.figure(figsize=(12, 6))
+    plt.figure(figsize=(9, 4))
     if not filtered_hist.empty:
         plt.plot(filtered_hist['Year'], filtered_hist['Budget y'], label='Historical Budget y', marker='o')
         plt.plot(filtered_hist['Year'], filtered_hist['y'], label='Historical Realized', marker='x')

@@ -1,0 +1,9 @@
+Model Evaluation - MAE: 64060.09
+Model Evaluation - MSE: 14942068378.57
+Model Evaluation - RMSE: 122237.75
+Model Evaluation - MAPE: 2657.74
+Budget Comparison - MAE: 94729.6
+Budget Comparison - MSE: 43907578606.18
+Budget Comparison - RMSE: 209541.35
+Budget Comparison - MAPE: 0.77
+Model saved successfully at: models/best_model_catboost_Aufwand.cbm

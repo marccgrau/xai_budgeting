@@ -129,6 +129,9 @@ def main(
     )
     best_model.fit(X_train, y_train)
     best_model.save_model(f"models/best_model_xgboost_{category}.json")
+    logger.info(f'Max year in dataframe: {df["Year"].max()}')
+    logger.info(f"Cutoff year: {cutoff_year}")
+    logger.info(f'Train years: {train_data["Year"].unique()}')
     logger.info("Best XGBoost model saved successfully")
 
 

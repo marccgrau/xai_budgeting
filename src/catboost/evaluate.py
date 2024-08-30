@@ -2,7 +2,7 @@ import argparse
 import json
 import logging
 from pathlib import Path
-from typing import Any, Dict, Tuple
+from typing import Any, Dict, Optional, Tuple
 
 import numpy as np
 import pandas as pd
@@ -62,14 +62,19 @@ def log_and_save_evaluation_results(
 
 
 def main(
-    file_path: Path = Path("data/final/merged_double_digit.csv"), category: str = "Alle"
+    file_path: Path = Path("data/final/merged_double_digit.csv"),
+    category: str = "Alle",
+    acc_id: Optional[str] = None,
+    region: Optional[str] = None,
 ) -> None:
 
     hyperparams_path: Path = Path(
         f"hyperparameters/hyperparams_catboost_{category}.json"
     )
     model_save_path: Path = Path(f"models/best_model_catboost_{category}.cbm")
-    results_file_path: Path = Path(f"evaluations/evaluation_catboost_{category}.txt")
+    results_file_path: Path = Path(
+        f"evaluations/evaluation_catboost_{category}_{acc_id}_{region}.txt"
+    )
 
     with open(hyperparams_path, "r") as file:
         best_hyperparams: Dict[str, Any] = json.load(file)
@@ -77,6 +82,15 @@ def main(
     df: pd.DataFrame = pd.read_csv(file_path)
 
     df = engineer_df(df, acc_config.get(category))
+
+    categorical_columns = ["Region", "Acc-ID"]
+    for col in categorical_columns:
+        df[col] = df[col].astype("category")
+
+    if acc_id is not None:
+        df = df[df["Acc-ID"] == int(acc_id)]
+    if region is not None:
+        df = df[df["Region"] == region]
 
     cutoff_year: int = df["Year"].max() - 1
     test_data: pd.DataFrame = df[df["Year"] > cutoff_year]
@@ -112,6 +126,12 @@ def main(
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Evaluate the CatBoost model.")
+
+    def none_or_str(value):
+        if value == "None":
+            return None
+        return value
+
     parser.add_argument(
         "--file_path",
         type=str,
@@ -124,5 +144,16 @@ if __name__ == "__main__":
         default="Alle",
         help="Category of the dataset to use for training",
     )
+    parser.add_argument(
+        "--acc_id", type=none_or_str, default=None, help="Account ID to evaluate"
+    )
+    parser.add_argument(
+        "--region", type=none_or_str, default=None, help="Region to evaluate"
+    )
     args = parser.parse_args()
-    main(file_path=args.file_path, category=args.category)
+    main(
+        file_path=args.file_path,
+        category=args.category,
+        acc_id=args.acc_id,
+        region=args.region,
+    )

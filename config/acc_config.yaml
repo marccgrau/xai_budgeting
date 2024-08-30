@@ -1,5 +1,8 @@
 SEED: 42
 
+Personalaufwand:
+  [30]
+
 Betrieblicher_Aufwand:
   [30, 31, 33, 35, 36, 37, 39]
 

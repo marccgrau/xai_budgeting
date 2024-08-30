@@ -1,0 +1,9 @@
+Model Evaluation - MAE: 34117.75
+Model Evaluation - MSE: 4600088275.69
+Model Evaluation - RMSE: 67823.95
+Model Evaluation - MAPE: 1.36
+Budget Comparison - MAE: 19295.06
+Budget Comparison - MSE: 1540265119.02
+Budget Comparison - RMSE: 39246.21
+Budget Comparison - MAPE: 0.56
+Model saved successfully at: models/best_model_hgb.joblib

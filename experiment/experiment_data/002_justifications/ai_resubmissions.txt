@@ -1,0 +1,14 @@
+AI_Resubmission14
+From Y1 to Y7, budgeted and actual expenses generally rose. However from Y7 to Y9 there was a downward trend in both budgeted and actual expenses, with a safety buffer of circa 40k. For Y10 it's reasonable to assume this trend will continue, so the Y10 budget is placed as circa 155k.
+I think that the 24% surprised me so I wanted to put it down as the trend is going down about 20,000 each year. 
+I have included a buffer of £20,000 as the previous buffers have been about that amount.
+According to the AI prediction I lowered my prediction for the expenses but didn't use exactly the AI's prediction just to be sure that I am not underestimating the actual needs of the city for this project.
+I have lowered the expenses prediction to build better safety buffer 
+I have a belief in the abilities of the AI system.
+AI prediction
+I trust the AI more than my calculations, so I gave myself a small buffer above what AI had come up with. 
+I have slightly reduced the buffer by reducing it be approx 5000 this is as judging by past data and the AI prediction for this year this should be plenty of buffer and be similar to past years. the spending has been on a downward projection in the past few years so don't expect a big spike in the next economic year. It is important to have a decent buffer however as there is always the unexpected within a business and economic environment.
+I decided to drop the figure more after seeing the AI's proposal I still want to give room for any unexpected expenses so I believe the figure 150,375 is a safe option to go for.
+I lowered the amount as the AI suggested that the buffer was really high. Having a really high buffer can also influence the budget of other important things that might be needed by the city.
+AI doesnt account for future surprise expenses, so its always good to have increased budget as a buffer, rather then estimating based on historical data.
+Given the over estimation as proposed by AI I think lowering the budget will still allow us to do what we need to and have a healthy buffer and not impact spending on other things

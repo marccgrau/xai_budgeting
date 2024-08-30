@@ -16,9 +16,9 @@ main:
 	make merge_data
 	make transform_data
 	make tune_and_train_catboost FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)
-	make evaluate_catboost FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)v
+	make evaluate_catboost FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY) ACC_ID=$(ACC_ID) REGION=$(REGION)
 	make tune_and_train_xgboost FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)
-	make evaluate_xgboost FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)
+	make evaluate_xgboost FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY) ACC_ID=$(ACC_ID) REGION=$(REGION)
 	make evaluate_ensemble FILE_PATH=$(FILE_PATH) CATEGORY=$(CATEGORY)
 
 fetch_data:
@@ -34,7 +34,7 @@ tune_and_train_catboost:
 	$(POETRY) python src/catboost/tune_and_train.py --file_path $(FILE_PATH) --category $(CATEGORY)
 
 evaluate_catboost:
-	$(POETRY) python src/catboost/evaluate.py --file_path $(FILE_PATH) --category $(CATEGORY)
+	$(POETRY) python src/catboost/evaluate.py --file_path $(FILE_PATH) --category $(CATEGORY) --acc_id $(ACC_ID) --region $(REGION)
 
 tune_and_train_xgboost:
 	$(POETRY) python src/xgboost/tune_and_train.py --file_path $(FILE_PATH) --category $(CATEGORY)

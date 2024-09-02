@@ -1,5 +1,6 @@
 
-# XAI Budgeting
+# Artificial Intelligence to Improve Public Budgeting 
+### Software to ICIS submission
 
 Santschi, Dominic; Grau, Marc; Fehrenbacher, Dennis; Blohm, Ivo
 

@@ -1,6 +1,8 @@
 
 # XAI Budgeting
 
+Santschi, Dominic; Grau, Marc; Fehrenbacher, Dennis; Blohm, Ivo
+
 ## Project Description
 XAI Budgeting focuses on forecasting realized values for accounts in public administration, with a specific focus on Swiss cantons. This project analyzes a range of financial metrics including expenditures, expenses, and assets, using public data that adheres to HRM1 and HRM2 standards. The analysis covers data from 2010 onwards, including financial documents like income statements and balance sheets. The goal is to deliver accurate and explainable predictions to support fiscal planning and analysis.
 

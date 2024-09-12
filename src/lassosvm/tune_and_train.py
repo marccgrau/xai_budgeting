@@ -105,6 +105,15 @@ def main(
         model.fit(X_train, y_train)
 
         preds = model.predict(X_test)
+
+        budget_y_test = test_data["Budget y"]
+        results = pd.DataFrame({
+            "Realized": y_test,
+            "Predicted": preds,
+            "Budget y": budget_y_test
+        })
+
+        results.to_csv('predictions.csv', index=False)
         mse = mean_squared_error(y_test, preds)
         return mse
 
@@ -131,6 +140,7 @@ def main(
     # Train and save the best model
     best_model = Lasso(alpha=best_hyperparams["alpha"], random_state=acc_config.get("SEED"))
     best_model.fit(X_train, y_train)
+
 
     joblib.dump(best_model, Path(f"models/best_model_lasso_{category}.joblib"))
     logger.info("Best model saved successfully")

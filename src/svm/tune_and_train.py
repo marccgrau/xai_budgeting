@@ -105,6 +105,16 @@ def main(
 
         preds = model.predict(X_test)
         mse = mean_squared_error(y_test, preds)
+
+        budget_y_test = test_data["Budget y"]
+        results = pd.DataFrame({
+            "Realized": y_test,
+            "Predicted": preds,
+            "Budget y": budget_y_test
+        })
+
+        results.to_csv('predictions.csv', index=False)
+
         return mse
 
     study = optuna.create_study(

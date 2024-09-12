@@ -1,1 +1,1 @@
-{"learning_rate": 0.2998233184748784, "colsample_bylevel": 0.17965604055562598, "depth": 11, "boosting_type": "Ordered", "l2_leaf_reg": 5.796216929449922, "iterations": 613, "bootstrap_type": "Bernoulli", "subsample": 0.6633341946653214}
+{"learning_rate": 0.26164745834965114, "colsample_bylevel": 0.13781116582786937, "depth": 11, "boosting_type": "Plain", "l2_leaf_reg": 5.8136954267039505, "iterations": 647, "bootstrap_type": "MVS"}

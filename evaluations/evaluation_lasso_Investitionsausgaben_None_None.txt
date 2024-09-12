@@ -1,0 +1,9 @@
+Model Evaluation - MAE: 13313.43
+Model Evaluation - MSE: 774711353.75
+Model Evaluation - RMSE: 27833.64
+Model Evaluation - MAPE: 5.1592563354921344e+17
+Budget Comparison - MAE: 14851.15
+Budget Comparison - MSE: 1314750781.71
+Budget Comparison - RMSE: 36259.49
+Budget Comparison - MAPE: 1.9352424485729738e+17
+Model saved successfully at: models/best_model_lasso_Investitionsausgaben.joblib

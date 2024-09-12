@@ -1,29 +1,10 @@
 Feature,Importance
-Realized_1yr_lag,0.36908215
-Staatsangehörigkeit Ausländer,0.10945524
-Realized_2yr_lag,0.06609352
-Zivilstand In eingetragene Partnerschaft ,0.0608384
-Städtischer Kernraum,0.05706884
-Zivilstand Verwitwet,0.043267146
-Betreibungshandlungen Zahlungsbefehle,0.0395689
-Zivilstand Geschieden ,0.037237506
-Acc-ID,0.033042546
-Zivilstand Aufgelöste Partnerschaft ,0.02565907
-Alter 65 und mehr,0.021606082
-Year,0.019893652
-Wanderungssaldo Ein-und Auswanderung,0.01765382
-Region,0.013301406
-Einwanderung,0.012841808
-Alter 20–64,0.012703418
-Zivilstand Unverheiratet ,0.009424178
-Zivilstand Verheiratet ,0.009017946
-Betreibungshandlungen Pfändungsvollzüge,0.008708986
-Staatsangehörigkeit Schweiz,0.0071875267
-Geschlecht Mann,0.0065152794
-Alter 0–19,0.0058672335
-Einflussgebiet städtischer Kerne,0.0043311175
-Auswanderung,0.0038626734
-Wegzüge,0.0028869668
-Zuzüge,0.0023136695
-Geschlecht Frau,0.00033782492
-Zivilstand Ledig,0.00023320154
+Realized_1yr_lag,0.55576074
+Acc-ID,0.10537746
+Alter 0–19,0.09866311
+Region,0.06528027
+Realized_2yr_lag,0.05742624
+Gebiete ausserhalb des Einflusses städtischer Kerne,0.046983313
+Year,0.033656202
+Wanderungssaldo Zu-und Wegzüge,0.019205658
+Betreibungshandlungen Pfändungsvollzüge,0.017646944

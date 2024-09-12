@@ -6,6 +6,7 @@ import optuna
 import xgboost as xgb
 from sklearn.ensemble import RandomForestRegressor
 from catboost import CatBoostRegressor
+from sklearn.linear_model import Lasso
 from sklearn.metrics import mean_squared_error, mean_absolute_error
 import json
 import joblib
@@ -13,6 +14,9 @@ from models.catboost_model import train_catboost
 from models.random_forest_model import train_random_forest
 from models.xgboost_model import train_xgboost
 from models.rnn_model import run_rnn_model
+from models.svr_model import train_svr
+from models.lasso_model import train_lasso
+from sklearn.svm import SVR
 from utils.feature_engineering import engineer_df
 from utils.metrics import calculate_metrics
 from models.prophet_model import run_prophet_model
@@ -77,7 +81,8 @@ def forecasting_page():
         st.write("Dataset:")
         st.write(df.head())
 
-        model_type = st.selectbox("Select model", ["XGBoost", "RandomForest", "CatBoost", "RNN", "Prophet"])
+        model_type = st.selectbox("Select model",
+                                  ["XGBoost", "RandomForest", "CatBoost", "RNN", "Prophet", "SVR", "Lasso"])
 
         if model_type == "XGBoost":
             learning_rate = st.slider("Learning Rate", 0.01, 0.3, (0.01, 0.3))
@@ -94,6 +99,15 @@ def forecasting_page():
             learning_rate = st.slider("Learning Rate", 0.01, 0.3, (0.01, 0.3))
             iterations = st.slider("Iterations", 100, 1000, (100, 1000))
             depth = st.slider("Depth", 4, 10, (4, 10))
+        elif model_type == "SVR":
+            C = st.slider("C (Regularization parameter)", 0.1, 10.0, (0.1, 10.0))
+            epsilon = st.slider("Epsilon", 0.01, 1.0, (0.01, 1.0))
+            kernel = st.selectbox("Kernel", ["rbf", "linear", "poly"])
+            if kernel == "poly":
+                degree = st.slider("Degree", 2, 5, 3)
+        elif model_type == "Lasso":
+            alpha_range = st.slider("Alpha (Regularization parameter range)", 0.0001, 10.0, (0.0001, 1.0),
+                                    format="%.4f")
         elif model_type == "RNN":
             num_layers = st.slider("Number of RNN Layers", 1, 100, 50)
             activation = st.selectbox("Activation Function", ["relu", "tanh", "sigmoid"],
@@ -153,6 +167,22 @@ def forecasting_page():
                                 "depth": trial.suggest_int("depth", depth[0], depth[1]),
                             }
                             preds, model = train_catboost(X_train, y_train, X_test, y_test, cat_features, params)
+                        elif model_type == "Lasso":
+                            params = {
+                                "alpha": trial.suggest_float("alpha", alpha_range[0], alpha_range[1], log=True)
+                            }
+                            preds, model, mse = train_lasso(X_train, y_train, X_test, y_test, params)
+                            return mse
+                        elif model_type == "SVR":
+                            params = {
+                                "C": trial.suggest_float("C", 0.1, 10.0),
+                                "epsilon": trial.suggest_float("epsilon", 0.01, 1.0),
+                                "kernel": kernel,
+                            }
+                            if kernel == "poly":
+                                params["degree"] = degree
+                            preds, model, mse = train_svr(X_train, y_train, X_test, y_test, params)
+                            return mse
 
                         if np.isnan(preds).any() or np.isinf(preds).any():
                             raise ValueError("Predictions contain NaN or infinity values")
@@ -198,6 +228,14 @@ def forecasting_page():
                         joblib.dump(best_model, f"models/best_model_{model_type.lower()}.joblib")
                     elif model_type == "CatBoost":
                         best_model.save_model(f"models/best_model_{model_type.lower()}.cbm")
+                    elif model_type == "SVR":
+                        best_model = SVR(**best_hyperparams)
+                        best_model.fit(X_train, y_train)
+                        joblib.dump(best_model, f"models/best_model_{model_type.lower()}.joblib")
+                    elif model_type == "Lasso":
+                        best_model = Lasso(alpha=best_hyperparams["alpha"], random_state=42)
+                        best_model.fit(X_train, y_train)
+                        joblib.dump(best_model, f"models/best_model_{model_type.lower()}.joblib")
 
                     st.success(f"Training of {model_type} model completed successfully!")
 

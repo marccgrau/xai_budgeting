@@ -73,6 +73,8 @@ def intro_page():
             The Forecasting section allows you to load your dataset and choose from five different forecasting models:
             <ol>
                 <li><strong>XGBoost</strong></li>
+                <li><strong>SVR</strong></li>
+                <li><strong>Lasso regression</strong></li>
                 <li><strong>RandomForest</strong></li>
                 <li><strong>CatBoost</strong></li>
                 <li><strong>RNN</strong></li>

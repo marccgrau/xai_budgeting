@@ -12,7 +12,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import mean_squared_error, mean_absolute_error
 from src.feature_engineering import engineer_df
 from src.logging_config import setup_logging
-
+from tensorflow.keras.layers import Dense, SimpleRNN, Input
 
 setup_logging()
 logger = logging.getLogger(__name__)
@@ -20,6 +20,7 @@ logger = logging.getLogger(__name__)
 acc_config_path = Path("config/acc_config.yaml")
 with open(acc_config_path, "r") as yaml_file:
     acc_config = yaml.safe_load(yaml_file)
+
 
 def prepare_data(df, acc_config):
     df = engineer_df(df, acc_config)
@@ -46,18 +47,17 @@ def create_rnn_forecast(train_data, test_data):
 
     model = Sequential()
     model.add(Input(shape=(X_train.shape[1], 1)))
-    model.add(LSTM(50, activation='relu'))
+    model.add(SimpleRNN(5, activation='relu'))
     model.add(Dense(1))
     model.compile(optimizer='adam', loss='mse')
 
     early_stopping = EarlyStopping(monitor='val_loss', patience=5)
-    model.fit(X_train, y_train, epochs=1, batch_size=32, validation_split=0.2, callbacks=[early_stopping], verbose=1)
+    model.fit(X_train, y_train, epochs=100, batch_size=32, validation_split=0.2, callbacks=[early_stopping], verbose=1)
     yhat = model.predict(X_test)
     test_data.loc[:, 'yhat'] = yhat
     logger.info("LSTM model training and prediction complete.")
 
     return test_data
-
 
 
 def main(file_path: Path, category: str):
@@ -117,6 +117,7 @@ def main(file_path: Path, category: str):
 
     logger.info("Processing completed for all regions and account combinations.")
 
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Create RNN forecast and calculate combined metrics")
     parser.add_argument(
@@ -135,6 +136,3 @@ if __name__ == "__main__":
     logger.info("Starting main function.")
     main(file_path=Path(args.file_path), category=args.category)
     logger.info("Main function completed.")
-
-
-
